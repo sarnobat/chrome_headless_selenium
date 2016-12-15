@@ -11,7 +11,7 @@ import com.google.common.collect.ImmutableList;
 
 public class Headless {
 
-	private static final String CHROMEDRIVER_PATH = "/sarnobat.garagebandbroken/trash/chromedriver";
+	private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/headless_chrome/chromedriver";
 
 	// private static final String CHROMEDRIVER_PATH =
 	// "/home/sarnobat/github/yurl/chromedriver";
