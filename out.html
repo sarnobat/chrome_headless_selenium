@@ -1,243 +1,1015 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&amp;correlator=426573272792120&amp;output=json_html&amp;callback=googletag.impl.pubads.callbackProxy1&amp;impl=fifs&amp;json_a=1&amp;eid=108809080&amp;sc=0&amp;sfv=1-0-5&amp;iu_parts=87687331%2CLARGEBANNER_MAIN_SPLASH_DESKTOP&amp;enc_prev_ius=%2F0%2F1&amp;prev_iu_szs=801x300&amp;cookie_enabled=1&amp;lmt=1482297434&amp;dt=1482297434991&amp;cc=4&amp;frm=20&amp;biw=1050&amp;bih=938&amp;oid=3&amp;adxs=213&amp;adys=101&amp;adks=1423422953&amp;gut=v2&amp;ifi=1&amp;u_tz=-480&amp;u_his=2&amp;u_h=1024&amp;u_w=1280&amp;u_ah=1024&amp;u_aw=1280&amp;u_cd=24&amp;u_nplug=5&amp;u_nmime=7&amp;u_sd=1&amp;flash=23.0.0&amp;url=http%3A%2F%2Fwww.liverpoolfc.com%2Fwelcome-to-liverpool-fc&amp;ref=http%3A%2F%2Fwww.liverpoolfc.com%2F&amp;dssz=27&amp;icsg=2097160&amp;std=0&amp;vrg=107&amp;vrp=107&amp;ga_vid=1063712329.1482297435&amp;ga_sid=1482297435&amp;ga_hid=1480280988"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2R8WV"></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script>var video_mp_domain = "mp.streamamg.com"; var video_cdn_domain = "open.http.mp.streamamg.com";var lfc_ad_serving_disabled = 0;</script>
+    <script type="text/javascript">
+//&lt;![CDATA[
+function createCookie(name, value, dateExp) {
+    if (dateExp) {
+        var expires = "; expires="+dateExp.toUTCString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i &lt; ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name,"",-1);
+}
+
+function isInArray (needle, haystack) {
+    var index = haystack.indexOf(needle);
+    return index;
+}
+
+var isSplash = 'yes';
+var curExpires = new Date();
+var timeExpires = new Date();
+curExpires.setTime(curExpires.getTime() + 21150000);
+timeExpires.setTime(timeExpires.getTime() + 21150000);
+
+if(isSplash == 'yes') {
+
+        createCookie('splash_time', 1, curExpires);
+}
+
+if(!readCookie('splash_time'))  {
+
+    //hit the HOME page WITHOUT cookie so go to splash
+
+    var splashes      = [];
+    var splashes_priority      = ['/welcome-to-liverpool-fc-not-used'];
+    
+    var sc_value      = (readCookie('splash_cur')) ? readCookie('splash_cur') : '1';
+    var sc_value_arr  = (sc_value.length &gt; 0) ? sc_value.split(',') : new Array();
+    var sp_value      = (readCookie('splash_priority')) ? readCookie('splash_priority') : '1';
+    var sp_value_arr  = (sp_value.length &gt; 0) ? sp_value.split(',') : new Array();
+
+    var agents = new Array();
+    var agentscount = 0;
+    var page_url = new Array();
+    var page_urlcount = 0;
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+
+    agents[agentscount++] = '';
+    page_url[page_urlcount++] = '';
+    var redirected = false;
+
+
+    var chosenSplash = "";
+    
+    if(chosenSplash != '') {
+        redirected = true;
+        createCookie('splash_time', 1, curExpires);
+        window.location = chosenSplash;
+    } else {
+        
+        for( var i = 0; i &lt; agents.length; i++) {
+            if ( agents[i] != '' &amp;&amp; page_url[i] != '') {
+                regexp = new RegExp(agents[i], 'i');
+                if(navigator.userAgent.match(regexp)) {
+                    createCookie('splash_time', 1, curExpires);
+                    redirected = true;
+                    window.location = page_url[i];
+                    break;
+                }
+            }
+
+        }
+
+        if (!redirected) {
+            var forwardPriority = 0;
+            for( var i in splashes_priority) {
+                if(isInArray(splashes_priority[i], sp_value_arr) == -1) {
+                    createCookie('splash_priority', sp_value+','+splashes_priority[i], curExpires);
+                    createCookie('splash_time', 1, timeExpires);
+                    forwardPriority = 1;
+                    redirected = true;
+                    window.location = ''+splashes_priority[i];
+                    break;
+
+                }
+            }
+        }
+
+        if (!redirected) {
+            if(forwardPriority == 0) {
+                for( var i in splashes) {
+                    if(isInArray(splashes[i], sc_value_arr) == -1) {  
+                        createCookie('splash_cur', sc_value+','+splashes[i], curExpires);
+                        createCookie('splash_time', 1, timeExpires);
+                        window.location = ''+splashes[i];
+                        break;
+                    }
+                }        
+            } 
+        }
+
+    }
+
+}
+
+//]]&gt;
+</script>    <meta http-equiv="Max-Age" content="45" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <meta name="keywords" content="Liverpool, LFC, Liverpool FC, Gerrard, Steven Gerrard, Stevie G, Kenny, Kenny Dalglish, Dalglish, Suarez, Luis Suarez, Brendan Rodgers, Rodgers, LFC Membership, Liverpool Membership, Liverpool Tickets, LFC Tickets, Liverpool FC Tickets, LFC Fixtures, Liverpool News, LFC News, Anfield, Liverpool Kit, YNWA, LFC History, Liverpool Soccer Schools, LFC Video, Liverpool Manager, LFC Betting, LFCTV, Liverpool Mobile, Shankly, Paisley, Bill Shankly, Bob Paisley" />
+<meta name="description" content="The official Liverpool FC website.  The only place to visit for all your LFC news, videos, history and match information. Full stats on LFC players, club products, official partners and lots more." />
+<meta name="robots" content="INDEX, FOLLOW" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@lfc" />
+<meta name="twitter:title" content="Welcome to Liverpool FC" />
+<meta name="twitter:description" content=" " />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image:src" content="http://assets.lfcimages.com/images/international/thumb-no-image-3.jpg" />
+<meta name="twitter:domain" content="liverpoolfc.com" />
+<meta property="og:title" content="Welcome to Liverpool FC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.liverpoolfc.com/welcome-to-liverpool-fc" />
+<meta property="og:site_name" content="Liverpool FC" />
+<meta property="og:image" content="http://assets.lfcimages.com/images/international/thumb-no-image-2.jpg" />
+<meta name="title" content="Welcome to Liverpool FC - Liverpool FC" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Welcome to Liverpool FC - Liverpool FC</title>
 
-  <title>Home | Team Talk</title>
-  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox_alt.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/defaultTheme/tripoli.simple.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/defaultTheme/tripoli.simple.ie.css?z" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/defaultTheme/style.css?z" />
-  <script type="text/javascript" id="www-widgetapi-script" src="http://s.ytimg.com/yts/jsbin/www-widgetapi-vflcGItZc/www-widgetapi.js" async=""></script><script src="//www.youtube.com/iframe_api"></script><script type="text/javascript" src="/misc/jquery.js?z"></script>
-<script type="text/javascript" src="/misc/drupal.js?z"></script>
-<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?z"></script>
-<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?z"></script>
+    
+<link href="http://fonts.googleapis.com/css?family=Anton" rel="stylesheet" type="text/css" />
+<link href="http://assets.lfcimages.com/css/main-4.88.min.css" media="screen" type="text/css" rel="stylesheet" />
+<link href="http://assets1.lfcimages.com/css/print-1.1.min.css" media="print" type="text/css" rel="stylesheet" />  
+
+<!--[if IE 9]> 
+  <style type="text/css"> 
+    #tabsNewsWidget-1 .Caption h1 a, #tabsNewsWidget-2 .Caption h1 a, #tabs-1 .Caption h1 a {
+      font-family:Arial,Helvetica,sans-serif;
+      font-size:11px;
+    } 
+  </style> 
+<![endif]--> 
+
+          
 <script type="text/javascript">
-&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "fff", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 1, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.inline,img.image-img_assist_custom,img.thumbnail, img.image-thumbnail", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": "lightbox_ungrouped", "custom_trigger_classes": "img.keypadimages", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
-//--&gt;&lt;!]]&gt;
+    $(document).ready(function () {
+        if (typeof geo_group_location != 'undefined') {
+            if(geo_group_location.null){
+                var imageBackground = 'http://assets1.lfcimages.com/uploads/splash_bg.jpg';
+                var imageCentral = 'http://assets.lfcimages.com/uploads/8290__7082__spacer.png';
+                var backgroundColour = '';
+                var backgroundRepeat = '';
+                var cssOutput = '&lt;style type="text/css"&gt;body {background: '+backgroundColour+' url('+imageBackground+') top center '+backgroundRepeat+' !important } #SponsorBg{background:url('+imageCentral+') top center no-repeat!important;}&lt;/style&gt;';
+                $('body').prepend(cssOutput);
+            }
+        }
+    });
 </script>
-<script src="http://static.getclicky.com/inc/javascript/video/youtube.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-<script type="text/javascript" async="" src="http://in.getclicky.com/in.php?site_id=38760&amp;res=1280x1024&amp;lang=en&amp;type=pageview&amp;href=%2F&amp;title=Home%20%7C%20Team%20Talk&amp;jsuid=245428963&amp;mime=js&amp;x=0.20900950433676924"></script></head>
 
-<body class="lightbox-processed">
+   <style type="text/css">
+    body {
+      background: url(http://assets1.lfcimages.com/uploads/splash_bg.jpg) top center !important;
+    }
 
-<div id="headerwrapper">
-	<div id="header">
+    #SponsorBg{
+      background:url(http://assets.lfcimages.com/uploads/8290__7082__spacer.png) top center no-repeat!important;
+     }
+   </style>
+
+  <!-- Db Template Id:4 At:2016-10-28 12:26:32 Version:103 -->
+<style type="text/css">
+#topBarBtnSkype {
+  display: none;
+}
+.GiftButton {
+  background-image: url("http://assets.lfcimages.com/it/gift-button.gif");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 39px;
+  margin: 0 auto;
+  width: 161px;
+  float: right;
+}
+#NavDD ul {
+  display: block;
+  float: left;
+  list-style: none outside none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: auto!important;
+}
+#NavDD #FansMenu, ul li iframe#FansIframe {
+  width:680px;
+  height:315px;
+  z-index:100;
+  float:left;
+  margin-left: -308px;
+}
+#NavDD #ShopMenu, ul li iframe#ShopIframe {
+    height:430px;
+ }
+.og-details h3 {
+    font-weight: bold;
+    font-size: 22px;
+    padding: 0;
+    margin-bottom: 10px;
+    color: #333;
+    width: auto!important;
+}
+
+.ArticleContent .opta-widget-container h2 { 
+color:#fff;
+font-size:12px;
+padding:0;
+line-height:25px;
+}
+
+.HillsboroughHeader {
+    background: url("http://assets.lfcimages.com/uploads/5910__7712__header-bg-hillsborough-2014b.jpg") no-repeat scroll 0 20px rgba(0, 0, 0, 0) !important;
+}
+
+/* START TEMP CSS FOR FOOTER SPONSORS */
+#FooterLogos li {
+	background:url(http://assets.lfcimages.com/images/template/STF-2.0.png) no-repeat;
+	float:left;
+	height:43px;
+	padding:0 0 12px 0;
+	width:93px;
+}
+#FooterLogos .One {
+  background-position:0 -494px;
+  margin-right: 20px !important;  
+  width:103px !important;
+}
+#FooterLogos .Two {
+  background-position:-600px -623px;
+  height: 37px;
+  margin: 2px 17px 0 0 !important;
+  width: 156px !important;
+}
+
+#FooterLogos .Three {
+  background:url(http://assets.lfcimages.com/images/template/thomas_cook_sport_footer_2013.png) top left no-repeat;
+  background-position: 0 0;
+  width:137px!important;
+  margin: 3px 15px 0 0 !important;  
+}
+#FooterLogos .Four {
+  background-position:-485px -494px;
+  width:127px!important;
+  margin:0 81px 12px 0!important;
+  padding:0!important;
+}
+#FooterLogos .Five {
+  background-position:-34px -551px;
+  margin: -9px 10px 0 0;
+  width:62px !important;
+  height:48px;
+}
+
+#FooterLogos .Six {
+	background-position:-156px -550px;
+	width:134px!important;
+  margin: 0 10px 0 0 !important;
+}
+#FooterLogos .Seven {
+	background-position:-293px -550px;
+	width:96px!important;
+  margin: 0px 12px 0 0 !important;
+}
+#FooterLogos .Eight {
+  background-position:-467px -64px;
+  width:82px!important;
+  margin:0 52px 0 0!important;
+}
+#FooterLogos .Nine {
+    background-position: -700px -499px;
+    margin: 0 !important;
+    width: 100px !important;
+}
+#FooterLogos .Ten {
+	background:none!important;
+  width:70px!important;
+	margin: 0 22px 5px 0 !important;	
+}
+
+#FooterLogos.FooterLogosWide .Ten {
+	background:none!important;
+  width:109px!important;
+	margin: 7px 0px 0 0 !important;	
+}
+
+#FooterLogos .Eleven {
+	background-position:-328px -494px;
+	width:120px!important;
+  margin: 0 20px 0 16px !important;
+}
+#FooterLogos .Twelve {
+	background-position:-630px -555px;
+	width:73px!important;
+  margin: 0px 15px 0 0px !important;
+}
+#FooterLogos .Thirteen {
+  background-position:-489px -493px;
+  width:95px!important;
+  margin:0 22px 12px 0!important;
+  padding:0!important;
+}
+#FooterLogos .Fourteen {
+    background: url(http://assets.lfcimages.com/images/template/garuda-footer-logo.png) no-repeat scroll 0 0 transparent;
+    margin: 5px 12px 3px 15px !important;
+    width: 146px !important;
+}
+#FooterLogos .Fifteen {
+    background: url(http://assets.lfcimages.com/images/template/bellawood.png) no-repeat scroll 0 0 transparent;
+    margin: -2px 20px 3px 30px !important;
+    width: 129px !important;
+}
+#FooterLogos .Sixteen {
+    background: url(http://assets.lfcimages.com/images/template/gatorade_footer_logo.png) no-repeat scroll 0 0 transparent;
+    margin: -2px 0px 3px 10px !important;
+    width: 51px !important;
+clear: none !important;
+}
+#FooterLogos .Seventeen {
+    background: url(http://assets.lfcimages.com/images/template/xolo_footer_logo.gif) no-repeat scroll 0 0 transparent;
+    margin: -4px 0px 3px 10px !important;
+    width: 74px!important;
+}
+#FooterLogos .Eighteen {
+    background: url(http://assets.lfcimages.com/images/template/dunkin_footer_logo.png) no-repeat scroll 0 0 transparent;
+    margin: -5px 15px 0px 0px !important;
+    width: 115px!important;
+}
+#FooterLogos .Nineteen {
+    background: url(http://assets.lfcimages.com/images/template/vauxhall_footer_logo_black.png) no-repeat scroll 0 0 transparent;
+    margin: -4px 10px 0px 0px !important;
+    width: 67px!important;
+}
+#InnerFooter {
+  width:996px;
+  padding-top:20px;
+  clear: both;
+}
+
+#FooterLogos.FooterLogosWide li.Eleven {
+  margin-left: 7px !important; 
+}
+#FooterLogos.FooterLogosWide li.Sixteen {
+  margin-left: none !important;
+}
+/* END TEMP CSS FOR FOOTER SPONSORS */
+
+/* START TEMP SPLASH TV ICON FOR MOB */
+.splashChannel1 .splashIcon {
+        width: 35px!important;
+        background-size: 32px 60px!important;
+        -webkit-background-size: 32px 60px!important;
+        -moz-background-size: 32px 60px!important;
+    }
+/* END TEMP SPLASH TV ICON FOR MOB */
+
+/* START TEMP KIT LAUNCH IMAGE NUDGE */
+.galleryFull #GalleryImage {
+margin: 23px 0 20px 0!important;
+}
+/* END TEMP KIT LAUNCH IMAGE NUDGE */
+
+#NavDD #MembershipMenu, ul li iframe#MembershipIframe {
+  width:160px;
+  height:150px!important;
+  z-index:100;
+  float:left;
+}
+ #tabsMatch-1 .Marg2 .Match span.Red.right { display:none;}
+
+#div-gpt-ad-MPU_MAIN_HOME div, #div-gpt-ad-MPU_MAIN div { z-index:1!important;}
+
+
+
+</style>
+
+<!-- START DON'T DELETE -->
+<!--[if IE 9]> 
+  <style type="text/css"> 
+    #tabsNewsWidget-1 .Caption h1 a, #tabsNewsWidget-2 .Caption h1 a, #tabs-1 .Caption h1 a {
+      font-family:Arial,Helvetica,sans-serif;
+      font-size:11px;
+    } 
+  </style> 
+<![endif]--> 
+<!-- END DON'T DELETE -->
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+
+<script src="http://assets.lfcimages.com/js/lfcLogin-1.16.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://assets.lfcimages.com/js/LiveUpdate-1.7.min.js"></script>
+
+
+
+<script src="http://assets1.lfcimages.com/js/Global-4.44.min.js" type="text/javascript"></script>
+<script src="http://assets3.lfcimages.com/js/jquery/plugins/jquery.lazyload.min.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">var allow_comments = true;</script>
+
+<script src="http://assets1.lfcimages.com/js/UserGeoGroups-1.02.min.js" type="text/javascript"></script>
+
+	 
+ 
+         <script language="JavaScript">
+        
+       usergeogroups = new UserGeoGroups();
+							var geo_location;
+							var geo_group_location;
+        
+            geo_cookie = $.cookie('lfc_geo_loc_cc');
+            
+            if(!geo_cookie)
+            {
+		var geo_location = null;
 		
+								$.ajax({
+          type: 'GET',
+          // url: 'http://assets.lfcimages.com/scripts/geo_location_lookup.php',
+		  url: 'http://assets.lfcimages.com/scripts/geo_location_lookup.php',
+          async: true,
+          jsonpCallback : 'jQueryCallback',
+          contentType: "application/json",
+          dataType: 'jsonp',
+          crossDomain: true,
+          cache: true
+        });	
+            }	 
+            else
+            {
+                geo_location =  $.cookie('lfc_geo_loc_cc');
+                 doJavascript(geo_location);
+            }
+       function jQueryCallback(data)
+							{
+							$.cookie('lfc_geo_loc_cc', data.code, { path: '/' , expires: 30});		
+								doJavascript(data.code);
+							}
+		     function doJavascript(country_code)
+        {	
+          		geo_location = country_code;
+												
+													var allCountryGroups = {"EEA":["AT","BE","BG","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE","GB"],"membership_economy":["AL","AD","AM","AT","AZ","BY","BE","BA","BG","HR","CY","CZ","DK","EE","FI","FR","GE","DE","GR","HU","IS","IE","IT","KZ","LV","LI","LT","LU","MK","MT","MD","MC","ME","NL","NO","PL","PT","RO","RU","SM","RS","SK","SI","ES","SE","CH","TR","UA","VA","GI","FO","SJ","GB","GG","IM","JE"],"geo_bet_misli":["TR"],"geo_bet_usa":["US"],"geo_bet_188_row":["BR","KH","CN","ID","JP","KP","KR","LA","MY","MM","PH","SG","TH","VN","TW","HK","MO"],"CurrencyCountries":["AF","AL","DZ","AO","AR","AM","AU","AZ","BS","BH","BD","BB","BY","BZ","BT","BO","BA","BW","BR","BN","BG","BI","KH","CA","CV","CF","CL","CN","CO","KM","CD","CR","HR","CU","CY","CZ","DK","DJ","DO","EG","ER","EE","ET","FJ","GM","GE","GH","GT","GN","GY","HT","HN","HU","IS","IN","ID","IR","IQ","IL","JM","JP","JO","KZ","KE","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LT","MK","MG","MW","MY","MV","MT","MR","MU","MX","MD","MN","MA","MZ","MM","NA","NP","NZ","NI","NE","NG","NO","OM","PK","PA","PG","PY","PE","PH","PL","QA","RO","RU","RW","LC","WS","ST","SA","RS","SC","SL","SG","SK","SB","SO","ZA","ES","LK","SD","SR","SZ","SE","CH","SY","TJ","TZ","TH","TO","TT","TN","TR","TM","UG","UA","AE","GB","US","UY","UZ","VU","VE","VN","YE","ZM","ZW","TW","PF","GG","IM","JE","BM","KY","FK","GI","SH","HK","MO","AW","CW"],"FACup_AsiaAustralasia":["AU","BD","BT","BN","KH","CN","FJ","IN","ID","JP","KI","KP","KR","LA","MY","MV","MH","FM","MN","MM","NR","NP","NZ","PK","PW","PG","PH","WS","SG","SB","LK","TH","TO","TV","VU","VN","TW","NC","PF","WF","CK","NU","TK","HK","GF"],"geo_bet_comeon":["FI","NO","SE"],"partner_group_xolo":["BD","IN","NP","LK"],"geo_bet_comeon_norway":["NO"],"geo_bet_comeon_finland":["FI"],"geo_bet_comeon_sweden":["SE"],"partner_group_lumberjack_liquidators":["CA","US"],"partner_group_instaforex":["AF","AM","AZ","BH","BD","BY","BT","BN","KH","CN","IN","ID","IR","JP","JO","KZ","KP","KR","KW","KG","LA","LB","MY","MV","MD","MN","MM","NP","OM","PK","PH","QA","RU","SA","SG","LK","SY","TJ","TH","TM","UA","AE","UZ","VN","YE","TW","HK","MO"],"geo_background":["IE","GB"],"geo_bet_betfair":["BG","DK","IE","IT","ES","GB","BG","DK","IE","IT","ES","GB"],"UKROI":["IE","GB","GG","IM","JE"],"partner_group_nivea":["DK","FI","GR","IS","IE","MT","NO","SE","GB","GL"],"geo_bet_marathon":["AL","DZ","AD","AO","AG","AR","AM","AT","AZ","BS","BB","BY","BE","BZ","BJ","BO","BA","BW","BG","BF","BI","CM","CA","CV","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CU","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FJ","FR","GA","GM","GE","DE","GH","GR","GD","GT","GN","GW","GY","HT","HN","HU","IS","IQ","IE","IT","JM","KE","KI","KP","KR","KW","KG","LV","LS","LR","LY","LI","LT","LU","MK","MG","MW","ML","MT","MH","MR","MU","MX","FM","MD","MC","ME","MA","MZ","MM","NA","NR","NL","NZ","NI","NE","NG","PW","PA","PG","PY","PE","PL","PT","RO","RW","KN","LC","VC","WS","SM","ST","SN","RS","SC","SL","SK","SI","SB","SO","ZA","ES","SD","SR","SZ","CH","TJ","TZ","TL","TG","TO","TT","TN","TV","UG","UA","GB","US","UY","VU","VA","VE","ZM","ZW","TW","CX","CC","HM","NF","NC","PF","YT","GP","PM","WF","TF","BV","CK","NU","TK","GG","IM","JE","AI","BM","IO","VG","KY","FK","GI","MS","PN","SH","GS","TC","MP","PR","AS","UM","GU","VI","HK","MO","FO","GL","GF","MQ","RE","AX","AW","CW","SJ","AC","AQ","CS","PS","EH"],"UK_only":["GB"],"allowed_currencies_default":["ES","GB","US"],"lfctv_economy":["AF","AL","DZ","AD","AO","AG","AR","AM","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","CF","TD","CL","CN","CO","KM","CD","CG","CR","CI","HR","CU","CY","CZ","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FJ","FI","FR","GA","GM","GE","DE","GH","GR","GD","GT","GN","GW","GY","HT","HN","HU","IS","IN","ID","IR","IQ","IE","IL","IT","JM","JP","JO","KZ","KE","KI","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MK","MG","MW","MY","MV","ML","MT","MH","MR","MU","MX","FM","MD","MC","MN","ME","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","OM","PK","PW","PA","PG","PY","PE","PH","PL","PT","QA","RO","RU","RW","KN","LC","VC","WS","SM","ST","SA","SN","RS","SC","SL","SK","SI","SB","SO","ZA","ES","LK","SD","SR","SZ","SE","CH","SY","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TV","UG","UA","AE","GB","US","UY","UZ","VU","VA","VE","VN","YE","ZM","ZW","TW","CX","CC","HM","NF","NC","PF","YT","GP","PM","WF","TF","BV","CK","NU","TK","GG","IM","JE","AI","BM","IO","VG","KY","FK","GI","MS","PN","SH","GS","TC","MP","PR","AS","UM","GU","VI","HK","MO","FO","GL","GF","MQ","RE","AX","AW","CW","SJ","AC","AQ","CS","PS","EH","AU","CA","DK","NO","SG"],"partner_group_bancdebinary":["AU","AT","BE","BG","CA","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ZA","ES","SE","CH","GB"],"allowed_currencies":["AU","CA","DK","NO","SG","ES","GB","US"],"allowed_membership_currencies_default":["ES","GB","US"],"partner_group_claymore":["AU"],"partner_group_draftkings":["CA","GB","US"],"geo_bet_betvictor_germanic":["AT","LI","CH"],"geo_bet_betvictor_english":["AD","AO","AZ","BH","BZ","BJ","BT","BO","BW","BN","BF","BI","KH","CA","CV","CF","TD","KM","CG","CR","CY","DJ","DM","DO","EG","SV","GQ","ER","ET","FI","GA","GM","GE","GH","GR","GT","GN","GW","GY","HT","HN","IN","IE","JM","JP","JO","KZ","KE","KI","KR","KW","KG","LA","LB","LS","LR","LY","LU","MK","MW","MV","ML","MT","MH","MR","MU","FM","ME","MA","MZ","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PG","PY","QA","RU","RW","VC","WS","SM","ST","SA","SN","SC","SL","SK","SI","SB","SO","LK","SR","SZ","SE","TJ","TZ","TL","TG","TT","TN","TV","AE","GB","VU","VE","VN","YE","ZW","CX","CC","HM","NF","BV","NU","TK","GG","IM","JE","AI","BM","IO","VG","KY","FK","GI","PN","SH","GS","TC","FO","GL","AW","SJ","AQ","EH"],"lfctv_show_paypal":["AF","AL","DZ","AD","AO","AG","AR","AM","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CA","CV","CF","TD","CL","CN","CO","KM","CD","CG","CR","CI","HR","CU","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FJ","FI","FR","GA","GM","GE","DE","GH","GR","GD","GT","GN","GW","GY","HT","HN","HU","IS","IN","ID","IR","IQ","IE","IL","IT","JM","JP","JO","KZ","KE","KI","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MK","MG","MW","MY","MV","ML","MT","MH","MR","MU","MX","FM","MD","MC","MN","ME","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PA","PG","PY","PE","PH","PL","PT","QA","RO","RU","RW","KN","LC","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SD","SR","SZ","SE","CH","SY","TJ","TZ","TH","TL","TG","TO","TT","TN","TM","TV","UG","UA","AE","GB","US","UY","UZ","VU","VA","VE","VN","YE","ZM","ZW","TW","CX","CC","HM","NF","NC","PF","YT","GP","PM","WF","TF","BV","CK","NU","TK","GG","IM","JE","AI","BM","IO","VG","KY","FK","GI","MS","PN","SH","GS","TC","MP","PR","AS","UM","GU","VI","HK","MO","FO","GL","GF","MQ","RE","AX","AW","CW","SJ","AC","AQ","CS","PS","EH"],"allowed_currencies_sg":["SG","US"],"allowed_currencies_au":["AU","GB","US"],"allowed_currencies_ca":["CA","GB","US"],"allowed_currencies_dk":["DK","ES","GB"],"allowed_currencies_no":["NO","ES","GB"]};
+             geo_group_location = usergeogroups.setGeoGroups(geo_location, allCountryGroups);
+        }
+		
+        </script>    
+ 
+     
+<script language="JavaScript">
+  
+	function enableGeoPlaceholder(elName, content) {
+    $('#'+elName+''). replaceWith(content);
+  }
+</script>
+<script type="text/javascript">
+function lfcAdServingDisabled() {
 
-<div class="block block-block" id="block-block-7">
+    return !(typeof lfc_ad_serving_disabled == 'undefined' || lfc_ad_serving_disabled == 0);
+}
+function testBrowserInRange(range) {
+    return ($(window).width() &gt; range[0] &amp;&amp; $(window).width() &lt; range[1]);
+}
+if (!lfcAdServingDisabled()) {
 
-<p><img alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/replylogo.png" /></p>
-</div>
-
-
-
-
-<div class="block block-block" id="block-block-2">
-
-<p><img alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/ttclogo.jpg" /></p>
-</div>
-
-
-
-
-<div class="block block-block" id="block-block-5">
-
-<p><img alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/teamtalkname.png" /></p>
-</div>
-
-
-
-
-<div class="block block-block" id="block-block-6">
-
-<p>+44 (0) 1908 526264</p><p><a href="mailto:sales@teamtalk.co.uk" rel="nofollow">sales@teamtalk.co.uk</a></p><div><a class="left" href="http://twitter.com/teamtalkconsult" target="_blank" rel="nofollow"><img alt="" id="left" src="http://www.teamtalk.co.uk/sites/default/files/images/twitter_logo.png" /></a></div><p><span class="twitterlink"><a href="http://twitter.com/teamtalkconsult" target="_blank" rel="nofollow">@TeamTalkConsult</a></span></p>
-</div>
-
-
-
-
-<div class="block block-menu" id="block-menu-primary-links">
-
-<ul class="menu"><li class="leaf first"><a href="http://www.teamtalk.co.uk/" title="Home">Home</a></li>
-<li class="leaf"><a href="http://www.teamtalk.co.uk/node/55" title="About Us">About Us</a></li>
-<li class="leaf"><a href="http://www.teamtalk.co.uk/node/5" title="Keypads">Keypads</a></li>
-<li class="leaf"><a href="http://www.teamtalk.co.uk/node/15" title="Software">Software</a></li>
-<li class="leaf"><a href="http://www.teamtalk.co.uk/node/58" title="Training">Training</a></li>
-<li class="leaf"><a href="http://www.teamtalk.co.uk/node/44" title="FAQs">FAQs</a></li>
-<li class="leaf last"><a href="http://www.teamtalk.co.uk/node/29" title="Contact Us">Contact Us</a></li>
-</ul>
-</div>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+								
+    })();
+    
+    googletag.cmd.push(function() {
+        
+        diffVersions = {"mobile":{"adUnitPath":"MPU_MAIN_SPLASH_MOBILE","size":[300,250],"opt_div":"div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP"}};
+        if (testBrowserInRange([1,647])) userScreen = 'mobile';			
+																
+        tryResp    = typeof diffVersions !== "undefined" &amp;&amp; typeof userScreen !== "undefined";
+        adUnitPath = ( tryResp &amp;&amp; diffVersions[userScreen].adUnitPath)  ?  /87687331/+ diffVersions[userScreen].adUnitPath  :  "/87687331/LARGEBANNER_MAIN_SPLASH_DESKTOP";
+        size       = ( tryResp &amp;&amp; diffVersions[userScreen].size)        ?  diffVersions[userScreen].size        :  [801,300];
+        opt_div    = ( tryResp &amp;&amp; diffVersions[userScreen].opt_div)     ?  diffVersions[userScreen].opt_div     :  "div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP";							
+        googletag.defineSlot(adUnitPath, size, opt_div).addService(googletag.pubads());
+        if(typeof diffVersions !== "undefined") { delete diffVersions}
+									
+        		
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+} else {
+	// get internal adverts json
+    var json_internal_ads = {"MPU_MAIN_HOME":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/5580__7566__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"MPU_MAIN":{"img":"http:\/\/assets2.lfcimages.com\/uploads\/2970__2321__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"MPU_TOUR":{"img":"http:\/\/assets2.lfcimages.com\/uploads\/3646__7659__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"MPU_THAILAND":{"img":"http:\/\/assets.lfcimages.com\/uploads\/5860__4884__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"MPU_INDONESIA":{"img":"http:\/\/assets.lfcimages.com\/uploads\/5842__8823__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"SKY_MAIN":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/6345__8577__hills2015-sky.jpg","alt":"","url":"\/hillsborough"},"LARGEBANNER_MAIN_SPLASH_DESKTOP":{"img":"http:\/\/assets2.lfcimages.com\/uploads\/0733__4647__hills-2015-peoplev2.jpg","alt":"","url":"\/hillsborough"},"MPU_MAIN_SPLASH_MOBILE":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/5350__5415__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"},"SPONSORSHIP_MAIN_NEWS_TOP":{"img":"http:\/\/assets.lfcimages.com\/uploads\/6878__8186__hills-2015-sponsership.jpg","alt":"","url":"\/hillsborough"},"SPONSORSHIP_MAIN_NEWS_BOTTOM":{"img":"http:\/\/assets2.lfcimages.com\/uploads\/3387__6311__hills-2015-newssponsorship.jpg","alt":"","url":"\/hillsborough"},"SPONSORSHIP_MAIN_TICKET_TOP":{"img":"http:\/\/assets3.lfcimages.com\/uploads\/4195__4345__hills-2015-sponsership.jpg","alt":"","url":"\/hillsborough"},"WIDE_SKY_TOUR":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/3790__9017__hills-2015-widesky.jpg","alt":"","url":"\/hillsborough"},"WIDE_SKY_INDONESIA":{"img":"http:\/\/assets3.lfcimages.com\/uploads\/1019__8513__hills-2015-widesky.jpg","alt":"","url":"\/hillsborough"},"WIDE_SKY_THAILAND":{"img":"http:\/\/assets.lfcimages.com\/uploads\/6860__6713__hills-2015-widesky.jpg","alt":"","url":"\/hillsborough"},"HALF_PAGE_TOUR":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/9227__5385__hills-2015-halfpage.jpg","alt":"","url":"\/hillsborough"},"HALF_PAGE_THAILAND":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/7493__0448__hills-2015-halfpage.jpg","alt":"","url":"\/hillsborough"},"HALF_PAGE_INDONESIA":{"img":"http:\/\/assets2.lfcimages.com\/uploads\/9013__1694__hills-2015-halfpage.jpg","alt":"","url":"\/hillsborough"},"CAROUSEL_MAIN_HOME":{"img":"http:\/\/assets.lfcimages.com\/uploads\/8196__5013__hills-2015-betting.jpg","alt":"","url":"\/hillsborough"},"MOBILEZONE_MAIN":{"img":"http:\/\/assets1.lfcimages.com\/uploads\/8603__3788__mobilezone_main.jpg","alt":"","url":"mobile\/downloads?id=alerts_uk"},"BANNER_MAIN_HOME_BOTTOM":{"img":"http:\/\/assets3.lfcimages.com\/uploads\/3365__4933__hills-2015-membership.jpg","alt":"","url":"\/hillsborough"},"MPUTILE_MAIN_HOME":{"img":"http:\/\/assets3.lfcimages.com\/uploads\/8557__6524__hills-2015-mputilev2.jpg","alt":"","url":"\/hillsborough"},"MPU_XTRA_TOP":{"img":"http:\/\/assets.lfcimages.com\/uploads\/7698__1622__hills2015-mpu.jpg","alt":"","url":"\/hillsborough"}};
+}
+</script>
 
 
+<script type="text/javascript">
+$(document).ready(function () {
+    if (typeof geo_group_location != 'undefined') {
+        if(geo_group_location.null){
+                var clickBgUrl = ' ';
+            
+            if(clickBgUrl){
+        	      $('#SponsorBg').click(function(event){
+				          if (event.target.id == 'SponsorBg'){ 
+					            window.open(clickBgUrl)
+				          }
+                })
+            $('body').prepend('&lt;style type="text/css"&gt;#SponsorBg{cursor:pointer;}&lt;/style&gt;');
+            }
+        }
+    }
+});
+</script>
+
+ 
+
+    
+       
+
+
+
+
+
+    
+    <link href="http://assets.lfcimages.com/css/splash-responsive-1.11.min.css" media="screen" type="text/css" rel="stylesheet" />
+
+        
+    <link rel="shortcut icon" href="http://assets3.lfcimages.com/favicon.ico    " />
+        <!--[if IE 6]>
+      <style type="text/css">
+        @import url(http://assets2.lfcimages.com/css/ie6-1.3.css);
+      </style>
+    <![endif]-->
+    <!--[if IE 7]>
+      <style type="text/css">
+        @import url(http://assets.lfcimages.com/css/ie7-1.5.css);
+      </style>
+    <![endif]-->
+    
+    	<script type="text/javascript">
+		$(document).ready(function () {												
+			var cookienotification;													
+			cookienotification = new CookieNotification();	
+				if(cookienotification.hasCookie('lfc_cookie_notification'))													
+				{
+					// refresh cookie
+					cookienotification.setCookie("lfc_cookie_notification");	
+				}
+				else
+				{
+					cookienotification.displayNotification(cookienotification);
+				}
+		});	
+	</script>	
+  	     
+
+<script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_107.js" async=""></script><link rel="prefetch" href="http://tpc.googlesyndication.com/safeframe/1-0-5/html/container.html" /></head>
+<body id="splashV2"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div id="false"><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div id="false" style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div id="false" style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div id="false" style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+    
+    
+<!-- Google Tag Manager -->
+<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2R8WV"
+                  height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+								'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K2R8WV');</script>
+<!-- End Google Tag Manager -->
+    
+    <div id="topBarWrapper" class="topBarSplash">
+	<div id="topBarInnerWrapper"> 
+		<!-- SOCIAL MENU -->
+		<div id="topBarLeft">
+			<span class="topBarMenuTxt">Follow LFC <img width="4" height="8" title="" alt="" src="http://assets1.lfcimages.com/it/global-arrow.png" /></span>
+			<ul id="topBarMenuLeft">
+				<li><a title="Go to The Official Liverpool Football Club Xtra page" class="topBarBtn" id="topBarBtnXtra" onclick="var w=window.open(this.href);w.focus();return false;" href="http://lfc.onelink.me/684654549?pid=LFC&amp;c=SOCIALICON">The Official Liverpool Football Club Xtra page</a></li>
+				<li><a title="Go to The Official Liverpool Football Club Facebook page" class="topBarBtn" id="topBarBtnFb" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/LiverpoolFC">The Official Liverpool Football Club Facebook page</a></li>
+				<li><a title="Go to The Official Liverpool Football Club Twitter page" class="topBarBtn" id="topBarBtnTw" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/lfc">The Official Liverpool Football Club Twitter page</a></li>
+				<li><a title="Go to The Official Liverpool Football Club Google+ page" class="topBarBtn" id="topBarBtnGoogle" onclick="var w=window.open(this.href);w.focus();return false;" href="https://plus.google.com/+LiverpoolFC/about">The Official Liverpool Football Club Google+ page</a></li>
+				<li><a title="Go to The Official Liverpool Football Club Instagram page" class="topBarBtn" id="topBarBtnIn" onclick="var w=window.open(this.href);w.focus();return false;" href="http://instagram.com/liverpoolfc">The Official Liverpool Football Club Instagram page</a></li>
+				<li><a title="Go to The Official Liverpool Football Club Youtube page" class="topBarBtn" id="topBarBtnYo" onclick="var w=window.open(this.href);w.focus();return false;" href="http://www.youtube.com/liverpoolfc">The Official Liverpool Football Club Youtube page</a></li>
+			</ul>
+		</div>
+
+		<!-- GLOBAL MENU -->
+		<div id="topBarRight">
+			<ul id="topBarMenuRight">
+				
+									<li class="topCrest"><a href="http://www.liverpoolfc.com/"><img src="http://assets1.lfcimages.com/images/splash/splash_crest_small.png" alt="LFC" /></a></li>
+					<li class="topBarEnter"><a href="http://www.liverpoolfc.com/">Enter Site <img width="4" height="8" src="http://assets1.lfcimages.com/it/global-arrow.png" alt="" title="" /></a></li>
+					<li class="topMiniItem"><a href="#" class="miniSocialBtn" id="miniSocialBtn"></a></li>
+								
+				<li class="globalLink topBarItem">
+					<a href="#" class="globalBtn" onclick="toggle('globalMegaMenu');"><span>Global LFC <img width="4" height="8" title="" alt="" src="http://assets1.lfcimages.com/it/global-arrow.png" /></span></a> 
+					<!-- GLOBAL DROP DOWN -->
+					<div id="globalMegaMenu"> 
+						<!-- LEFT TITLE -->
+						<div id="megaLeft">
+							<h1 class="megaTitle"><span>Global</span> LFC</h1>
+						</div>
+						<div id="megaRight"> 
+							<!-- LEFT LIST(S) -->
+							<div id="megaRightCol1"><span class="megaListTitle">Countries &amp; Languages</span>
+								<div class="clear"></div>
+								<ul>
+									<li><span>Arabic</span><a title="Go to The Official Liverpool Football Club Arabic Twitter account" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFC_Arabic">The Official Liverpool Football Club Arabic Twitter account</a>                                    	<a title="Go to The Official Liverpool Football Club Arabic Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/ArabicLFC">The Official Liverpool Football Club Arabic Facebook account</a>                                    </li>
+
+									<li><span>Australia</span><a title="Go to The Official Liverpool Football Club Twitter account for Australia and New Zealand" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCANZ">The Official Liverpool Football Club Twitter account for Australia and New Zealand</a>										<a title="Go to The Official Liverpool Football Club Australian Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/AustraliaLFC">The Official Liverpool Football Club Australian Facebook account</a>									</li>
+									
+									<li><span>Bangladesh</span><a title="Go to The Official Liverpool Football Club Twitter account for Bangladesh" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCBangladesh">The Official Liverpool Football Club Twitter account for Bangladesh</a>										<a title="Go to The Official Liverpool Football Club Bangladesh Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/BangladeshLFC">The Official Liverpool Football Club Bangladesh Facebook account</a>									</li>
+									
+									<li><span>Brazil</span><a title="Go to The Official Liverpool Football Club Twitter account for Brazil" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCBrasil">The Official Liverpool Football Club Twitter account for Brazil</a>
+										<a title="Go to The Official Liverpool Football Club Brazilian Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/BrasilLFC">The Official Liverpool Football Club Brazilian Facebook account</a>									
+										<a title="Go to The Official Liverpool Football Club Instagram account for Brazil" class="megaIcon MegaInstagram" onclick="var w=window.open(this.href);w.focus();return false;" href="http://instagram.com/lfcbrasil">The Official Liverpool Football Club Instagram account for Brazil</a></li>
+									
+									<li><span>China</span><a title="Go to The Official Liverpool Football Club Sina Weibo page" class="megaIcon MegaSina" onclick="var w=window.open(this.href);w.focus();return false;" href="http://e.weibo.com/liverpoolfc">The Official Liverpool Football Club Sina Weibo page</a>									
+										<a title="Go to The Official Liverpool Football Club Tencent Weibo page" class="megaIcon MegaTencent" onclick="var w=window.open(this.href);w.focus();return false;" href="http://e.t.qq.com/liverpoolfc">The Official Liverpool Football Club Tencent Weibo page</a>
+										<a title="Go to The Official Liverpool Football Club Weixin page" class="megaIcon MegaWeixin" onclick="var w=window.open(this.href);w.focus();return false;" href="http://www.liverpoolfc.com/news/latest-news/142724-lfc-launch-weixin-account-in-china">The Official Liverpool Football Club Weixin page</a>										
+									</li>
+
+									<li><span>English</span><a title="Go to The Official Liverpool Football Club English web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://www.liverpoolfc.com/?nosplash">The Official Liverpool Football Club English web site</a>
+										<a title="Go to The Official Liverpool Football Club English Twitter account" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/lfc">The Official Liverpool Football Club English Twitter account</a>									
+										<a title="Go to The Official Liverpool Football Club English Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/LiverpoolFC">The Official Liverpool Football Club English Facebook account</a>									</li>
+                                    
+                                    <li><span>France</span><a title="Go to The Official Liverpool Football Club account for France" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCFrance">The Official Liverpool Football Club account for France</a></li>
+                                    <li><span>Finland</span><a title="Go to The Official Liverpool Football Club account for Finland" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCFinland">The Official Liverpool Football Club account for Finland</a></li>
+
+                                    <li><span>Greece</span><a title="Go to The Official Liverpool Football Club account for Greece" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/greeceLFC">The Official Liverpool Football Club account for Greece</a></li>  
+									
+								</ul>
+								<ul>
+									<li><span>India</span><a title="Go to The Official Liverpool Football Club Twitter account for India" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCIndia">The Official Liverpool Football Club Twitter account for India</a>										<a title="Go to The Official Liverpool Football Club Facebook account for India" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/IndiaLFC">The Official Liverpool Football Club Facebook account for India</a></li>
+
+									<li><span>Indonesia</span>
+										<a title="Go to The Official Liverpool Football Club Twitter account for Indonesia" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCIndonesia">The Official Liverpool Football Club Twitter account for Indonesia</a>
+										<a title="Go to The Official Liverpool Football Club Indonesian Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/IndonesiaLFC">The Official Liverpool Football Club Indonesian Facebook account</a>									</li>
+									<li><span>Italy</span><a title="Go to The Official Liverpool Football Club Twitter account for Italy" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/italylfc">The Official Liverpool Football Club Twitter account for Italy</a></li>
+
+									<li><span>Japan</span><a title="Go to The Official Liverpool Football Club Japanese Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/JapanLFC">The Official Liverpool Football Club Japanese Facebook account</a>									</li>
+									
+									<li><span>Malaysia</span>
+										<a title="Go to The Official Liverpool Football Club Twitter account for Malaysia" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/MalaysiaLFC">The Official Liverpool Football Club Twitter account for Malaysia</a>
+										<a title="Go to The Official Liverpool Football Club Facebook account for Malaysia" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/LFCMalaysiaOfficial">The Official Liverpool Football Club Facebook account for Malaysia</a>									</li>
+
+									<li><span>New Zealand</span><a title="Go to The Official Liverpool Football Club Twitter account for Australia and New Zealand" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCANZ">The Official Liverpool Football Club Twitter account for Australia and New Zealand</a></li>
+                                    
+                                    <li><span>Norway</span><a title="Go to The Official Liverpool Football Club account for Norway" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCNorwegian">The Official Liverpool Football Club account for Norway</a></li>
+
+                                    <li><span>Pakistan</span><a title="Go to The Official Liverpool Football Club Twitter account for Pakistan" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/PakistanLFC">The Official Liverpool Football Club Twitter account for Pakistan</a></li>
+
+                                    <li><span>Poland</span><a title="Go to The Official Liverpool Football Club Twitter account for Poland" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/PolandLFC">The Official Liverpool Football Club Twitter account for Poland</a></li>
+								</ul>
+								<ul>
+									<li><span>Portuguese</span>
+										<a title="Go to The Official Liverpool Football Club Portuguese Twitter account" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCBrasil">The Official Liverpool Football Club Portuguese Twitter account</a>
+										<a title="Go to The Official Liverpool Football Club Portuguese Facebook account" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/BrasilLFC">The Official Liverpool Football Club Portuguese Facebook account</a>									</li>
+									
+									<li><span>Russian</span>
+										<a title="Go to The Official Liverpool Football Club Russian VK account" class="megaIcon MegaVk" onclick="var w=window.open(this.href);w.focus();return false;" href="http://vk.com/lfc_official">The Official Liverpool Football Club Russian VK account</a>									</li>
+									
+									<li><span>Spanish</span>
+                                        <a title="Go to The Official Liverpool Football Club Spanish Twitter account" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCEspanol">The Official Liverpool Football Club Spanish Twitter account</a>										<a title="Go to The Official Liverpool Football Club Facebook account for Spain" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/EspanolLFC">The Official Liverpool Football Club Facebook account for Spain</a>                                    </li>
+
+									<li><span>South Africa</span><a title="Go to The Official Liverpool Football Club Twitter account for South Africa" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/SouthAfricaLFC">The Official Liverpool Football Club Twitter account for South Africa</a></li>
+
+									<li><span>South Korea</span>
+										<a title="Go to The Official Liverpool Football Club Twitter account for South Korea" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/lfckorea">The Official Liverpool Football Club Twitter account for South Korea</a>
+										<a title="Go to The Official Liverpool Football Club Facebook account for South Korea" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/SouthKoreaLFC">The Official Liverpool Football Club Facebook account for South Korea</a>									</li>
+
+									<li><span>Thailand</span>
+										<a title="Go to The Official Liverpool Football Club Twitter account for Thailand" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/ThaiLFC">The Official Liverpool Football Club Twitter account for Thailand</a>
+										<a title="Go to The Official Liverpool Football Club Facebook account for Thailand" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/ThailandLiverpoolFC">The Official Liverpool Football Club Facebook account for Thailand</a>
+										<a title="Go to The Official Liverpool Football Club Instagram account for Thailand" class="megaIcon MegaInstagram" onclick="var w=window.open(this.href);w.focus();return false;" href="http://instagram.com/lfcthailand">The Official Liverpool Football Club Instagram account for Thailand</a>									</li>
+
+									<li><span>Turkey</span><a title="Go to The Official Liverpool Football Club Twitter account for Turkey" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/TurkeyLFC">The Official Liverpool Football Club Twitter account for Turkey</a></li>
+
+									<li><span>USA</span><a title="Go to The Official Liverpool Football Club Twitter account for the USA" class="megaIcon MegaTwitter" onclick="var w=window.open(this.href);w.focus();return false;" href="https://twitter.com/LFCUSA">The Official Liverpool Football Club Twitter account for the USA</a></li>
+
+									<li><span>Vietnam</span>
+										<a title="Go to The Official Liverpool Football Club Facebook account for Vietnam" class="megaIcon MegaFacebook" onclick="var w=window.open(this.href);w.focus();return false;" href="https://www.facebook.com/VietnamLFC">The Official Liverpool Football Club Facebook account for Vietnam</a>									</li>
+								</ul>
+							</div>
+							<!-- RIGHT LIST(S) -->
+							<div id="megaRightCol2"><span class="megaListTitle">Websites</span>
+								<div class="clear"></div>
+								<ul>
+									<li><span>Liverpoolfc.com</span><a title="Go to The Official Liverpool Football Club English web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://www.liverpoolfc.com/?nosplash">The Official Liverpool Football Club English web site</a>										<a title="Go to The Official Liverpool Football Club English Store" class="megaIcon MegaShop" onclick="var w=window.open(this.href);w.focus();return false;" href="http://store.liverpoolfc.tv/?webSyncID=722ea391-6785-9962-5bd0-7ad51a5708a0&amp;sessionGUID=cc681010-8c2d-cd00-0517-a10b0da1b65b">The Official Liverpool Football Club English Store</a>									</li>
+									<li><span>China</span>
+										<a title="Go to The Official Liverpool Football Club Chinese web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://cn.liverpoolfc.com">The Official Liverpool Football Club Chinese web site</a>										<a title="Go to The Official Liverpool Football Club Chinese Store" class="megaIcon MegaShop" onclick="var w=window.open(this.href);w.focus();return false;" href="http://china.store.liverpoolfc.com">The Official Liverpool Football Club Chinese Store</a>									</li>
+									<li><span>Indonesia</span><a title="Go to The Official Liverpool Football Club Indonesian web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://indonesia.liverpoolfc.com/">The Official Liverpool Football Club Indonesian web site</a>										<a title="Go to The Official Liverpool Football Club Indonesian Store" class="megaIcon MegaShop" onclick="var w=window.open(this.href);w.focus();return false;" href="http://indonesia.store.liverpoolfc.com">The Official Liverpool Football Club Indonesian Store</a>									</li>
+									<li><span>Thailand</span>
+										<a title="Go to The Official Liverpool Football Club Thai web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://thailand.liverpoolfc.com/">The Official Liverpool Football Club Thai web site</a>										<a title="Go to The Official Liverpool Football Club Thai Store" class="megaIcon MegaShop" onclick="var w=window.open(this.href);w.focus();return false;" href="http://thailand.store.liverpoolfc.com">The Official Liverpool Football Club Thai Store</a>									</li>
+
+									<li><span>LFC Tour 2015</span><a title="Go to The Official Liverpool Football Club LFC Tour 2015 web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://www.lfctour.com/">The Official Liverpool Football Club LFC Tour 2015 web site</a>									</li>
+									
+									<li><span>LFC Foundation</span><a title="Go to The Official Liverpool Football Club LFC Foundation web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://foundation.liverpoolfc.com/">The Official Liverpool Football Club LFC Foundation web site</a></li>
+
+									<li><span>Arabic</span><a title="Go to The Official Liverpool Football Club LFC Arabic web site" class="megaIcon MegaWww" onclick="var w=window.open(this.href);w.focus();return false;" href="http://arabic.liverpoolfc.com">The Official Liverpool Football Club LFC Arabic web site</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+        
+        		
 	</div>
 </div>
 
-<div id="wrapper">
+    <!-- START GLOBAL SOCIAL BAR DROP DOWN SCRIPT -->
+    <script type="text/javascript" language="javascript">
 
-	<div id="left">
-		
+          $(document).ready(function() {
+            var isMobile;
+            browserWidth(this);
+          });
 
-<div class="rounded" id="block-block-8">
+          
+          $(window).resize(function () {   
+              if ($(this).width() &gt; 646) {
+                  $("#nav").css('display', '');
+                  $("#topBarLeft").css('display', '');
+                  isMobile = false;
+              } else {
+                isMobile = true;
+              }          
+          });
 
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<h2><em><strong>Powercom:</strong></em></h2>
-<p><strong>Partners for the <a href="http://www.powercomars.com" target="_blank" rel="nofollow">Powercom</a> Products</strong></p>
-<p> </p>
-<h2><strong><a href="http://www.teamtalk.co.uk/content/free-interactive-whiteboard-voting-software" rel="nofollow"><em>SANKORE:</em> </a></strong></h2>
-<p><strong><a href="http://www.teamtalk.co.uk/content/free-interactive-whiteboard-voting-software" rel="nofollow">Free Interactive Whiteboard Voting Software.</a></strong></p>
-<p> </p>
-<p><strong>LATEST DOWNLOADS</strong></p>
-<p>The Fleetwood RF White Paper, <strong><a href="http://www.teamtalk.co.uk/sites/default/files/pdfs/RF-Wireless-Whitepaper-Fleetwood-Electronics.pdf" rel="nofollow">Click here</a>.</strong></p>
-<p>Getting the best out of ARS sessions, <strong><a href="http://www.teamtalk.co.uk/sites/default/files/pdfs/Questioning-Strategies.pdf" rel="nofollow">Click here.</a></strong></p></div>
-<div class="boxbottom"></div>
+          function browserWidth(browser){
+              if ($(browser).width() &gt; 646) {
+                isMobile = false;
+              } else {
+                isMobile = true;
+              }
+          }
+          
+          function displayElement(obj, state){
+              $(obj).css('display', state);
+          }
+          
+
+          $("#miniSocialBtn").click(function () {
+              $("#globalMegaMenu").css('display', 'none');                                                     
+              if ($("#topBarLeft").is(":hidden"))
+              {
+                displayElement("#topBarLeft", 'block');
+              }
+              else
+              {
+                displayElement("#topBarLeft", '');
+              }
+          });
+          
+          function toggle(obj) {
+              if (isMobile){
+                $("#topBarLeft").css('display', 'none');
+                $("#nav").css('display', 'none');
+              } else {
+                $("#topBarLeft").css('display', 'block');
+                $("#nav").css('display', 'block');
+              }
+
+              var el = document.getElementById(obj);
+              if ( el.style.display != 'block' ) {
+                el.style.display = 'block';
+              }
+              else {
+                el.style.display = 'none';
+              }
+          }
+                                
+    </script>
+    <!-- END GLOBAL SOCIAL BAR DROP DOWN SCRIPT -->
 
 
-</div>
-
-
-
-
-<div class="rounded" id="block-block-14">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<h2>Direct Links</h2><p><strong><a href="http://www.teamtalk.co.uk/content/keypads" rel="nofollow">Voting Keypads SMS </a></strong></p><p><strong><a href="http://www.teamtalk.co.uk/content/software" rel="nofollow">Voting Software</a></strong></p><p><strong><a href="http://www.teamtalk.co.uk/content/uses-and-benefits" rel="nofollow">Uses and Benefits</a></strong></p><p><strong><a href="http://www.teamtalk.co.uk/content/why-reply" rel="nofollow">Why Reply?</a></strong></p><p><strong><a href="http://www.teamtalk.co.uk/content/how-reply-works" rel="nofollow">How Reply Works</a></strong></p><p><strong><a href="http://www.teamtalk.co.uk/content/purchase-information" rel="nofollow">Purchase Information</a></strong></p><p> </p></div>
-<div class="boxbottom"></div>
-
-
-</div>
-
-
-	</div>
-
-	<div id="right">
-		
-
-<div class="rounded" id="block-cck_blocks-field_right">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<div class="field field-type-text field-field-right">
-    <div class="field-items">
-            <div class="field-item field_right odd">
-                    <h2>Reply Audience Response In Action</h2><p>Some videos of the <a href="http://www.teamtalk.co.uk/content/reply-audience-response-service-action" rel="nofollow">Reply Audience Response Service </a>in action. Including the new <a href="http://www.teamtalk.co.uk/content/silent-auction" rel="nofollow">Silent Auction</a>.</p><p> </p><h2>Powercom Training Modules</h2><p>We have developed some Powercom training modules complete with "<strong>How to</strong>" videos. To see these videos <a href="http://www.teamtalk.co.uk/content/powercom-training" rel="nofollow">CLICK HERE</a></p><p> </p><p> </p>        </div>
+              <div id="splashWrap">
+        <!-- START CREST & ENTER -->
+        <div id="splashLeftWrap">
+            <div id="splashCrestWrap">
+                <a title="Enter Liverpool FC" href="http://www.liverpoolfc.com"><img alt="Enter Liverpool FC" src="http://assets2.lfcimages.com/uploads/placeholders/splash_crest.png" /></a>            </div>
+            <div id="splashEnterWrap">
+                <a title="Enter Liverpool FC" class="splashBtnEnter" href="http://www.liverpoolfc.com">ENTER</a>            </div>
         </div>
-</div>
-</div>
-<div class="boxbottom"></div>
+        <!-- START AD -->
+        <div id="splashAdWrap">
+            												<div id="div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP" data-google-query-id="CMrvrKLEhNECFcuIYgodhmsC7w">
+<script type="text/javascript">
+if (!lfcAdServingDisabled()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP'); });
+} else {		
+		if (json_internal_ads.LARGEBANNER_MAIN_SPLASH_DESKTOP) {
+		document.write('&lt;a href="'+ json_internal_ads.LARGEBANNER_MAIN_SPLASH_DESKTOP.url +'"&gt;&lt;img src="'+ json_internal_ads.LARGEBANNER_MAIN_SPLASH_DESKTOP.img +'" alt="'+ json_internal_ads.LARGEBANNER_MAIN_SPLASH_DESKTOP.alt +'" /&gt;&lt;/a&gt;');
+		}
+}
 
+</script>
+<div id="google_ads_iframe_/87687331/LARGEBANNER_MAIN_SPLASH_DESKTOP_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/87687331/LARGEBANNER_MAIN_SPLASH_DESKTOP_0" title="3rd party ad content" name="google_ads_iframe_/87687331/LARGEBANNER_MAIN_SPLASH_DESKTOP_0" width="801" height="300" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+  
+            						
+            
+        <script>
+        $(document).ready(function() {										
+        var checkAdHasLoaded = setInterval(function() {
+																																																																																																	
+        if($("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("img").length || $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("#google_flash_div").length || $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("iframe").length){
+									
+            if($("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("img").length) {
+                $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("img, #google_image_div, #ad_wrapper").css({
+                'width' : '100%',
+                'height' : '100%'
+                });
+            } else if ($("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("#google_flash_div").length) {
+                $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("#google_flash_inline_div").css({
+                  'position' : 'absolute'
+                 });							
+                 $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("#google_flash_inline_div, #google_flash_div, #google_flash_obj, #google_flash_embed").css({
+                   'width' : '100%',
+                   'height' : '100%'
+                 });			
+        				} else if ($("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("canvas").length) {
+                                                      
+                            $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("canvas").css({
+                   'width' : '100%',
+                   'height' : '100%'
+                 });            
+                        } else {
+													 $("#div-gpt-ad-LARGEBANNER_MAIN_SPLASH_DESKTOP iframe").contents().find("iframe").css({
+                'width' : '100%',
+                'height' : '100%'
+                });										
+								}
+		        clearInterval(checkAdHasLoaded);
+        }
+        },300);
+        });  
+        </script>
 
-</div>
-
-
-
-
-<div class="rounded" id="block-cck_blocks-field_right_1">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<div class="field field-type-text field-field-right-1">
-    <div class="field-items">
-            <div class="field-item field_right_1 odd">
-                    <h2>Renting an Audience Response Service</h2><p>TeamTalk Consulting also provides its customers with a complete voting service, not only in the UK but overseas as well. </p><p> </p><p>We are proud to be associated with<strong> <a href="http://www.audience-response-service.com/" target="_blank" rel="nofollow">Audience-Response-Service.com </a></strong>who, through their affiliates across the world provide a high quality service for its clients, wherever they may be.</p>        </div>
-        </div>
-</div>
-</div>
-<div class="boxbottom"></div>
-
-
-</div>
-
-
-	</div>
-
-	<div id="content" class="content">
-		<div class="node">
-        <span class="submitted"></span>
-    <div class="taxonomy"></div>
-    <div class="content"><div class="field field-type-text field-field-main-product">
-    <div class="field-items">
-            <div class="field-item field_main_product odd">
-                    <h2>Interactive Voting, and Audience Polling with SMS Texting.</h2><p>Welcome to the home page of TeamTalk Consulting - leaders in the provision of Audience Response and Keypad Voting systems. Rather than go through the entire web page to find out what you want, click here to download a pdf that is a precis of this <a href="http://www.teamtalk.co.uk/sites/default/files/pdfs/Reply-in-Brief.pdf" target="_blank" rel="nofollow">Audience Response / Voting System</a> web page, or call us on. +44 (0)1908 526264.</p><p>For Hexies and Facilitation Tools, go to <a href="http://www.teamtalk.co.uk/content/facilitator-central" rel="nofollow">Facilitator Central</a>.</p>        </div>
-        </div>
-</div>
-<p><a href="http://www.teamtalk.co.uk/content/reply-ativa" rel="nofollow"><img id="left" alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/reply_ativa_small.png" /></a>The most effective meeting and learning activities share a common element: high levels of audience participation. In short, audience interaction; and with Reply® <strong>wireless audience response systems</strong>, new heights of audience interaction can be achieved in a way that encourages participation, improve comprehension, and increase retention.</p><p>TeamTalk Consulting provides three distinct offerings in the area of <strong>Audience Interaction</strong>:</p><p><strong><a href="http://www.teamtalk.co.uk/content/reply-plus" rel="nofollow"><img id="left" alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/CRS7200_thumb_0.png" /></a>Owning an Audience Response System</strong> - If you want the latest, proven audience response systems, TeamTalk are specialists in providing clients with the top of the range options. We stock the Reply® Wireless Audience Response Systems, the best in the business.  In fact, we do more than just help you obtain your own audience response system, we provide ongoing support for Reply® interactive voting systems as you continue to use the system.</p><p><strong><a href="http://www.teamtalk.co.uk/content/purchase-faqs" rel="nofollow">Take a look</a></strong> at our FAQs on owning a Voting System.</p><p><strong>Renting an Audience Response Service </strong>- At TeamTalk, we not only supply our customers with Reply Wireless Audience Response systems, we also provide them with a complete audience response system rental service. TeamTalk's all-inclusive rental service offers a technician, IT equipment, software and voting keypads to provide your learning or business event with full audience response interactivity.</p><p><strong><a href="http://www.teamtalk.co.uk/content/audience-response-service-faqs" rel="nofollow">Take a look</a></strong> at our FAQs on Renting an Audience Response Service.</p><p>Download our <a href="http://www.teamtalk.co.uk/sites/default/files/pdfs/Audience-Response-Service-Guidelines.pdf" target="_blank" rel="nofollow">Audience Response Service Guidelines</a>, and our <a href="http://www.teamtalk.co.uk/sites/default/files/pdfs/Our%20Services.pdf" target="_blank" rel="nofollow">Service Flyer</a>.</p><p><strong>Voting Keypad Rental</strong> - We rent additional <strong>Reply® Voting Keypads</strong> to those customers who have already bought a Reply® system.</p><p><a href="http://www.teamtalk.co.uk/content/keypad-rental-faqs" rel="nofollow"><strong>Take a look</strong></a> at our FAQS on Renting Reply® Voting Keypad Equipment.</p><h2>What they are?</h2><p><img id="left" alt="" src="http://www.teamtalk.co.uk/sites/default/files/images/home_1.jpg" />Audience response systems are called by many names - interactive voting systems, audience voting keypads, audience survey systems, electronic voting systems and clickers amongst others. Audience response systems are voting keypad products designed to quickly and accurately gather individual answers to questions put to a group during meeting, training, decision making, or research situations. <a href="http://www.teamtalk.co.uk/content/how-reply-works" rel="nofollow">Read here</a> to learn how Reply Audience Response systems work.</p></div>
-    </div>
-	</div>
-
-	<div id="bottom">
-		
-
-<div class="rounded" id="block-block-11">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<h2>Latest News</h2>
-<p>New <a href="http://www.teamtalk.co.uk/content/reply-ativa" rel="nofollow">ATIVA keypad</a> now available. </p>
-<h4>Creativity ToolBox - Edition 2</h4>
-<p>For more information and to download FREE pages <a href="http://www.teamtalk.co.uk/content/creatiity-tool-box" rel="nofollow">click here</a>.</p></div>
-<div class="boxbottom"></div>
-
-
-</div>
-
-
-
-
-<div class="rounded" id="block-block-13">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<h2>What They Are?</h2><p>Audience response systems are called by many names - interactive voting systems, audience voting keypads, audience survey systems, electronic voting systems and clickers amongst others. Audience response systems are voting keypad products designed to quickly and accurately gather individual answers to questions put to a group during meeting, training, decision making, or research situations. <a href="http://www.teamtalk.co.uk/content/how-reply-works" rel="nofollow">Read here</a> to learn how Reply Audience Response systems work.</p></div>
-<div class="boxbottom"></div>
-
-
-</div>
-
-
-
-
-<div class="rounded" id="block-block-15">
-
-<div class="boxtop"></div>
-<div class="boxmiddle">
-<h2>Facilitator Central</h2><p><a href="https://fusion.webfusion-secure.co.uk/~teamtalk.co.uk/content/hexies" rel="nofollow">Hexies</a></p><p><a href="http://www.teamtalk.co.uk/content/ask-them" rel="nofollow">Ask Them</a></p><p><a href="http://www.teamtalk.co.uk/content/mimio" rel="nofollow">Mimio</a></p></div>
-<div class="boxbottom"></div>
-
-
-</div>
-
-
-	</div>
-
-
-	<div id="footer">
+            
 	
+        </div>
+        <div id="splashBotWrap">
+            <!-- START CHANNELS TITLE TEXT -->
+                            <div id="splashTxt">
+                    <span>LFC Recommends</span>
+                    <img alt="" src="http://assets1.lfcimages.com/images/splash/splash_arrow.gif" />                </div>
+                <div id="splashTxt2">
+                    <span>LFC Recommends</span><br />
+                    <img alt="" src="http://assets3.lfcimages.com/images/splash/splash_arrow_down.gif" />                </div>
+                        <!-- START DESKTOP BUTTONS -->
+            <ul class="splashChannels" id="splashChanFull">
+                                                                                   <li>
+                                <a href="http://www.liverpoolfc.com/video">
+                                    <span class="splashIcon" style="background-image: url(http://assets3.lfcimages.com/uploads/placeholders/6278__4460__btn_icon_video.png);"><!-- EMPTY --></span>
+                                    <span>Video</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                                                           <li>
+                                <a href="http://store.liverpoolfc.com">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_shop.png);"><!-- EMPTY --></span>
+                                    <span>Shop</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                                                           <li>
+                                <a href="http://www.liverpoolfc.com/membership/home">
+                                    <span class="splashIcon" style="background-image: url(http://assets2.lfcimages.com/uploads/placeholders/btn_icon_membership.png);"><!-- EMPTY --></span>
+                                    <span>Membership</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                                                           <li>
+                                <a href="http://stadiumtours.liverpoolfc.com/">
+                                    <span class="splashIcon" style="background-image: url(http://assets.lfcimages.com/uploads/placeholders/btn_icon_tours.png);"><!-- EMPTY --></span>
+                                    <span>Tours</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                                                           <li>
+                                <a href="http://www.liverpoolfc.com/fans/apps-and-games/uk">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_mobile.png);"><!-- EMPTY --></span>
+                                    <span>Mobile</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                                                           <li class="splashLast">
+                                <a href="http://hospitality.liverpoolfc.com/">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_hospitality.png);"><!-- EMPTY --></span>
+                                    <span>Hospitality</span>
+                                </a>
+                                <div class="splashShadow"><!-- EMPTY --></div>
+                            </li>
+                                                    </ul>
+            <!-- START MOBILE BUTTONS -->
+            <ul class="splashChannels" id="splashChanMob">
+                                                                   <li class="splashChannel1">
+                                <a href="http://www.liverpoolfc.com/video">
+                                    <span class="splashIcon" style="background-image: url(http://assets3.lfcimages.com/uploads/placeholders/6278__4460__btn_icon_video.png);"><!-- EMPTY --></span>
+                                    <span>Video</span>
+                                </a>
+                            </li>
+                                                                                           <li class="splashChannel2">
+                                <a href="http://store.liverpoolfc.com">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_shop.png);"><!-- EMPTY --></span>
+                                    <span>Shop</span>
+                                </a>
+                            </li>
+                                                                                           <li class="splashChannel3">
+                                <a href="http://www.liverpoolfc.com/membership/home">
+                                    <span class="splashIcon" style="background-image: url(http://assets2.lfcimages.com/uploads/placeholders/btn_icon_membership.png);"><!-- EMPTY --></span>
+                                    <span>Membership</span>
+                                </a>
+                            </li>
+                                                                                           <li class="splashChannel4">
+                                <a href="http://stadiumtours.liverpoolfc.com/">
+                                    <span class="splashIcon" style="background-image: url(http://assets.lfcimages.com/uploads/placeholders/btn_icon_tours.png);"><!-- EMPTY --></span>
+                                    <span>Tours</span>
+                                </a>
+                            </li>
+                                                                                           <li class="splashChannel5">
+                                <a href="http://www.liverpoolfc.com/fans/apps-and-games/uk">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_mobile.png);"><!-- EMPTY --></span>
+                                    <span>Mobile</span>
+                                </a>
+                            </li>
+                                                                                           <li class="splashChannel6">
+                                <a href="http://hospitality.liverpoolfc.com/">
+                                    <span class="splashIcon" style="background-image: url(http://assets1.lfcimages.com/uploads/placeholders/btn_icon_hospitality.png);"><!-- EMPTY --></span>
+                                    <span>Hospitality</span>
+                                </a>
+                            </li>
+                                                    </ul>
+        </div>
+    </div>
+  
+    <!-- Engage Web Tracking Code -->
+<meta name="com.silverpop.brandeddomains" content="www.pages04.net,bookings.liverpoolfc.com,cnstore.liverpoolfc.com,content.liverpoolfc.com,forums.liverpoolfc.com,foundation.liverpoolfc.com,lfcbootroom.com,lfcbootroom.tv,lfcofflicence.com,lfcofflicence.tv,lfcpicturestore.com,lfcpicturestore.tv,liverpoolfantasymanager.com,liverpoolfc.com,liverpoolfc.mkt5270.com,liverpoolladiesfc.com,nesn.com,programmemaster.com,store.liverpoolfc.com,store.liverpoolfc.tv,thekop.liverpoolfc.com,tickets.liverpoolfc.com,hps.datacash.com" />
+<meta name="com.silverpop.cothost" content="engage4.silverpop.com" />
+<script src="http://content.mkt941.com/lp/static/js/iMAWebCookie.js?7bfe307e-13abc0179a2-b72427ac28f4177bd55290ce12678282&amp;h=www.pages04.net" type="text/javascript"></script>
+<!--End Engage Web Tracking Code-->
 
-<div class="block block-block" id="block-block-10">
+        <script type="text/javascript">
+//&lt;![CDATA[
+    $(function(){
+        $(document).pngFix();
+        $(window).bind('resize', function(){
+          $("#NavDD").css({visbility:'visible'});
+        });
+      });
+    $(window).load(function() {
+                $(".SquadPics img").lazyload({ threshold : 150 });
+                $("#tabs-1 img").lazyload({ threshold : 150 });
+                $("img.lazy").show().lazyload({ threshold : 150 });
+                $(".show-lazy-tab-images").click(function() {																			
+                $($(this).attr("href") +' img').each(function(){$(this).trigger('appear')});
+            });
+    });        
+    
+//]]&gt;
+</script>              
 
-<p>Copyright TeamTalk Consulting, 2011.</p><p>Powered by Redhead Designs Ltd</p>
-</div>
-
-
-	</div>
-</div>
-
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(38760); }catch(e){}</script>
-<noscript>&lt;p&gt;&lt;img alt="Clicky" width="1" height="1" src="//in.getclicky.com/38760ns.gif" /&gt;&lt;/p&gt;</noscript>
 
 
 
-<div id="lightbox2-overlay" style="display: none;"></div>      <div id="lightbox" style="display: none;" class="lightbox2-alt-layout">        <div id="outerImageContainer" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"><div id="modalContainer" style="display: none; padding: 10px;"></div><div id="frameContainer" style="display: none; padding: 10px;"></div><div id="imageContainer" style="display: none; padding: 10px;"><img id="lightboxImage" alt="" /></div><div id="loading"><a href="#" id="loadingLink"></a></div><div id="bottomNav"><a id="bottomNavClose" title="Close" href="#" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"></a><a id="bottomNavZoom" href="#" style="bottom: 10px; right: 10px;"></a><a id="bottomNavZoomOut" href="#" style="bottom: 10px; right: 10px;"></a></div></div>        <div id="imageDataContainer" class="clearfix" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">          <div id="imageData"><div id="hoverNav"><a id="prevLink" title="Previous" href="#" style="padding-top: 10px;"></a><a id="nextLink" title="Next" href="#" style="padding-top: 10px;"></a></div><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span><a id="lightshowPause" title="Pause Slideshow" href="#" style="display: none;"></a><a id="lightshowPlay" title="Play Slideshow" href="#" style="display: none;"></a></div></div>        </div>      </div></body></html>
+<div id="cookie-notification" style="bottom: 0px;"><div id="cookie-notification-inner"><b>We use cookies to ensure that we give you the best experience on our website. Please click continue to let us know you are happy to receive all cookies on the Liverpool FC website. For more information please <a href="http://www.liverpoolfc.com/legal/cookies" target="_blank">click here &gt;&gt;</a><br /><br />If you would like to, you can change your cookie settings at any time. For information on how to change your cookie settings or block cookies altogether please see <a href="http://www.aboutcookies.org/" target="_blank">http://www.aboutcookies.org.</a></b><input type="submit" name="cn-except" id="cn-except" value="Continue" /></div></div><img src="http://www.pages04.net/WTS/event.jpeg?accesskey=7bfe307e-13abc0179a2-b72427ac28f4177bd55290ce12678282&amp;v=1.29&amp;isNewSession=1&amp;type=pageview&amp;isNewVisitor=1&amp;sessionGUID=cc681010-8c2d-cd00-0517-a10b0da1b65b&amp;webSyncID=722ea391-6785-9962-5bd0-7ad51a5708a0&amp;url=http%3A%2F%2Fwww.liverpoolfc.com%2Fwelcome-to-liverpool-fc&amp;newSiteVisit=1&amp;referringURL=http%3A%2F%2Fwww.liverpoolfc.com%2F&amp;hostname=www.liverpoolfc.com&amp;pathname=%2Fwelcome-to-liverpool-fc&amp;newPageVisit=1&amp;eventKey=06126246-b5e6-9e9c-db06-48be1188d3b6" style="display: none;" /><iframe id="google_osd_static_frame_9507644656134" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>
