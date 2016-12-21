@@ -11,10 +11,9 @@ import com.google.common.collect.ImmutableList;
 
 public class Headless {
 
-	private static final String CHROMEDRIVER_PATH = "/Users/ssarnobat/github/chrome_headless/chromedriver";
+//	private static final String CHROMEDRIVER_PATH = "/Users/ssarnobat/github/chrome_headless/chromedriver";
 
-	// private static final String CHROMEDRIVER_PATH =
-	// "/home/sarnobat/github/yurl/chromedriver";
+	 private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/chrome_headless/chromedriver_linux64";
 
 	private static List<String> getGeneratedHtml(String url1) throws MalformedURLException, IOException {
 		String url = url1.startsWith("http") ? url1 : "http://" + url1;
