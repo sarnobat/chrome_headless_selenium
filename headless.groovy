@@ -15,10 +15,10 @@ public class Headless {
 
 	 private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/chrome_headless/chromedriver_linux64";
 
-	private static List<String> getGeneratedHtml(String url1) throws MalformedURLException, IOException {
+	private static List<String> getGeneratedHtml(String binary, String url1) throws MalformedURLException, IOException {
 		String url = url1.startsWith("http") ? url1 : "http://" + url1;
 		// Don't use the chrome binaries that you browse the web with.
-		System.setProperty("webdriver.chrome.driver", Headless.CHROMEDRIVER_PATH);
+		System.setProperty("webdriver.chrome.driver", binary);
 		System.setProperty("webdriver.chrome.logfile", "/dev/null");
 		System.setProperty("webdriver.chrome.args", "disable-logging");
 		System.setProperty("webdriver.chrome.silentOutput", "true");
@@ -46,6 +46,6 @@ public class Headless {
 	}
 
 	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
-		getGeneratedHtml(args[0]);
+		getGeneratedHtml(args[0], args[1]);
 	}
 }
