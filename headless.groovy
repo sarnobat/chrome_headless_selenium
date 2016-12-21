@@ -25,10 +25,12 @@ public class Headless {
 
 		// HtmlUnitDriver and FirefoxDriver didn't work. Thankfully
 		// ChromeDriver does
+		System.err.println("Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY)");
 		WebDriver driver = new ChromeDriver();
 		List<String> ret = ImmutableList.of();
 		try {
 			driver.get(url);
+	                System.err.println("Headless.getGeneratedHtml() - URL requested, waiting 5 seconds for reply.");
 			// TODO: shame there isn't an input stream, then we wouldn't
 			// have to store the whole page in memory
 			try {
