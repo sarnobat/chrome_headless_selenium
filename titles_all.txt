@@ -92,3 +92,12 @@ https://www.nzx.com/files/assets/good_to_great.pdf ::
 https://github.com/mrooney/mintapi/issues/73 :: Login Doesn't Work... · Issue #73 · mrooney/mintapi · GitHub
 https://sandbox.qbo.intuit.com/app/banking?accountId=35 :: Error 404: File Not Found
 https://developer.intuit.com/apis :: APIs | Intuit Developer
+https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account :: QuickBooks | API Explorer | Intuit Developer
+https://www.google.com/search?q=does+car+heating+use+fuel&rlz=1CDGOYI_enUS590US590&oq=does+car+heating+&aqs=chrome.1.69i57j0l3.5263j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: does car heating use fuel - Google Search
+https://www.google.com/search?q=d3+map+visualization&rlz=1CDGOYI_enUS590US590&oq=d3+map&aqs=chrome.1.69i57j0l3.9647j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: d3 map visualization - Google Search
+https://datamaps.github.io/ :: DataMaps
+https://www.google.com/search?q=hyperjustice&rlz=1CDGOYI_enUS590US590&oq=hyperjustice&aqs=chrome..69i57j0l3.8114j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: hyperjustice - Google Search
+https://www.quora.com/Why-are-Americans-so-obsessed-with-money-and-status-when-life-is-so-painfully-short :: Why are Americans so obsessed with money and status when life is so painfully short? - Quora
+https://www.google.com/search?q=are+etfs+subject+to+inheritance+tax&rlz=1CDGOYI_enUS590US590&oq=are+etfs+subject+to+inheritance+tax&aqs=chrome..69i57.17336j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: are etfs subject to inheritance tax - Google Search
+https://discussions.apple.com/thread/6988530?start=15&tstart=0 :: 	<title>            Anyone scripting Photos.app yet? |
+https://www.google.com/search?q=book+on+xmp+tag&rlz=1CDGOYI_enUS590US590&oq=book+on+xmp+tag&aqs=chrome..69i57.7115j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: book on xmp tag - Google Search
