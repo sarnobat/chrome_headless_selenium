@@ -12,12 +12,12 @@ import com.google.common.collect.ImmutableList;
 
 public class Headless {
 
-//	private static final String CHROMEDRIVER_PATH = "/Users/ssarnobat/github/chrome_headless/chromedriver";
+	//	private static final String CHROMEDRIVER_PATH = "/Users/ssarnobat/github/chrome_headless/chromedriver";
 
-	 private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/chrome_headless/chromedriver_linux64";
+	 //private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/chrome_headless/chromedriver_linux64";
 
 	private static List<String> getGeneratedHtml(String binary, String url1) throws MalformedURLException, IOException {
-		System.err.println("getGeneratedHtml() - url1 = " + url1);
+		System.err.println("Headless.getGeneratedHtml() - url1 = " + url1);
 		String url = url1.startsWith("http") ? url1 : "http://" + url1;
 
 		// Don't use the chrome binaries that you browse the web with.
@@ -53,7 +53,7 @@ public class Headless {
 	}
 
 	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
-		System.err.println("main() - args = " + args);
+		System.err.println("Headless.main() - args = " + args);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in, Charsets.UTF_8));
 		// okay, I guess Charsets.UTF_8 is Guava, but that lets us not worry about
 		// catching UnsupportedEncodingException
