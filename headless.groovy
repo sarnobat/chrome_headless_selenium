@@ -28,27 +28,31 @@ public class Headless {
 
 		// HtmlUnitDriver and FirefoxDriver didn't work. Thankfully
 		// ChromeDriver does
-		System.err.println("Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY)");
+		System.err.println("Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY) " + url);
 		WebDriver driver = new ChromeDriver();
 		List<String> ret = ImmutableList.of();
 		try {
 			driver.get(url);
-	                System.err.println("Headless.getGeneratedHtml() - URL requested, waiting 5 seconds for reply.");
+	        System.err.println("Headless.getGeneratedHtml() - URL requested, waiting 5 seconds for reply." + url);
 			// TODO: shame there isn't an input stream, then we wouldn't
 			// have to store the whole page in memory
 			try {
 				// We need to let the dynamic content load.
 				Thread.sleep(5000L);
+				System.err.println("Headless.getGeneratedHtml() - Finished sleeping. " + url);
 			} catch (InterruptedException e) {
+				System.err.println("Headless.getGeneratedHtml() - Caught InterruptedException " + url);
 				e.printStackTrace();
 			}
 			String source = driver.getPageSource();
 			System.out.println(source);
 		} catch(Exception e) {
-			System.out.println("Exception: " + e);
+			System.out.println("Headless.getGeneratedHtml() - Exception: " + e + ". " + url);
 		} finally {
+			System.out.println("Headless.getGeneratedHtml() - Finally: " + url);
 			driver.quit();
 		}
+		System.out.println("Headless.getGeneratedHtml() - Returning: " + url);
 		return ret;
 	}
 
