@@ -7,4 +7,5 @@ DISPLAY=:99 groovy headless.groovy ~/github/chrome_headless/chromedriver_linux64
 	| tee title_line.txt \
 	| tee -a title_lines.txt \
         | sed -u 's/.*<title>\(.*\)<.title>/\1/g' \
-	| tee titles_greedy.txt 
+	| tee titles_greedy.txt \
+	| perl -pe 's{^}{DDDDDDDD}g'
