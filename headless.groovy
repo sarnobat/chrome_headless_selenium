@@ -36,25 +36,33 @@ public class Headless {
 			// okay, I guess Charsets.UTF_8 is Guava, but that lets us not worry about
 			// catching UnsupportedEncodingException
 			while (reader.ready()) {
-				String line = reader.readLine();
-				String url1 = line;
-				System.err.println("Headless.getGeneratedHtml() - url1 = " + url1);
-				String url = url1.startsWith("http") ? url1 : "http://" + url1;
-				
-				driver.get(url);
-		        System.err.println("Headless.getGeneratedHtml() - URL requested, waiting 5 seconds for reply." + url);
-				// TODO: shame there isn't an input stream, then we wouldn't
-				// have to store the whole page in memory
 				try {
-					// We need to let the dynamic content load.
-					Thread.sleep(5000L);
-					System.err.println("Headless.getGeneratedHtml() - Finished sleeping. " + url);
-				} catch (InterruptedException e) {
-					System.err.println("Headless.getGeneratedHtml() - Caught InterruptedException " + url);
-					e.printStackTrace();
+					String line = reader.readLine();
+					String url1 = line;
+					System.err.println("Headless.getGeneratedHtml() - url1 = " + url1);
+					String url = url1.startsWith("http") ? url1 : "http://" + url1;
+					
+					driver.get(url);
+			        System.err.println("Headless.getGeneratedHtml() - URL requested, waiting 5 seconds for reply." + url);
+					// TODO: shame there isn't an input stream, then we wouldn't
+					// have to store the whole page in memory
+					try {
+						// We need to let the dynamic content load.
+						Thread.sleep(5000L);
+						System.err.println("Headless.getGeneratedHtml() - Finished sleeping. " + url);
+					} catch (InterruptedException e) {
+						System.err.println("Headless.getGeneratedHtml() - Caught InterruptedException " + url);
+						e.printStackTrace();
+					}
+					String source = driver.getPageSource();
+					System.out.println(source);
+				} catch(Exception e) {
+					System.out.println("Headless.getGeneratedHtml() - Exception: " + e + ". ");
+				} finally {
+					System.out.println("Headless.getGeneratedHtml() - Finally: ");
+					driver.quit();
 				}
-				String source = driver.getPageSource();
-				System.out.println(source);
+				
 			}
 		} catch(Exception e) {
 			System.out.println("Headless.getGeneratedHtml() - Exception: " + e + ". ");
