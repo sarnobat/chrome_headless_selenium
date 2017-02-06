@@ -1,4 +1,4 @@
-import java.io.IOException;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 import java.util.List;
@@ -7,6 +7,7 @@ import org.json.JSONException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import com.google.common.base.Charsets;
 import com.google.common.collect.ImmutableList;
 
 public class Headless {
@@ -16,7 +17,9 @@ public class Headless {
 	 private static final String CHROMEDRIVER_PATH = "/home/sarnobat/github/chrome_headless/chromedriver_linux64";
 
 	private static List<String> getGeneratedHtml(String binary, String url1) throws MalformedURLException, IOException {
+		System.err.println("getGeneratedHtml() - url1 = " + url1);
 		String url = url1.startsWith("http") ? url1 : "http://" + url1;
+
 		// Don't use the chrome binaries that you browse the web with.
 		System.setProperty("webdriver.chrome.driver", binary);
 		System.setProperty("webdriver.chrome.logfile", "/dev/null");
@@ -41,6 +44,8 @@ public class Headless {
 			}
 			String source = driver.getPageSource();
 			System.out.println(source);
+		} catch(Exception e) {
+			System.out.println("Exception: " + e);
 		} finally {
 			driver.quit();
 		}
@@ -48,6 +53,14 @@ public class Headless {
 	}
 
 	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
-		getGeneratedHtml(args[0], args[1]);
+		System.err.println("main() - args = " + args);
+		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in, Charsets.UTF_8));
+		// okay, I guess Charsets.UTF_8 is Guava, but that lets us not worry about
+		// catching UnsupportedEncodingException
+		while (reader.ready()) {
+		  String line = reader.readLine();
+		  getGeneratedHtml(args[0], line);
+		}
+		
 	}
 }
