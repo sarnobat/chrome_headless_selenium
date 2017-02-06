@@ -63,3 +63,65 @@
     <title>
     <title>        TEAMtalk | Latest Football News, Transfer Gossip, Fixtures &amp; Results    </title>
     <title>        TEAMtalk | Latest Football News, Transfer Gossip, Fixtures &amp; Results    </title>
+    <title>        TEAMtalk | Latest Football News, Transfer Gossip, Fixtures &amp; Results    </title>
+    <title>        TEAMtalk | Latest Football News, Transfer Gossip, Fixtures &amp; Results    </title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/SearchResultsPage" lang="en"><head><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image" /><link href="/images/branding/product/ico/googleg_lodp.ico" rel="shortcut icon" /><meta content="origin" id="mref" name="referrer" /><title>being superstitious is bad luck - Google Search</title>   <script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.ht56ryQzVZ8.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo9BOneF1L6M_FnbxCRKqYNTbnMzBg/cb=gapi.loaded_0" async=""></script><script>(function(){window.google={kEI:'zCmYWLv4EYyh0wKX-pT4BA',kEXPI:'752222,1351903,1352241,1352381,3700209,3700244,3700347,4019511,4029815,4032678,4038012,4043492,4045841,4048347,4053233,4062666,4063220,4064904,4065786,4066688,4067860,4069838,4069840,4072773,4073405,4073728,4073958,4076096,4076931,4076999,4078430,4078438,4079105,4079894,4081039,4081485,4082164,4082618,4083476,4084343,4086011,4088361,4088429,4088549,4089003,4089118,4089145,4089181,4089538,4090352,4090414,4090442,4090548,4090657,4090806,4090883,4090885,4090894,4091060,4091419,4091966,4092028,4092217,4092219,4092474,4092478,4092598,4092832,4092835,4092839,4092897,4092934,4093109,4093131,4093136,4093191,4093317,4093948,4094168,4094250,4094557,4094613,4094768,4094997,4095009,4095229,4095834,4095907,4095997,4096392,8300273,8507380,8507419,8508623,8510023,10200083',authuser:0,j:{en:1,bv:24,pm:'p',u:'c9c918f0',qbp:0},kscs:'c9c918f0_24'};google.kHL='en';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var b;a&amp;&amp;(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||google.kEI};google.getLEI=function(a){for(var b=null;a&amp;&amp;(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b};google.https=function(){return"https:"==window.location.protocol};google.ml=function(){return null};google.wl=function(a,b){try{google.ml(Error(a),!1,b)}catch(c){}};google.time=function(){return(new Date).getTime()};google.log=function(a,b,c,d,g){a=google.logUrl(a,b,c,d,g);if(""!=a){b=new Image;var e=google.lc,f=google.li;e[f]=b;b.onerror=b.onload=b.onabort=function(){delete e[f]};window.google&amp;&amp;window.google.vel&amp;&amp;window.google.vel.lu&amp;&amp;window.google.vel.lu(a);b.src=a;google.li=f+1}};google.logUrl=function(a,b,c,d,g){var e="",f=google.ls||"";c||-1!=b.search("&amp;ei=")||(e="&amp;ei="+google.getEI(d),-1==b.search("&amp;lei=")&amp;&amp;(d=google.getLEI(d))&amp;&amp;(e+="&amp;lei="+d));a=c||"/"+(g||"gen_204")+"?atyp=i&amp;ct="+a+"&amp;cad="+b+e+f+"&amp;zx="+google.time();/^http:/i.test(a)&amp;&amp;google.https()&amp;&amp;(google.ml(Error("a"),!1,{src:a,glmm:1}),a="");return a};google.y={};google.x=function(a,b){google.y[a.id]=[a,b];return!1};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>java - How to write a matcher that is not equal to something - Stack Overflow</title>
+<title>java - Ignoring stacktrace when testing for exceptions in Junit - Stack Overflow</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>Football grounds, then and now: From Highbury to Roker Park, we look back at memorable stadiums and what they're used for today | Daily Mail Online</title>
+  <title>Embed icon</title>
+  <title>Embed icon</title>
+  <title>Dark theme</title>
+  <title>Light theme</title>
+  <title>Tick icon</title>
+  <title>Close icon</title>
+<title>El grito Rojiblanco</title>

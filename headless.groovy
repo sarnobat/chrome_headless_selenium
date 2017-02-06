@@ -35,6 +35,7 @@ public class Headless {
 			BufferedReader reader = new BufferedReader(new InputStreamReader(System.in, Charsets.UTF_8));
 			// okay, I guess Charsets.UTF_8 is Guava, but that lets us not worry about
 			// catching UnsupportedEncodingException
+			System.err.println("Headless.getGeneratedHtml() - waiting for stdin");
 			while (reader.ready()) {
 				try {
 					String line = reader.readLine();
