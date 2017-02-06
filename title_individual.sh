@@ -1,4 +1,7 @@
 #!/bin/bash
+
+while read URL
+do
 read URL
 TITLE=`echo $URL \
 	| DISPLAY=:99 groovy headless.groovy ~/github/chrome_headless/chromedriver_linux64   \
@@ -10,3 +13,4 @@ TITLE=`echo $URL \
 	| perl -pe 's{.*<title>\s*(.*?)</title>.*}{$1}g' \
 	| tee titles_greedy.txt` 
 echo "$URL :: $TITLE"
+done < "${1:-/dev/stdin}"
