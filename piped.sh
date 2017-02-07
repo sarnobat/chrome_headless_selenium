@@ -5,14 +5,16 @@
 touch titles_attempted2.txt
 cat  ~/sarnobat.git/yurl_queue_httpcat.txt  \
 	| grep -v -f titles_attempted2.txt \
-	| tail -1 \
+	| tee subtracted.txt \
 	| grep http \
 	| perl -pe 's{.*http}{http}g' \
 	| tee urls_unattempted.txt \
 	| grep -v null \
 	| grep -v jpg \
 	| grep -v "'" \
+	| tail -2 \
 	| tee -a titles_attempted2.txt \
+	| tee urls_attempted.txt \
 	| DISPLAY=:99 groovy title.groovy ~/github/chrome_headless/chromedriver_linux64 \
 	| tee titles_new.txt \
 	| tee -a titles_all.txt

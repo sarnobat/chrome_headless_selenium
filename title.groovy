@@ -68,7 +68,7 @@ System.out.println(url + " :: (Could not determine)");
 				} catch(Exception e) {
 					System.err.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
 				} finally {
-					System.err.println("Headless.getGeneratedHtml() - Finally 1: ");
+					System.err.println("Headless.getGeneratedHtml() - Finally 1: Finished visiting all URLs in batch.");
 					//driver.quit();
 				}
 				
@@ -76,15 +76,15 @@ System.out.println(url + " :: (Could not determine)");
 		} catch(Exception e) {
 			System.err.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
 		} finally {
-			System.err.println("Headless.getGeneratedHtml() - Finally 2: ");
+			System.err.println("Headless.getGeneratedHtml() - Finally 2: quitting headless browser. ");
 			driver.quit();
 		}
-		System.err.println("Headless.getGeneratedHtml() - Returning: ");
+		System.err.println("Headless.getGeneratedHtml() - Returning: script ended.");
 		return ret;
 	}
 
 	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
-		System.err.println("Headless.main() - args = " + args);
+//		System.err.println("Headless.main() - args = " + args);
 //		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in, Charsets.UTF_8));
 //		// okay, I guess Charsets.UTF_8 is Guava, but that lets us not worry about
 //		// catching UnsupportedEncodingException
