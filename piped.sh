@@ -6,7 +6,9 @@
 
 cd ~/github/chrome_headless/
 
-cat urls_not_titled.txt | tail -1 | tee urls_attempted.txt \
+sh update_indexes.sh
+
+cat urls_not_titled.txt | tail -4 | tee urls_attempted.txt \
 	| DISPLAY=:99 groovy title.groovy ~/github/chrome_headless/chromedriver_linux64 \
 	| tee titles_new.txt \
 	| tee -a titles_all.txt

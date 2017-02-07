@@ -280,3 +280,258 @@ http://www.zillow.com/east-palo-alto-ca/home-values/ :: East Palo Alto CA Home P
 http://www.zillow.com/cupertino-ca/schools/#/cupertino-ca/schools/bb=-122.099219%2C37.272618%2C-121.970473%2C37.364086&regionId=4281&zoom=12&type=public&level=high :: Ratings and Reviews for Cupertino CA's Best Schools  | Zillow
 http://andrzejonsoftware.blogspot.com/2014/12/ill-refactor-this-later.html :: Andrzej on Software: I'll refactor this later
 http://api.thumbr.it/whitenoise-400x200.png?background=f8faebff&noise=6c702d&density=17&opacity=15 :: whitenoise-400x200.png (400×200)
+http://apple.stackexchange.com/questions/208205/file-open-dialog-is-missing-sidebar-items# :: macos - "File Open" dialog is missing sidebar items - Ask Different
+http://apple.stackexchange.com/questions/222047/how-does-ios-photos-app-know-to-group-burst-photos :: iphone - How does iOS Photos app know to group burst photos? - Ask Different
+http://apple.stackexchange.com/questions/263437/df-hide-ifree-iused-512-blocks-customize-column-format :: command line - df hide ifree, iused, 512 blocks (customize column format) - Ask Different
+http://apple.stackexchange.com/questions/32899/how-do-i-force-iphoto-to-download-new-photos-in-my-photo-stream :: How do I force iPhoto to download new photos in my Photo Stream? - Ask Different
+http://archive.is/qvjCd#selection-481.105-481.344 :: uefa.com - UEFA Cup Winners' Cup
+http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/2/ :: How to run your own e-mail server with your own domain, part 1 | Ars Technica
+http://articles.chicagotribune.com/1986-06-01/business/8602100237_1_showroom-catalogue-discount-chains :: Catalogue Showrooms Fading - tribunedigital-chicagotribune
+http://articles.chicagotribune.com/1990-01-14/entertainment/9001040221_1_ullman-homer-simpson-matt-groening :: `The Simpsons` Proves Cartoons Not Just For Kids - tribunedigital-chicagotribune
+http://www.zillow.com/advice-thread/Are-Manufactured-Homes-A-Poor-Choice-in-Housing/506268/ :: Are Manufactured Homes A Poor Choice in Housing?  | Zillow
+http://ask.metafilter.com/191655/How-do-I-stop-wanting-gorgeous-woman-who-arent-my-wife :: How do I stop wanting gorgeous woman who aren't my wife? - romance dating marriage | Ask MetaFilter
+http://askubuntu.com/questions/12917/how-to-send-mail-from-the-command-line :: email - How to send mail from the command line? - Ask Ubuntu
+http://askubuntu.com/questions/193695/installing-packages-into-local-directory :: apt - Installing packages into local directory? - Ask Ubuntu
+http://askubuntu.com/questions/254223/unable-to-mount-filesystem-as-read-write-in-recovery-mode :: Unable to mount filesystem as read-write in recovery mode - Ask Ubuntu
+http://askubuntu.com/questions/296685/sendmail-not-working-properly :: 13.04 - Sendmail not working properly - Ask Ubuntu
+http://askubuntu.com/questions/30796/upstart-script-doesnt-start :: 10.04 - Upstart script doesn't start - Ask Ubuntu
+http://askubuntu.com/questions/323776/gsettings-not-working-over-ssh :: gsettings not working over ssh - Ask Ubuntu
+http://askubuntu.com/questions/348173/how-to-install-7zip-to-extract-rar-files :: software installation - How to install 7zip to extract rar files - Ask Ubuntu
+http://askubuntu.com/questions/348564/postfix-to-send-and-receive-mail-from-gmail :: postfix to send and receive mail from gmail - Ask Ubuntu
+http://askubuntu.com/questions/37159/is-my-processor-64-or-32-bit :: architecture - Is my processor 64 or 32 bit? - Ask Ubuntu
+http://askubuntu.com/questions/377333/mount-nfs-access-denied-by-server-while-mounting :: networking - mount.nfs: access denied by server while mounting - Ask Ubuntu
+http://askubuntu.com/questions/396883/how-to-simply-convert-video-files-i-e-mkv-to-mp4 :: ffmpeg - How to simply convert video files (i.e.: MKV to MP4)? - Ask Ubuntu
+http://askubuntu.com/questions/4014/how-do-i-renew-my-dhcp-lease :: networking - How do I renew my DHCP lease? - Ask Ubuntu
+http://askubuntu.com/questions/432542/is-ffmpeg-missing-from-the-official-repositories-in-14-04 :: software installation - Is FFmpeg missing from the official repositories in 14.04? - Ask Ubuntu
+http://askubuntu.com/questions/51265/where-is-var-log-messages :: 11.04 - Where is  /var/log/messages? - Ask Ubuntu
+http://askubuntu.com/questions/522431/how-to-send-an-email-using-command-line :: bash - How to send an email using command line? - Ask Ubuntu
+http://askubuntu.com/questions/525243/why-do-i-get-wrong-fs-type-bad-option-bad-superblock-error :: mount - Why do I get "wrong fs type, bad option, bad superblock" error? - Ask Ubuntu
+http://askubuntu.com/questions/536317/cant-auto-mount-nfs-share-using-fstab :: 14.04 - Can't auto-mount NFS share using fstab - Ask Ubuntu
+http://askubuntu.com/questions/59364/i-accidentally-removed-myself-from-sudoers-how-can-i-fix-this :: sudo - I accidentally removed myself from sudoers, how can I fix this? - Ask Ubuntu
+http://askubuntu.com/questions/59364/i-accidentally-removed-myself-from-sudoers-how-can-i-fix-this :: sudo - I accidentally removed myself from sudoers, how can I fix this? - Ask Ubuntu
+http://askubuntu.com/questions/601423/which-is-the-best-torrent-client-for-ubuntu-14-10 :: utorrent - Which is the best torrent client for Ubuntu 14.10? - Ask Ubuntu
+http://askubuntu.com/questions/66000/how-to-merge-partitions :: partitioning - How to merge partitions? - Ask Ubuntu
+http://www.yolinux.com/TUTORIALS/BashShellCgi.html :: Bash Shell CGI
+http://askubuntu.com/questions/662603/how-to-reinstall-ubuntu-and-preserve-home-directory :: 14.04 - How to reinstall ubuntu and preserve home directory - Ask Ubuntu
+http://askubuntu.com/questions/758870/where-can-i-download-the-chrome-i386-deb-file :: 32 bit - Where can I download the chrome i386 deb file? - Ask Ubuntu
+http://www.zillow.com/advice-thread/Are-housing-price-trends-available-by-zip-code-or-neighborhood-If-so-where-Much-thanks/350512/ :: Are housing price trends available by zip code or ...  | Zillow
+http://askubuntu.com/questions/761127/how-do-i-install-openjdk-7-on-ubuntu-16-04-or-higher :: java - How do I install openjdk 7 on Ubuntu 16.04 or higher? - Ask Ubuntu
+http://askubuntu.com/questions/79078/how-to-restart-samba-server :: How to restart samba server? - Ask Ubuntu
+http://astrorice.com/romanticization-of-depression/ :: On Tumblr’s Romanticization of Depression – SARAH SLOAN MACLEOD
+http://atleticofans.com/forum/index.php?/topic/1306-interview-with-talksport-admins/#entry17918 :: Interview with Talksport (Admins) - General Discussion - AtléticoFans Forum
+http://atleticofans.com/forum/index.php?/topic/531-forum-database-backup/?p=18194 :: Error - AtléticoFans Forum
+http://atleticofans.com/forum/index.php?/topic/56-could-i-request-to-be-made-a-moderator/ :: Could I request to be made a moderator? - Feedback - AtléticoFans Forum
+http://atleticofans.com/forum/index.php?/topic/87-fan-survey/ :: Fan survey - Atléticos Around The World - AtléticoFans Forum
+http://atleticofans.com/forum/index.php?/topic/87-fan-survey/page-2 :: Fan survey - Page 2 - Atléticos Around The World - AtléticoFans Forum - Page 2
+http://aut.researchgateway.ac.nz/bitstream/handle/10292/6964/HerjantoH.pdf?sequence=3 :: (Could not determine)
+http://backwest.com/do-software-engineers-rule-the-world/ :: Do Software Engineers Rule the World? | Life Back West
+http://bagusnews.link/vince-mcmahon-pro-wrestlings-master-of-storytelling.html :: bagusnews.link | 521: Web server is down
+http://bigdata-madesimple.com/can-big-data-be-racist/ :: Can Big Data Be Racist?
+http://www.wwe.com/shows/smackdown/2016-12-06 :: SmackDown Live: Dec. 6, 2016
+http://bigdata-madesimple.com/statistics-denial-myth-4-rebranding-predictive-modeling/ :: Statistics Denial Myth #4, Rebranding Predictive Modeling
+http://billsportsmaps.com/?category_name=football-stadia&paged=2 :: Football Stadia «  billsportsmaps.com
+http://bitcast-a.v1.sjc1.bitgravity.com/pumpaudio/5.1/mp3_v6/810000/812157_Glory.mp3?e=1483493207&h=41417B4E75F193AEF1AA40939D8EF486 :: 403 - Forbidden
+http://bleacherreport.com/articles/2683099-old-and-new-combine-to-help-atletico-madrid-see-off-a-rocky-2016-in-style :: Old and New Combine to Help Atletico Madrid See off a Rocky 2016 in Style | Bleacher Report
+http://bleacherreport.com/articles/418595-the-real-truth-world-cup-why-soccer-is-so-popular-around-the-world :: The Real Truth: World Cup: Why Soccer Is So Popular Around the World | Bleacher Report
+http://bl.ocks.org/d3noob/5141278 :: Basic Directional Force Layout Diagram - bl.ocks.org
+http://bl.ocks.org/mbostock/2949937 :: Force Layout from CSV - bl.ocks.org
+http://bl.ocks.org/mbostock/2949937 :: Force Layout from CSV - bl.ocks.org
+http://bl.ocks.org/sathomas/11550728 :: Understanding D3.js Force Layout - 1: The Simplest Possible Graph - bl.ocks.org
+http://blog.drsolly.com/2015/01/i-love-rsync.html :: drsolly: I love rsync
+http://blog.getpostman.com/2016/02/03/curl-and-postman-work-wonderfully-together/#comment-13156 :: cURL and Postman work wonderfully together – Postman Blog
+http://blog.habrador.com/2013/10/how-to-add-stock-charts-to-your-website.html :: blog.Habrador.com: How to add stock charts to your website or blog
+http://blog.markshead.com/34/emailing-a-webpage-from-the-command-line/ :: Emailing a webpage from the command line — Mark Shead
+http://blog.shaadi.com/truths-about-men/?evt_ref=bWFpbGVyLW90aGVy :: Shaadi.com Blog  8 Universal Truths About Men
+http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html :: SSH Tunnel - Local and Remote Port Forwarding Explained With Examples -  Trackets Blog
+http://www.wwe.com/classics/classic-lists/father-son-team-ups :: WWE's father and son team-ups
+http://www.xtratime.org/forum/266-atletico-madrid/ :: Atletico Madrid - Xtratime Community
+http://www.wsj.com/podcasts/programs :: WSJ Podcasts - The Wall Street Journal - Programs
+http://blog.voxar.net/post/48474575/stream-video-from-commandline-with-vlc :: Voxar - Stream video from commandline with VLC
+http://bluesock.org/~willg/dev/ansi.html#sequences :: ansi codes
+http://www.wsj.com/public/page/etf-mutual-funds.html :: Mutual Funds &amp; ETFs (Exchange Traded Funds) - Investing - Wsj.com
+http://www.xtratime.org/forum/266-atletico-madrid/ :: Atletico Madrid - Xtratime Community
+http://boards.straightdope.com/sdmb/showthread.php?t=599258 ::  What is the difference between a cognitive bias and a cognitive distortion? - Straight Dope Message Board
+http://bonanza.wikia.com/wiki/Bank_Run :: Bank Run | Bonanza Wiki | Fandom powered by Wikia
+http://books.lihui.org/cs/Writing%20Apache%20Modules%20with%20Perl%20and%20C.pdf :: (Could not determine)
+http://camelcamelcamel.com/Fundamentals-Stream-Processing-Application-Analytics/product/1107015545?active=watch :: Fundamentals of Stream Processing: Application Design, Systems, and Analytics (1107015545) | Amazon price tracker / tracking, Amazon price history charts, Amazon price watches, Amazon price drop alerts | camelcamelcamel.com
+http://camelcamelcamel.com/Pro-Mart-Deluxe-Pop-Up-Hamper-Rectangle/product/B002V919A8?active=watch :: PRO-MART DAZZ Deluxe Mesh Pop-Up Laundry Hamper with Side Pocket and Handles, White (B002V919A8) | Amazon price tracker / tracking, Amazon price history charts, Amazon price watches, Amazon price drop alerts | camelcamelcamel.com
+http://www.wrestlingnewssource.com/news/44524/Jerry-Lawler-Reveals-Reason-for-Being-Removed-From-WWE/ :: Jerry Lawler Reveals Reason for Being Removed From WWE Pre-Shows 
+http://www.wrestlingforum.com/classic-wrestling/1183282-your-house-ppv-power-outage.html#/topics/1183282?page=2&_k=h7g3qb ::  The 'In Your House' PPV Power Outage - Wrestling Forum : WWE, TNA, Indy Wrestling, Lucha Underground, Women of Wrestling Forums
+http://www.wrestlezone.com/news/196235-the-steven-dunn-doll-story-death-of-a-journeyman :: The Steven "Dunn" Doll Story, Death Of A Journeyman - Wrestlezone
+http://www.worldwidewords.org/topicalwords/tw-bof1.htm :: World Wide Words: Boffin
+http://www.wrestlezone.com/news/196235-the-steven-dunn-doll-story-death-of-a-journeyman :: The Steven "Dunn" Doll Story, Death Of A Journeyman - Wrestlezone
+http://www.wikinvest.com/fund/IShares_S%26P_500_Index_Fund_(IVV) :: Fund:IShares S&amp;P 500 Index Fund (IVV)
+http://www.wikihow.com/Touch-a-Guy :: 3 Ways to Touch a Guy - wikiHow
+http://www.weltfussball.at/teams/atletico-madrid/1967/3/ :: Atlético Madrid » Termine &amp; Ergebnisse 1966/1967
+http://www.wholesalemobilehomes.net/blog/2014/10/15/do-manufactured-homes-depreciate-or-appreciate-in-value-after-their-initial-purchase :: Do manufactured homes depreciate or appreciate in value after their initial purchase? — Wholesale Mobile Homes
+http://www.wikihow.com/Buy-Commercial-Real-Estate :: How to Buy Commercial Real Estate (with Pictures) - wikiHow
+http://www.webmd.com/men/buying-ed-drugs-online#1 :: Buying ED Drugs Online: What’s the Risk?  
+http://www.weltfussball.at/spielplan/esp-primera-division-1963-1964-spieltag/30/ :: Primera División 1963/1964 » 30. Spieltag
+http://www.webmd.com/erectile-dysfunction/guide/erectile-dysfunction-treatment?page=2 :: Erectile Dysfunction Treatment
+http://www.wikihow.com/Buy-Commercial-Real-Estate :: How to Buy Commercial Real Estate (with Pictures) - wikiHow
+http://www.webmd.com/men/buying-ed-drugs-online#1 :: Buying ED Drugs Online: What’s the Risk?  
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.weltfussball.at/spielplan/esp-primera-division-1963-1964-spieltag/30/ :: Primera División 1963/1964 » 30. Spieltag
+http://www.webmd.com/cold-and-flu/cold-guide/flu-cold-symptoms#1 :: Flu or Cold? Know the Differences
+http://www.webcredible.com/blog/3-reasons-why-sticky-notes-are-uxers-best-friend/ :: 3 reasons why Sticky Notes are a UX'ers best friend - Webcredible UX blog
+http://www.webmd.com/erectile-dysfunction/guide/erectile-dysfunction-treatment-care :: Erectile Dysfunction: Treatment &amp; Care
+http://www.webmd.com/cold-and-flu/cold-guide/flu-cold-symptoms#1 :: Flu or Cold? Know the Differences
+http://www.w3schools.com/TAgs/att_img_align.asp :: HTML img align Attribute
+http://www.wanda-group.com/businesses/hotels/ :: Luxury Hotels - Businesses - Wanda Group
+http://www.webcredible.com/blog/3-reasons-why-sticky-notes-are-uxers-best-friend/ :: 3 reasons why Sticky Notes are a UX'ers best friend - Webcredible UX blog
+http://www.webmd.com/erectile-dysfunction/guide/erectile-dysfunction-treatment-care :: Erectile Dysfunction: Treatment &amp; Care
+http://www.w3schools.com/js/js_popup.asp :: JavaScript Popup Boxes
+http://www.w3schools.com/js/js_popup.asp :: JavaScript Popup Boxes
+http://www.w3schools.com/cssref/css3_pr_filter.asp :: CSS3 filter Property
+http://www.w3schools.com/cssref/css3_pr_filter.asp :: CSS3 filter Property
+http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim :: Trump’s executive order on refugees closes America to those who need it most - Vox
+http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim :: Trump’s executive order on refugees closes America to those who need it most - Vox
+http://www.w3schools.com/cssref/pr_border-color.asp :: CSS border-color property
+http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim :: Trump’s executive order on refugees closes America to those who need it most - Vox
+http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim :: Trump’s executive order on refugees closes America to those who need it most - Vox
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.w3schools.com/cssref/pr_border-color.asp :: CSS border-color property
+http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim :: Trump’s executive order on refugees closes America to those who need it most - Vox
+http://www.w3schools.com/cssref/pr_border-color.asp :: CSS border-color property
+http://www.w3schools.com/cssref/pr_border-color.asp :: CSS border-color property
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.w3schools.com/cssref/pr_border-color.asp :: CSS border-color property
+http://www.urbandictionary.com/define.php?term=soccer&defid=1232057 :: Urban Dictionary: soccer
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.urbandictionary.com/define.php?term=video%20selfie :: Urban Dictionary: video selfie
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.w3schools.com/cssref/pr_pos_overflow.asp :: CSS overflow property
+http://www.urbandictionary.com/define.php?term=popular :: Urban Dictionary: popular
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.urbandictionary.com/define.php?term=preachy :: Urban Dictionary: preachy
+http://www.urbandictionary.com/define.php?term=soccer&defid=1232057 :: Urban Dictionary: soccer
+http://www.urbandictionary.com/define.php?term=pedestalize :: Urban Dictionary: pedestalize
+http://www.urbandictionary.com/define.php?term=video%20selfie :: Urban Dictionary: video selfie
+http://www.urbandictionary.com/define.php?term=pop+culture :: Urban Dictionary: pop culture
+http://www.urbandictionary.com/define.php?term=popular :: Urban Dictionary: popular
+http://www.urbandictionary.com/define.php?term=nice+guy&defid=1092863 :: Urban Dictionary: nice guy
+http://www.urbandictionary.com/define.php?term=preachy :: Urban Dictionary: preachy
+http://www.urbandictionary.com/define.php?term=nightclub :: Urban Dictionary: nightclub
+http://www.urbandictionary.com/define.php?term=nads :: Urban Dictionary: nads
+http://www.urbandictionary.com/define.php?term=pedestalize :: Urban Dictionary: pedestalize
+http://www.urbandictionary.com/define.php?term=pop+culture :: Urban Dictionary: pop culture
+http://www.urbandictionary.com/define.php?term=nice+guy :: Urban Dictionary: nice guy
+http://www.urbandictionary.com/define.php?term=nice+guy&defid=1092863 :: Urban Dictionary: nice guy
+http://www.urbandictionary.com/define.php?term=Mainstream :: Urban Dictionary: Mainstream
+http://www.urbandictionary.com/define.php?term=nightclub :: Urban Dictionary: nightclub
+http://www.urbandictionary.com/define.php?term=Moral%20High%20Ground :: Urban Dictionary: Moral High Ground
+http://www.urbandictionary.com/define.php?term=hole+in+the+wall :: Urban Dictionary: hole in the wall
+http://www.urbandictionary.com/define.php?term=nads :: Urban Dictionary: nads
+http://www.urbandictionary.com/define.php?term=hugger :: Urban Dictionary: hugger
+http://www.urbandictionary.com/define.php?term=nice+guy :: Urban Dictionary: nice guy
+http://www.urbandictionary.com/define.php?term=high+heels :: Urban Dictionary: high heels
+http://www.urbandictionary.com/define.php?term=Mainstream :: Urban Dictionary: Mainstream
+http://www.urbandictionary.com/define.php?term=Moral%20High%20Ground :: Urban Dictionary: Moral High Ground
+http://www.urbandictionary.com/define.php?term=hole+in+the+wall :: Urban Dictionary: hole in the wall
+http://www.urbandictionary.com/define.php?term=hugger :: Urban Dictionary: hugger
+http://www.urbandictionary.com/define.php?term=doggy%20style :: Urban Dictionary: doggy style
+http://www.urbandictionary.com/define.php?term=Moral%20High%20Ground :: Urban Dictionary: Moral High Ground
+http://www.urbandictionary.com/define.php?term=fart%20box :: Urban Dictionary: fart box
+http://www.urbandictionary.com/define.php?term=fucktard :: Urban Dictionary: fucktard
+http://www.urbandictionary.com/define.php?term=disco :: Urban Dictionary: disco
+http://www.urbandictionary.com/define.php?term=high+heels :: Urban Dictionary: high heels
+http://www.urbandictionary.com/define.php?term=doggy%20style :: Urban Dictionary: doggy style
+http://www.urbandictionary.com/define.php?term=daytime+tv :: Urban Dictionary: daytime tv
+http://www.urbandictionary.com/define.php?term=fart%20box :: Urban Dictionary: fart box
+http://www.urbandictionary.com/define.php?term=Dirty%20Pool :: Urban Dictionary: Dirty Pool
+http://www.urbandictionary.com/define.php?term=fucktard :: Urban Dictionary: fucktard
+http://www.urbandictionary.com/define.php?term=disco :: Urban Dictionary: disco
+http://www.urbandictionary.com/define.php?term=fucktard :: Urban Dictionary: fucktard
+http://www.urbandictionary.com/define.php?term=cute&defid=340279 :: Urban Dictionary: cute
+http://www.urbandictionary.com/define.php?term=dancefloor :: Urban Dictionary: dancefloor
+http://www.urbandictionary.com/define.php?term=daytime+tv :: Urban Dictionary: daytime tv
+http://www.urbandictionary.com/define.php?term=cute :: Urban Dictionary: cute
+http://www.urbandictionary.com/define.php?term=Dirty%20Pool :: Urban Dictionary: Dirty Pool
+http://www.urbandictionary.com/define.php?term=Boffin&defid=3821955 :: Urban Dictionary: Boffin
+http://www.urbandictionary.com/define.php?term=cute&defid=1128857 :: Urban Dictionary: cute
+http://www.urbandictionary.com/define.php?term=Boffin&defid=683679 :: Urban Dictionary: Boffin
+http://www.w3schools.com/html/html_formatting.asp :: HTML Text Formatting
+http://www.urbandictionary.com/browse.php?word=the%20eternal%20pendulum :: Urban Dictionary: the eternal pendulum to The Faculty
+http://www.urbandictionary.com/define.php?term=cute&defid=340279 :: Urban Dictionary: cute
+http://www.urbandictionary.com/define.php?term=BFF :: Urban Dictionary: BFF
+http://www.urbandictionary.com/define.php?term=dancefloor :: Urban Dictionary: dancefloor
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.unixgeeks.org/security/newbie/unix/cron-1.html :: (Could not determine)
+http://www.urbandictionary.com/define.php?term=cute :: Urban Dictionary: cute
+http://www.urbandictionary.com/define.php?term=Boffin&defid=3821955 :: Urban Dictionary: Boffin
+http://www.urbandictionary.com/define.php?term=Boffin&defid=683679 :: Urban Dictionary: Boffin
+http://www.upi.com/Archives/1981/02/28/Soccer-authorities-have-slapped-a-one-month-ban-on-Dr/9680352184400/ :: Soccer authorities have slapped a one-month ban on Dr.... - UPI Archives
+http://www.urbandictionary.com/browse.php?word=the%20eternal%20pendulum :: Urban Dictionary: the eternal pendulum to The Faculty
+http://www.urbandictionary.com/define.php?term=BFF :: Urban Dictionary: BFF
+http://www.urbandictionary.com/define.php?term=cute&defid=1128857 :: Urban Dictionary: cute
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.transfermarkt.co.uk/atletico-madrid_ajax-amsterdam/index/spielbericht/993962 :: Atlético Madrid - Ajax Amsterdam, Mar 19, 1997 - UEFA Champions League - Match sheet | Transfermarkt
+http://www.transfermarkt.co.uk/atletico-madrid_ajax-amsterdam/index/spielbericht/993962 :: Atlético Madrid - Ajax Amsterdam, Mar 19, 1997 - UEFA Champions League - Match sheet | Transfermarkt
+http://www.transfermarkt.co.uk/atletico-madrid_ajax-amsterdam/index/spielbericht/993962 :: Atlético Madrid - Ajax Amsterdam, Mar 19, 1997 - UEFA Champions League - Match sheet | Transfermarkt
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.totalsportek.com/money/spanish-la-liga-tv-rights-sale-equal-distribution-model/ :: Spanish La Liga TV Rights Sale &amp; Equal Distribution 2016-17 Season
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.totalsportek.com/money/spanish-la-liga-tv-rights-sale-equal-distribution-model/ :: Spanish La Liga TV Rights Sale &amp; Equal Distribution 2016-17 Season
+http://www.tldp.org/HOWTO/HighQuality-Apps-HOWTO/boot.html :: Starting Your Software Automatically on Boot
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.tldp.org/HOWTO/HighQuality-Apps-HOWTO/boot.html :: Starting Your Software Automatically on Boot
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.thisisanfield.com/2017/01/liverpools-record-overturning-first-leg-losses-league-cup-semi-finals/ :: Liverpool’s record overturning first leg losses in League Cup semi-finals - This Is Anfield
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.thisisanfield.com/2016/12/boxing-day-best-worst-liverpool-last-decade/ :: Liverpool's best and worst Boxing Day games of the last decade - This Is Anfield
+http://www.thisisanfield.com/2016/12/boxing-day-best-worst-liverpool-last-decade/ :: Liverpool's best and worst Boxing Day games of the last decade - This Is Anfield
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.wsj.com/articles/SB121380099670884545 :: (Could not determine)
+http://www.thisisanfield.com/2017/01/liverpools-record-overturning-first-leg-losses-league-cup-semi-finals/ :: Liverpool’s record overturning first leg losses in League Cup semi-finals - This Is Anfield
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.thisisanfield.com/2016/12/boxing-day-best-worst-liverpool-last-decade/ :: Liverpool's best and worst Boxing Day games of the last decade - This Is Anfield
+http://www.thisisanfield.com/2017/01/liverpools-record-overturning-first-leg-losses-league-cup-semi-finals/ :: Liverpool’s record overturning first leg losses in League Cup semi-finals - This Is Anfield
+http://www.thisisanfield.com/2016/11/can-bring-success-skys-limit-ian-ayre-hails-liverpool-stability/ :: "The sky's the limit" says Ian Ayre as outgoing CEO hails stability under Klopp and FSG - This Is Anfield
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.thisisanfield.com/2017/01/liverpools-record-overturning-first-leg-losses-league-cup-semi-finals/ :: Liverpool’s record overturning first leg losses in League Cup semi-finals - This Is Anfield
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.theverge.com/2017/1/28/14424104/google-trump-executive-order-entry-visas-google-ordered-recall :: Following Trump’s executive order on entry visas, Google orders staff back to US - The Verge
+http://www.thisisanfield.com/2016/12/boxing-day-best-worst-liverpool-last-decade/ :: Liverpool's best and worst Boxing Day games of the last decade - This Is Anfield
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.theverge.com/2013/1/16/3740422/the-life-and-death-of-the-american-arcade-for-amusement-only :: For Amusement Only: the life and death of the American arcade | The Verge
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.thinkadvisor.com/2014/06/20/bonds-limited-upside-points-to-role-for-gold-says :: ‘Bonds’ Limited Upside’ Points to Role for Gold, Says Gold Council
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.thisisanfield.com/2016/11/can-bring-success-skys-limit-ian-ayre-hails-liverpool-stability/ :: "The sky's the limit" says Ian Ayre as outgoing CEO hails stability under Klopp and FSG - This Is Anfield
+http://www.thesimpledollar.com/why-you-shouldnt-buy-gold-as-a-hedge-against-devastation/ :: Why You Shouldn't Buy Gold as a "Hedge" Against Devastation - The Simple Dollar
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.theunixschool.com/2011/08/fold-files-using-fold-command.html?m=1 :: The UNIX School: Fold files using fold command
+http://www.theverge.com/2016/6/23/12020510/apple-thunderbolt-display-discontinued :: Apple is discontinuing the only monitor it makes, the Thunderbolt Display - The Verge
+http://www.theprimalmale.com/news-media-is-just-another-form-of-entertainment/ :: News Media is Just Another Form of Entertainment - THE PRIMAL MALE
+http://www.thinkadvisor.com/2014/06/20/bonds-limited-upside-points-to-role-for-gold-says :: ‘Bonds’ Limited Upside’ Points to Role for Gold, Says Gold Council
+http://www.trustedreviews.com/opinions/curved-tvs-the-pros-and-cons :: Curved TVs: The Pros and Cons
+http://www.tvguide.com/tvshows/saturday-night-live/tv-listings/100385/ :: Saturday Night Live TV Listings, TV Schedule and Episode Guide | TVGuide.com
+http://www.themiddlemarket.com/news/index.html?zkDo=showRSS :: (Could not determine)
+http://www.ukgameshows.com/ukgs/History_of_the_Game_Show#Mid_1980s :: History of the Game Show - UKGameshows
+http://www.themiddlemarket.com/rss/ :: RSS/XML
+http://www.thesaurus.com/browse/disciplinarian :: Disciplinarian Synonyms, Disciplinarian Antonyms | Thesaurus.com
+http://www.thesaurus.com/browse/disciplinarian :: Disciplinarian Synonyms, Disciplinarian Antonyms | Thesaurus.com
+http://www.thesimpledollar.com/where-does-7-come-from-when-it-comes-to-long-term-stock-returns/ :: Average Stock Market Return: Where Does 7% Come From? - The Simple Dollar
+http://www.thesimpledollar.com/where-does-7-come-from-when-it-comes-to-long-term-stock-returns/ :: Average Stock Market Return: Where Does 7% Come From? - The Simple Dollar
+http://www.theverge.com/2016/6/23/12020510/apple-thunderbolt-display-discontinued :: Apple is discontinuing the only monitor it makes, the Thunderbolt Display - The Verge
+http://www.thelinuxdaily.com/2010/04/set-linux-terminal-console-column-width/ :: (Could not determine)
