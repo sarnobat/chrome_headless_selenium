@@ -7,6 +7,9 @@ groovy headless.groovy ~/github/chrome_headless/chromedriver_mac 'www.bbc.co.uk'
 groovy headless.groovy ~/github/chrome_headless/chromedriver_linux64  'www.bbc.co.uk' | tee out.html
 groovy biggest_image.groovy 'www.teamtalk.com' | tee biggest_image.txt
 
-# This works over SSH on nuc with no -X. 99 corresponds to port 6099.
+# This works over SSH on nuc (but not barebones) with no -X. 99 corresponds to port 6099.
 Xvfb :99 -ac
 DISPLAY=:99 groovy headless.groovy ~/github/chrome_headless/chromedriver_linux64  'www.bbc.co.uk' | tee out.html
+
+# This works on Mac OS locally
+DISPLAY=:99 groovy headless.groovy ~/github/chrome_headless/chromedriver_mac32    'www.bbc.co.uk' | tee out.html
