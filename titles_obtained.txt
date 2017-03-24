@@ -4397,3 +4397,7 @@ http://stackoverflow.com/questions/35050704/apache-commons-cli-replacement-for-d
 http://stackoverflow.com/questions/1524661/the-best-cli-parser-for-java
 http://www.thinkplexx.com/blog/simple-apache-commons-cli-example-java-command-line-arguments-parsing
 https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=representing%20a%20heap%20in%20plaintext&oq=representing%20a%20heap%20in%20plaintext&aqs=chrome..69i57.5556j0j7
+https://podcasts.ox.ac.uk/series/surgical-grand-rounds-lectures
+https://podcasts.ox.ac.uk/series/theoretical-physics-outer-space-plasma
+https://podcasts.ox.ac.uk/series/translational-medicine
+https://podcasts.ox.ac.uk/series/uehiro-centre-practical-ethics
