@@ -4427,3 +4427,7 @@ Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
 https://telerevision.wordpress.com/2011/02/14/narrative-and-plot-in-the-simpsons-s22-e13/
 http://www.listenandlearn.com.au/wp-content/uploads/2014/10/research_APD1.pdf
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   21312
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
