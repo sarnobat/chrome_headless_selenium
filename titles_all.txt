@@ -4573,3 +4573,1097 @@ https://assetbuilder.com/knowledge-center/articles/competition-has-eliminated-br
 https://aws.amazon.com/developers/getting-started/browser/ :: JavaScript in the Browser
 https://aws.amazon.com/efs/?p=tile :: Amazon Elastic File System (Amazon EFS) – Cloud File Storage – Amazon Web Services (AWS)
 https://bbs.archlinux.org/viewtopic.php?id=213396 :: Auto mounting of smb shares with dollar sign / Networking, Server, and Protection / Arch Linux Forums
+https://bl.ocks.org/cjrd/6863459 :: Interactive tool for creating directed graphs using d3.js. - bl.ocks.org
+https://bl.ocks.org/emeeks/f2f6883ac7c965d09b90 :: Networks - Graphs 7 - bl.ocks.org
+https://blog.bufferapp.com/the-science-of-smiling-a-guide-to-humans-most-powerful-gesture :: The Science of Smiling &amp; Why It's So Powerful | Buffer Blog
+https://blog.filestage.io/storytelling-techniques-for-brands-ad-campaigns/ :: 12 Storytelling Techniques to Create an Effective Ad Campaign
+https://blog.oup.com/2007/08/adverb/ :: Do it Real Quick, Or The Death of the Adverb | OUPblog
+https://blogs.microsoft.com/on-the-issues/2015/04/03/microsoft-announces-pilot-program-to-hire-people-with-autism/#sm.00001wsmgd4fl5f9uzdot76pqy8iy :: Microsoft announces pilot program to hire people with autism - Microsoft on the Issues
+https://books.google.com/books/about/Newsreel.html?id=DB8XAQAAMAAJ :: Newsreel: Documentary Filmmaking on the American Left (1971-1975). - Bill Nichols - Google Books
+https://books.google.com/books?id=DPfdCwAAQBAJ&pg=PA30&lpg=PA30&dq=documentary+dramatic+structure&source=bl&ots=uVDtY43HhE&sig=XJvWBKud_oSundTrDtG2bCjtO6M&hl=en&sa=X&ved=0ahUKEwiq_cPBj6DTAhUIrVQKHVD5Cuc4ChDoAQgdMAE#v=onepage&q=documentary%20dramatic%20structure&f=false :: Documentary Voice &amp; Vision: A Creative Approach to Non-Fiction Media Production - Kelly Anderson, Martin Lucas - Google Books
+https://books.google.com/books?id=egcXCgAAQBAJ&printsec=frontcover&dq=Feature+and+Narrative+Storytelling+for+multimedia&hl=en&sa=X&ved=0ahUKEwjX9Oqt0uHSAhVE32MKHU_XB7MQ6wEIKjAC#v=onepage&q=Feature%20and%20Narrative%20Storytelling%20for%20multimedia&f=false :: Multimedia Storytelling for Digital Communicators in a Multiplatform World - Seth Gitner - Google Books
+https://books.google.com/books?id=inL2CgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false :: Documentary Screens: Nonfiction Film and Television - Keith Beattie - Google Books
+https://books.google.com/books?id=JnO_VCuH7scC&pg=PA114&lpg=PA114&dq=gender+differences+before+puberty&source=bl&ots=LI2dRAeiNp&sig=K9TQzgbSnZzZiQZFF7zITaLBVus&hl=en&sa=X&ved=0ahUKEwiBxYSBm6rTAhUJxmMKHd9UANwQ6AEIOTAJ#v=onepage&q=gender%20differences%20before%20puberty&f=false :: Gender Differences at Puberty - Google Books
+https://books.google.com/books?id=K3YcBgAAQBAJ&printsec=frontcover&dq=Feature+and+Narrative+Storytelling+for+multimedia&hl=en&sa=X&ved=0ahUKEwjX9Oqt0uHSAhVE32MKHU_XB7MQ6wEIHTAA#v=onepage&q=Feature%20and%20Narrative%20Storytelling%20for%20multimedia&f=false :: Feature and Narrative Storytelling for Multimedia Journalists - Duy Linh Tu - Google Books
+https://books.google.com/books?id=PgmOAgAAQBAJ&pg=PA121&lpg=PA121&dq=female+modesty+male+ego&source=bl&ots=L07qLvNU1B&sig=bR37PshKHSs2zJAndqW9U0fVEhM&hl=en&sa=X&ved=0ahUKEwjr0v-ivrnSAhXph1QKHdfkDh44ChDoAQgZMAA#v=onepage&q=female%20modesty%20male%20ego&f=false :: Envy, Competition and Gender: Theory, Clinical Applications and Group Work - Google Books
+https://books.google.com/books?id=utEBCgAAQBAJ&printsec=frontcover&dq=Feature+and+Narrative+Storytelling+for+multimedia&hl=en&sa=X&ved=0ahUKEwjX9Oqt0uHSAhVE32MKHU_XB7MQ6wEIIzAB#v=onepage&q=Feature%20and%20Narrative%20Storytelling%20for%20multimedia&f=false :: The Principles of Multimedia Journalism: Packaging Digital News - Richard Koci Hernandez, Jeremy Rue - Google Books
+https://budts.be/weblog/2012/08/ssh-authentication-with-your-pgp-key :: SSH authentication with your PGP key | teranex weblog
+https://buffer.com/ :: Buffer - A Smarter Way to Share on Social Media
+https://bugs.launchpad.net/ubuntu/+source/autofs/+bug/1680224 :: Bug #1680224 “auto.smb fails on Windows administrative shares” : Bugs : autofs package : Ubuntu
+https://bugzilla.redhat.com/show_bug.cgi?id=430113 :: Bug 430113 – autofs unable to parse cifs map entry
+https://carvesite.wordpress.com/2014/12/09/male-female-facial-features/ :: Male-Female Facial Features | CARVING WITH IVAN WHILLOCK
+https://chromedriver.storage.googleapis.com/index.html?path=2.19/ :: (Could not determine)
+https://cooking.stackexchange.com/questions/57562/is-it-possible-to-substitute-butter-with-egg-yolks-in-cookie-dough/57594#57594?newreg=c2da644cb03340679b4597a94d7dc86f :: Is it possible to substitute butter with egg yolks in cookie dough? - Seasoned Advice
+https://courseworks2.columbia.edu/courses/821/pages/narrative-writing-the-rise-and-fall-story :: Narrative Writing: The Rise and Fall Story: Journalism School Students
+https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/ :: Collection of Less Commonly Used Commands
+https://design.tutsplus.com/articles/cartoon-fundamentals-how-to-draw-the-female-form--vector-22024 :: Cartoon Fundamentals: How to Draw the Female Form
+https://discussions.apple.com/thread/7705504?start=0&tstart=0 :: (timeout)
+https://docs.google.com/spreadsheets/d/1xDtpEDRt9UcMk48ai8jVWXIfNC5M-Xv2A1EKcHl4U4M/edit#gid=0 :: (timeout)
+https://docs.mongodb.com/manual/reference/operator/update/push/#example-push-each :: $push — MongoDB Manual 3.4
+https://docs.mongodb.com/manual/reference/operator/update/push/#op._S_push :: $push — MongoDB Manual 3.4
+https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-packaging.html :: Self-Contained Application Packaging
+https://docs.python.org/3.1/library/getopt.html :: 15.5. getopt — Parser for command line options — Python v3.1.5 documentation
+https://drfone.wondershare.com/notes/iphone-notes-duplicate.html :: iPhone Notes Help - How to Get Rid of Duplicated Notes on iPhone
+https://drscdn.500px.org/photo/49504796/q=80_m=2000/f28512eb79ce757879c4dd480e934b28 :: f28512eb79ce757879c4dd480e934b28 (714×1000)
+http://sdtimes.com/coding-autism-creates-program-teach-adults-disorder-fundamentals-development/ :: Coding Autism creates program to teach adults with disorder the fundamentals of development - SD Times
+https://dzone.com/articles/a-detailed-breakdown-of-the-jvm?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava :: (Could not determine)
+https://dzone.com/articles/csv-operations-using-opencsv :: (Could not determine)
+https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava :: (Could not determine)
+http://searchenterpriselinux.techtarget.com/definition/shell :: What is shell? - Definition from WhatIs.com
+http://searchstorage.techtarget.com/essentialguide/The-rise-of-scale-out-network-attached-storage :: 
+https://earth.stanford.edu/sites/default/files/San_Andreas_Fault_Trail.pdf :: (Could not determine)
+http://seekingalpha.com/article/3780926-vbinx-index-fund-worth-investing-childrens-future :: VBINX: Is This Index Fund Worth Investing In For Your Children's Future? - Vanguard Balanced Index Fund Inv (MUTF:VBINX) | Seeking Alpha
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHecARhE6z65hPo4rMTBKIakKeETJJDq0FZp5kCujgyLy6A-chrg :: images (275×183)
+https://english.stackexchange.com/questions/44943/why-has-southern-us-english-all-but-abandoned-adverb-forms :: dialects - Why has Southern US English all but abandoned adverb forms? - English Language &amp; Usage Stack Exchange
+https://en.m.wikipedia.org/wiki/Amsterdam_Tournament :: Amsterdam Tournament - Wikipedia
+https://en.m.wikipedia.org/wiki/Fragile_X_syndrome :: Fragile X syndrome - Wikipedia
+https://en.m.wikipedia.org/wiki/Heysel_Stadium_disaster :: Heysel Stadium disaster - Wikipedia
+https://en.m.wikipedia.org/wiki/Investment_fund :: Investment fund - Wikipedia
+https://en.m.wikipedia.org/wiki/Life_imitating_art :: Life imitating art - Wikipedia
+https://en.m.wikipedia.org/wiki/List_of_independent_wrestling_promotions_in_the_United_States#California :: List of independent wrestling promotions in the United States - Wikipedia
+https://en.m.wikipedia.org/wiki/List_of_land-grant_universities :: List of land-grant universities - Wikipedia
+https://en.m.wikipedia.org/wiki/List_of_Linux_audio_software :: List of Linux audio software - Wikipedia
+https://en.m.wikipedia.org/wiki/Mercator_projection :: Mercator projection - Wikipedia
+https://en.m.wikipedia.org/wiki/Money_for_Nothing:_Inside_the_Federal_Reserve :: Money for Nothing: Inside the Federal Reserve - Wikipedia
+https://en.m.wikipedia.org/wiki/Newsreel :: Newsreel - Wikipedia
+https://en.m.wikipedia.org/wiki/Pretty_Good_Privacy#PGP_Corporation_encryption_applications :: Pretty Good Privacy - Wikipedia
+https://en.m.wikipedia.org/wiki/SoX :: SoX - Wikipedia
+https://en.m.wikipedia.org/wiki/Sting_(musical_phrase) :: Sting (musical phrase) - Wikipedia
+https://en.m.wikipedia.org/wiki/Super-server :: Super-server - Wikipedia
+https://en.m.wikipedia.org/wiki/With-profits_policy :: With-profits policy - Wikipedia
+https://en.wikipedia.org/wiki/Actuality_film :: Actuality film - Wikipedia
+https://en.wikipedia.org/wiki/Blackout_(broadcasting) :: Blackout (broadcasting) - Wikipedia
+https://en.wikipedia.org/wiki/Catamorphism :: Catamorphism - Wikipedia
+https://en.wikipedia.org/wiki/Dewey_Decimal_Classification :: Dewey Decimal Classification - Wikipedia
+https://en.wikipedia.org/wiki/Dissociative_identity_disorder :: Dissociative identity disorder - Wikipedia
+https://en.wikipedia.org/wiki/Documentary_film#Narration_styles :: Documentary film - Wikipedia
+https://en.wikipedia.org/wiki/East_London_Tech_City :: East London Tech City - Wikipedia
+https://en.wikipedia.org/wiki/Eco-terrorism :: Eco-terrorism - Wikipedia
+https://en.wikipedia.org/wiki/English_football_on_television#Rise_of_live_League_coverage :: English football on television - Wikipedia
+https://en.wikipedia.org/wiki/Flypaper_effect :: Flypaper effect - Wikipedia
+https://en.wikipedia.org/wiki/Hebbian_theory#Hebbian_learning_account_of_mirror_neurons :: Hebbian theory - Wikipedia
+https://en.wikipedia.org/wiki/Hydrazine :: Hydrazine - Wikipedia
+https://en.wikipedia.org/wiki/Line_of_beauty :: Line of beauty - Wikipedia
+https://en.wikipedia.org/wiki/List_of_film_schools_in_the_United_States :: List of film schools in the United States - Wikipedia
+https://en.wikipedia.org/wiki/List_of_Nova_episodes :: List of Nova episodes - Wikipedia
+https://en.wikipedia.org/wiki/List_of_technology_centers :: List of technology centers - Wikipedia
+https://en.wikipedia.org/wiki/Long-form_journalism :: Long-form journalism - Wikipedia
+https://en.wikipedia.org/wiki/Mutual_insurance#United_Kingdom :: Mutual insurance - Wikipedia
+https://en.wikipedia.org/wiki/Null_Island :: Null Island - Wikipedia
+https://en.wikipedia.org/wiki/Pandoc :: Pandoc - Wikipedia
+https://en.wikipedia.org/wiki/Pay_it_forward :: Pay it forward - Wikipedia
+https://en.wikipedia.org/wiki/Sega_Classics_Arcade_Collection :: Sega Classics Arcade Collection - Wikipedia
+https://en.wikipedia.org/wiki/Serial_position_effect :: Serial position effect - Wikipedia
+https://en.wikipedia.org/wiki/Story_within_a_story :: Story within a story - Wikipedia
+https://en.wikipedia.org/wiki/Strip_mall :: Strip mall - Wikipedia
+https://en.wikipedia.org/wiki/Television_documentary :: Television documentary - Wikipedia
+https://en.wikipedia.org/wiki/The_dog_ate_my_homework :: The dog ate my homework - Wikipedia
+https://en.wikipedia.org/wiki/The_Incredible_Human_Journey :: The Incredible Human Journey - Wikipedia
+https://en.wikipedia.org/wiki/Underscoring :: Underscoring - Wikipedia
+https://en.wikipedia.org/wiki/Uninterruptible_power_supply :: Uninterruptible power supply - Wikipedia
+https://en.wikipedia.org/wiki/Video_journalism :: Video journalism - Wikipedia
+https://en.wikipedia.org/wiki/Visual_journalism :: Visual journalism - Wikipedia
+https://en.wikipedia.org/wiki/War_of_Currents :: War of Currents - Wikipedia
+https://en.wikipedia.org/wiki/Weak_central_coherence_theory :: Weak central coherence theory - Wikipedia
+https://en.wikipedia.org/wiki/Welfare_capitalism :: Welfare capitalism - Wikipedia
+https://en.wikipedia.org/wiki/Yakutsk :: Yakutsk - Wikipedia
+https://en.wikiversity.org/wiki/Filmmaking :: Filmmaking - Wikiversity
+https://en.wikiversity.org/wiki/LaTeX/helloworld.tex :: LaTeX/helloworld.tex - Wikiversity
+https://en.wikiversity.org/wiki/Video_journalism :: Video journalism - Wikiversity
+https://en.wikiversity.org/wiki/Video_journalism/Telling_Stories :: Video journalism/Telling Stories - Wikiversity
+http://sepwww.stanford.edu/oldsep/joe/fault_images/BayAreaSanAndreasFault.html :: The San Andreas fault and the Bay Area
+http://serverfault.com/questions/149682/install-imagemagick-with-jpeg-support-from-ubuntu-packages :: apt - Install imagemagick with jpeg support from ubuntu packages - Server Fault
+http://serverfault.com/questions/170395/adding-png-jpg-support-to-imagemagick-in-php-on-centos :: Adding PNG &amp; JPG support to ImageMagick in PHP on CentOS - Server Fault
+http://serverfault.com/questions/19634/how-to-reconnect-to-a-disconnected-ssh-session :: linux - How to reconnect to a disconnected ssh session - Server Fault
+http://serverfault.com/questions/219615/mount-cifs-share-with-autofs :: redhat - Mount CIFS share with autofs - Server Fault
+http://serverfault.com/questions/249395/shell-check-if-variable-begins-with# :: linux - Shell = Check if variable begins with # - Server Fault
+http://serverfault.com/questions/344181/nice-for-memory-management :: linux - "nice" for memory management - Server Fault
+http://serverfault.com/questions/609365/cifs-mount-in-fstab-succeeds-on-ip-fails-on-hostname-written-in-etc-hosts :: ubuntu - CIFS mount in fstab succeeds on IP, fails on hostname written in /etc/hosts - Server Fault
+https://fieldnet.massmutual.com/public/life/pdfs/li7954.pdf :: (Could not determine)
+https://fi.google.com/about/ :: Project Fi
+https://findmydoppelganger.net/ :: Find My Doppelganger
+https://forums.lime-technology.com/topic/14401-bug-spaces-in-share-names-not-being-fully-quotexportedquot-under-nfs/ :: [BUG] Spaces in share names not being fully "exported" under NFS - General Support (V5 and Older) - Lime Technology
+https://gist.github.com/alonisser/11192482 :: setup-headless-selenium-xvfb.sh · GitHub
+https://gist.github.com/runeb/c11f864cd7ead969a5f0 :: Auto-rotate images locally in the browser by parsing exif data · GitHub
+https://github.com/alebcay/awesome-shell/blob/master/README.md :: awesome-shell/README.md at master · alebcay/awesome-shell · GitHub
+https://github.com/alexkazik/textwrangler-remotecontrol :: GitHub - alexkazik/textwrangler-remotecontrol: Use local TextWrangler from a remote server
+https://github.com/arvindch/pockyt :: GitHub - arvindch/pockyt: automate and manage your pocket collection
+https://github.com/benibela/xidel/ :: GitHub - benibela/xidel: A command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern templates.  It can also create new or transformed XML/HTML/JSON documents.
+https://github.com/benlinton/slugify :: GitHub - benlinton/slugify: Bash command that converts filenames and directories to a web friendly format.
+https://github.com/blueimp/JavaScript-Load-Image/tree/master/js :: JavaScript-Load-Image/js at master · blueimp/JavaScript-Load-Image · GitHub
+https://github.com/classmethod/aurl :: GitHub - classmethod/aurl: Command line utility to make HTTP request with OAuth2
+https://github.com/decklin/curlicue :: GitHub - decklin/curlicue: OAuth wrapper for cURL on the command line
+https://github.com/freshshell/fresh :: GitHub - freshshell/fresh: Keep your dotfiles fresh.
+https://github.com/google/google-api-java-client-samples/tree/master/calendar-cmdline-sample :: google-api-java-client-samples/calendar-cmdline-sample at master · google/google-api-java-client-samples · GitHub
+https://github.com/huydx/facy :: GitHub - huydx/facy: command line power tool for facebook
+https://github.com/jgm/pandoc/issues/3541 :: html input nested lists don't produce tex nested lists · Issue #3541 · jgm/pandoc · GitHub
+https://github.com/jgm/pandoc/issues/844 :: Pandoc (Markdown to HTML) converts some character entities to UTF-8 · Issue #844 · jgm/pandoc · GitHub
+https://github.com/jlevy/procdog :: GitHub - jlevy/procdog: Lightweight command-line process control
+https://github.com/jlevy/the-art-of-command-line :: GitHub - jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/LuRsT/hr :: GitHub - LuRsT/hr: A horizontal for your terminal
+https://github.com/markkolich/blog/blob/master/content/entries/bundle-java-the-jre-and-launch-a-java-app-with-7zip-sfx.md :: blog/bundle-java-the-jre-and-launch-a-java-app-with-7zip-sfx.md at master · markkolich/blog · GitHub
+https://github.com/odb/shml :: GitHub - odb/shml: Style Framework for The Terminal
+https://github.com/pixeline/Yurl :: GitHub - pixeline/Yurl: Yurl is a simple chrome extension that enables you to "bookmark and forget".
+https://github.com/raylee/tldr :: GitHub - raylee/tldr: Simplified and community-driven man pages http://tldr-pages.github.io/
+https://github.com/rcaloras/bashhub-client :: GitHub - rcaloras/bashhub-client: Bash history in the cloud. Indexed and searchable.
+https://github.com/sananth12/ImageScraper :: GitHub - sananth12/ImageScraper: High performance, multi-threaded image scraper
+https://github.com/Sobesednik/exif2css :: GitHub - Sobesednik/exif2css: Convert exif orientation to CSS transform
+https://github.com/tmrts/boilr :: GitHub - tmrts/boilr: boilerplate template manager that generates files or directories from template repositories
+https://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md :: awesome-zsh-plugins/README.md at master · unixorn/awesome-zsh-plugins · GitHub
+https://github.com/unlhcc/autofs :: GitHub - unlhcc/autofs: Clone of git://git.kernel.org/pub/scm/linux/storage/autofs/autofs.git with HCC additions
+https://google.github.io/styleguide/shell.xml :: Shell Style Guide
+https://groups.google.com/forum/#!topic/pandoc-discuss/At_6Nov1jFA :: What does it take to have hyperlink to header in ToC from org-mode markdown to html? - Google Groups
+https://hbr.org/2004/07/when-to-ally-and-when-to-acquire :: When to Ally and When to Acquire
+https://hbr.org/2012/08/adopt-an-immigrant-mindset-to :: Adopt an Immigrant Mindset to Advance Your Career
+https://help.ubuntu.com/community/Autofs :: Autofs - Community Help Wiki
+https://ijnet.org/en/opportunities/documentary-writing-workshop-open-spain :: Documentary writing workshop open [Spain] | IJNet
+http://siliconcitypune.com/wp-content/uploads/2016/08/Siliconcity-Pune.html :: Siliconcity Pune | Pune Calendar 
+https://imgur.com/BuLuquu :: (Could not determine)
+https://internal.nfp.com/webfiles/public/insurance/prodexpert/Historical_Whole_Life_Dividends.pdf :: (Could not determine)
+https://itunes.apple.com/us/podcast/from-parts-unknown-podcast/id979075484?mt=2 :: From Parts Unknown Podcast by From Parts Unknown on Apple Podcasts
+https://itunes.apple.com/us/podcast/madusas-full-throttle-podcast/id1214727595?mt=2 :: Madusa's Full Throttle Podcast by Madusa's Full Throttle Podcast on Apple Podcasts
+https://jsfiddle.net/gerardofurtado/7pvhxfzg/1/ :: D3 force layout with label - JSFiddle
+https://jsfiddle.net/orotemo/obvna6qn/1/ :: Edit fiddle - JSFiddle
+http://slam.canoe.com/SlamWrestlingBiosG/gordy_friends-can.html :: Friends and colleagues talk about 'Bam Bam'
+https://latitudelongitudearch.com/2013/10/27/host-italy/ :: HOST: ITALY | Latitude-Longitude Architecture
+https://leetcode.com/book/ :: Buy A Book | LeetCode
+https://lh3.googleusercontent.com/xSIy3BAhHIOGnswyQFIa_CE6PCQQZmEHueqw1ia4re43B1mF26SvAvjP4oBVeAC-RXBtPC8OkpVBj3OWBOeXNQcKRv__djUvaVZrtv1yk03VnJhBFJunmyq6xkKXEfCdJ580oFtqir4dZkCkgqSdBFiE0uv-HaMZQkzZ6VQkKIfZdHSsPq9-BJi5x2x3y6z6lbufCcB_yQGI1E1jUrDdU2m9cq416PXpnhDajEM8ozulUKeARkhc9SHB4ZcVBFMdPgQPpbuTOhniytw-lgVuK9Z6071sCHH_U0pOa5VPUbo0SAcH7L2wYfvyXIN6NWqzHpuDVRnpfyiLNS_SJFgmjaF1d_GiJY8_t97SgiKNCcVTg_5RoDLax3AaL86A0851DBU9ebjjxrQDOAKk-VimosfQB4xfOd71JHz9LZZKaYBtKJTgf4-iw0E_1IK0v7NiaFIAkgdvw9GKWhxG8LYcaRrtzx6GJJchTLp8uwlZkWDLsFG2QO2HN0hntpAodt6Smd6yjUk5cFfCMxTPJRLIwsPX3pM7entlKu80uacJbmRnv62L3ZSs_dwjRsuGJWO1ZWAvJenVFAd7dZUo4QJye6Dkjq9GKlWj0TLQSIAP9RvYtQv6HLJW=w800-h1052-no :: xSIy3BAhHIOGnswyQFIa_CE6PCQQZmEHueqw1ia4re43B1mF26SvAvjP4oBVeAC-RXBtPC8OkpVBj3OWBOeXNQcKRv__djUvaVZrtv1yk03VnJhBFJunmyq6xkKXEfCdJ580oFtqir4dZkCkgqSdBFiE0uv-HaMZQkzZ6VQkKIfZdHSsPq9-BJi5x2x3y6z6lbufCcB_yQGI1E1jUrDdU2m9cq416PXpnhDajEM8ozulUKeARkhc9SHB4ZcVBFMdPgQPpbuTOhniytw-lgVuK9Z6071sCHH_U0pOa5VPUbo0SAcH7L2wYfvyXIN6NWqzHpuDVRnpfyiLNS_SJFgmjaF1d_GiJY8_t97SgiKNCcVTg_5RoDLax3AaL86A0851DBU9ebjjxrQDOAKk-VimosfQB4xfOd71JHz9LZZKaYBtKJTgf4-iw0E_1IK0v7NiaFIAkgdvw9GKWhxG8LYcaRrtzx6GJJchTLp8uwlZkWDLsFG2QO2HN0hntpAodt6Smd6yjUk5cFfCMxTPJRLIwsPX3pM7entlKu80uacJbmRnv62L3ZSs_dwjRsuGJWO1ZWAvJenVFAd7dZUo4QJye6Dkjq9GKlWj0TLQSIAP9RvYtQv6HLJW=w800-h1052-no (800×1052)
+https://library.stanford.edu/guides/documentary-films :: Documentary Films | Stanford University Libraries
+https://library.stanford.edu/guides/television-studies-television-news :: Television Studies, Television News | Stanford University Libraries
+https://library.stanford.edu/libraries/green/about :: Cecil H. Green Library | Stanford University Libraries
+https://library.stanford.edu/subjects/film-and-media-studies :: Film and media studies | Stanford University Libraries
+https://lists.gnu.org/archive/html/coreutils/2012-11/msg00031.html :: Re: [feature-propsal] mv &amp;&amp; leaving symlink behind
+https://lostboyos.wordpress.com/2012/08/07/wales-and-the-ecwc-the-1990s-a-decade-of-decline/ :: Wales and the ECWC: The 1990s, a decade of decline | Lost Boyos
+https://magento.stackexchange.com/questions/125245/is-there-a-list-of-most-popular-cli-commands-for-magento-2 :: magento2 - Is there a list of most popular CLI commands for Magento 2? - Magento Stack Exchange
+https://martinfowler.com/articles/command-line-google.html :: (Could not determine)
+https://martinfowler.com/eaaCatalog/recordSet.html :: P of EAA: Record Set
+https://mdureiko.wordpress.com/2014/09/23/the-five-generations-theory/ :: The “Five Generations” Theory | Stadium Urbanism
+https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53 :: Goodbye, Object Oriented Programming – Charles Scalfani – Medium
+https://meta.discourse.org/t/is-forum-migration-really-worth-it/7644 :: Is forum migration really worth it? - Discourse Meta
+https://m.facebook.com/When-it-Was-Big-Time-690862621005274/#!/When-it-Was-Big-Time-690862621005274/ :: When it Was Big Time
+https://mobile.twitter.com/aepodcast/status/549506905287454720 :: (Could not determine)
+https://mobile.twitter.com/AtleticoFans/status/842658403281461248?s=08 :: AtléticoFans on Twitter: "What. A. Stat. https://t.co/l8eOFFpulV"
+https://monakhancompany.app.box.com/s/ndlpouwhflkri12ii9nek7t2r2pnb32s :: Box | Simple Online Collaboration: Online File Storage, FTP Replacement, Team Workspaces
+https://mrbill.homeip.net/albums/long_ridge.1993.11.13/pages/page_2.html :: Bill at Lake Ranch Reservoir.
+https://net.educause.edu/ir/library/pdf/eli08167b.pdf :: (Could not determine)
+https://news.ycombinator.com/item?id=1782791 :: (Could not determine)
+https://news.ycombinator.com/item?id=2567186 :: Cool, but obscure Unix tools | Hacker News
+https://news.ycombinator.com/item?id=2932620 :: Would Awk be useful for end user plain text databases? I want to keep a listing ... | Hacker News
+https://opensource.apple.com/ :: Open Source - Releases
+https://opensource.apple.com/source/zsh/zsh-65/zsh/Functions/Misc/zargs.auto.html :: zargs
+https://oracle-base.com/articles/linux/rlwrap :: ORACLE-BASE - rlwrap for Command Line History and Editing in SQL*Plus and RMAN on Linux
+https://paleoleap.com/an-egg-yolk-a-day-keeps-the-doctor-away/ :: An Egg Yolk a Day Keeps the Doctor Away | Paleo Leap
+https://pandoc.org/README.pdf :: (Could not determine)
+https://perishablepress.com/the-5-minute-css-mobile-makeover/ :: The 5-Minute CSS Mobile Makeover | Perishable Press
+https://player.fm/series/the-bbc-academy-podcast/how-to-create-stories-with-sound :: How To Create Stories With Sound - The BBC Academy Podcast (podcast)
+https://plus.google.com/u/0/101477447531067789130 :: (timeout)
+https://pubs.usgs.gov/gip/2006/16/ :: (timeout)
+https://pubs.usgs.gov/gip/2006/16/gip-16_hollister.pdf :: (timeout)
+https://pubs.usgs.gov/gip/2006/16/gip-16_intro.pdf :: (timeout)
+https://pubs.usgs.gov/gip/2006/16/gip-16.pdf :: (Could not determine)
+https://pubs.usgs.gov/gip/2006/16/gip-16_peninsula.pdf :: (Could not determine)
+https://pubs.usgs.gov/gip/2006/16/gip-16_southbay.pdf :: (Could not determine)
+https://pubs.usgs.gov/of/2005/1127/chapter6.pdf :: (Could not determine)
+https://redlightman.com/blog/red-light-triples-testicle-health-function/ :: Red Light ‘Triples Testicle Function’ Studies Show - Red Light Man
+https://retiretxn.fidelity.com/nbretail/definedcontributions/navigation/dc2/inqFundPerformance#boBROAD MARKET BOND I :: Log In to Fidelity Investments
+https://retiretxn.fidelity.com/nbretail/workplacefunds/summary/TDP1?suppressFundFactSheet=true :: Log In to Fidelity Investments
+https://search.alexanderstreet.com/preview/work/1195032?ssotoken=anonymous :: The Art of Documentary Editing | Alexander Street
+https://security.stackexchange.com/questions/30843/how-to-store-a-private-rsa-key-for-an-application :: key management - How to store a private RSA key for an application? - Information Security Stack Exchange
+https://sites.google.com/a/chromium.org/chromedriver/help/chrome-doesn-t-start :: Chrome doesn't start or crashes immediately - ChromeDriver - WebDriver for Chrome
+https://sports.vice.com/en_us/article/breaking-kayfabe-an-inside-look-at-wwes-unlikely-business-empire :: Breaking Kayfabe: An Inside Look at WWE’s Unlikely Business Empire | VICE Sports
+https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/ :: 1434004218154 (535×507)
+https://storageservers.wordpress.com/2015/12/14/the-rise-of-scale-out-network-attached-storage/ :: The rise of scale-out Network Attached Storage! – Storage Servers
+https://stv.tv/sport/football/clubs/celtic/283862-atletico-v-celtic-1974-why-theres-history/ :: Atletico v Celtic 1974: why there's history
+https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell :: vim - Arrow keys don't work when using mosh remote shell - Super User
+https://superuser.com/questions/401926/how-to-get-shiftarrows-and-ctrlarrows-working-in-vim-in-tmux :: How to get shift+arrows and ctrl+arrows working in Vim in tmux? - Super User
+https://superuser.com/questions/446401/power-issues-foxconn-barebones-kit :: reboot - Power issues Foxconn Barebones kit - Super User
+https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs# :: How to identify replacement for power supplies used in small form factor PCs? - Super User
+https://superuser.com/questions/527495/how-to-mount-partition-with-spaces-in-path :: linux - How to mount partition with spaces in path - Super User
+https://superuser.com/questions/904004/bios-has-detected-unsuccessful-post-attempts/1201430#1201430 :: BIOS has detected unsuccessful POST attempt(s) - Super User
+https://superuser.com/questions/98562/way-to-avoid-ssh-connection-timeout-freezing-of-gnome-terminal :: Way to avoid ssh connection timeout &amp; freezing of GNOME Terminal - Super User
+https://support.apple.com/en-us/HT202549 :: Use Messages with your Mac - Apple Support
+https://support.turo.com/hc/en-us :: Turo Support
+https://support.turo.com/hc/en-us/articles/203992860 :: Where are the Turo Valet lots located? – Turo Support
+https://support.turo.com/hc/en-us/articles/204403464-What-is-Turo-Valet- :: What is Valet? – Turo Support
+http://stackoverflow.com/questions/1037927/run-pdflatex-quietly :: latex - Run pdflatex quietly - Stack Overflow
+http://stackoverflow.com/questions/10549504/obtain-name-from-absolute-path-substring-from-last-slash-java-android :: Obtain name from absolute path, substring from last slash, java android - Stack Overflow
+http://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file/42822247#42822247 :: unix command to prepend text to a file - Stack Overflow
+http://stackoverflow.com/questions/10637369/compact-way-to-create-guava-multimaps :: java - Compact way to create Guava Multimaps? - Stack Overflow
+http://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script :: linux - How to include file in a bash shell script - Stack Overflow
+http://stackoverflow.com/questions/11106671/google-maps-api-multiple-markers-with-infowindows :: javascript - Google Maps API Multiple Markers with Infowindows - Stack Overflow
+http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script :: command line - 'echo' without newline in a shell script - Stack Overflow
+http://stackoverflow.com/questions/12026441/is-there-a-way-to-tell-browsers-to-honor-the-jpeg-exif-orientation :: html - Is there a way to tell browsers to honor the jpeg exif orientation? - Stack Overflow
+http://stackoverflow.com/questions/1279953/how-to-execute-the-output-of-a-command-within-the-current-shell :: bash - How to execute the output of a command within the current shell? - Stack Overflow
+http://stackoverflow.com/questions/13497672/change-first-character-on-a-line-with-upper-case-perl :: regex - Change first character on a line with upper case perl - Stack Overflow
+http://stackoverflow.com/questions/13509508/check-if-string-is-neither-empty-not-space-in-shell-script :: bash - Check if string is neither empty nor space in shell script - Stack Overflow
+http://stackoverflow.com/questions/1364826/opening-a-remote-file-with-textwrangler/43335890#43335890 :: terminal - Opening a remote file with TextWrangler - Stack Overflow
+http://stackoverflow.com/questions/13791878/mobile-css-reduce-size-of-everything :: mobile css: reduce size of everything - Stack Overflow
+http://stackoverflow.com/questions/13870265/read-csv-tsv-with-no-header-line-in-d3 :: javascript - read csv/tsv with no header line in D3 - Stack Overflow
+http://stackoverflow.com/questions/15139388/why-dot-inside-square-brackets-doesnt-match-any-character :: java - why dot inside square brackets doesn't match any character? - Stack Overflow
+http://stackoverflow.com/questions/1558719/using-a-remote-repository-with-non-standard-port :: git - Using a remote repository with non-standard port - Stack Overflow
+http://stackoverflow.com/questions/15870390/how-to-append-data-to-an-existing-keys-value-in-mongodb :: how to append data to an existing key's value in mongodb - Stack Overflow
+http://stackoverflow.com/questions/16108601/escape-any-string-from-database-to-store-in-html-id-attribute-that-is-readable-w :: escape any string from database to store in HTML id attribute that is readable with jQuery - Stack Overflow
+http://stackoverflow.com/questions/16260285/d3-removing-elements :: javascript - D3: Removing Elements - Stack Overflow
+http://stackoverflow.com/questions/1648055/preserving-leading-white-space-while-readingwriting-a-file-line-by-line-in-bas :: parsing - Preserving leading white space while reading&gt;&gt;writing a file line by line in bash - Stack Overflow
+http://stackoverflow.com/questions/18049847/when-would-i-use-a-priority-queue :: algorithm - When would I use a priority queue? - Stack Overflow
+http://stackoverflow.com/questions/18115854/unable-to-load-bodystructure-exception-with-an-email-containing-an-eml-file-sen :: gmail - Unable to load BODYSTRUCTURE exception with an email containing an .eml file sent using Thunderbird - Stack Overflow
+http://stackoverflow.com/questions/19132118/d3js-force-directed-mouseover-on-line-link-doesnt-work-properly :: javascript - d3js force-directed, mouseover on line link doesn't work properly - Stack Overflow
+http://stackoverflow.com/questions/1997001/setting-up-a-basic-web-proxy-in-apache :: Setting up a basic web proxy in apache - Stack Overflow
+http://stackoverflow.com/questions/20600800/js-client-side-exif-orientation-rotate-and-mirror-jpeg-images :: javascript - JS Client-Side Exif Orientation: Rotate and Mirror JPEG Images - Stack Overflow
+http://stackoverflow.com/questions/2102499/iterating-through-a-list-in-reverse-order-in-java :: collections - Iterating through a list in reverse order in java - Stack Overflow
+http://stackoverflow.com/questions/21233033/css3-marquee-effect :: css - CSS3 Marquee Effect - Stack Overflow
+http://stackoverflow.com/questions/218608/a-good-library-to-do-url-query-string-manipulation-in-java :: A good library to do URL Query String manipulation in Java - Stack Overflow
+http://stackoverflow.com/questions/23235112/how-to-run-a-series-of-vim-commands-from-command-prompt :: shell - How to run a series of vim commands from command prompt - Stack Overflow
+http://stackoverflow.com/questions/24208889/how-to-specify-numbered-sections-in-pandocs-front-matter :: yaml - How to specify numbered sections in Pandoc's front matter? - Stack Overflow
+http://stackoverflow.com/questions/24658365/img-tag-displays-wrong-orientation :: html - img tag displays wrong orientation - Stack Overflow
+http://stackoverflow.com/questions/2578116/how-can-i-test-if-line-is-empty-in-shell-script :: bash - How can I test if line is empty in shell script? - Stack Overflow
+http://stackoverflow.com/questions/27877210/reading-csv-line-by-line-using-opencsv-and-fifobuffer :: java - Reading CSV line by line using OpenCSV and FifoBuffer - Stack Overflow
+http://stackoverflow.com/questions/28050434/introducing-arrowdirected-in-force-directed-graph-d3 :: javascript - Introducing Arrow(directed), in Force Directed Graph d3 - Stack Overflow
+http://stackoverflow.com/questions/28176590/what-do-double-asterisk-wildcards-mean :: unix - What do double-asterisk wildcards mean? - Stack Overflow
+http://stackoverflow.com/questions/30689896/mongodb-append-some-value-to-a-field :: Mongodb append some value to a field - Stack Overflow
+http://stackoverflow.com/questions/3222649/any-character-including-newline-java-regex :: Any character including newline - Java Regex - Stack Overflow
+http://stackoverflow.com/questions/33638511/differences-between-sponge-and-tee :: linux - Differences between sponge and tee - Stack Overflow
+http://stackoverflow.com/questions/35947858/how-to-convert-listnamevaluepair-into-a-hashmapstring-string :: java - How to convert List&lt;NameValuePair&gt; into a hashMap&lt;String, String&gt;? - Stack Overflow
+http://stackoverflow.com/questions/37474553/drag-and-drop-from-image-onto-another-image :: javascript - Drag and Drop from image onto another image - Stack Overflow
+http://stackoverflow.com/questions/37640027/add-text-label-to-d3-node-in-force-layout :: javascript - Add text label to d3 node in Force layout - Stack Overflow
+http://stackoverflow.com/questions/4035538/is-gnus-java-compiler-gcj-dead :: Is GNU's Java Compiler (GCJ) dead? - Stack Overflow
+http://stackoverflow.com/questions/4175264/bash-retrieve-absolute-path-given-relative :: shell - Bash: retrieve absolute path given relative - Stack Overflow
+http://stackoverflow.com/questions/4494437/jquery-or-javascript-determine-when-image-finished-loading :: jQuery or JavaScript: Determine when image finished loading - Stack Overflow
+http://stackoverflow.com/questions/4678930/why-does-javamail-throw-an-ioexception-if-a-plain-text-message-should-be-opened :: java - Why does Javamail throw an IOException if a plain/text message should be opened? - Stack Overflow
+http://stackoverflow.com/questions/6259202/how-do-i-print-a-groovy-stack-trace :: How do I print a Groovy stack trace? - Stack Overflow
+http://stackoverflow.com/questions/6917219/imagemagick-scale-jpeg-image-with-a-maximum-file-size :: ImageMagick: scale JPEG image with a maximum file-size - Stack Overflow
+http://stackoverflow.com/questions/7381974/which-characters-need-to-be-escaped-on-html :: Which characters need to be escaped on HTML? - Stack Overflow
+http://stackoverflow.com/questions/7584794/accessing-jpeg-exif-rotation-data-in-javascript-on-the-client-side :: Accessing JPEG EXIF rotation data in JavaScript on the client side - Stack Overflow
+http://stackoverflow.com/questions/805418/how-to-find-encoding-of-a-file-in-unix-via-scripts :: shell - How to find encoding of a file in Unix via script(s) - Stack Overflow
+http://stackoverflow.com/questions/8558453/how-to-convert-string-to-reader-in-java :: file io - How to convert String to Reader in java - Stack Overflow
+http://stackoverflow.com/questions/8748831/when-do-we-need-curly-braces-in-variables-using-bash/43623909#43623909 :: shell - When do we need curly braces in variables using Bash? - Stack Overflow
+http://stackoverflow.com/questions/9666102/bash-double-bracket-issue :: linux - bash double bracket issue - Stack Overflow
+http://stadiumdb.com/news/2012/09/italy_cagliari_with_new_stadium_falsestart :: Italy: Cagliari with new stadium false-start – StadiumDB.com
+http://stadiumdb.com/news/2016/11/italy_cagliari_will_build_a_stadium_before_building_a_stadium :: Italy: Cagliari will build a stadium before… building a stadium – StadiumDB.com
+http://stadiumdb.com/news/2017/03/italy_heres_cagliaris_temporary_stadium_in_more_detail :: Italy: Here’s Cagliari’s temporary stadium in more detail – StadiumDB.com
+http://startupseattle.com/resources/map-seattle-startup-ecosystem/ :: Startup Map | StartupSeattle
+https://teacherseducation.wordpress.com/2008/09/13/grammar-wednesday-81/ :: Grammar Wednesday | A Teacher's Education
+https://telegram.org/ :: Telegram Messenger
+https://theartofcharm.com/flirting-and-attraction/smiling-really-make-less-attractive-rebuttal-well-known-psychological-study/ :: Do Women Find Smiling Attractive? | The Study is Wrong
+https://thenewstack.io/docker-fuels-rethinking-operating-system/ :: Rise of the Container-Focused Operating Systems - The New Stack
+https://thepiratebay.org/torrent/5527161/Unsolved_Mysteries_Disc_9 :: Unsolved Mysteries Disc 9 (download torrent) - TPB
+https://therapists.psychologytoday.com/rms/name/Sara_Hyatt_PsyD_San+Jose_California_90476 :: Dr. Sara Hyatt, Psychologist, San Jose, CA 95129 | Psychology Today
+https://therapists.psychologytoday.com/rms/prof_detail.php?profid=121898&ref=12&sid=1492631390.648_22468&city=San+Jose&county=Santa+Clara&state=CA&spec=251&tr=ResultsRow :: Neuropsychological Assessment Group, Psychologist, San Jose, CA 95128 | Psychology Today
+https://therapists.psychologytoday.com/rms/prof_detail.php?profid=90476&ref=18&sid=1492631390.648_22468&city=San+Jose&county=Santa+Clara&state=CA&spec=251&tr=ResultsName :: Dr. Sara Hyatt, Psychologist, San Jose, CA 95129 | Psychology Today
+https://travel.state.gov/content/passports/en/abroad/events-and-records/birth.html :: Birth Abroad
+https://travel.state.gov/content/travel/en/legal-considerations/us-citizenship-laws-policies/citizenship-child-born-abroad.html :: Acquisition of U.S. Citizenship by a Child Born Abroad
+http://study.com/california_film_schools.html :: California Film Schools with Course and Program Summaries
+https://turo.com/ :: Find a rental car or make money renting your car | Turo
+https://twitter.com/hashtag/autismatwork :: #autismatwork hashtag on Twitter
+https://ubuntuforums.org/showthread.php?t=2334934 ::  Ubuntu 16.04 Autofs issues with Admin CIFS shares
+https://uk.answers.yahoo.com/question/index?qid=20100313123836AABPRRC :: Why do the planets shine so brightly? | Yahoo Answers
+https://underdogorganic.com/menu/ :: Menu – Underdog 
+https://upload.wikimedia.org/wikipedia/it/f/fe/Stadio-santelia.jpeg :: Stadio-santelia.jpeg (640×448)
+https://usatoday30.usatoday.com/weather/resources/askjack/archives-western-usa.htm :: USATODAY.com
+https://versus.com/en/san-diego-vs-seattle :: (timeout)
+https://videojournalismworkshops.com/ :: Video Journalism Workshops with Bill Gentile
+https://vi.stackexchange.com/questions/788/how-to-edit-files-non-interactively-e-g-in-pipeline :: command line - How to edit files non-interactively (e.g. in pipeline)? - Vi and Vim Stack Exchange
+https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine-fahrenheit,san-jose-california-us,United-States-of-America :: Weather and Climate - Monthly Averages: San Jose, United States of America
+https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine-fahrenheit,seattle,United-States-of-America :: Weather and Climate - Monthly Averages: Seattle, United States of America
+https://wiki.centos.org/TipsAndTricks/WindowsShares :: TipsAndTricks/WindowsShares - CentOS Wiki
+https://wiki.debian.org/DebianRepository :: DebianRepository - Debian Wiki
+https://worldofcrap.co.uk/tag/90s/ :: 90s – World Of Crap
+https://worldofcrap.co.uk/tag/lego/ :: lego – World Of Crap
+https://www.abilitiesunited.org/ :: Abilities United-
+https://www.amazon.com/forum/-/Tx1F3JYA9Q514RL/-/ref=ask_dp_lsw_al_hza?asin=B01I17W2YK :: Amazon.com: Questions And Answers: The music and photos and videos can be moved off an iPhone with this, can they be moved back?
+https://www.amazon.com/forum/-/Tx2EL4FKWGCVGII/-/ref=ask_dp_lsw_al_hza?asin=B01I17W2YK :: Amazon.com: Questions And Answers: Does the app have an option to "move" photos from your iphone to the flash drive or is it necessary to copy and them 1st and delete from the phone ?
+https://www.amazon.com/forum/-/Tx3QUEBKOIPI152/1/ref=cm_cd_naredir?_encoding=UTF8&asin=B00556F8BU&cdItems=25&cdNewQuestion=1&store=generic&cdPenName= :: Amazon.com: Questions And Answers: My onboard power supply is dying. What part do I need to buy to replace it? I can't find it.
+https://www.amazon.com/forum/-/TxE93XOVSG39GM/-/ref=ask_dp_lsw_al_hza?asin=B01FWAZEIU :: Amazon.com: Questions And Answers: Can i use this for a portable power source? I wanna hook uo a dj mixer on thus and play on a beach boardwalk.
+https://www.amazon.com/gp/aw/s/ref=is_s?k=coding+club :: Amazon.com: coding club
+https://www.amazon.com/gp/aw/s/ref=is_s?k=oragami+folding+cart :: Amazon.com: oragami folding cart
+https://www.amazon.com/gp/aw/s/ref=is_s?k=sound+spotting :: Amazon.com: sound spotting
+https://www.amazon.com/gp/aw/s/ref=is_s?k=visual+storytelling :: Amazon.com: visual storytelling
+https://www.amazon.com/Kayfabe-Secret-Professional-Wrestling-X-plains/dp/0967591716 :: Kayfabe: The Secret World of Professional Wrestling (The X-pert X-plains): Dave Flood: 9780967591711: Amazon.com: Books
+https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=portable+printer+battery&rh=i%3Aaps%2Ck%3Aportable+printer+battery :: Amazon.com: portable printer battery
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=data+cleansing :: Amazon.com: data cleansing
+https://www.architecture.com/explore/stories/thearchitectureoffootballstadiums.aspx :: (timeout)
+https://www.autismresearchcentre.com/contact :: (Could not determine)
+https://www.autismresearchcentre.com/people_baron-cohen :: (Could not determine)
+https://www.autismspeaks.org/what-autism/treatment/early-start-denver-model-esdm :: The Early Start Denver Model (ESDM) | What is Autism?/Treatment | Autism Speaks
+https://www.beyondmenu.com/36336/san-francisco/underdog-san-francisco-94122.aspx :: (Could not determine)
+https://www.bloomberg.com/news/articles/2002-11-03/my-favorite-mutual-fund :: My Favorite Mutual Fund - Bloomberg
+https://www.bogleheads.org/forum/viewtopic.php?t=189075 :: Fidelity equivalent to VBINX (Balanced Index)? - Bogleheads.org
+https://www.boston.com/news/national-news/2017/03/30/good-girl-prom-dress-flyers-draw-criticism-for-florida-school :: ‘Good girl’ prom dress flyers draw criticism for Florida school
+https://www.brainchildmag.com/2015/08/dear-teenaged-girl-in-the-crop-top/ :: Dear Teenaged Girl in the Crop Top | Brain, Child Magazine
+https://www.brainyquote.com/quotes/quotes/j/johannwolf134023.html :: None are more hopelessly enslaved than those who falsely believe they are free. - Johann Wolfgang von Goethe - BrainyQuote
+https://www.broadviewnet.com/blog/2015/06/largest-companies-by-revenue-in-each-state-2015-map/ :: Largest Companies by Revenue in Each State 2015: MAP - Broadview Networks
+https://www.buzzfeed.com/joannaborns/men-telling-women-to-smile?utm_term=.ajKk1VJv4#.qvqxD58rv :: Why Women Should Remember To Smile
+https://www.buzzhero.io/hero :: BuzzHero | Earn up to $5,000 per month interviewing
+https://www.careercup.com/forumpost?id=6220310781100032 :: Microsoft Online Technical Screen | CareerCup 
+https://www.celebjihad.com/kaitlyn/wwe-diva-kaitlyn-nude-photos-leaked :: WWE Diva Kaitlyn Nude Photos Leaked
+https://www.celebslike.me/ :: (Could not determine)
+https://www.coedcherry.com/models/kamilla-18/galleries/105589 :: MPL Studios Presents Kamilla in "Glad Etude" - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/105791 :: MPL Studios Presents Kamilla in "Gladiola" - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/111601 :: MPL Studios Presents Kamilla in "Surfside" - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2233 :: Kamilla shows off her puffy nipples - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2319 :: Kamilla takes off all her clothes for us - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2442 :: Kamilla gets naked for us - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2485 :: Kamilla shows us her fun parts - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2525 :: Two lezzies undressing eash other - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2536 :: Teen strips and stays only in sunglasses - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/2682 :: Three young lesbian hotties posing - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3075 :: Two beautiful girlfriends flashing nude - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3130 :: Tempting brunette teen model stripping - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3495 :: Two young cuties get fully naked and explore their bodies - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3694 :: Exotic beauty slowly strips an a couch - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3838 :: Kamilla and Ivana undressing each other - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18/galleries/3910 :: Sweet Kamilla posing on a leather couch - Coed Cherry
+https://www.coedcherry.com/models/kamilla-18?page=2 :: Kamilla 18 (aka Kamilla MPL Studios) Pictures at Coed Cherry (Page 2)
+https://www.cs.swarthmore.edu/help/vim/variables.html :: vim tips and tricks: variables
+https://www.curejoy.com/ :: CureJoy - Expert advice on Cure, Fitness and Beauty
+https://www.cyberciti.biz/faq/understanding-etcshadow-file/ :: Understanding /etc/shadow file – nixCraft
+https://www.daimer.com/how-a-steam-cleaner-works/ :: Learn How a Steam Cleaner Works Effectively
+https://www.engr.washington.edu/news/trend/aut09_alumni.html :: Alumni Stars | UW College of Engineering
+https://www.eventbrite.com/e/thinking-positive-about-the-future-for-young-adults-with-autism-ld-berkeley-ca-registration-31295240908 :: Thinking Positive About the Future for Young Adults with Autism &amp; LD - Berkeley, CA Registration, Thu, Mar 2, 2017 at 4:00 PM | Eventbrite
+https://www.excelsior-usa.com/articles/java-to-exe.html :: (Could not determine)
+https://www.facebook.com/ATLETINY/videos/1619625008065050/ :: (Could not determine)
+https://www.facebook.com/ben.t.man.50 :: (Could not determine)
+https://www.facebook.com/MeddyBear.Net/photos/a.923158111136797.1073741894.188144997971449/923157851136823/?type=3&theater :: (timeout)
+https://www.facebook.com/monakhancompany/photos/a.1424431224295129.1073741880.125485434189721/1424437417627843/?type=3&theater :: (timeout)
+https://www.facebook.com/pg/BollyWorks/likes/?ref=page_internal :: (timeout)
+https://www.facebook.com/pg/NaliniBollyDance/events/?ref=page_internal :: (timeout)
+https://www.facebook.com/pg/PrashanthiChitreInstituteOfPerformingArts/likes/?ref=page_internal :: (timeout)
+https://www.facebook.com/sara.besharati.10 :: (timeout)
+https://www.fastcodesign.com/3032807/why-england-has-the-best-wall-sockets-on-earth :: (timeout)
+https://www.fastcompany.com/3016324/master-class/how-to-write-a-simpsons-episode-according-to-original-show-writer-al-jean :: (timeout)
+https://www.fastcompany.com/3016324/master-class/how-to-write-a-simpsons-episode-according-to-original-show-writer-al-jean :: (timeout)
+https://www.fastcompany.com/3029084/4-storytelling-tips-from-ken-burns-and-his-latest-film-the-address :: (timeout)
+https://www.fastcompany.com/3062835/microsoft-autism-hiring :: (timeout)
+https://www.flickr.com/photos/38037974@N00/15948284872 :: (timeout)
+https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5dedfe7547d3 :: (timeout)
+https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5dedfe7547d3 :: Forbes Welcome
+https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5f79595647d3 :: (timeout)
+https://www.forbes.com/sites/stevendennis/2017/02/13/sears-is-the-end-finally-in-sight-for-the-worlds-slowest-liquidation-sale/#29a279db1a3d :: (timeout)
+https://www.fourfourtwo.com/features/brief-history-football-grounds :: (timeout)
+https://www.fourfourtwo.com/us/features/elusive-trophy-how-liverpools-greatest-team-failed-rule-world-84 :: (timeout)
+https://www.geekwire.com/2013/mapping-san-francisco-seattle-guide/ :: How San Francisco maps to Seattle: A reference guide - GeekWire
+https://www.geekwire.com/2015/a-silicon-valley-exodus-redfin-analysis-finds-that-bay-area-residents-increasingly-looking-for-homes-in-seattle-and-portland/ :: A Silicon Valley exodus? Redfin analysis finds Bay Area residents are increasingly looking for homes in Seattle and Portland - GeekWire
+https://www.geekwire.com/2015/massive-map-shows-seattles-tech-ecosystem-evolved-last-30-years/ :: This massive map shows how Seattle's tech ecosystem has evolved over the last 30 years - GeekWire
+https://www.gnu.org/prep/standards/html_node/Command_002dLine-Interfaces.html#Command_002dLine-Interfaces :: GNU Coding Standards: Command-Line Interfaces
+https://www.gnu.org/prep/standards/html_node/Option-Table.html#Option-Table :: GNU Coding Standards: Option Table
+https://www.google.com/finance?q=MUTF%3ADODGX&ei=vstZWNHwM8yw2Aa9363wCA :: Dodge &amp; Cox Stock Fund: MUTF:DODGX quotes &amp; news - Google Finance
+https://www.google.com/finance?q=MUTF%3AVBMPX&ei=z81ZWNG4HJHQjAHU9r-IBA :: Vanguard Total Bond Market Index Fund Institutional Plus Shares: MUTF:VBMPX quotes &amp; news - Google Finance
+https://www.google.com/finance?q=MUTF%3AVFINX&ei=T7dZWOnFFYXdjAGe2pnoCw :: Vanguard 500 Index Fund Investor Class: MUTF:VFINX quotes &amp; news - Google Finance
+https://www.google.com/finance?q=vempx&ei=8spZWLm3H4qkjAG29LqoDQ :: Vanguard Extended Market Index Fund Institutional Plus Shares: MUTF:VEMPX quotes &amp; news - Google Finance
+https://www.google.com/finance?q=viiix&ei=cMpZWPHCI8OR2AbQhZrACA :: Vanguard Institutional Index Fund Institutional Plus Shares: MUTF:VIIIX quotes &amp; news - Google Finance
+https://www.google.com/finance?q=vtpsx&ei=estZWODOBczMjAGGtbqoBQ :: Vanguard Total International Stock Index Fund Institutional Plus Shares: MUTF:VTPSX quotes &amp; news - Google Finance
+https://www.google.com/maps/d/viewer?mid=1sMj4JO-7iUvP0rVc3AJgl2QXV7M&hl=en_US&ll=47.606499263180254%2C-122.15910230883787&z=11 :: (timeout)
+https://www.google.com/search?num=40&espv=2&q=bathroom+cleaning+service+san+jose+ca&oq=bathroom+cleaning+service+san+jose+ca&gs_l=serp.3...8983.10275.0.10564.8.7.0.0.0.0.308.502.0j1j0j1.2.0....0...1c.1.64.serp..6.0.0.eymx29CD-_M :: (timeout)
+https://www.google.com/search?num=40&espv=2&q=buying+a+mutual+policy&oq=buying+a+mutual+policy&gs_l=serp.3...46395.48823.0.49115.9.9.0.0.0.0.94.758.9.9.0....0...1c.1.64.serp..0.8.685...0j35i39k1j0i22i30k1j33i160k1j33i21k1.xm7I8vXV4t4 :: (timeout)
+https://www.google.com/search?num=40&espv=2&q=online+processing+vs+batch+processing&oq=online+processing+vs+ba&gs_l=serp.3.0.0j0i22i30k1l2.4785.4928.0.7497.2.2.0.0.0.0.149.283.0j2.2.0....0...1.1.64.serp..0.2.281.mHU6QPTik_c :: (timeout)
+https://www.google.com/search?num=40&espv=2&q=priority+queue+heap+d3.js&oq=priority+queue+heap+d3.js&gs_l=serp.3...28473.28827.0.28940.3.3.0.0.0.0.140.293.2j1.3.0.ulpc%2Ccfro%3D1%2Cstargd-cl%3Dweb-for-rerank-with-language%2Ceulp%3D1%2Celpf%3D1...0...1.1.64.serp..0.2.218...33i160k1j33i21k1.wB96EtoNqqY :: priority queue heap d3.js - Google Search
+https://www.google.com/search?num=40&espv=2&q=refactoring+consultants+uk&oq=refactoring+consultants+uk&gs_l=serp.3...8481.9605.0.16378.3.3.0.0.0.0.109.311.0j3.3.0.ulpc%2Ccfro%3D1%2Cstargd-cl%3Dweb-for-rerank-with-language%2Ceulp%3D1%2Celpf%3D1...0...1.1.64.serp..0.1.102...33i160k1.Puj9S5f9fIo :: refactoring consultants uk - Google Search
+https://www.google.com/search?num=40&espv=2&q=rise+and+fall+story+genre&oq=rise+and+fall+story+genre&gs_l=serp.3..33i21k1l2.12550.16359.0.16535.16.15.0.0.0.0.235.1951.0j7j3.10.0....0...1.1.64.serp..6.8.1571...0j0i22i30k1j35i39k1j0i67k1j0i20k1j33i160k1.3WMNHGTWzH0 :: rise and fall story genre - Google Search
+https://www.google.com/search?num=40&q=beauty+pageants+reinforce+objectification&oq=beauty+pageants+reinforce+objectification&gs_l=serp.3..33i160k1.42205371.42211562.0.42211804.33.24.1.7.8.0.235.2216.0j17j1.18.0....0...1c.1.64.serp..7.26.2242...0j0i22i30k1j33i21k1.UUuzFlkEnC4 :: beauty pageants reinforce objectification - Google Search
+https://www.google.com/search?num=40&q=homer%27s+odyssey+documentary&oq=homer%27s+odyssey+documentary&gs_l=serp.3..0i22i30k1.5433.6868.0.7123.12.11.0.0.0.0.157.1128.6j5.11.0....0...1.1.64.serp..1.11.1126...0j0i20k1j0i67k1.Dd9E2-So8Rg :: homer's odyssey documentary - Google Search
+https://www.google.com/search?num=40&q=life+insurance+dividends&oq=life+insurance+divide&gs_l=serp.3.0.0i20k1l2j0l8.10905.11847.0.12635.6.4.0.2.2.0.87.303.4.4.0....0...1c.1.64.serp..0.6.306.ZV6Teq5QyzA :: life insurance dividends - Google Search
+https://www.google.com/search?num=40&q=simpsons+narrative+techniques&oq=simpsons+narrative+techniques&gs_l=serp.3..33i21k1.6533.7617.0.7755.10.10.0.0.0.0.116.815.6j3.9.0....0...1.1.64.serp..1.9.814...0i22i30k1j33i160k1.e7H37nHyv8M :: simpsons narrative techniques - Google Search
+https://www.google.com/search?num=40&q=vbinx+equivalent+ishares&oq=vbinx+equivalent+ishares&gs_l=serp.3...369643.371959.0.372137.11.11.0.0.0.0.92.779.10.10.0....0...1c.1.64.serp..1.0.0.C0_UdrIfBWU :: vbinx equivalent ishares - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=1659&bih=1164&q=rise+of+the+nas+network+addressable+storage&oq=rise+of+the+nas+network+addressable+storage&gs_l=serp.3..33i21k1.629086.634145.0.634293.28.27.0.0.0.0.163.2320.18j6.24.0....0...1c.1.64.serp..4.20.1868...33i160k1.U4nyNLbBBGM :: rise of the nas network addressable storage - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=1659&bih=856&q=sheffield+wednesday+barnsley+penalty+shootout+1991&oq=sheffield+wednesday+barnsley+penalty+shootout+1991&gs_l=serp.3...1536.6317.0.6845.5.4.1.0.0.0.228.385.2j0j1.3.0....0...1.1.64.serp..1.1.74...35i39k1.ZKW5BaOwd34 :: sheffield wednesday barnsley penalty shootout 1991 - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=2148&bih=904&q=bret+hart+big+breakfast+uk+1999+channel+4&oq=bret+hart+big+breakfast+uk+1999+channel+4&gs_l=serp.3..33i160k1l2.2405.5510.0.5561.10.10.0.0.0.0.102.680.7j1.8.0....0...1.1.64.serp..2.7.602...33i21k1.V_aVFQsNiXw :: bret hart big breakfast uk 1999 channel 4 - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=2148&bih=904&q=listening+and+reading+difficulties+correlation&oq=listening+and+reading+difficulties+correlation&gs_l=serp.3...6985.8470.0.8726.11.11.0.0.0.0.189.1120.5j5.10.0....0...1.1.64.serp..1.8.803...33i21k1j33i160k1.SA2n0k4WCoI :: listening and reading difficulties correlation - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=baron+cohen+theories+autism&oq=baron+cohen+theories+autism&gs_l=serp.3...68267513.68268548.0.68268752.7.7.0.0.0.0.117.555.4j2.6.0....0...1.1.64.serp..1.5.438...0i22i10i30k1j0i22i30k1.wtBnFAG7Jrc :: baron cohen theories autism - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=evolutionary+putpose+of+nipple+arousal&oq=evolutionary+putpose+of+nipple+arousal&gs_l=serp.3..30i10k1.553114.553647.0.554446.2.2.0.0.0.0.74.133.2.2.0....0...1c.1.64.serp..0.1.73.ZfZAUzZ-_IQ :: evolutionary putpose of nipple arousal - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=object+oriented+programming++fever&oq=object+oriented+programming++fever&gs_l=serp.3...3750.4907.0.5108.9.9.0.0.0.0.129.641.2j4.6.0....0...1c.1.64.serp..3.2.232...30i10k1.C9oA_6Cthzc :: object oriented programming  fever - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=respect+your+child%27s+hobbies&spell=1&sa=X&ved=0ahUKEwjUmcT_98rTAhVX12MKHYuOBSQQvwUIJCgA&biw=1141&bih=727 :: respect your child's hobbies - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=sensory+processing+theories+of+autism&spell=1&sa=X&ved=0ahUKEwicxtSHnPPSAhVOxmMKHWftBv0QvwUIGSgA&biw=2148&bih=904 :: sensory processing theories of autism - Google Search
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=titbits+-tidbits&spell=1&sa=X&ved=0ahUKEwj4iJP8psvTAhUCxGMKHbSqAl8QBQgkKAA&biw=1141&bih=727 :: titbits -tidbits - Google Search
+https://www.google.com/search?q=abilities+united&rlz=1CDGOYI_enUS590US590&oq=abilities+&aqs=chrome.1.69i57j0l3.2986j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: abilities united - Google Search
+https://www.google.com/search?q=acquisition+vs+partnership&rlz=1CDGOYI_enUS590US590&oq=acquisition+vs+partnership&aqs=chrome..69i57.6275j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: acquisition vs partnership - Google Search
+https://www.google.com/search?q=age+of+autism+diagnosis+chart&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nisv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimkNPitqLTAhWmrlQKHXtSAzYQ_AUICCgC&biw=320&bih=492 :: age of autism diagnosis chart - Google Search
+https://www.google.com/search?q=american+english+flat+adverbs&rlz=1CDGOYI_enUS590US590&oq=american+english+flat+adverbs&aqs=chrome..69i57.4915j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: american english flat adverbs - Google Search
+https://www.google.com/search?q=apache+proxy+virtualhost&rlz=1CDGOYI_enUS590US590&oq=apache+proxy+virtua&aqs=chrome.1.69i57j0l3.7572j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: apache proxy virtualhost - Google Search
+https://www.google.com/search?q=are+monkeys+vegetarian&oq=are+monkeys+vege&aqs=chrome.0.0j69i57j0l3.3138j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: are monkeys vegetarian - Google Search
+https://www.google.com/search?q=are+motherboards+dual+voltage&oq=are+motherboards+dual+voltage&aqs=chrome..69i57.4280j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: are motherboards dual voltage - Google Search
+https://www.google.com/search?q=are+prom+dresses+sexist&oq=are+prom+dresses+sexist&aqs=chrome..69i57.3191j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: are prom dresses sexist - Google Search
+https://www.google.com/search?q=are+some+women+perfect&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vin&ei=DmoBWZO6HNCIjwPE77zYDQ&start=10&sa=N&biw=320&bih=548#spf=1 :: are some women perfect - Google Search
+https://www.google.com/search?q=art+of+documentary+editing+merrison&num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwiws6f9nPXSAhUK2WMKHbAVC3EQ_AUIBygA&biw=2148&bih=904&dpr=1 :: art of documentary editing merrison - Google Search
+https://www.google.com/search?q=art+of+documentary+editing+merrison&rlz=1CDGOYI_enUS590US590&oq=art+of+documentary+editing+merrison&aqs=chrome..69i57.17596j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: art of documentary editing merrison - Google Search
+https://www.google.com/search?q=aspergers+hate+e-readers&oq=aspergers+hate+e-readers&aqs=chrome..69i57.7142j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: aspergers hate e-readers - Google Search
+https://www.google.com/search?q=australia+documentary+bbc&rlz=1CDGOYI_enUS590US590&oq=australia+documentary+bbc&aqs=chrome..69i57j0l3.9280j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: australia documentary bbc - Google Search
+https://www.google.com/search?q=autism+mommys+boy&rlz=1CDGOYI_enUS590US590&oq=autism+mommys+boy&aqs=chrome..69i57.14737j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: autism mommys boy - Google Search
+https://www.google.com/search?q=aws+shared+dns+server&rlz=1CDGOYI_enUS590US590&oq=aws+shared+dns+server&aqs=chrome..69i57.16315j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: aws shared dns server - Google Search
+https://www.google.com/search?q=batch+mode+vs+interactive&rlz=1CDGOYI_enUS590US590&oq=batch+mode+vs+&aqs=chrome.1.69i57j0l3.4768j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: batch mode vs interactive - Google Search
+https://www.google.com/search?q=book+photocopier&rlz=1CDGOYI_enUS590US590&oq=book+photocopi&aqs=chrome.1.69i57j0l3.6465j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: book photocopier - Google Search
+https://www.google.com/search?q=bullet+journal&rlz=1CDGOYI_enUS590US590&oq=bullet+journal&aqs=chrome..69i57j0l3.25864j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: bullet journal - Google Search
+https://www.google.com/search?q=can+women+sleep+face+down&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&ei=wtACWdXGHYeVjwTu-pOICQ&start=10&sa=N&biw=320&bih=548#spf=1 :: can women sleep face down - Google Search
+https://www.google.com/search?q=capitalism+drives+innovation&rlz=1CDGOYI_enUS590US590&oq=capitalism+innovation&aqs=chrome.1.69i57j0l3j69i60l2.3384j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: capitalism drives innovation - Google Search
+https://www.google.com/search?q=cards+dealt+in+life+quotes&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjloc62rMvTAhUR4mMKHT7QBa0Q_AUICSgA&biw=1095&bih=703&dpr=1 :: cards dealt in life quotes - Google Search
+https://www.google.com/search?q=central+coherence+theory&rlz=1CDGOYI_enUS590US590&oq=central+coherence+the&aqs=chrome.1.69i57j0l3.8361j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: central coherence theory - Google Search
+https://www.google.com/search?q=collaborative+consumption&rlz=1CDGOYI_enUS590US590&oq=collaborative+consu&aqs=chrome.1.0l2j69i57j5.9148j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: collaborative consumption - Google Search
+https://www.google.com/search?q=collaborative+filtering&rlz=1CDGOYI_enUS590US590&oq=collaborative+&aqs=chrome.1.69i59j0j69i57j0.5423j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: collaborative filtering - Google Search
+https://www.google.com/search?q=container+on+a+mobile+os&rlz=1CDGOYI_enUS590US590&oq=container+on+a+mobile+os&aqs=chrome..69i57.8590j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: container on a mobile os - Google Search
+https://www.google.com/search?q=cornell+open+source+autism&rlz=1CDGOYI_enUS590US590&oq=cornell+open+source+autism&aqs=chrome..69i57.9798j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: cornell open source autism - Google Search
+https://www.google.com/search?q=court+order+india+passport&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nisv&ei=9eTuWKDJIeqN0gLd_ImQAg&start=10&sa=N&biw=320&bih=548 :: court order india passport - Google Search
+https://www.google.com/search?q=creole+condiment&rlz=1CDGOYI_enUS590US590&oq=creole+condiment&aqs=chrome..69i57j0l3.10326j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: creole condiment - Google Search
+https://www.google.com/search?q=cscope+batch+mode&rlz=1CDGOYI_enUS590US590&oq=cscopr+batch&aqs=chrome.1.69i57j0.4281j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: cscope batch mode - Google Search
+https://www.google.com/search?q=do+cats+know+they+are+beautiful&rlz=1CDGOYI_enUS590US590&oq=do+cats+realize+they+are+bea&aqs=chrome.1.69i57j0.16732j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: do cats know they are beautiful - Google Search
+https://www.google.com/search?q=documentary+dramatic+structure&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vin&ei=-MDuWKK7BsKN0wL1gY_oBQ&start=100&sa=N&biw=320&bih=548&dpr=2 :: documentary dramatic structure - Google Search
+https://www.google.com/search?q=documentary+plot+structure&rlz=1CDGOYI_enUS590US590&oq=documentarc+plot&aqs=chrome.2.69i57j0l3.8719j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: documentary plot structure - Google Search
+https://www.google.com/search?q=drawing+female+thighs&rlz=1CDGOYI_enUS590US590&oq=drawing+female+thighs&aqs=chrome..69i57j0.11121j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: drawing female thighs - Google Search
+https://www.google.com/search?q=dream+interpretation+tall+girl&rlz=1CDGOYI_enUS590US590&oq=dream+interpretation+tall+gi&aqs=chrome.1.69i57j0.13537j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: dream interpretation tall girl - Google Search
+https://www.google.com/search?q=early+start+denver+model&rlz=1CDGOYI_enUS590US590&oq=early+start+&aqs=chrome.3.69i57j0l3.5500j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: early start denver model - Google Search
+https://www.google.com/search?q=economic+truths&rlz=1CDGOYI_enUS590US590&oq=evinonic+thruth&aqs=chrome.1.69i57j0l2j5.5758j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: economic truths - Google Search
+https://www.google.com/search?q=egg+yolk+vs+butter&rlz=1CDGOYI_enUS590US590&oq=egg+yolk+vs+butt&aqs=chrome.1.69i57j0.9258j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: egg yolk vs butter - Google Search
+https://www.google.com/search?q=empty+salt+mines+repurpose&oq=empty+salt+mines+repurpose&aqs=chrome..69i57.4632j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: empty salt mines repurpose - Google Search
+https://www.google.com/search?q=etf+voting+rights&rlz=1CDGOYI_enUS590US590&oq=etf+vot&aqs=chrome.1.69i57j0l3.9751j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: etf voting rights - Google Search
+https://www.google.com/search?q=everybody%27s+life+is+better+than+mine&oq=everybody%27s+life+&aqs=chrome.2.69i57j0l5.12323j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: everybody's life is better than mine - Google Search
+https://www.google.com/search?q=facilitated+play+autism&rlz=1CDGOYI_enUS590US590&oq=facilitated+play&aqs=chrome.1.69i57j0l3.9371j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: facilitated play autism - Google Search
+https://www.google.com/search?q=footballers+with+asperger%27s+syndrome&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=inv&ei=EafWWOW3NYOyjwOlxK1A&start=10&sa=N&biw=320&bih=548 :: footballers with asperger's syndrome - Google Search
+https://www.google.com/search?q=forumscraping&rlz=1CDGOYI_enUS590US590&oq=forumscraping&aqs=chrome..69i57j0l3.6854j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: forumscraping - Google Search
+https://www.google.com/search?q=genetic+discrimination&rlz=1CDGOYI_enUS590US590&oq=genetic+disx&aqs=chrome.1.69i57j0l3.5951j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: genetic discrimination - Google Search
+https://www.google.com/search?q=gig+economy+programming&rlz=1CDGOYI_enUS590US590&oq=gig+economy+programming&aqs=chrome..69i57.7524j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: gig economy programming - Google Search
+https://www.google.com/search?q=gig+economy&rlz=1CDGOYI_enUS590US590&oq=gig+economy&aqs=chrome..69i57j0l3.3624j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#dobs=gig%20economy :: gig economy - Google Search
+https://www.google.com/search?q=google+cloud+vm&rlz=1CDGOYI_enUS590US590&oq=google+cloud+vm&aqs=chrome..69i57j0l3.8436j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: google cloud vm - Google Search
+https://www.google.com/search?q=google+drive+javascript+api&rlz=1CDGOYI_enUS590US590&oq=goggle+drove+javascr&aqs=chrome.1.69i57j0l3.14131j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: google drive javascript api - Google Search
+https://www.google.com/search?q=groovy+vs+python&rlz=1CDGOYI_enUS590US590&oq=groovy+vs+python&aqs=chrome..69i57j0l3.4704j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: groovy vs python - Google Search
+https://www.google.com/search?q=headless+cms&rlz=1CDGOYI_enUS590US590&oq=headless+cms&aqs=chrome..69i57j0l3.6884j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: headless cms - Google Search
+https://www.google.com/search?q=hebbian+learning&rlz=1CDGOYI_enUS590US590&oq=hebbia&aqs=chrome.1.69i57j0j5j0.3772j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: hebbian learning - Google Search
+https://www.google.com/search?q=how+is+redbox+staying+in+business&rlz=1CDGOYI_enUS590US590&oq=how+is+redbox+staying+in+business&aqs=chrome..69i57.23570j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: how is redbox staying in business - Google Search
+https://www.google.com/search?q=how+to+create+stories+with+sound&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vin&ei=15fUWLjqB8ncjAPz5KqYDA&start=20&sa=N&biw=320&bih=548 :: how to create stories with sound - Google Search
+https://www.google.com/search?q=hyper+multitasking&oq=hyper+multitasking&aqs=chrome..69i57j0l2.2744j0j7&sourceid=chrome&ie=UTF-8 :: hyper multitasking - Google Search
+https://www.google.com/search?q=i%27m+a+badass+fallacy&oq=i%27m+a+badass+fallacy&aqs=chrome..69i57.5127j0j7&sourceid=chrome&ie=UTF-8 :: i'm a badass fallacy - Google Search
+https://www.google.com/search?q=if+an+astronaut+in+orbit+loses+cable&oq=if+an+astronaut+in+orbit+loses+cable&aqs=chrome..69i57.9322j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: if an astronaut in orbit loses cable - Google Search
+https://www.google.com/search?q=i+keep+imagining+every+girl+naked&rlz=1CDGOYI_enUS590US590&oq=i+keep+imagining+every+girl+naked&aqs=chrome..69i57.15557j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: i keep imagining every girl naked - Google Search
+https://www.google.com/search?q=immigrant+mindset&rlz=1CDGOYI_enUS590US590&oq=immigrant+mindset&aqs=chrome..69i57j0.4974j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: immigrant mindset - Google Search
+https://www.google.com/search?q=internet+persona&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpqOzohIHRAhXiqlQKHRG8BYsQ_AUICCgB&biw=1057&bih=780 :: internet persona - Google Search
+https://www.google.com/search?q=is+closed+circuit+still+in+business&rlz=1CDGOYI_enUS590US590&oq=is+closed+circuit+still+in+business&aqs=chrome..69i57.24507j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: is closed circuit still in business - Google Search
+https://www.google.com/search?q=is+the+shell+a+full+operating+system&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nvsi&ei=VFkDWdmoM6zgjwSRzIuADQ&start=10&sa=N&biw=320&bih=548#spf=1 :: is the shell a full operating system - Google Search
+https://www.google.com/search?q=is+the+uk+a+socialist+country&rlz=1CDGOYI_enUS590US590&oq=is+the+uk+a+socialist+country&aqs=chrome..69i57j0l2.11958j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: is the uk a socialist country - Google Search
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   14648
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+https://www.google.com/search?q=is+vbinx+a+good+investment&oq=is+vbinx+a+&aqs=chrome.0.0j69i57j69i64.2339j0j7&sourceid=chrome&ie=UTF-8 :: is vbinx a good investment - Google Search
+https://www.google.com/search?q=java+aot+compiler+linux&rlz=1CDGOYI_enUS590US590&oq=java+aot&aqs=chrome.3.69i57j0l3.5582j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: java aot compiler linux - Google Search
+https://www.google.com/search?q=karate+defence+bullying&rlz=1CDGOYI_enUS590US590&oq=karate+defence+bullying&aqs=chrome..69i57.12419j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: karate defence bullying - Google Search
+https://www.google.com/search?q=kenny+dalglish+documentary&rlz=1CDGOYI_enUS590US590&oq=dalglish+documentary&aqs=chrome.1.69i57j0.4191j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: kenny dalglish documentary - Google Search
+https://www.google.com/search?q=left+pad+incident&oq=left+pad+incident&aqs=chrome..69i57.2820j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: left pad incident - Google Search
+https://www.google.com/search?q=line+envy&oq=line+envy&aqs=chrome..69i57j0l5.1861j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: line envy - Google Search
+https://www.google.com/search?q=long+form+storytelling+journalism&oq=longform+journalism+storytelling&aqs=chrome.1.69i57j0.8219j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: long form storytelling journalism - Google Search
+https://www.google.com/search?q=longform+visual+journalism&oq=longform+visual+journalism&aqs=chrome..69i57.4399j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: longform visual journalism - Google Search
+https://www.google.com/search?q=microaggression&oq=microaggression&aqs=chrome..69i57j0l5.3410j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: microaggression - Google Search
+https://www.google.com/search?q=monetary+easing&oq=monetary+easing&aqs=chrome..69i57j0l5.1049j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: monetary easing - Google Search
+https://www.google.com/search?q=most+popular+cli&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=svin&ei=3xvxWNeOD6Tc0gL6yJqoBw&start=20&sa=N&biw=320&bih=548&dpr=2 :: most popular cli - Google Search
+https://www.google.com/search?q=muscles+and+breasts&rlz=1CDGOYI_enUS590US590&oq=muscles+and+breasts&aqs=chrome..69i57j0l3.13992j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: muscles and breasts - Google Search
+https://www.google.com/search?q=mutual+guaranteed+dividend&oq=mutual+guaranteed+dividend&aqs=chrome..69i57.6907j0j7&sourceid=chrome&ie=UTF-8 :: mutual guaranteed dividend - Google Search
+https://www.google.com/search?q=mutual+insurance+dividends&oq=mutual+insurance+dividen&aqs=chrome.0.0j69i57j0l4.3396j0j7&sourceid=chrome&ie=UTF-8 :: mutual insurance dividends - Google Search
+https://www.google.com/search?q=nerd+venn+diagram&rlz=1CDGOYI_enUS590US590&oq=venn+nerd+di&aqs=chrome.1.69i57j0l3.19763j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#imgrc=6_64I93HWobVnM: :: nerd venn diagram - Google Search
+https://www.google.com/search?q=new+york+liverpool+architecture+similarity&oq=new+york+liverpool+architecture+similarity&aqs=chrome..69i57j69i64l3.7051j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: new york liverpool architecture similarity - Google Search
+https://www.google.com/search?q=nosql+plaintext&rlz=1CDGOYI_enUS590US590&oq=nosql+plaintext&aqs=chrome..69i57.9882j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: nosql plaintext - Google Search
+https://www.google.com/search?q=obnoxious+telephone+customer+service&oq=obnoxious+telephone+customer+service+&aqs=chrome..69i57.10390j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: obnoxious telephone customer service - Google Search
+https://www.google.com/search?q=odor+to+joy&rlz=1CDGOYI_enUS590US590&oq=odor+to+joy&aqs=chrome..69i57j0l3.9701j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: odor to joy - Google Search
+https://www.google.com/search?q=paper+recycling+documentary&rlz=1CDGOYI_enUS590US590&oq=paper+recycling+documentary&aqs=chrome..69i57.4416j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: paper recycling documentary - Google Search
+https://www.google.com/search?q=progressive+web+applications&rlz=1CDGOYI_enUS590US590&oq=progressive+web+applic&aqs=chrome.0.0j69i57j0l2.9332j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: progressive web applications - Google Search
+https://www.google.com/search?q=rodney+dangerfield+jokes&rlz=1CDGOYI_enUS590US590&oq=rodney+dangerfield+jokes&aqs=chrome..69i57j0l2.17341j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: rodney dangerfield jokes - Google Search
+https://www.google.com/search?q=run+hide+fight&oq=run+hide+fi&aqs=chrome.0.0j69i57j0l4.1605j0j7&sourceid=chrome&ie=UTF-8 :: run hide fight - Google Search
+https://www.google.com/search?q=satirepedia&rlz=1CDGOYI_enUS590US590&oq=satirepedia&aqs=chrome..69i57.5919j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: satirepedia - Google Search
+https://www.google.com/search?q=scala+everything%27s+an+object&rlz=1CDGOYI_enUS590US590&oq=scala+is+everythi&aqs=chrome.2.69i57j0l3.8009j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: scala everything's an object - Google Search
+https://www.google.com/search?q=seattle+girls&rlz=1CDGOYI_enUS590US590&oq=seattle+girls&aqs=chrome..69i57j0j5j0.9116j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: seattle girls - Google Search
+https://www.google.com/search?q=seattle+to+india+non+stop&rlz=1CDGOYI_enUS590US590&oq=seattle+to+india+non&aqs=chrome.1.69i57j0.9183j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#flt=SEA.r/m/03rk0.2017-05-09*r/m/03rk0.SEA.2017-05-13;c:USD;s:0*0;sd:1;t:e&spf=95 :: seattle to india non stop - Google Search
+https://www.google.com/search?q=seeing+guys+go+shopping+together&oq=seeing+guys+go+shopping+together&aqs=chrome..69i57.4605j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: seeing guys go shopping together - Google Search
+https://www.google.com/search?q=self+contained+java+application&rlz=1CDGOYI_enUS590US590&oq=self+contained+ja&aqs=chrome.1.69i57j0l3j69i60.7264j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: self contained java application - Google Search
+https://www.google.com/search?q=soccer+power+index&rlz=1CDGOYI_enUS590US590&oq=soccer+power+index&aqs=chrome..69i57j0j5j0.9307j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: soccer power index - Google Search
+https://www.google.com/search?q=spotting+session+video+editing&rlz=1CDGOYI_enUS590US590&oq=spotting+session+video+editing&aqs=chrome..69i57.19203j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: spotting session video editing - Google Search
+https://www.google.com/search?q=ssh-agent+reconnect&rlz=1CDGOYI_enUS590US590&oq=ssh+agent+rec&aqs=chrome.1.69i57j0l2.6229j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: ssh-agent reconnect - Google Search
+https://www.google.com/search?q=ssh+browser&rlz=1CDGOYI_enUS590US590&oq=ssh+browder&aqs=chrome.1.69i57j0l3.5218j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: ssh browser - Google Search
+https://www.google.com/search?q=steal+gold+bank++interview+question&cad=h :: steal gold bank  interview question - Google Search
+https://www.google.com/search?q=stinger+music&rlz=1CDGOYI_enUS590US590&oq=stinger+music&aqs=chrome..69i57j0l3.5966j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: stinger music - Google Search
+https://www.google.com/search?q=story+spine+ken+adams&oq=story+spine+ken+a&aqs=chrome.1.69i57j0.3311j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: story spine ken adams - Google Search
+https://www.google.com/search?q=synaptic+plasticity+autism&rlz=1CDGOYI_enUS590US590&oq=synaptic+plasticity+auti&aqs=chrome.1.69i57j0.9303j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: synaptic plasticity autism - Google Search
+https://www.google.com/search?q=teeth+bonding&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjuudK-_uLSAhUiS2MKHWVICOsQ_AUIBygA&biw=2148&bih=904&dpr=1 :: teeth bonding - Google Search
+https://www.google.com/search?q=underscore+music&oq=underscore+music&aqs=chrome..69i57j0l5.3411j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: underscore music - Google Search
+https://www.google.com/search?q=urgent+care+emergency+room+difference&rlz=1CDGOYI_enUS590US590&oq=urgent+care+vs+emergency+room+di&aqs=chrome.1.69i57j0.37325j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: urgent care emergency room difference - Google Search
+https://www.google.com/search?q=veneers+teeth&rlz=1CDGOYI_enUS590US590&oq=veneer&aqs=chrome.2.69i57j0l3.5015j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: veneers teeth - Google Search
+https://www.google.com/search?q=vim+java+formatter+script&rlz=1CDGOYI_enUS590US590&oq=vim+java+formatter+script&aqs=chrome..69i57.14011j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: vim java formatter script - Google Search
+https://www.google.com/search?q=visual+storytelling&rlz=1CDGOYI_enUS590US590&oq=visual+story&aqs=chrome.1.69i57j0l3.5721j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: visual storytelling - Google Search
+https://www.google.com/search?q=welfare+capitalism+vs+shareholder+capitalism&oq=welfare+capitalism+vs+shareholder+capitalism&aqs=chrome..69i57.5982j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: welfare capitalism vs shareholder capitalism - Google Search
+https://www.google.com/search?q=what+is+celery+high+in&rlz=1CDGOYI_enUS590US590&oq=what+is+crlery+high+&aqs=chrome.1.69i57j0.39381j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: what is celery high in - Google Search
+https://www.google.com/search?q=when+microsoft+ruled+the+world&rlz=1CDGOYI_enUS590US590&oq=when+microsoft+ruled+the+world&aqs=chrome..69i57j0.6042j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: when microsoft ruled the world - Google Search
+https://www.google.com/search?q=why+are+there+flights+from+seattle+to+vancouver&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nsiv&ei=NC0FWYHIH8-MjwPLkIG4Cg&start=20&sa=N&biw=320&bih=548#spf=1 :: why are there flights from seattle to vancouver - Google Search
+https://www.google.com/search?q=why+do+uk+plugs+have+fuses&oq=why+do+uk+plugs&aqs=chrome.0.0j69i57j0l2.4911j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: why do uk plugs have fuses - Google Search
+https://www.google.com/search?q=why+girls+must+smile&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=ivn&ei=gI3bWN7-Koff0gKS1ZNo&start=10&sa=N&biw=320&bih=548 :: why girls must smile - Google Search
+https://www.google.com/search?q=why+is+methylated+spirits+purple&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=sinv&source=lnms&sa=X&ved=0ahUKEwiwuY2mst_SAhUP8WMKHU4TBAwQ_AUIBSgA&biw=320&bih=492&dpr=2 :: why is methylated spirits purple - Google Search
+https://www.google.com/search?q=why+is+the+northwest+warmer+than+the+northeast&rlz=1CDGOYI_enUS590US590&oq=why+is+the+northwest+warmer+than+the+northeast&aqs=chrome..69i57.17758j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1 :: why is the northwest warmer than the northeast - Google Search
+https://www.google.com/search?q=why+some+people+crave+salt&rlz=1CDGOYI_enUS590US590&oq=why+some+people+crave+salt&aqs=chrome..69i57.8944j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: why some people crave salt - Google Search
+https://www.google.com/search?q=withholding+information+storytelling&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nvi&ei=dMbuWOTBJcSf0wKD86LgDg&start=30&sa=N&biw=320&bih=548&dpr=2 :: withholding information storytelling - Google Search
+https://www.google.com/search?q=xfinity+replace+dvr+disk&rlz=1CDGOYI_enUS590US590&oq=xfinity+replace+dvr+disk&aqs=chrome..69i57.17014j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: xfinity replace dvr disk - Google Search
+https://www.google.com/search?q=yang+tan+institute&rlz=1CDGOYI_enUS590US590&oq=yang+tan+in&aqs=chrome.1.69i57j0l3.5278j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: yang tan institute - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=1141&bih=727&tbm=isch&sa=1&q=x+shaped+buildings+microsoft&oq=x+shaped+buildings+microsoft&gs_l=img.3...3392.3392.0.3696.1.1.0.0.0.0.171.171.0j1.1.0....0...1c.1.64.img..0.0.0.c9uo3GVBi9o :: x shaped buildings microsoft - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&ei=1qLgWMKUJo_cjwPbzafwBg&q=infrared+testicular+exposure&oq=infraref+testicular+exposure&gs_l=mobile-gws-serp.1.0.30i10k1.14772.20368.0.22131.13.11.2.0.0.0.779.3561.2-7j1j0j1j1.10.0....0...1.1.64.mobile-gws-serp..5.3.801.Tt_phsi6yzE :: infrared testicular exposure - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&ei=6O_WWMzFO82sjwPxv4agCA&q=reading+listening+writing+speaking+comprehension+autism&oq=reading+listening+writing+speaking+comprehension+autism&gs_l=mobile-gws-serp.3..30i10k1.3667.6133.0.6552.8.8.0.0.0.0.374.1240.0j5j0j1.6.0....0...1.1.64.mobile-gws-serp..2.6.1239...33i160k1.ubIqDEvwHvo :: reading listening writing speaking comprehension autism - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&ei=ogrwWLLkCYKX0gK9m6mQCg&q=communicating+with+multiple+people+stressful+autism&oq=communicating+with+multiple+people+stressful+autism&gs_l=mobile-gws-serp.3...10500.13259.0.13766.8.8.0.0.0.0.324.1612.0j2j4j1.7.0....0...1.1.64.mobile-gws-serp..1.1.237...30i10k1.u3bKfyNkoPo :: communicating with multiple people stressful autism - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&ei=SODuWIaxJ-mN0wLJnI6gBA&q=taking+india+passport+agency+to+court&oq=taking+india+passport+agency+to+court&gs_l=mobile-gws-serp.3..30i10k1.19041.20870.0.21358.7.7.0.0.0.0.300.1240.0j4j1j1.6.0....0...1.1.64.mobile-gws-serp..1.6.1239...35i39k1.0RvdsgTfSV8 :: taking india passport agency to court - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&ei=uObuWOaiHsHqjwPeioeIAg&q=india+court+order+passport+correction&oq=india+court+order+passport+correction&gs_l=mobile-gws-serp.3..33i21k1.18304.21578.0.22074.12.12.0.0.0.0.436.2273.0j6j4j0j1.11.0....0...1.1.64.mobile-gws-serp..2.10.1836...33i22i29i30k1j33i160k1.cuyFS1fMGX8 :: india court order passport correction - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=5s0DWfC_L5GcjwOUyaWQBQ&q=data+balkanization&oq=balkanization+data&gs_l=mobile-gws-serp.1.0.0i22i30k1.11673.13426.0.14478.6.6.0.0.0.0.530.1698.0j1j1j2j0j1.5.0....0...1c.1.64.mobile-gws-serp..1.5.1695...0j0i67k1j0i20k1.QIyx5sCs_6Y#spf=1 :: data balkanization - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=6ZtTWMCcCsmOjwOw1JbQAQ&q=etf+underlying+assets&oq=etf+underlyi&gs_l=mobile-gws-serp.1.0.0i20k1j0l2j0i22i30k1l2.121865.128692.0.131749.20.19.0.5.5.0.684.3461.1j14j0j2j0j1.18.0....0...1c.1.64.mobile-gws-serp..5.15.2219...35i39k1j0i13i30k1j0i13i5i30k1j0i67k1j0i10k1.VYE6X0XkLBw :: etf underlying assets - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=9fPWWP-GHM7gjwOv3KOQBw&q=post+purchase+rationalization+vs+buyer%27s+remorse&oq=post+purchase+rationalization+vs+buyers+tenorse&gs_l=mobile-gws-serp.1.0.30i10k1.2394.8353.0.9809.19.19.0.0.0.0.397.3585.0j11j6j1.18.0....0...1.1.64.mobile-gws-serp..1.15.2911...0j33i160k1j33i22i29i30k1j33i21k1.NUmS4EW1MiQ :: post purchase rationalization vs buyer's remorse - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=BBQAWZ37IsuZjwSOgoPADA&q=evolutionary+nipple+stimulation&oq=evolutionary+nipple+stimulation&gs_l=mobile-gws-serp.3...3188.11818.0.12387.21.21.0.0.0.0.1167.4307.0j17j2j7-1.20.0....0...1c.1.64.mobile-gws-serp..2.17.3905...35i39k1j33i21k1j33i160k1.7Q2mx8Ze-vU#spf=1 :: evolutionary nipple stimulation - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=cc3qWPyPLoyAjwO0j46ICg&q=ama+roadside+assistance+phone+number&oq=american+motorcycle+association+roadside+assistance&gs_l=mobile-gws-serp.1.0.0i71k1l5.0.0.0.9694.1.1.0.0.0.0.0.0..0.0....0...1..64.mobile-gws-serp..1.0.0.SwvYPUrOzro :: ama roadside assistance phone number - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=g9TJWPTABoLk0gK-yYfYAg&q=why+online+seminars+suck&oq=why+online+seminars+suck&gs_l=mobile-gws-serp.3...17419.23635.0.24126.13.12.1.0.0.0.269.1439.0j10j1.11.0.ulpc%2Ccfro%3D1%2Cstargd-cl%3Dweb-for-rerank-with-language%2Ceulp%3D1%2Celpf%3D1...0...1.1.64.mobile-gws-serp..1.0.0.IJtSKMo0PgI :: why online seminars suck - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=G-oEWd6UAo--jwOwnqTQBg&q=net+tcp+directory+linux&oq=net+tcp+directory+linux&gs_l=mobile-gws-serp.3..33i22i29i30k1l3.8069.10605.0.14762.7.7.0.0.0.0.273.1403.0j1j5.6.0....0...1c.1.64.mobile-gws-serp..1.6.1401.CEQoH6Trg2E#spf=1 :: net tcp directory linux - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=JOnlWO_TLs6CjwPngL-ABw&q=does+britney+spears+have+a+college+degree+physics&oq=does+britney+spears+have+a+college+degree+physics&gs_l=mobile-gws-serp.3...86833.89205.0.90158.9.9.0.0.0.0.343.1743.0j4j3j1.8.0....0...1.1.64.mobile-gws-serp..1.7.1566...0i22i30k1j33i21k1j33i160k1.HyX5vT9E3yA :: does britney spears have a college degree physics - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=kZrWWJe-M826jwPg34nACg&q=messi+aspergers+syndrome&oq=messi+aspe&gs_l=mobile-gws-serp.1.0.0.573144.576774.0.577930.13.13.0.0.0.0.423.2777.0j6j4j0j2.12.0....0...1.1.64.mobile-gws-serp..7.6.1717...35i39k1j0i131k1j0i22i30k1.tE9UHohzftM :: messi aspergers syndrome - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=LefuWLntDoSsjwO54J-ABw&q=rpo+refusing+to+correct+passport+india+modi&oq=rpo+refusing+to+correct+passport+india+modi&gs_l=mobile-gws-serp.3..33i160k1l2.242587.244651.0.245282.6.6.0.0.0.0.383.1330.0j2j1j2.5.0....0...1.1.64.mobile-gws-serp..1.4.1011.ON_inl78O4Q :: rpo refusing to correct passport india modi - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=ovTlWJOgDdf2jwOth7nQDQ&q=superserve+strategy+customers+advantage&oq=superserve+strategy+customers+advantage&gs_l=mobile-gws-serp.3...9571.20932.0.21644.12.12.0.0.0.0.839.3459.0j7j0j1j1j1j1.11.0....0...1.1.64.mobile-gws-serp..5.4.644...30i10k1.Y-FlJPlV_9Y :: superserve strategy customers advantage - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=qZ7xWNiwJOqI0wKqpZFI&q=breast+awareness+-cancer&oq=breast+awareness+-cancer&gs_l=mobile-gws-serp.3...6441.11814.0.12166.11.10.1.0.0.0.356.1515.0j8j0j1.9.0....0...1.1.64.mobile-gws-serp..1.3.536...0j0i22i30k1.NlO3xbfO-hs :: breast awareness -cancer - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=RkbnWPmwMdfgjwO4t6vgBQ&q=oauth+dance+command+line&oq=oauth+dance+command+line&gs_l=mobile-gws-serp.3...42866.46326.0.47096.7.7.0.0.0.0.158.815.0j6.6.0....0...1.1.64.mobile-gws-serp..1.5.669...35i39k1j0i8i7i30k1j0i13i30k1j0i13i5i30k1j30i10k1.pEb5ypSmSno :: oauth dance command line - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=rOjWWLK0OMimjwOw5aiYDQ&q=storytelling+in+the+moment+access+to+later+events&oq=storytelling+in+the+moment+access+to+later+events&gs_l=mobile-gws-serp.3...14410.32729.0.33163.45.43.2.0.0.0.502.8996.1j20j17j2j1j1.42.0....0...1.1.64.mobile-gws-serp..12.24.5206...35i39k1j0i22i30k1j33i22i29i30k1j33i160k1j30i10k1j33i21k1.xGmVDeHY2Jk :: storytelling in the moment access to later events - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=Tu_nWLqpJoeojwPq57zYBQ&q=live+and+let+die+economy&oq=live+and+let+die+econo&gs_l=mobile-gws-serp.1.1.33i21k1j33i160k1.5295.8184.0.9270.7.7.0.0.0.0.508.1642.0j2j3j5-1.6.0....0...1.1.64.mobile-gws-serp..1.6.1640...0j0i20k1j0i67k1j0i22i10i30k1.IhwnVBf1ZF4 :: live and let die economy - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=click+track+video+editing&spell=1&sa=X&ved=0ahUKEwie-snGpZPTAhVF3GMKHT5qCMUQvwUIFigA&biw=320&bih=492 :: click track video editing - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=dangers+of+mutual+insurance&spell=1&sa=X&ved=0ahUKEwi0_pjK3fjSAhVBw2MKHc2zDZAQvwUIFigA&biw=320&bih=492 :: dangers of mutual insurance - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=dynamic+hex+favicon+image+server&spell=1&sa=X&ved=0ahUKEwihhvvJqfLSAhVX9WMKHVdiBFsQvwUIFigA&biw=320&bih=492 :: dynamic hex favicon image server - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=good+name+competitive+advantage&spell=1&sa=X&ved=0ahUKEwjTmf_FnozTAhUqhlQKHbxoDoUQvwUIFigA&biw=320&bih=492&dpr=2 :: good name competitive advantage - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=indian+passport+wrong+date+of+birth+fiance+visa&spell=1&sa=X&ved=0ahUKEwjzwojPrKDTAhUojlQKHbN3BM4QvwUIFigA&biw=320&bih=492 :: indian passport wrong date of birth fiance visa - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=iterm+auto+reconnect+ssh&spell=1&sa=X&ved=0ahUKEwiW0J-opPLSAhUO7mMKHeu2DbMQvwUIFigA&biw=320&bih=492 :: iterm auto reconnect ssh - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=john+elder+robison&spell=1&sa=X&ved=0ahUKEwivv9v6t6LTAhVnrlQKHWrlCNAQvwUIFigA&biw=320&bih=492 :: john elder robison - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=pigs+ear+dog%27s+breakfast&spell=1&sa=X&ved=0ahUKEwjYnqH3wqLTAhXD5lQKHQtHD80QBQgWKAA&biw=320&bih=548 :: pigs ear dog's breakfast - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=reasons+to+include+plot+twists&spell=1&sa=X&ved=0ahUKEwjk2fek56HTAhXpv1QKHfcOCXQQvwUIFigA&biw=320&bih=492 :: reasons to include plot twists - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=shell+script+formatter+vim&spell=1&sa=X&ved=0ahUKEwjhxezb9srTAhVOxmMKHb1SCbIQvwUIGCgA&biw=320&bih=492#spf=1 :: shell script formatter vim - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=why+autistic+people+like+cats&spell=1&sa=X&ved=0ahUKEwjki7iGlsPTAhUN82MKHaFtCUAQvwUIGCgA&biw=320&bih=492#spf=1 :: why autistic people like cats - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=why+unix+does+not+use+databases&spell=1&sa=X&ved=0ahUKEwjqzNbR6evSAhUS42MKHTBSDfgQvwUIFigA&biw=320&bih=492 :: why unix does not use databases - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=william+and+mary+neurodiversity&spell=1&sa=X&ved=0ahUKEwjv2quyt6LTAhXBzlQKHcmqC7MQvwUIFigA&biw=320&bih=492 :: william and mary neurodiversity - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=wireless+electricity+documentary&spell=1&sa=X&ved=0ahUKEwjQrcvzssrTAhVI1WMKHVWgBIwQvwUIGCgA&biw=320&bih=492#spf=1 :: wireless electricity documentary - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=buying%20shares%20in%20the%20federal%20reserve&oq=buying%20shares%20in%20the%20federal%20reserve&aqs=chrome..69i57.6991j0j7 :: buying shares in the federal reserve - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=client%20server%20vs%20command%20line&oq=client%20server%20vs%20command%20line&aqs=chrome..69i57.13469j0j7 :: client server vs command line - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=code%20hardening%20techniques&oq=code%20hardening&aqs=chrome.2.69i57j0l4j69i64.4619j0j7 :: code hardening techniques - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=css%20image%20enhancement%20online&oq=css%20image%20enhancement%20online&aqs=chrome..69i57.21927j0j7 :: css image enhancement online - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=does%20the%20federal%20reserve%20belong%20to%20the%20government&oq=does%20the%20federal%20reserve%20belong%20to%20the%20gover&aqs=chrome.1.69i57j0l4.9005j0j7 :: does the federal reserve belong to the government - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=everyone%20has%20their%20problems&oq=everyone%20has%20their%20problems&aqs=chrome..69i57j0l5.5542j0j7 :: everyone has their problems - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=hypertasking&oq=hypertasking%20&aqs=chrome..69i57j0l4.3282j0j7 :: hypertasking - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=jekyll%20island&oq=jekyll%20island&aqs=chrome..69i57j0l5.3033j0j7 :: jekyll island - Google Search
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=storytelling%20passage%20of%20time&oq=storytelling%20passage%20of%20time&aqs=chrome..69i57.7455j0j7 :: storytelling passage of time - Google Search
+https://www.howtoforge.com/accessing_windows_or_samba_shares_using_autofs :: How To Use AutoFS To Access Windows And Samba Shares
+https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shell_feat.htm :: IBM Knowledge Center - Shell features
+https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shells.htm :: IBM Knowledge Center - Operating system shells
+https://www.imagemagick.org/script/convert.php :: Command-line Tools: Convert @ ImageMagick
+https://www.indy100.com/article/powerful-passport-sweden-united-states-iraq-flying-holiday-7623211?utm_source=indy&utm_medium=top5&utm_campaign=i100 :: This is the world's most powerful passport - and it's not what you'd expect | indy100
+https://www.instacart.com/ :: Instacart: Groceries Delivered From Local Stores
+https://www.isitnormal.com/post/imagining-girls-naked-47438 :: Imagining girls naked | Is It Normal? | isitnormal.com
+https://www.joe.co.uk/sport/atletico-fans-show-their-support-for-player-who-missed-decisive-champions-league-penalty-63188 :: Atletico fans show their support for player who missed decisive Champions League penalty | JOE.co.uk
+https://www.journalism.cuny.edu/academics/media-specialties/visual-journalism/ :: CUNY Graduate School of Journalism  » Visual Journalism
+https://www.justit.co.uk/individual-training/developers-programme/?gclid=CIypgcWU49ICFYEy0wod-cgPwQ :: Start your career with a development job
+https://www.leasequit.com/ :: Take Over My Car Lease | Early Lease Termination - Swap a Lease (Transfer) - LeaseQuit.com
+https://www.lifehacker.com.au/2012/08/dye-methylated-spirits-to-avoid-accidental-consumption/ :: Dye Methylated Spirits To Avoid Accidental Consumption | Lifehacker Australia
+https://www.linkedin.com/in/jesusdlc :: Sign Up | LinkedIn
+https://www.linkedin.com/in/namratha-sudarshan-1ba742122 :: Sign Up | LinkedIn
+https://www.linkedin.com/in/seval-r-aksu-ph-d-8063b218/ :: Sign Up | LinkedIn
+https://www.linux.com/learn/intro-to-linux/2017/4/more-unknown-linux-commands :: More Unknown Linux Commands | Linux.com | The source for Linux information
+https://www.linuxtrent.it/sites/default/files/unix_philosophy.pdf :: (Could not determine)
+https://www.maketecheasier.com/portable-apps-for-linux/ :: 10 Portable Apps Every Linux User Should Use - Make Tech Easier
+https://www.massmutual.com/dividends :: MassMutual’s 2017 Dividend Payout - MassMutual
+https://www.meetup.com/AmericanAngels/events/238036956/ :: yahoo
+https://www.meetup.com/Moksha-Tantra/events/238430305/ :: yahoo
+https://www.meetup.com/New-in-Town-Nightlife/events/238781819/ :: yahoo
+https://www.meetup.com/pellego/events/238450585/ :: yahoo
+https://www.meetup.com/Scala-Bay/events/238419430/ :: yahoo
+https://www.meetup.com/Seattle-Shortfilm/events/239118098/ :: yahoo
+https://www.meetup.com/seattlestartup/events/238162798/ :: yahoo
+https://www.merriam-webster.com/dictionary/innuendo :: Innuendo | Definition of Innuendo by Merriam-Webster
+https://www.merriam-webster.com/dictionary/philanthropy :: Philanthropy | Definition of Philanthropy by Merriam-Webster
+https://www.merriam-webster.com/dictionary/platitude :: Platitude | Definition of Platitude by Merriam-Webster
+https://www.merriam-webster.com/dictionary/rally :: Rally | Definition of Rally by Merriam-Webster
+https://www.mgtow.com/forums/topic/why-are-women-always-sick/ :: Topic: Why are women always sick? |  MGTOW
+https://www.mrc-cbu.cam.ac.uk/wp-content/uploads/2013/01/WM-classroom-guide.pdf :: (Could not determine)
+https://www.myheritage.com/names/anu_dhutia :: Anu Dhutia - Historical records and family trees - MyHeritage
+https://www.nerdwallet.com/blog/insurance/should-you-consider-cash-value-life-insurance/ :: Cash Value Life Insurance: Is It Right for You? - NerdWallet
+https://www.nixtutor.com/linux/changing-priority-on-linux-processes/ ::  Changing Priority on Linux Processes
+https://www.pinterest.com/carlesmiche/metropolitano-atletico-madrid/ :: 17 Best images about METROPOLITANO - ATLETICO MADRID on Pinterest | Murcia, Argentina and Apps
+https://www.pinterest.com/fernandolzarori/club-atl%C3%A9tico-de-madrid-sad-201011/ :: 17 Best images about Club Atlético de Madrid S.A.D. 2010/11 on Pinterest | Logos, Merida and The o'jays
+https://www.pinterest.com/pin/372109987940942239/ :: Plantilla Atletico de Madrid 2010/11 | Club Atlético de Madrid S.A.D. 2010/11 | Pinterest | Madrid
+https://www.psychologytoday.com/blog/out-the-darkness/201402/why-men-dont-shopping-and-most-women-do :: Why Men Don't Like Shopping and (Most) Women Do | Psychology Today
+https://www.psychologytoday.com/blog/the-human-beast/201104/why-men-love-mammaries :: Why men love mammaries | Psychology Today
+https://www.quora.com/Conversations-How-do-you-make-boring-stories-more-interesting :: Conversations: How do you make boring stories more interesting? - Quora
+https://www.quora.com/Do-cats-know-that-they-are-cute :: Do cats know that they are cute? - Quora
+https://www.quora.com/Does-Lionel-Messi-have-Aspergers :: Does Lionel Messi have Asperger's? - Quora
+https://www.quora.com/Do-people-with-Aspergers-not-like-fiction :: Do people with Asperger's not like fiction? - Quora
+https://www.quora.com/How-can-Microsoft-still-make-money-from-Windows-after-Linux-became-popular :: How can Microsoft still make money from Windows after Linux became popular? - Quora
+https://www.quora.com/How-does-Seattle-compare-to-the-Bay-Area :: How does Seattle compare to the Bay Area? - Quora
+https://www.quora.com/How-do-girls-women-feel-when-boys-touch-their-boobs-or-somewhere-else :: How do girls/women feel when boys touch their boobs or somewhere else? - Quora
+https://www.quora.com/How-many-months-is-winter-in-Seattle-When-does-the-rain-season-start-and-end :: How many months is winter in Seattle? When does the rain season start and end? - Quora
+https://www.quora.com/Is-it-proper-to-say-real-quick-in-American-English :: Is it proper to say 'real quick' in American English? - Quora
+https://www.quora.com/What-are-some-good-documentary-films-about-the-history-of-San-Francisco :: What are some good documentary films about the history of San Francisco? - Quora
+https://www.quora.com/What-would-the-impact-be-on-Seattle-if-Mt-Rainier-erupted :: What would the impact be on Seattle if Mt. Rainier erupted? - Quora
+https://www.quora.com/Why-does-it-always-seem-that-everyone-elses-life-is-so-much-better-than-ones-own :: Why does it always seem that everyone else's life is so much better than one's own? - Quora
+https://www.reddit.com/r/AskWomen/comments/17wg9a/when_hugging_a_regular_guy_or_guy_friend_do_you/ :: When hugging a regular guy or guy friend do you make sure not to press your breast on him. : AskWomen
+https://www.reddit.com/r/atletico/comments/1n9jec/pe%C3%B1a_atl%C3%A9tica_de_california/ :: PEÑA ATLÉTICA DE CALIFORNIA : atletico
+https://www.reddit.com/r/atletico/comments/25bn81/southern_california_colchoneros/ :: Southern California Colchoneros : atletico
+https://www.reddit.com/r/NoStupidQuestions/comments/4iqqtk/when_a_woman_hugs_a_man_and_presses_her_breasts/ :: When a woman hugs a man and presses her breasts tightly against his body, does it mean anything sexual to her? : NoStupidQuestions
+https://www.reference.com/art-literature/fox-sports-2-available-comcast-4c599f052d7b378e :: Is Fox Sports 2 available on Comcast? | Reference.com
+https://www.researchgate.net/publication/233492497_The_relationship_between_listening_and_reading_comprehension_of_different_types_of_text_at_increasing_grade_levels :: The relationship between listening and reading comprehension of different types of text at increasing grade levels (PDF Download Available)
+https://www.researchgate.net/publication/26248743_Effects_of_listening_ability_on_speaking_writing_and_reading_skills_of_children_who_were_suspected_of_auditory_processing_difficulty :: Effects of listening ability on speaking, writing and reading skills of children who were suspected of auditory processing difficulty (PDF Download Available)
+https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/ :: Top 100 Romance Movies - Rotten Tomatoes
+https://www.safaribooksonline.com/library/view/documentary-storytelling-3rd/9780240812410/ :: Documentary Storytelling, 3rd Edition [Book]
+https://www.siliconmaps.com/silicon-valley-map/ :: Silicon Valley 2017 Map and Calendar | Silicon Maps
+https://www.sky.com/new-search/panel-d8736c0a-b629-49d9-8ce2-9f25184458ee?q=unsolved%20mysteries :: Search | Sky.com
+https://www.skyword.com/contentstandard/creativity/5-digital-storytelling-lessons-from-film-pacing-and-tension/ :: 5 Digital Storytelling Lessons from Film: Pacing and Tension
+https://www.southbankcentre.co.uk/whats-on/119616-stories-through-sound-2017 :: Stories through sound: sound design with School of Noise
+https://www.sportsjoe.ie/sports/juanfran :: Juanfran | SportsJOE.ie
+https://www.spreeder.com/macversion :: Spreeder CX Mac | 
+https://www.sweetwater.com/insync/spotting-session/ :: What is "Spotting Session - inSync"?
+https://www.taskrabbit.com/ :: TaskRabbit connects you to safe and reliable help in your neighborhood
+https://www.theatlantic.com/magazine/archive/2016/09/how-british-soccer-became-must-see-tv/492734/ :: (timeout)
+https://www.theguardian.com/football/2017/apr/10/leicester-city-atletico-madrid-european-competition-champions-league :: Leicester and Atlético Madrid meet again – in a third European competition | Football | The Guardian
+https://www.theguardian.com/football/ng-interactive/2015/apr/02/football-stadiums-then-and-now-interactive-quiz-part-two :: Football stadiums then and now – interactive quiz, part two | Football | The Guardian
+https://www.theguardian.com/football/ng-interactive/2015/dec/22/football-stadiums-then-and-now-interactive-quiz-part-three :: Football stadiums then and now – interactive quiz, part three | Football | The Guardian
+https://www.theguardian.com/media/blog/2011/jul/07/news-of-the-world-closes-live-coverage ::  News of the World closure announced – Thursday 7 July 2011 | Media | theguardian.com 
+https://www.theodysseyonline.com/an-open-letter-to-the-girl-who-always-has-smile-on-her-face :: (Could not determine)
+https://www.thesun.co.uk/archives/news/369767/a-car-on-the-wrong-side-of-the-road-hit-us-at-90mph-killing-four-i-still-dont-know-how-im-here/ :: A car on the wrong side of the road hit us at 90mph, killing four… I still don’t know how I’m here – The Sun
+https://www.thesun.co.uk/living/1616034/woman-checks-in-at-the-airport-wearing-what-appears-to-be-her-underwear/ :: Woman checks in at the airport wearing what appears to be her UNDERWEAR
+https://www.thoughtworks.com/insights/blog/nosql-databases-overview :: NoSQL Databases: An Overview | ThoughtWorks
+https://www.thrillist.com/entertainment/seattle/why-dating-in-seattle-is-different-than-anywhere-else :: Why Dating In Seattle Is Different Than Anywhere Else - Thrillist
+https://www.thundersplace.org/penis-enlargement/how-bad-is-the-infrared-lamp-really-for-your-sperm.html :: How bad is the infrared lamp really for your sperm? - Penis Enlargement at Thunder's Place
+https://www.tutorialcup.com/dbms/heap-file-organization.htm :: Heap File Organization in DBMS - Advantages of Heap File Organization - Disadvantages of Heap File Organization
+https://www.usatoday.com/story/sports/2017/04/18/matt-rosey-anoai-wwe-dies/100599372/ :: Former WWE performer Matt 'Rosey' Anoa’i dies at 47
+https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-101.html :: INA: ACT 101 - DEFINITIONS | USCIS
+https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-9696.html :: INA: ACT 301 - NATIONALS AND CITIZENS OF THE UNITED STATES AT BIRTH | USCIS
+https://www.uvic.cat/en/assignatura/2330 :: Documentary Workshop | UVic
+https://www.veda-edu.com/courses/certified-course/film-editing-pune/ :: Film Editing Courses in Pune | Video Editing Training courses in Pune
+https://www.videomaker.com/article/f16/14803-how-to-make-a-documentary-part-1-story-development :: How to Make a Documentary: Part 1 Story Development | Videomaker.com
+https://www.videouniversity.com/articles/how-to-edit-and-structure-your-documentary/ :: How To Edit and Structure Your Documentary - VideoUniversity
+https://www.vtnews.vt.edu/articles/2009/02/2009-85.html :: Puget Sound Tech Universe map depicts results of professor's study on history of high tech companies in Seattle  | News | Virginia Tech
+https://www.w3.org/Talks/Tools/Slidy2/#(1) :: HTML Slidy (1)
+https://www.w3.org/TR/csv2json/ :: Generating JSON from Tabular Data on the Web
+https://www.w3schools.com/css/css_rwd_viewport.asp :: Responsive Web Design Viewport
+https://www.w3schools.com/html/html5_draganddrop.asp :: HTML5 Drag and Drop
+https://www.washingtontechnology.org/ :: Washington Technology Industry Association | WTIA
+https://www.washingtontechnology.org/story-behind-mapping-stars-2015-seattle-tech-universe-map/ :: The story behind the 2015 Seattle Tech Universe Map | WTIA
+https://www.weforum.org/agenda/2016/01/stop-patronising-young-people-and-start-listening/ :: Stop patronising young people, and start listening | World Economic Forum
+https://www.yelp.com/search?find_desc=batrhoom+cleaning+service&find_loc=95128 :: Best Batrhoom cleaning service near San Jose, CA 95128
+https://www.yelp.com/topic/seattle-do-our-cats-know-that-we-find-them-cute :: Do our cats know that we find them cute? | Seattle - Yelp
+https://www.youtube.com/channel/UCewJNd5DShokVCh4_2uWPXA/videos :: (Could not determine)
+https://www.youtube.com/channel/UCGov3v6D4LdhVFbTd-aBG7g/videos :: (Could not determine)
+https://www.youtube.com/channel/UCq6_0hFCpIZ5hMDdV-86HHQ/search?query=prime+92&spfreload=1 :: (Could not determine)
+https://www.youtube.com/channel/UCu4f-27AR_eYvrAsGZ5-m_w :: (Could not determine)
+https://www.youtube.com/results?q=howstuffworks+garbage+recycling&sm=3&app=desktop :: howstuffworks garbage recycling - YouTube
+https://www.youtube.com/results?q=waste+management+documentary&sp=EgQQARgC :: waste management documentary - YouTube
+https://www.youtube.com/results?search_query=howstuffworks+garbage+removal :: howstuffworks garbage removal - YouTube
+https://www.youtube.com/results?sp=EgIYAg%253D%253D&q=nova+pbs :: nova pbs - YouTube
+https://www.youtube.com/watch?v=44SR0RjFdIo :: Interview with Atletico Madrid defender Filipe Luis on Champions League final - YouTube
+https://www.youtube.com/watch?v=BHoGCkLj93M :: The interview: Koke, Atletico Madrid player - YouTube
+https://www.youtube.com/watch?v=tBa4maJ8hB8 :: Atletico Madrid 1-0 Bayern Munich - Diego Simeone Post Match Interview - YouTube
+https://www.youtube.com/watch?v=Vwsj8R3uCNw :: The interview: Gabi Fernandez, Atletico de Madrid player - YouTube
+http://t0.gstatic.com/images?q=tbn:ANd9GcQ0uWcRq9w2Ed7P_sZ34Lh-myFF1sCytnGxSzCokF_un9W04skl :: images (782×1080)
+http://tex.stackexchange.com/questions/11525/generating-pdf-without-any-intermediary-files-stdin-stdout/361333#361333 :: xetex - Generating PDF without any intermediary files (stdin/stdout) - TeX - LaTeX Stack Exchange
+http://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc/139205 :: Adding headers and footers using Pandoc - TeX - LaTeX Stack Exchange
+http://tex.stackexchange.com/questions/3079/how-do-i-convert-html-to-latex/361305#361305 :: conversion - How do I convert HTML to LaTeX? - TeX - LaTeX Stack Exchange
+http://tfwm.com/mp3s-the-swiss-army-knife-of-audio/ :: Technology For Worship Magazine   » MP3s: The “Swiss Army Knife of Audio”
+http://thefashioninsider.com/2017/03/09/head-shoulders-names-antoine-griezmann-as-ambassador/ :: HEAD &amp; SHOULDERS NAMES ANTOINE GRIEZMANN AS NEWEST AMBASSADOR - FASHION INSIDER MAGAZINE
+http://thegrebs.com/docs/reconnect_iterm.html :: TheGrebs.com:HowTos:Automatically Reconnect SSH in iTerm After Sleep
+http://thelinuxworks.blogspot.com/2017/03/how-things-work-today-or-joys-of.html ::       The Linux Works: How Things Work Today or The Joys of Consulting
+http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/ :: Yugoslavia in the 1990s: the wonder-team that never was
+http://thulescientific.com/FGSAF.html :: Field Guide to the San Andreas Fault Field 
+http://tikitaka-futbol.blogspot.com/2011/08/rise-and-rise-of-villarreal-cf.html :: Total Football: The rise and rise of Villarreal CF
+http://timesofindia.indiatimes.com/city/kochi/Court-order-must-for-correcting-DOB-on-passport-HC/articleshow/48063175.cms?from=mdr :: (Could not determine)
+http://timesofindia.indiatimes.com/life-style/relationships/love-sex/What-your-social-networking-photo-says-about-you/articleshow/15073979.cms?from=mdr :: What your social networking photo says about you | Love &amp; Sex Tips - Times of India
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html :: Shell initialization files
+http://transom.org/2014/brief-history-of-documentary-forms/#nanook :: A Brief History of Documentary Forms - Transom
+http://trendwatching.com/trends/HYPERTASKING.htm :: HYPERTASKING  |  An emerging consumer trend and related new business ideas
+http://tse3.explicit.bing.net/th?id=OIP.Mef16b70136462ed264aa71591d02edb1H0 :: th (201×300)
+http://unix.stackexchange.com/questions/106160/linux-difference-between-using-autofs-with-nfs-and-just-using-fstab :: Linux: difference between using autofs with NFS and just using fstab - Unix &amp; Linux Stack Exchange
+http://unix.stackexchange.com/questions/146942/how-can-i-test-if-a-variable-is-empty-or-contains-only-spaces :: bash - How can I test if a variable is empty or contains only spaces? - Unix &amp; Linux Stack Exchange
+http://unix.stackexchange.com/questions/185829/which-version-of-nfs-is-my-nfs-server-using :: configuration - Which version of NFS is my NFS server using? - Unix &amp; Linux Stack Exchange
+http://unix.stackexchange.com/questions/405/useful-linux-podcasts :: learning - Useful Linux Podcasts - Unix &amp; Linux Stack Exchange
+http://variety.com/2016/digital/features/redbox-business-model-doomed-1201706612/ :: Redbox’s Business Model Doomed as DVD Rental Demand Shrinks | Variety
+http://vim.wikia.com/wiki/Fix_broken_arrow_key_navigation_in_insert_mode :: Fix broken arrow key navigation in insert mode | Vim Tips Wiki | Fandom powered by Wikia
+http://vtnews.vt.edu/articles/2008/03/2008-178.html :: Mayer studies Boise's growing high-tech economy and offers recommendations to policymakers  | News | Virginia Tech
+http://v.uecdn.es/p/110/sp/11000/thumbnail/entry_id/0_3h096fi5/version/100001/height/402 :: 402 (716×402)
+http://web-app.usc.edu/soc/syllabus/20143/18569.pdf :: (Could not determine)
+http://westphoria.sunset.com/2015/06/15/6-best-places-to-experience-the-real-san-andreas/ :: 6 Best Places to Experience the Real San Andreas   | A blog by Sunset
+http://whatculture.com/wwe/12-incredible-behind-the-scenes-wrestlemania-photos?page=2 :: (timeout)
+http://whitelinespaper.com/ :: (timeout)
+http://www.101greatgoals.com/101ggvideos/fan-cam/incredible-scenes-juanfran-apologises-atletico-madrid-fans-cl-final-video/ :: (timeout)
+http://www.1913intel.com/2011/09/30/silicon-valley-exposed-map-to-the-tech-stars-homes-vanity-fair/ :: Silicon Valley Exposed: Map to the Tech Stars’ Homes! | Vanity Fair | 1913 Intel
+http://www.24wrestling.com/vader-on-his-health-status-ken-shamrock-breaking-script-in-wwe-foley/ :: Vader On His Health Status, Ken Shamrock Breaking Script Inhttp://www.aascend.org/?page_id=18 :: Calendar | AASCEND
+http://www.aascend.org/?page_id=18#action=ai1ec_agenda&ai1ec_post_ids= :: Calendar | AASCEND
+http://www.abbreviations.com/TIL :: What does TIL stand for?
+http://www.adelingasanafilms.com/documentary-filmmaking-vs-journalism/ :: Page Under Maintenance
+http://www.afilm.es/workshops/james-duffs-creative-documentary-workshop/ :: Documentary Workshop | James Duff Afilm International Film
+http://www.aascend.org/?page_id=18 :: Calendar | AASCEND
+http://www.afterbuzztv.com/afterbuzz-tv-all-shows/making-their-way-to-the-ring-with-lilian-garcia-afterbuzz-tv/ :: Making Their Way To The Ring with Lilian Garcia - AfterBuzz TV - AfterBuzz TV Network
+http://www.aish.com/sp/dl/46123197.html :: Daily Lift: Everyone Has Life Challenges
+http://www.askamanager.org/2013/06/ridiculously-detailed-online-job-applications-and-why-they-suck.html :: (timeout)
+http://www.atlasobscura.com/articles/new-uses-for-old-mines :: (timeout)
+http://www.autismcommunity.org.au/famous---with-autism.html :: Famous - with Autism - Autism Community Network (acn)
+http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-us-forget :: BBC - Future - Why does walking through doorways make us forget?
+http://www.bbc.com/sport/rugby-league/36109359 :: Four Nations 2016: Liverpool FC's Anfield to host final - BBC Sport
+http://www.bbc.co.uk/programmes/b07g70j1 ::  BBC Two - City in the Sky
+http://www.bbc.co.uk/programmes/b07g70j1/episodes/guide ::  BBC Two - City in the Sky - Episode guide
+http://www.bbc.co.uk/programmes/w0006q4f/episodes/guide ::  BBC World Service - The Documentary, Failure at the Central Bank - Episode guide
+http://www.betternovelproject.com/blog/withhold-information/ :: Tell it Like it Isn't: Two Moments for Withholding Information
+http://www.bizjournals.com/seattle/news/2015/03/06/delta-wed-fly-direct-to-india-if-it-werent-for.html :: Delta: We'd fly direct to India if it weren't for unfair competition from Mid-east airlines - Puget Sound Business Journal
+http://www.blackwhitereadallover.com/2010/1/6/2837224/the-rivalry-is-back-parma-juventus :: The Rivalry is Back: Parma-Juventus - Black &amp; White &amp; Read All Over
+http://www.boingdragon.com/gallery/panoramic/DalyCityFault :: BoingDragon's Art Galleries :: Panoramic Photos :: DalyCityFault
+http://www.bpkg.io/ :: bpkg home
+http://www.bradshawfoundation.com/origins/big_questions.php :: (timeout)
+http://www.brandautopsy.com/2006/10/house_of_brands.html :: (timeout)
+http://www.building.co.uk/six-stadiums-that-tell-the-story-of-english-football/5061797.article :: (timeout)
+http://www.businessinsider.com/microsoft-updates-hotmail-but-why-2011-10 :: (timeout)
+http://www.businessinsider.com/us-city-economies-ranking-mar-2015-3?op=1/#-seattle-tacoma-bellevue-washington-1 :: US city economies ranking, Mar. 2015 - Business Insider
+http://www.campusce.net/sfsu/course/course.aspx?c=28 :: (Could not determine)
+http://www.carleasedepot.com/ :: Car Lease | Lease swap | Take over lease
+http://www.catb.org/esr/writings/taoup/html/ch10s05.html :: Command-Line Options
+http://www.cheapism.com/blog/useless-things-you-dont-need-to-buy/ :: Useless Things You Don't Need | Cheapism
+http://www.city-data.com/forum/seattle-area/1971568-why-so-many-unattractive-women-seattle.html :: Why so many unattractive women in Seattle? (Bellevue, Kirkland: fit in, how much) - Washington (WA) -Seattle and King County Suburbs -  City-Data Forum
+http://www.cnbc.com/2015/10/22/striking-paydirt-innovative-new-uses-for-old-mines.html :: (timeout)
+http://www.cnbc.com/2017/03/17/silicon-valley-tech-talent-fleeing-to-seattle.html :: (timeout)
+http://www.codemanship.co.uk/ :: (timeout)
+http://www.colchonero.com/fotos_de_portadas_y_articulos_de_prensa_sobre_el_estadio_postales_planos_fotos_antiguas_del_atletico_de_madrid-igfa-0-89798-3.htm :: (timeout)
+http://www.colchonero.com/media/galeria/4/0/1/4/8/n_atletico_de_madrid_vicente_calderon-11278410.jpeg :: n_atletico_de_madrid_vicente_calderon-11278410.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/0/3/3/7/n_atletico_de_madrid_el_estadio-11207330.jpeg :: n_atletico_de_madrid_el_estadio-11207330.jpeg (609×440)
+http://www.colchonero.com/media/galeria/4/0/3/8/0/n_atletico_de_madrid_vicente_calderon-11400830.jpeg :: n_atletico_de_madrid_vicente_calderon-11400830.jpeg (607×609)
+http://www.colchonero.com/media/galeria/4/0/3/8/4/n_atletico_de_madrid_vicente_calderon-11214830.jpeg :: n_atletico_de_madrid_vicente_calderon-11214830.jpeg (609×502)
+http://www.colchonero.com/media/galeria/4/0/5/8/2/n_atletico_de_madrid_vicente_calderon-11302850.jpeg :: n_atletico_de_madrid_vicente_calderon-11302850.jpeg (609×466)
+http://www.colchonero.com/media/galeria/4/0/9/2/7/n_atletico_de_madrid_el_estadio-11017290.jpeg :: n_atletico_de_madrid_el_estadio-11017290.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/0/9/4/3/n_atletico_de_madrid_vicente_calderon-11243490.jpeg :: n_atletico_de_madrid_vicente_calderon-11243490.jpeg (609×608)
+http://www.colchonero.com/media/galeria/4/1/1/7/7/n_atletico_de_madrid_vicente_calderon-11357711.jpeg :: n_atletico_de_madrid_vicente_calderon-11357711.jpeg (454×609)
+http://www.colchonero.com/media/galeria/4/1/2/1/0/n_atletico_de_madrid_vicente_calderon-11380121.jpeg :: n_atletico_de_madrid_vicente_calderon-11380121.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/1/3/7/5/n_atletico_de_madrid_vicente_calderon-11095731.jpeg :: n_atletico_de_madrid_vicente_calderon-11095731.jpeg (407×609)
+http://www.colchonero.com/media/galeria/4/1/5/3/6/n_atletico_de_madrid_vicente_calderon-10286351.jpeg :: n_atletico_de_madrid_vicente_calderon-10286351.jpeg (609×405)
+http://www.colchonero.com/media/galeria/4/1/5/8/2/n_atletico_de_madrid_vicente_calderon-11302851.jpeg :: n_atletico_de_madrid_vicente_calderon-11302851.jpeg (609×399)
+http://www.colchonero.com/media/galeria/4/1/7/1/4/n_atletico_de_madrid_los_entrenadores-7524171.jpeg :: n_atletico_de_madrid_los_entrenadores-7524171.jpeg (340×120)
+http://www.colchonero.com/media/galeria/4/1/9/2/7/n_atletico_de_madrid_el_estadio-11017291.jpeg :: n_atletico_de_madrid_el_estadio-11017291.jpeg (609×339)
+http://www.colchonero.com/media/galeria/4/2/1/6/8/n_atletico_de_madrid_vicente_calderon-10968612.jpeg :: n_atletico_de_madrid_vicente_calderon-10968612.jpeg (609×397)
+http://www.colchonero.com/media/galeria/4/2/2/8/2/n_atletico_de_madrid_vicente_calderon-11062822.jpeg :: n_atletico_de_madrid_vicente_calderon-11062822.jpeg (609×391)
+http://www.colchonero.com/media/galeria/4/2/3/8/8/n_atletico_de_madrid_vicente_calderon-11268832.jpeg :: n_atletico_de_madrid_vicente_calderon-11268832.jpeg (609×454)
+http://www.colchonero.com/media/galeria/4/2/4/5/4/n_atletico_de_madrid_vicente_calderon-11214542.jpeg :: n_atletico_de_madrid_vicente_calderon-11214542.jpeg (609×344)
+http://www.colchonero.com/media/galeria/4/2/5/6/0/n_atletico_de_madrid_vicente_calderon-11300652.jpeg :: n_atletico_de_madrid_vicente_calderon-11300652.jpeg (609×403)
+http://www.colchonero.com/media/galeria/4/2/6/2/6/n_atletico_de_madrid_vicente_calderon-11366262.jpeg :: n_atletico_de_madrid_vicente_calderon-11366262.jpeg (609×468)
+http://www.colchonero.com/media/galeria/4/2/6/9/6/n_atletico_de_madrid_el_estadio-11066962.jpeg :: n_atletico_de_madrid_el_estadio-11066962.jpeg (609×503)
+http://www.colchonero.com/media/galeria/4/2/8/9/1/n_atletico_de_madrid_vicente_calderon-11001982.jpeg :: n_atletico_de_madrid_vicente_calderon-11001982.jpeg (609×393)
+http://www.colchonero.com/media/galeria/4/2/9/2/7/n_atletico_de_madrid_el_estadio-11017292.jpeg :: n_atletico_de_madrid_el_estadio-11017292.jpeg (609×404)
+http://www.colchonero.com/media/galeria/4/2/9/7/0/n_atletico_de_madrid_vicente_calderon-8770792.jpeg :: n_atletico_de_madrid_vicente_calderon-8770792.jpeg (609×398)
+http://www.colchonero.com/media/galeria/4/3/3/3/7/n_atletico_de_madrid_vicente_calderon-11227333.jpeg :: n_atletico_de_madrid_vicente_calderon-11227333.jpeg (609×459)
+http://www.colchonero.com/media/galeria/4/3/3/8/8/n_atletico_de_madrid_vicente_calderon-11268833.jpeg :: n_atletico_de_madrid_vicente_calderon-11268833.jpeg (609×552)
+http://www.cohttps://www.google.com :: Google
+http://www.colchonero.com/media/galeria/4/3/4/5/0/n_atletico_de_madrid_vicente_calderon-6760543.jpeg :: n_atletico_de_madrid_vicente_calderon-6760543.jpeg (609×412)
+http://www.colchonero.com/media/galeria/4/3/5/2/9/n_atletico_de_madrid_vicente_calderon-11159253.jpeg :: n_atletico_de_madrid_vicente_calderon-11159253.jpeg (609×501)
+http://www.colchonero.com/media/galeria/4/3/7/2/9/n_atletico_de_madrid_vicente_calderon-11269273.jpeg :: n_atletico_de_madrid_vicente_calderon-11269273.jpeg (572×609)
+http://www.colchonero.com/media/galeria/4/3/7/5/5/n_atletico_de_madrid_el_estadio-11025573.jpeg :: n_atletico_de_madrid_el_estadio-11025573.jpeg (609×424)
+http://www.colchonero.com/media/galeria/4/3/8/9/9/n_atletico_de_madrid_vicente_calderon-10289983.jpeg :: n_atletico_de_madrid_vicente_calderon-10289983.jpeg (560×345)
+http://www.colchonero.com/media/galeria/4/3/7/5/5/n_atletico_de_madrid_el_estadio-11025573.jpeg :: n_atletico_de_madrid_el_estadio-11025573.jpeg (609×424)
+http://www.colchonero.com/media/galeria/4/3/8/9/9/n_atletico_de_madrid_vicente_calderon-10289983.jpeg :: n_atletico_de_madrid_vicente_calderon-10289983.jpeg (560×345)
+http://www.colchonero.com/media/galeria/4/3/9/1/3/n_atletico_de_madrid_vicente_calderon-11243193.jpeg :: n_atletico_de_madrid_vicente_calderon-11243193.jpeg (569×609)
+http://www.colchonero.com/media/galeria/4/3/9/7/3/n_atletico_de_madrid_vicente_calderon-11173793.jpeg :: n_atletico_de_madrid_vicente_calderon-11173793.jpeg (609×395)
+http://www.colchonero.com/media/galeria/4/4/0/4/2/n_atletico_de_madrid_vicente_calderon-8022404.jpeg :: n_atletico_de_madrid_vicente_calderon-8022404.jpeg (479×355)
+http://www.colchonero.com/media/galeria/4/4/1/9/7/n_atletico_de_madrid_el_estadio-9107914.jpeg :: n_atletico_de_madrid_el_estadio-9107914.jpeg (561×427)
+http://www.colchonero.com/media/galeria/4/4/5/3/3/n_atletico_de_madrid_vicente_calderon-10423354.jpeg :: n_atletico_de_madrid_vicente_calderon-10423354.jpeg (609×324)
+http://www.colchonero.com/media/galeria/4/4/7/2/6/n_atletico_de_madrid_vicente_calderon-7756274.jpeg :: n_atletico_de_madrid_vicente_calderon-7756274.jpeg (609×440)
+http://www.colchonero.com/media/galeria/4/4/7/2/9/n_atletico_de_madrid_vicente_calderon-11269274.jpeg :: n_atletico_de_madrid_vicente_calderon-11269274.jpeg (580×609)
+http://www.colchonero.com/media/galeria/4/5/1/7/7/n_atletico_de_madrid_vicente_calderon-11347715.jpeg :: n_atletico_de_madrid_vicente_calderon-11347715.jpeg (609×400)
+https://www.google.com/search?num=40&espv=2&q=create+eclipse+plugin+project+from+maven+archetype&oq=cr :: create eclipse plugin project from maven archetype - Google Search
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   31137
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+http://www.colchonero.com/media/galeria/4/5/3/1/0/n_atletico_de_madrid_vicente_calderon-10290135.jpeg :: n_atletico_de_madrid_vicente_calderon-10290135.jpeg (609×393)
+http://www.colchonero.com/media/galeria/4/5/3/2/4/o_atletico_de_madrid_antiguo_estadio_metropolitano-11404235.jpeg :: o_atletico_de_madrid_antiguo_estadio_metropolitano-11404235.jpeg (845×619)
+http://www.colchonero.com/media/galeria/4/5/5/0/1/n_atletico_de_madrid_el_estadio-5941055.jpeg :: n_atletico_de_madrid_el_estadio-5941055.jpeg (609×456)
+http://www.colchonero.com/media/galeria/4/5/5/1/7/n_atletico_de_madrid_vicente_calderon-11217155.jpeg :: n_atletico_de_madrid_vicente_calderon-11217155.jpeg (609×391)
+http://www.colchonero.com/media/galeria/4/5/5/3/3/n_atletico_de_madrid_vicente_calderon-10423355.jpeg :: n_atletico_de_madrid_vicente_calderon-10423355.jpeg (609×509)
+http://www.colchonero.com/media/galeria/4/5/6/1/1/n_atletico_de_madrid_vicente_calderon-11061165.jpeg :: n_atletico_de_madrid_vicente_calderon-11061165.jpeg (609×455)
+http://www.colchonero.com/media/galeria/4/5/9/7/3/n_atletico_de_madrid_vicente_calderon-11133795.jpeg :: n_atletico_de_madrid_vicente_calderon-11133795.jpeg (609×401)
+http://www.colchonero.com/media/galeria/4/6/0/5/4/n_atletico_dhttp://feederio.com/files/book/14853356701531_77737a5f174e5a213e749ddbdfbb82a5.pdf :: (Could not determine)
+http://wiki.c2.com/?DougMcIlroy :: Doug Mc Ilroy
+http://www.colchonero.com/media/galeria/4/6/0/5/4/n_atletico_de_madrid_el_estadio-5964506.jpeg :: n_atletico_de_madrid_el_estadio-5964506.jpeg (609×456)
+http://www.colchonero.com/media/galeria/4/6/6/1/1/n_atletico_de_madrid_vicente_calderon-11061166.jpeg :: n_atletico_de_madrid_vicente_calderon-11061166.jpeg (609×472)
+http://www.colchonero.com/media/galeria/4/6/7/3/1/n_atletico_de_madrid_el_estadio-10921376.jpeg :: n_atletico_de_madrid_el_estadio-10921376.jpeg (609×438)
+http://feederio.com/files/book/14853356701531_77737a5f174e5a213e749ddbdfbb82a5.pdf :: (Could not determine)
+http://www.colchonero.com/media/galeria/4/6/8/7/4/n_atletico_de_madrid_vicente_calderon-11294786.jpeg :: n_atletico_de_madrid_vicente_calderon-11294786.jpeg (609×394)
+http://www.colchonero.com/media/galeria/4/6/9/7/5/n_atletico_de_madrid_vicente_calderon-7555796.jpeg :: n_atletico_de_madrid_vicente_calderon-7555796.jpeg (458×609)
+http://www.colchonero.com/media/galeria/4/7/1/5/1/n_atletico_de_madrid_vicente_calderon-11261517.jpeg :: n_atletico_de_madrid_vicente_calderon-11261517.jpeg (609×343)
+http://www.colchonero.com/media/galeria/4/7/2/1/4/n_atletico_de_madrid_vicente_calderon-10284127.jpeg :: n_atletico_de_madrid_vicente_calderon-10284127.jpeg (609×508)
+https://books.google.com/books?id=QJA3dM8Uix0C&pg=PT116&lpg=PT116&dq=garden+hose+data+mcilroy&source=bl&ots=zsUeE1jFKl&sig=B4m0lWVc4hwSEOLTa1blTK3PNS8&hl=en&sa=X&ved=0ahUKEwiOy5Sz3M_TAhWIrVQKHfY-BGcQ6AEITDAH#v=onepage&q=garden%20hose%20data%20mcilroy&f=false :: Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce - Google Books
+https://github.com/substack/stream-handbook :: GitHub - substack/stream-handbook: how to write node programs with streams
+http://www.colchonero.com/media/galeria/4/7/7/9/1/n_atletico_de_madrid_vicente_calderon-11001977.jpeg :: n_atletico_de_madrid_vicente_calderon-11001977.jpeg (609×355)
+http://www.colchonero.com/media/galeria/4/8/0/6/8/n_atletico_de_madrid_vicente_calderon-10968608.jpeg :: n_atletico_de_madrid_vicente_calderon-10968608.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/8/1/4/7/n_atletico_de_madrid_vicente_calderon-11197418.jpeg :: n_atletico_de_madrid_vicente_calderon-11197418.jpeg (609×598)
+https://books.google.com/books?id=XfPLVx6qS_cC&pg=PA73&lpg=PA73&dq=garden+hose+data+unix&source=bl&ots=U4hJv3nePG&sig=ZKeZ0Z6dptArPNxfbQdAS-eMl7A&hl=en&sa=X&ved=0ahUKEwiytcel3M_TAhVir1QKHdO4BQMQ6AEIPjAE#v=onepage&q=garden%20hose%20data%20unix&f=false :: Go To: The Story of the Math Majors, Bridge Players, Engineers, Chess ... - Steve Lohr - Google Books
+http://www.colchonero.com/media/galeria/4/8/3/2/5/n_atletico_de_madrid_vicente_calderon-11395238.jpeg :: n_atletico_de_madrid_vicente_calderon-11395238.jpeg (609×506)
+http://www.colchonero.com/media/galeria/4/8/3/2/7/n_atletico_de_madrid_vicente_calderon-11127238.jpeg :: n_atletico_de_madrid_vicente_calderon-11127238.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/8/4/8/6/n_atletico_de_madrid_vicente_calderon-6866848.jpeg :: n_atletico_de_madrid_vicente_calderon-6866848.jpeg (560×396)
+http://www.colchonero.com/media/galeria/4/8/6/1/7/n_atletico_de_madrid_vicente_calderon-11307168.jpeg :: n_atletico_de_madrid_vicente_calderon-11307168.jpeg (609×440)
+https://www.oreilly.com/ideas/transformative-programming :: Transformative programming - O'Reilly Media
+http://www.colchonero.com/media/galeria/4/8/8/3/8/n_atletico_de_madrid_vicente_calderon-11348388.jpeg :: n_atletico_de_madrid_vicente_calderon-11348388.jpeg (609×450)
+http://www.colchonero.com/media/galeria/4/9/0/7/8/n_atletico_de_madrid_vicente_calderon-11368709.jpeg :: n_atletico_de_madrid_vicente_calderon-11368709.jpeg (609×482)
+http://www.colchonero.com/media/galeria/4/9/1/1/0/n_atletico_de_madrid_vicente_calderon-11380119.jpeg :: n_atletico_de_madrid_vicente_calderon-11380119.jpeg (609×342)
+http://www.colchonero.com/media/galeria/4/9/2/1/4/n_atletico_de_madrid_vicente_calderon-10284129.jpeg :: n_atletico_de_madrid_vicente_calderon-10284129.jpeg (550×375)
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   12463
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   12766
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   13920
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   14335
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   14722
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   15379
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   16239
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   16733
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   17664
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   18189
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   19082
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   19673
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   20072
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   20506
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   21819
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   22210
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   22539
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+https://cirw.in/blog/time-to-move-on :: MVC is dead, it's time to MOVE on.
+https://www.highbeam.com/doc/1G1-189666655.html :: (Could not determine)
+http://www.colchonero.com/media/galeria/4/9/3/2/7/n_atletico_de_madrid_vicente_calderon-11127239.jpeg :: n_atletico_de_madrid_vicente_calderon-11127239.jpeg (609×464)
+http://www.colchonero.com/media/galeria/4/9/7/6/8/n_atletico_de_madrid_vicente_calderon-7558679.jpeg :: n_atletico_de_madrid_vicente_calderon-7558679.jpeg (609×240)
+http://www.colchonero.com/media/galeria/4/9/7/9/1/n_atletico_de_madrid_vicente_calderon-11001979.jpeg :: n_atletico_de_madrid_vicente_calderon-11001979.jpeg (609×365)
+http://www.colchonero.com/media/galeria/4/9/9/6/9/n_atletico_de_madrid_el_estadio-10839699.jpeg :: n_atletico_de_madrid_el_estadio-10839699.jpeg (609×609)
+http://www.color-meanings.com/ :: Color Meanings - Learn about Colors and Symbolism
+http://www.cosmopolitan.com/style-beauty/beauty/advice/a2013/scents-that-seduce/ :: Perfume - Scents That Seduce Men
+http://www.cowpalace.com/events/2017/all-pro-wrestling :: (Could not determine)
+http://www.csu.edu.au/handbook/subjects/JRN322.html :: JRN322 Beyond News: Longform Journalism (8)
+http://www.cs.umss.edu.bo/doc/material/mat_gral_137/Addison.Wesley.Growing.Object.Oriented.Software.Guided.by.Tests.Oct.2009%20(1).pdf :: (Could not determine)
+http://www.dailydock.com/autism-helped-messi-become-worlds-best/ :: Autism helped Messi to become the world's best - DAILY DOCTOR
+http://www.dailymail.co.uk/femail/article-2128446/Has-fashion-hit-rock-Designers-unfortunate-derriere-baring-dress-make-butt-jokes.html :: Has fashion hit rock bottom? Designer's unfortunate derriere-baring dress will make you the butt of all jokes | Daily Mail Online
+http://www.dailymail.co.uk/femail/article-3474468/Is-way-sleep-giving-wrinkles-bed-position-aging-avoid-waking-fine-lines.html :: How your sleeping position could be aging you and giving you wrinkles | Daily Mail Online
+http://www.dailymail.co.uk/health/article-2546975/One-twin-gave-sugar-gave-fat-Their-experiment-change-YOUR-life.html :: One twin gave up sugar, the other gave up fat. Their experiment could change YOUR life | Daily Mail Online
+http://www.dailymail.co.uk/sciencetech/article-1390319/Scientists-happy-men-significantly-attractive-ladies.html :: Scientists find happy men are 'significantly less attractive' to ladies | Daily Mail Online
+http://www.dailymail.co.uk/sciencetech/article-2022385/Why-nipples-stimulate-area-female-brain-genitals-do.html :: Why nipples stimulate the same area of the female brain as genitals do | Daily Mail Online
+http://www.dailymail.co.uk/sport/football/article-4323868/Leicester-vs-Atletico-Madrid-two-sides-previous.html :: Leicester vs Atletico Madrid: The two sides have previous | Daily Mail Online
+http://www.dailymail.co.uk/sport/football/article-4390002/Giorgio-Chiellini-graduates-University-Turin.html :: Juventus star: Giorgio Chiellini graduates from university | Daily Mail Online
+http://www.dailymail.co.uk/tvshowbiz/article-2652062/Amanda-Holden-recreates-famous-Athena-tennis-bum-photo-keeps-Spanx-on.html :: Amanda Holden recreates Athena tennis bum photo at Westfields | Daily Mail Online
+http://www.dailymail.co.uk/tvshowbiz/article-3899558/Chloe-Sims-nipple-slips-dress-35th-birthday-celebrations.html :: TOWIE star Chloe Sims' nipple slips through her dress at 35th birthday celebrations | Daily Mail Online
+http://www.dailymail.co.uk/tvshowbiz/article-4242056/Tove-Lo-flashes-bare-breasts-concert-Boston.html :: Tove Lo flashes bare breasts during concert in Boston | Daily Mail Online
+http://www.dailyrecord.co.uk/sport/football/football-news/atletico-madrid-thug-breaks-silence-3586065 :: Atletico Madrid thug breaks his silence on Celtic shame game 40 years on: I should have been jailed - Daily Record
+http://www.dailywritingtips.com/flat-adverbs-are-flat-out-useful/ :: Flat Adverbs Are Flat-Out Useful
+http://www.deccanchronicle.com/141026/lifestyle-fashionbeauty/article/now-petite-new-sexy :: Now, petite is the new sexy
+http://www.dessosports.com/sports/football/football-projects/liverpool-fc-uk :: Liverpool FC - Stable grass pitch for Liverpool’s Anfield Stadium | Desso Sports Systems
+http://www.dictionary.com/browse/anthropology :: Anthropology | Define Anthropology at Dictionary.com
+http://www.dictionary.com/browse/curate :: Curate | Define Curate at Dictionary.com
+http://www.dictionary.com/browse/facade :: Facade | Define Facade at Dictionary.com
+http://www.dictionary.com/browse/loggerhead :: Loggerhead | Define Loggerhead at Dictionary.com
+http://www.dictionary.com/browse/rite-of-passage :: Rite of passage | Define Rite of passage at Dictionary.com
+http://www.digitales.us/resources/documentary-and-docudrama/ :: Digitales -   Documentary and DocuDrama
+http://www.dnaindia.com/money/report-air-india-prepares-to-launch-direct-flight-to-washington-by-end-of-2016-2155167 :: Air India to launch fifth direct flight to US; will fly to Washington by 2016-end | Latest News &amp; Updates at Daily News &amp; Analysis
+http://www.documentaryediting.org/wordpress/ :: The ADE – The Association for Documentary Editing
+http://www.documentary.org/feature/golden-gateway-documentary-training-bay-area-poised-become-global-production-center :: The Golden Gateway to Documentary Training: Bay Area Poised to Become a Global Production Center  | International Documentary Association
+http://www.economist.com/blogs/prospero/2013/08/rise-documentary-film :: (timeout)
+http://www.eecs.wsu.edu/~ananth/CptS223/Lectures/heaps.pdf :: (timeout)
+http://www.elclasicotrips.com/ :: (timeout)
+http://www.elmundo.es/elmundodeporte/2005/01/13/liga/1105629916.html :: (timeout)
+http://www.empireofthekop.com/2017/04/19/designer-shows-off-anfield-development-plans-to-leave-ground-at-108000-capacity-2nd-biggest-in-world/ :: (timeout)
+http://www.espnfc.us/atletico-madrid/story/3042164/atletico-madrid-could-adapt-anthem-after-stadium-move-enrique-cerezo :: (timeout)
+http://www.espnfc.us/spanish-primera-division/story/2211451/juanfran-real-madrid-gods-team-atletico-team-humble :: (timeout)
+http://www.estadiometropolitano.es/ :: (timeout)
+http://www.estadiosdeespana.com/posts/the-ten-oldest-stadiums-in-spain/ :: (timeout)
+http://www.estadiosdeespana.com/posts/the-ten-oldest-stadiums-in-spain/ :: The Ten Oldest Stadiums in Spain - Estadios de España
+http://www.estadiosdeespana.com/wp-content/uploads/2012/04/AtleticoMadrid301013a.jpeg :: AtleticoMadrid301013a.jpeg (550×255)
+http://www.expandability.org/ :: EXPANDability
+http://www.expandability.org/about-us/ :: About Us | EXPANDability
+http://www.faqs.org/docs/artu/ch10s05.html :: Command-Line Options
+http://www.footballgroundguide.com/leagues/old-british-football-grounds-and-stands.html :: Old Football Grounds | Photos and History | Lost British Stadiums 
+http://www.football-italia.net/39433/sibling-rivalry-scudetto :: The sibling rivalry of a Scudetto | Football Italia
+http://www.foxsports.com/soccer/story/juanfran-writes-letter-to-fans-in-wake-of-champions-league-final-penalty-miss-053016 :: Juanfran writes letter to fans in wake of Champions League final penalty miss | FOX Sports
+http://www.garyaswaby.com/2013/04/is-good-storytelling-about-withholding-information-from-the-reader/ :: Is Good Storytelling About Withholding Information From The Reader? - Gary A. Swaby
+http://www.geekwire.com/2015/massive-map-shows-seattles-tech-ecosystem-evolved-last-30-years/ :: This massive map shows how Seattle's tech ecosystem has evolved over the last 30 years - GeekWire
+http://www.geekwire.com/2016/long-awaited-aws-elastic-file-system-pricey-limited-one-step-toward-real-world-cloud/ :: Long-awaited AWS Elastic File System, while pricey and limited, is 'one more step toward real-world IT' - GeekWire
+http://www.geekwire.com/2017/silicon-valley-employees-leading-the-migration-to-seattle-new-study-finds/ :: Silicon Valley tech workers lead migration to Seattle, which now ranks 2nd in U.S. for software engineer salaries - GeekWire
+http://www.geekwire.com/engineering-centers/ :: Seattle Engineering Centers - GeekWire
+http://www.geologictrips.com/sf/sfttbaf.pdf :: (Could not determine)
+http://www.gnu.org/software/bash/manual/html_node/ANSI_002dC-Quoting.html#ANSI_002dC-Quoting :: Bash Reference Manual: ANSI-C Quoting
+http://www.golinuxhub.com/2014/09/how-to-configure-autofs-in-linux-and.html :: How to configure autofs in Linux and what are its advantages? ~ GoLinuxHub
+http://www.hookingupsmart.com/2009/10/19/relationshipstrategies/dont-be-too-perfect-it-scares-the-men/ :: Don't Be Too Perfect, It Scares the Men * Hooking Up Smart  : Hooking Up Smart
+http://www.htmlgoodies.com/beyond/mobile/how-to-build-a-simple-mobile-website-with-css3.html :: How to Build a Simple Mobile Website with CSS3
+http://www.idrawfashion.com/body/body-parts/24-hoe-to-draw-legs/ :: How to draw legs | I Draw Fashion
+http://www.imaginaryplanet.net/weblogs/idiotprogrammer/wp-content/uploads/2014/04/732am-petite-girl-with-twisty-arms-285x300.jpeg :: 732am-petite-girl-with-twisty-arms-285x300.jpeg (285×300)
+http://www.imdb.com/title/tt0383010/ :: The Three Stooges (2012) - IMDb
+http://www.independent.co.uk/life-style/health-and-families/pregnancy-abs-meet-the-instagram-mums-to-be-who-are-ripped-and-expecting-a7344891.html :: (timeout)
+http://www.independent.co.uk/news/uk/politics/socialism-is-more-popular-with-the-british-public-than-capitalism-survey-finds-a6892371.html :: (timeout)
+http://www.independent.co.uk/sport/football-determined-leicester-beaten-by-atleticos-late-burst-1239674.html :: (timeout)
+http://www.independent.co.uk/sport/football/international/aragones-turns-racist-questions-back-on-england-533537.html :: (timeout)
+http://www.indiewire.com/2015/02/sundance-is-it-documentary-or-journalism-248215/ :: Sundance: Is it Documentary or Journalism? | IndieWire
+http://www.insidespanishfootball.com/77628/romario-messi-suffers-from-a-mild-form-of-autism/ :: 404 Not Found
+http://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp :: 6 Ways To Capture The Cash Value In Life Insurance | Investopedia
+http://www.investopedia.com/ask/answers/060515/how-can-i-invest-mutually-owned-insurance-company.asp :: How can I invest in a mutually owned insurance company? | Investopedia
+http://www.investopedia.com/terms/m/mutual-insurance-company.asp :: Mutual Insurance Company Definition | Investopedia
+http://www.janubaba.com/c/forum/topic/9831/pg_1/Lollywood/paki_babez :: paki babez - Lollywood : Janubaba.com
+http://www.javabrahman.com/programming-principles/pipelines-in-computing-and-software-engineering/ :: (timeout)
+http://www.jokes4us.com/peoplejokes/comedianjokes/rodneydangerfieldjokes.html :: (timeout)
+http://www.jqueryscript.net/demo/Smooth-Marquee-like-Content-Scroller-Plugin-For-jQuery-limarquee/ :: jQuery limarquee Plugin Demos
+http://www.jqueryscript.net/other/Smooth-Marquee-like-Content-Scroller-Plugin-For-jQuery-limarquee.html :: Smooth Marquee-like Content Scroller Plugin For jQuery - limarquee | Free jQuery Plugins
+http://www.just.edu.jo/~mafika/733_Reproductive%20Endocrinology/Sex%20Determination_2_733.htm :: SEXUAL DIMORPHISM BEFORE PUBERTY _ Dr Mahmoud Ahmad Fora
+http://www.kayfabenews.com/wrestlemania-pre-taped-yesterday-leaked-results/ :: SPOILER ALERT! WrestleMania was pre-taped yesterday -- and here are the leaked results! - Kayfabe News
+http://www.lawkam.org/civil/16-court-rulings-on-correction-of-date-of-birth/1016/ :: 16 Court Rulings on Correction of Date of Birth - Lawkam.Org
+http://www.leicestermercury.co.uk/there-are-few-games-you-feel-totally-in-the-zone-madrid-away-was-definitely-one-of-them/story-30236542-detail/story.html :: (timeout)
+http://www.lib.berkeley.edu/MRC/docexhibit/docuchron.htm :: CHRONOLOGY OF DOCUMENTARY HISTORY
+http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html :: From first principles: Why I bet on Scala.js
+http://www.linuxquestions.org/questions/linux-general-1/what-programs-should-a-sys-admin-know-4175604897/ ::  What Programs Should a Sys Admin Know?
+http://www.linuxquestions.org/questions/syndicated-linux-news-67/lxer-how-things-work-today-or-the-joys-of-consulting-4175602335/ ::  LXer: How Things Work Today or The Joys of Consulting
+http://www.linuxquestions.org/questions/syndicated-linux-news-67/lxer-more-unknown-linux-commands-4175603806/ ::  LXer: More Unknown Linux Commands
+http://www.lipstickalley.com/attachment.php?attachmentid=206447&stc=1&d=1427038823 :: attachment.php (236×314)
+http://www.livescience.com/13573-east-coast-colder-europe-west-coast.html :: Why U.S. East Coast Is Colder Than Europe's West Coast
+http://www.livescience.com/15380-nipples-genitals-brain-map.html :: Nipples 'Light Up' Brain the Way Genitals Do
+http://www.livescience.com/6623-people-crave-salt.html :: Why Some People Crave More Salt
+http://www.mactrast.com/2013/11/setup-facebook-chat-messages-ichat/ :: How To Setup Facebook Chat in Messages or iChat on Your Mac | MacTrast
+http://www.macworld.co.uk/how-to/iphone/what-iphone-do-i-have-3632721/ :: What iPhone Do I Have? How to Identify an iPhone Model - Macworld UK
+http://www.marca.com/en/football/real-madrid/album/2017/04/04/58e35cd8e2704e742e8b45c0.html :: (Could not determine)
+http://www.marca.com/en/football/spanish-football/2016/11/02/5819b1b9e5fdea500c8b45c8.html :: (timeout)
+http://www.marca.com/en/football/spanish-football/2017/02/01/58910623e2704e70768b45ff.html :: (timeout)
+http://www.midfielddynamo.com/stadia/stadia_britain_closest.htm :: (timeout)
+http://www.mindpub.com/art194.htm :: Why Are Girls Supposed to Smile and Boys Aren't?
+http://www.mirror.co.uk/sport/football/news/footballs-best-brothers-30-soccers-5484963 :: Football's best brothers: 30 of soccer's most celebrated sets of siblings ranked - Mirror Online
+http://www.mirror.co.uk/sport/football/news/hideous-liverpool-purple-and-yellow-kit-888504 :: Hideous Liverpool purple and yellow kit hits Twitter - is it real or a fake? - Mirror Online
+http://www.mirror.co.uk/sport/football/news/juanfran-begs-atletico-madrids-fans-8082570 :: (timeout)
+http://www.mlwradio.com/download-the-jim-cornette-experience.html :: Download The Jim Cornette Experience
+http://www.moah.org/ :: The Museum of American Heritage
+http://www.moleskine.com/us/ :: The Official Moleskine website - Moleskine ®
+http://www.movoto.com/blog/real-estate-tips/move-to-seattle/ :: 30 Reasons You Need To Move To Seattle
+http://www.mrskin.com/gif-roundup-its-not-a-tove-lo-show-unless-she-flashes-the-audience---17958 :: (Could not determine)
+http://www.mtv.com/news/1493701/britney-spears-can-finally-add-professor-of-physics-to-her-resume/ :: Britney Spears Can Finally Add 'Professor Of Physics' To Her Resume - MTV
+http://www.mtv.com/news/2184657/tove-lo-boobs-flashing-bonnaroo-feminist-message/ :: Tove Lo Explains Why She Won't Stop Flashing People At Her Shows - MTV
+http://www.mundodeportivo.com/futbol/atletico-madrid/20161112/411810561220/atletico-madrid-club-mas-argentino-espana.html :: (timeout)
+http://www.nalinidance.com/bollywood_class.html :: (timeout)
+http://www.netapp.com/us/products/platform-os/ontap/index.aspx :: (timeout)
+http://www.nolo.com/legal-encyclopedia/how-the-foreign-born-children-american-citizens-can-prove-obtain-us-nationality.html :: (timeout)
+http://www.npr.org/sections/alltechconsidered/2016/04/11/473847620/a-real-life-tax-scam-this-is-what-irs-phone-fraud-sounds-like :: A Real-Life Tax Scam: This Is What IRS Phone Fraud Sounds Like : All Tech Considered : NPR
+http://www.npr.org/sections/goatsandsoda/2016/04/09/473433505/why-telling-a-woman-to-smile-makes-her-want-to-scream :: We Asked, You Told Us: What's Street Harassment Like In Your Country?  : Goats and Soda : NPR
+http://www.npr.org/templates/story/story.php?storyId=5347831 :: Retracing the Path of the 1906 Earthquake : NPR
+http://www.oviedin.com/carlostartiere/derribo/derribodeltartiere.htm :: El derribo del Carlos Tartiere - oviedin.com
+http://www.pantaneto.co.uk/issue15/leon.htm :: (Could not determine)
+http://www.pbs.org/city-in-the-sky/home/ :: City in the Sky | PBS
+http://www.pbs.org/tesla/ll/ll_warcur.html :: PBS: Tesla - Master of Lightning: War of the Currents
+http://www.pearsonclinical.co.uk/Psychology/ChildCognitionNeuropsychologyandLanguage/ChildMemory/AutomatedWorkingMemoryAssessment(AWMA)/AutomatedWorkingMemoryAssessment(AWMA).aspx :: (Could not determine)
+http://www.pentaho.com/sites/default/files/uploads/resources/oreilly-ebook-designing-data-intensive-applications-chapters-1-2-pentaho.pdf :: (Could not determine)
+http://www.pinkteenpussy.net/Kamilla18/24/2.jpeg :: 2.jpeg (796×1200)
+http://www.playedinbritain.co.uk/books.php :: Played in Britain - Books
+http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=49018254 :: img-thing (300×300)
+http://www.provail.org/ :: 
+http://www.provail.org/specialisterne :: 
+http://www.pwtorch.com/site/2017/04/19/vip-audio-419-fix-wtodd-martin-pt-2-3-book-review-big-time-100-year-history-northern-california-wrestling-special-mystery-review-plus-shibata-fallout-5/ :: VIP AUDIO 4/19 – The Fix w/Todd Martin (pt. 2 of 3): Book Review "When It Was Big Time: A 100 Year History of Northern California Wrestling" and special mystery review, plus Shibata fallout (55 min) -
+http://www.qaautomation.net/?p=263 :: A simple Selenium 2 example | QA Automation
+http://www.qwan.eu/shop :: QWAN - Quality Without a Name
+http://www.ravenbrook.com/ :: (Could not determine)
+http://www.realcartips.com/leasing/0437-how-to-get-out-of-lease-early.shtml :: 5 Ways to Get Out of a Car Lease Early
+http://www.refactory.com/services/refactoring :: Refactoring
+http://www.rsssf.com/miscellaneous/luckylosers.html :: Lucky Losers
+http://www.rypmarketing.com/blog/178-why-women-change-their-facebook-profile-pictures-more-often.whtml :: Women Change Their Facebook Profile Pictures More Often
+http://www.seattlepi.com/business/article/Are-Seattle-tech-firms-poaching-San-Francisco-6905930.php :: San Francisco tech workers are hustling to move to Seattle - seattlepi.com
+http://www.seattletimes.com/business/boeing-aerospace/long-haul-787-and-a350-give-seattle-an-edge-as-gateway-to-asia/ :: (Could not determine)
+http://www.seattletimes.com/business/technology/map-the-constellation-created-from-the-early-tech-industry/ :: (Could not determine)
+http://www.seattletimes.com/seattle-news/data/seattle-no-1-for-techies-looking-to-flee-california/ :: (Could not determine)
+http://www.sexygallerys.com/ :: All 100% Original Content Gf Porn Sites
+http://www.sfgate.com/bayarea/article/The-Cow-Palace-may-be-history-3226448.php :: The Cow Palace may be history - SFGate
+http://www.shallowsky.com/geology/sanandreas/ :: Exploring the San Andreas Fault
+http://www.shaunabram.com/dont-use-kill-9/ :: Shaun Abram  » Blog Archive   » Don’t use “kill -9”
+http://www.sheilacurranbernard.com/uploads/1/0/2/7/10273986/else_ch19_docstory2nded.pdf :: (Could not determine)
+http://www.skyscrapercity.com/showthread.php?t=662282&page=39 ::  MADRID - Wanda Metropolitano (70,000) - Page 39 - SkyscraperCity
+http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end :: Object Oriented Programming is an expensive disaster which must end | Smash Company
+http://www.soccerbase.com/teams/team.sd?team_id=163&teamTabs=stats :: Atl Madrid FC Player Appearances | Past &amp; Present | Soccer Base
+http://www.softage.ru/services/it-consulting/code-refactoring.php :: IT Consultancy Services | Code refactoring services
+http://www.spanish-fiestas.com/atletico-madrid-football-club/ :: Atletico Madrid Football Club | History of Los Colchoneros | Spanish Fiestas
+http://www.sport-english.com/en/news/atletico-madrid-boss-diego-simeones-best-quotes-5094543 :: 10 of Atletico Madrid boss Diego Simeone's best quotes
+http://www.sportsgrid.com/uncategorized/science-confirms-soccer-players-have-better-butts-than-tennis-players/ :: Science Says Soccer Players Have Nice Butts
+http://www.stadiumguide.com/cagliari-will-not-return-to-stadio-santelia/ :: Cagliari will not return to Stadio Sant'Elia - The Stadium Guide
+http://www.stadiumguide.com/vicentecalderon/ :: Estadio Vicente Calderon - Madrid - The Stadium Guide
+http://www.startribune.com/the-container-store-vs-storables/34597834/ :: The Container Store vs. Storables - StarTribune.com
+http://www.stripersonline.com/content/type/61/id/1628498/width/1000/height/1000 :: 1000 (487×700)
+http://www.taketours.com/salt-lake-city-ut/5-day-yellowstone-national-park-mt-rushmore-grand-teton-tour-from-salt-lake-city-089-3855.html#itinerary :: 5-Day Yellowstone National Park, Mt. Rushmore, Grand Teton Tour from Salt Lake City
+http://www.techradar.com/how-to/computing/apple/terminal-101-running-applescripts-from-the-terminal-1305736 :: Terminal 101: Running AppleScripts from the Terminal | TechRadar
+http://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/ :: 51 Useful Lesser Known Commands for Linux Users
+http://www.telegraph.co.uk/finance/property/11649555/Soho-is-the-new-Shoreditch-this-map-shows-where-startups-are-looking-for-workspace.html :: Soho is the new Shoreditch: this map shows where startups are looking for workspace - Telegraph
+http://www.telegraph.co.uk/technology/bill-gates/9812672/Bill-Gates-interview-I-have-no-use-for-money.-This-is-Gods-work.html :: Bill Gates interview: I have no use for money. This is God’s work - Telegraph
+http://www.tert.am/en/news/2013/09/10/messi3/861955 :: Romario falls out with Messi’s father over autism allegations - Armenian News - Tert.am
+http://www.texasstandard.org/stories/could-the-future-of-the-astrodome-look-like-the-coliseum/ ::  Embracing the Faded Glory of Houston’s Astrodome | Texas Standard
+http://www.theiet.org/forums/forum/messageview.cfm?catid=205&threadid=35752 :: IET Forums - Fused plugs in UK, why not in the rest of Europe?
+http://www.thenipslip.com/?p=40028 :: The Fappening 2.0: WWE Diva Kaitlyn Nude Selfies! | The Nip Slip
+http://www.thesaurus.com/browse/dry :: Dry Synonyms, Dry Antonyms | Thesaurus.com
+http://www.thesexmd.com/the-breasts-as-a-pathway-to-pleasure/ :: The Breasts as a Pathway to Pleasure - The Sex MD
+http://www.thesimpledollar.com/life-insurance-earning-dividends/ :: Earning Dividends through Life Insurance - The Simple Dollar
+http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html :: The UNIX School: 10 examples of paste command usage in Linux
+http://www.thinkgood.org/home-pick-up/ :: (Could not determine)
+http://www.tldp.org/LDP/abs/html/abs-guide.html#ARRAYS :: Advanced Bash-Scripting Guide
+http://www.tomshardware.com/answers/id-2498723/compact-case-fit-full-atx-board.html :: (timeout)
+http://www.topnpi.com/ca1477898377/dr-seval-aksu :: (timeout)
+http://www.tylkkari.fi/uutiset/muscles-and-breasts :: Muscles and breasts | Turun ylioppilaslehti
+http://www.ubuntuvibes.com/2017/04/why-ubuntu-is-popular-end-users-share.html?m=1 :: Why is Ubuntu Popular? End Users Share their Opinion ~ Ubuntu Vibes
+http://www.urbandictionary.com/define.php?term=Capitalism :: (timeout)
+http://www.urbandictionary.com/define.php?term=impressionable :: (timeout)
+http://www.urbandictionary.com/define.php?term=jiggle :: (timeout)
+http://www.urbandictionary.com/define.php?term=pub%20logic&defid=3176476 :: (timeout)
+http://www.urbandictionary.com/define.php?term=socialist :: Urban Dictionary: socialist
+http://www.urbandictionary.com/define.php?term=voluptuous :: Urban Dictionary: voluptuous
+http://www.vanityfair.com/news/2011/09/silicon-valley-201110 :: Silicon Valley Exposed: Map to the Tech Stars' Homes! | Vanity Fair
+http://www.vim.org/scripts/script.php?script_id=4373 :: sh.vim - Indenting for Shell script : vim online
+http://www.visionhelp.com/vision-therapy-and-the-autistic-child/ :: Vision Therapy and the Autistic Child - Vision Help
+http://www.walesonline.co.uk/whats-on/film-tv/what-original-cast-gladiators-looks-9865335 :: This is what the original cast of Gladiators looks like now - Wales Online
+http://www.webpronews.com/facebook-profile-photo-changed-more-often-by-women-than-men-2011-05/ :: Facebook Profile Photo Changed More Often By Women Than Men
+http://www.wellandcompany.com/face-face-surprising-consequences-sleeping-positions/ :: Face Down Or Face Up? The Surprising Consequences Of Sleeping Positions - Well &amp; Company
+http://www.wikihow.com/Explore-the-San-Andreas-Fault-Near-the-San-Francisco-Bay :: How to Explore the San Andreas Fault Near the San Francisco Bay
+http://www.worldstadiums.com/stadium_menu/architecture/historic_stadiums.shtml :: World Stadiums - Architecture :: Stadium history
+http://www.wrestlezone.com/news/824131-wrestlemania-33-stage-catches-fire-after-main-event-photos-and-video?utm_source=rss&utm_medium=rss&utm_campaign=wrestlemania-33-stage-catches-fire-after-main-event-photos-and-video :: WrestleMania 33 Stage Catches Fire After Main Event (Photos and Video)
+http://www.wrestlingforum.com/general-wwe/2141953-sasha-banks-totally-lovely-video-inside.html#/topics/2141953 :: (timeout)
+http://www.wrestlingnewsworld.com/paige-issues-first-public-statement-regarding-cyber-hack/ :: Paige Issues First Public Statement Regarding Cyber Hack
+http://www.wsc.co.uk/the-archive/37-As-good-as-it-got/4995-leicester-city-1997 :: When Saturday Comes - Leicester City 1997
+http://www.xconomy.com/seattle/2015/12/02/new-map-shows-expanding-seattle-tech-universe/# :: (Could not determine)
+http://www.xtratime.org/forum/156-world-football/222848-autistic-players.html ::  Autistic players - Xtratime Community
+http://www.yorkshirepost.co.uk/sport/football/leeds-united/sheffield-wednesday-6-leeds-united-0-wednesday-wipe-out-22-years-of-hurt-with-destruction-of-leeds-1-6368579 :: Sheffield Wednesday 6 Leeds United 0: Wednesday wipe out 22 years of hurt with destruction of Leeds - Yorkshire Post
+http://www.zdnet.com/article/google-presents-its-open-source-goodies-to-the-world/#ftag=RSSbaffb68 :: Google presents its open-source goodies to the world | ZDNet
+http://www.zerohedge.com/news/2012-10-14/top-15-economic-truth-documentaries :: The Top 15 Economic 'Truth' Documentaries | Zero Hedge
+http://zsh.sourceforge.net/Doc/Release/User-Contributions.html :: (timeout)
+https://www.highbeam.com/doc/1G1-189666655.htmlhttp://archive.azcentral.com/community/scottsdale/articles/2009/02/11/20090211mr-storeclosing0211ON-CP.html :: HighBeam Research is temporarily unavailable
+http://www.livesimplybyannie.com/storables-is-living-so-simply/ :: Storables Is Living So Simply! | Live Simply by Annie
+http://pdf.th7.cn/down/files/1312/code_simplicity.pdf :: (Could not determine)
+http://www.huffingtonpost.com/the-establishment/im-33-and-have-never-been-kissed_b_9492508.html :: I'm 33 and Have Never Been Kissed | The Huffington Post
+http://www.organizeit.com/ :: Organize-It - Storage Solutions, Closet Systems, Home &amp; Kitchen Accessories
+http://www.stacksandstacks.com/ :: Homewares, Kitchen Storage &amp; Furniture
+http://keyun.ml/resource/ebooks/data%20algorithms%20recipes%20for%20scaling%20up%20with%20hadoop%20and%20spark.pdf :: (Could not determine)
