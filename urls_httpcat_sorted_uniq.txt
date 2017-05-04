@@ -610,6 +610,7 @@ http://smallbusiness.chron.com/boot-macbook-air-usb-external-drive-54821.html
 http://smallbusiness.chron.com/brand-portfolio-59047.html
 http://smallbusiness.chron.com/financial-vs-real-asset-79865.html
 http://smedleyfinancial.com/wp/impact-of-war-on-stock-markets/
+http://smmry.com/
 http://snipplr.com/view/23131/
 http://soccer-rumours.com/
 http://softwareengineering.stackexchange.com/questions/100685/making-money-with-open-source-as-a-developer
@@ -1557,6 +1558,7 @@ http://www.htmlgoodies.com/beyond/mobile/how-to-build-a-simple-mobile-website-wi
 http://www.huffingtonpost.co.uk/emily-verdouw/body-image-anxiety_b_4545093.html
 http://www.huffingtonpost.com/2012/07/25/women-and-objectification_n_1701275.html
 http://www.huffingtonpost.com/2015/05/07/autism-employment_n_7216310.html
+http://www.huffingtonpost.com/2015/05/18/amazon-choice_n_7306158.html
 http://www.huffingtonpost.com/harlan-green/the-bully-mentality_b_5147056.html
 http://www.huffingtonpost.com/kate-peterson/gender-reveals-stop-revea_b_8224554.html
 http://www.huffingtonpost.com/the-establishment/im-33-and-have-never-been-kissed_b_9492508.html
@@ -2241,6 +2243,7 @@ https://answers.yahoo.com/question/index?qid=20100106094330AAKXGh9
 https://answers.yahoo.com/question/index?qid=20100806095309AA5BWQU
 https://answers.yahoo.com/question/index?qid=20110222165939AAb7alS
 https://answers.yahoo.com/question/index?qid=20111204220713AAW0oAw
+https://answers.yahoo.com/question/index?qid=20120625202421AAIxwnl
 https://answers.yahoo.com/question/index?qid=20120711064545AAKwEoL
 https://answers.yahoo.com/question/index?qid=20130609132911AAt6eV3
 https://answers.yahoo.com/question/index?qid=20160107074440AASEcPJ
@@ -2541,6 +2544,7 @@ https://en.wikipedia.org/wiki/Geek
 https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California)
 https://en.wikipedia.org/wiki/Gold_standard
 https://en.wikipedia.org/wiki/Golden_Age_of_Television
+https://en.wikipedia.org/wiki/Happy_path
 https://en.wikipedia.org/wiki/Hebbian_theory#Hebbian_learning_account_of_mirror_neurons
 https://en.wikipedia.org/wiki/Hero%27s_journey#The_Road_of_Trials
 https://en.wikipedia.org/wiki/High-heeled_footwear
@@ -2669,6 +2673,7 @@ https://en.wikiversity.org/wiki/Video_journalism/Telling_Stories
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHecARhE6z65hPo4rMTBKIakKeETJJDq0FZp5kCujgyLy6A-chrg
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nTrNEBYS6tc2MwszuqG7sgz2G2yI1bcSvh6Fxez-Zn4ZG1RQWQ
 https://encyclopediadramatica.se/Booty_Shaking
+https://english.stackexchange.com/questions/209439/what-does-tldr-mean-and-how-is-it-used
 https://english.stackexchange.com/questions/44943/why-has-southern-us-english-all-but-abandoned-adverb-forms
 https://eservices.mu.edu.sa/public/uploads/1420830536.9863Management%20Information%20System.pdf
 https://etfguide.com/boring-sector-spectacular-results/
@@ -3101,9 +3106,12 @@ https://www.aei.org/publication/the-new-era-of-the-400-college-textbook-which-is
 https://www.amazon.co.uk/Atlas-Universe-Insiders-Garlick-Ph-D-x/dp/1416955585/ref=sr_1_4?ie=UTF8&qid=1487459165&sr=8-4&keywords=children%27s+atlas+of+the+universe
 https://www.amazon.co.uk/review/R2H49QH7HR7WW2/ref=cm_cr_rev_detup_redir?_encoding=UTF8&asin=B00004TRHP&cdForum=Fx3ODQMLLWPZK7&cdPage=1&cdThread=Tx32XNT4A61FG2W&newContentID=Mx1IEIKSTHTD54Y&store=music#Mx1IEIKSTHTD54Y
 https://www.amazon.co.uk/review/R3ETR4FNZ3D53H?_encoding=UTF8&asin=B00GC3Z6GM&cdForum=Fx3GQ9P85WQW5BT&cdMSG=addedToThread&cdPage=1&cdThread=Tx1N5CEK20ZEU7N&newContentID=Mx1GCD9TP8IH2QR&newContentNum=3&store=computers#CustomerDiscussionsNRPB
+https://www.amazon.com/Amazons-Choice-for-Electronics/b?ie=UTF8&node=12691228011
 https://www.amazon.com/Asus-CHROMEBOX-M004U-ASUS-Desktop/dp/B00IT1WJZQ/ref=sr_1_1?ie=UTF8&qid=1484168899&sr=8-1&keywords=asus+chromebox
+https://www.amazon.com/Best-Choice-Products/pages/6123994011
 https://www.amazon.com/Kayfabe-Secret-Professional-Wrestling-X-plains/dp/0967591716
 https://www.amazon.com/The-Container-Store/b/ref=bl_dp_s_web_3023037011?ie=UTF8&node=3023037011&field-lbr_brands_browse-bin=The+Container+Store
+https://www.amazon.com/b?node=11392907011
 https://www.amazon.com/forum/-/Tx1DZVZEDCMWLR9/1/ref=cm_cd_naredir?_encoding=UTF8&asin=B00EOUFEG2&cdItems=25&cdNewQuestion=1&store=generic&cdPenName=
 https://www.amazon.com/forum/-/Tx1F3JYA9Q514RL/-/ref=ask_dp_lsw_al_hza?asin=B01I17W2YK
 https://www.amazon.com/forum/-/Tx1M0FBPZ0PKRBE/ref=ask_dp_dpmw_al_hza?asin=B00IT1WJZQ
@@ -3624,6 +3632,7 @@ https://www.google.com/search?q=curved+monitor+bad+idea&rlz=1CDGOYI_enUS590US590
 https://www.google.com/search?q=d3+map+visualization&rlz=1CDGOYI_enUS590US590&oq=d3+map&aqs=chrome.1.69i57j0l3.9647j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=ddmc+tony+adams&rlz=1CDGOYI_enUS590US590&oq=ddmc+tony+adams&aqs=chrome..69i57.8149j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=debt+freedom+overrated&oq=debt+freedom+overrated&aqs=chrome..69i57.2864j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=deep+fat+visceral+fat&oq=deep+fat+visceral+fat&aqs=chrome..69i57j69i64.14639j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=defamation+law&rlz=1CDGOYI_enUS590US590&oq=defamation+law&aqs=chrome..69i57j0l2j5.8288j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=define+plot&rlz=1CDGOYI_enUS590US590&oq=define+plot&aqs=chrome.0.69i59j0j5.1537j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=difference+between+a+battle+and+a+war&oq=difference+between+a+battle+and+a&aqs=chrome.1.69i57j0l5.7168j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -3828,6 +3837,7 @@ https://www.google.com/search?q=plaintext+branding&rlz=1CDGOYI_enUS590US590&oq=p
 https://www.google.com/search?q=plot+vs+story&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfxpX_9snRAhXBsFQKHfQ0DwIQ_AUICSgD&biw=320&bih=492#imgrc=tGm038gMbMelfM%3A
 https://www.google.com/search?q=power+of+pussy&rlz=1CDGOYI_enUS590US590&oq=power+of+pussy&aqs=chrome..69i57.7292j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=preachy&oq=preachy&aqs=chrome..69i57j0l5.223j0j4&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=pretotype+dogfood&oq=pretotype+dogfood&aqs=chrome..69i57.2167j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=pro+wrestling+talk+radio+podcast&rlz=1CDGOYI_enUS590US590&oq=prowredylinh+talk&aqs=chrome.3.69i57j0l3.8979j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=progressive+web+applications&rlz=1CDGOYI_enUS590US590&oq=progressive+web+applic&aqs=chrome.0.0j69i57j0l2.9332j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=racist+analytics&oq=racist+analytics&aqs=chrome..69i57.5111j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -3885,6 +3895,7 @@ https://www.google.com/search?q=terms+and+conditions+meme&num=40&source=lnms&tbm
 https://www.google.com/search?q=the+future+is+female&rlz=1CDGOYI_enUS590US590&oq=the+future+&aqs=chrome.2.69i57j0l3.5569j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=thinking+fast+and+slow&rlz=1CDGOYI_enUS590US590&oq=thinking+faat+abd&aqs=chrome.1.69i57j0l3.5286j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=tindergarden&oq=tindergarden&aqs=chrome..69i57j0l3.2987j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=tldr+%22executive+summary%22&oq=tldr+%22executive+summary%22&aqs=chrome..69i57.9775j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tofu+done+right&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=isvn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIzJbH17_QAhVG7mMKHTlqDlMQ_AUIBygB
 https://www.google.com/search?q=twitter+south+bay+office&rlz=1CDGOYI_enUS590US590&oq=teitter+south+bay&aqs=chrome.2.69i57j0l3.7667j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=ubuntu+single+system+image&rlz=1CDGOYI_enUS590US590&oq=ubuntu+single+syste&aqs=chrome.1.69i57j0l3.16768j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4260,6 +4271,7 @@ https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-emplo
 https://www.ishares.com/uk/individual/en/site-entry-new?nc=true&targetUrl=%2Fuk%2Findividual%2Fen%2Fproducts%2Fetf-product-list%3FsiteEntryPassthrough%3Dtrue
 https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf
 https://www.isitnormal.com/post/imagining-girls-naked-47438
+https://www.isitnormal.com/post/is-it-normal-to-be-attracted-to-young-girls--239769
 https://www.ivacy.com/blog/top-torrentz-alternatives/
 https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server
 https://www.jobtrain.co.uk/nas/vacancies.aspx
@@ -4314,6 +4326,7 @@ https://www.meetup.com/Scala-Bay/events/238419430/
 https://www.meetup.com/Seattle-Shortfilm/events/239118098/
 https://www.meetup.com/pellego/events/238450585/
 https://www.meetup.com/seattlestartup/events/238162798/
+https://www.merriam-webster.com/dictionary/chorister
 https://www.merriam-webster.com/dictionary/didactic
 https://www.merriam-webster.com/dictionary/dillydally
 https://www.merriam-webster.com/dictionary/innuendo
@@ -4395,6 +4408,7 @@ https://www.quora.com/How-many-daily-visitors-do-I-need-before-applying-for-Goog
 https://www.quora.com/How-many-months-is-winter-in-Seattle-When-does-the-rain-season-start-and-end
 https://www.quora.com/I-love-my-wife-but-I-am-attracted-to-other-women-How-do-I-get-over-this
 https://www.quora.com/If-a-phone-is-in-Airplane-Mode-will-alarms-still-work
+https://www.quora.com/Is-TL-DR-the-new-executive-summary
 https://www.quora.com/Is-a-house-in-East-Palo-Alto-a-good-investment
 https://www.quora.com/Is-it-proper-to-say-real-quick-in-American-English
 https://www.quora.com/Is-it-true-that-most-programmers-have-mild-Aspergers-syndrome
@@ -4448,6 +4462,7 @@ https://www.reddit.com/r/Filmmakers/comments/1bx29w/uk_filmmakers_what_are_the_v
 https://www.reddit.com/r/LiverpoolFC/comments/4f5q5z/firminos_grin/
 https://www.reddit.com/r/NoStupidQuestions/comments/4iqqtk/when_a_woman_hugs_a_man_and_presses_her_breasts/
 https://www.reddit.com/r/RedditForGrownups/comments/2lbcvj/online_viagra_are_there_any_legit_sites/
+https://www.reddit.com/r/ShitRedditSays/comments/2rztri/attraction_to_girls_younger_than_18_is_far_more/
 https://www.reddit.com/r/SquaredCircle/comments/3cr84h/does_a_photo_of_vince_mcmahons_brother_exist/
 https://www.reddit.com/r/Synesthesia/comments/1v4pg4/colors_of_school_subjectsclasses/
 https://www.reddit.com/r/TheRedPill/comments/22h883/girls_are_getting_uglier_in_general_and_guys/
@@ -4480,6 +4495,7 @@ https://www.safaribooksonline.com/library/view/documentary-storytelling-3rd/9780
 https://www.sap.com/corporate/en/company/diversity/differently-abled.html
 https://www.scoopwhoop.com/Interesting-Geographical-Facts#.2fvpkoc10
 https://www.scope.org.uk/support/disabled-people/work/employment-support-training
+https://www.scu.edu/business/realestatesymposium/
 https://www.sec.gov/Archives/edgar/data/1091907/000094018099000902/0000940180-99-000902.txt
 https://www.sec.gov/Archives/edgar/data/1091907/000120677412000891/wwe_10k.htm
 https://www.sec.gov/cgi-bin/browse-edgar?CIK=wwe&owner=exclude&action=getcompany&Find=Search

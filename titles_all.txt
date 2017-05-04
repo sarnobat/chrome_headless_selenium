@@ -5709,3 +5709,19 @@ https://askubuntu.com/questions/568277/how-do-i-get-past-the-libc-dependency-iss
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place :: text processing - Does sort support sorting a file in-place, like `sed --in-place`? - Unix &amp; Linux Stack Exchange
 https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff :: linux - Listing lines from just one file in DIFF - Super User
 http://www.espnfc.com/atletico-madrid/story/3117836/relaxed-diego-simeone-believes-atleti-can-do-the-impossible-in-second-leg :: 'Relaxed' Diego Simeone believes Atleti can do the 'impossible' in second leg - ESPN FC
+http://www.huffingtonpost.com/2015/05/18/amazon-choice_n_7306158.html :: 'Amazon's Choice' Wants To Make Your Purchasing Decisions For You | HuffPost
+https://www.amazon.com/Amazons-Choice-for-Electronics/b?ie=UTF8&node=12691228011 :: Amazon.com: Amazon's Choice for Electronics: Electronics
+https://www.amazon.com/Best-Choice-Products/pages/6123994011 :: Amazon.com: Best Choice Products
+https://www.amazon.com/b?node=11392907011 :: Amazon.com: Amazon's Choice for Laptops: Electronics
+https://www.google.com/search?q=deep+fat+visceral+fat&oq=deep+fat+visceral+fat&aqs=chrome..69i57j69i64.14639j0j4&sourceid=chrome&es_sm=91&ie=UTF-8 :: deep fat visceral fat - Google Search
+https://www.merriam-webster.com/dictionary/chorister :: Chorister | Definition of Chorister by Merriam-Webster
+https://www.scu.edu/business/realestatesymposium/ :: Real Estate Symposium - Leavey School of Business - Santa Clara University
+https://en.wikipedia.org/wiki/Happy_path :: Happy path - Wikipedia
+https://answers.yahoo.com/question/index?qid=20120625202421AAIxwnl :: Is it normal for me to be attracted to 13-14 year old girls? | Yahoo Answers
+https://www.isitnormal.com/post/is-it-normal-to-be-attracted-to-young-girls--239769 :: Is it normal to be attracted to young girls? | Is It Normal? | isitnormal.com
+https://www.reddit.com/r/ShitRedditSays/comments/2rztri/attraction_to_girls_younger_than_18_is_far_more/ :: "Attraction to girls younger than 18 is far more normal than our brainwashed society likes to admit tho. Instinctively it makes perfect sense, but (?) now it's no longer moral. (...) these age of consent laws they are from Christian moral brainwashing groups, so I guess they won after all." [+63] : ShitRedditSays
+http://smmry.com/ :: SMMRY - Summarize Everything
+https://english.stackexchange.com/questions/209439/what-does-tldr-mean-and-how-is-it-used :: meaning - What does 'TL;DR' mean and how is it used? - English Language &amp; Usage Stack Exchange
+https://www.google.com/search?q=pretotype+dogfood&oq=pretotype+dogfood&aqs=chrome..69i57.2167j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: pretotype dogfood - Google Search
+https://www.google.com/search?q=tldr+%22executive+summary%22&oq=tldr+%22executive+summary%22&aqs=chrome..69i57.9775j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: tldr "executive summary" - Google Search
+https://www.quora.com/Is-TL-DR-the-new-executive-summary :: Is 'TL;DR' the new 'executive summary'? - Quora
