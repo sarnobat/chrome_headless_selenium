@@ -161,6 +161,7 @@ http://cdn.trendhunterstatic.com/thumbs/pantene-ads.jpeg
 http://changingminds.org/techniques/body/parts_body_language/bottom_body_language.htm
 http://changingminds.org/techniques/conversation/interrupting/overlap_speech.htm
 http://chart.finance.yahoo.com/z?s=IVV&t=9y&q=l&l=on&z=s&p=m50,m200
+http://charuaggarwal.net/streambook.pdf
 http://chromlea.com/spanish/swear-words-extreme.php
 http://cipworldwide.org/curriculum/career-preparation/?gclid=CjwKEAiArvTFBRCLq5-7-MSJ0jMSJABHBvp0dbP8Vz6EUpl_mm2MqLNZzT0sid3c3K0-pn2Ye2vFvxoCja_w_wcB
 http://classroom.synonym.com/advantages-heap-sort-8553794.html
@@ -641,6 +642,7 @@ http://stackoverflow.com/questions/1030787/multiline-search-replace-with-perl
 http://stackoverflow.com/questions/10309405/diff-command-doesnt-print-lines-that-are-different-but-still-says-the-two-file
 http://stackoverflow.com/questions/10349622/extract-thumbnail-from-jpeg-file
 http://stackoverflow.com/questions/1037927/run-pdflatex-quietly
+http://stackoverflow.com/questions/10454748/how-can-an-executable-jar-file-be-run-without-the-command-prompt
 http://stackoverflow.com/questions/10549504/obtain-name-from-absolute-path-substring-from-last-slash-java-android
 http://stackoverflow.com/questions/10587615/unix-command-to-prepend-text-to-a-file/42822247#42822247
 http://stackoverflow.com/questions/10637369/compact-way-to-create-guava-multimaps
@@ -677,11 +679,13 @@ http://stackoverflow.com/questions/13870265/read-csv-tsv-with-no-header-line-in-
 http://stackoverflow.com/questions/13886430/passing-options-to-chrome-driver-selenium
 http://stackoverflow.com/questions/13891177/css-border-less-than-1px
 http://stackoverflow.com/questions/13927326/reading-input-till-eof-in-java
+http://stackoverflow.com/questions/14008125/shell-script-common-template
 http://stackoverflow.com/questions/14378419/invalid-property-value-on-background-image
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css/40903714#40903714
 http://stackoverflow.com/questions/14867132/is-d3-js-the-right-choice-for-real-time-visualization-of-neo4j-graph-db-data
 http://stackoverflow.com/questions/14889951/how-to-verify-a-method-is-called-two-times-with-mockito-verify
+http://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash
 http://stackoverflow.com/questions/15139388/why-dot-inside-square-brackets-doesnt-match-any-character
 http://stackoverflow.com/questions/1524661/the-best-cli-parser-for-java
 http://stackoverflow.com/questions/15323476/open-url-in-chrome-save-its-source-code-using-command-prompt
@@ -724,6 +728,7 @@ http://stackoverflow.com/questions/21679004/jna-unsatisfiedlinkerror-works-when-
 http://stackoverflow.com/questions/218608/a-good-library-to-do-url-query-string-manipulation-in-java
 http://stackoverflow.com/questions/2191989/a-command-line-html-pretty-printer-making-messy-html-readable
 http://stackoverflow.com/questions/22211356/scanning-an-entire-ip-range-subnet-for-port-80-open
+http://stackoverflow.com/questions/22461663/convert-inputstream-to-jsonobject
 http://stackoverflow.com/questions/23235112/how-to-run-a-series-of-vim-commands-from-command-prompt
 http://stackoverflow.com/questions/23517165/apache-ssi-not-working
 http://stackoverflow.com/questions/2359159/cassandra-port-usage-how-are-the-ports-used
@@ -734,6 +739,7 @@ http://stackoverflow.com/questions/24202024/change-data-storing-location-in-neo4
 http://stackoverflow.com/questions/24208889/how-to-specify-numbered-sections-in-pandocs-front-matter
 http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-opening-br
 http://stackoverflow.com/questions/24658365/img-tag-displays-wrong-orientation
+http://stackoverflow.com/questions/24835431/use-jackson-to-stream-parse-an-array-of-json-objects
 http://stackoverflow.com/questions/2578116/how-can-i-test-if-line-is-empty-in-shell-script
 http://stackoverflow.com/questions/26067096/how-to-write-a-matcher-that-is-not-equal-to-something
 http://stackoverflow.com/questions/26310828/how-can-i-get-an-md5-checksum-of-an-image-at-a-specific-url-in-javascript
@@ -944,6 +950,7 @@ http://torrentking.eu/movie-2004/new-york-minute-torrents/
 http://transom.org/2014/brief-history-of-documentary-forms/#nanook
 http://trendingearth.com/gadgets/install-whatsapp-without-number-verification-no-sim-internet-android-iphone/
 http://trendwatching.com/trends/HYPERTASKING.htm
+http://trentm.com/json/
 http://tse3.explicit.bing.net/th?id=OIP.Mef16b70136462ed264aa71591d02edb1H0
 http://tubularinsights.com/l-cut/
 http://turtlepedia.wikia.com/wiki/Plan_Six_From_Outer_Space
@@ -2435,6 +2442,7 @@ https://docs.mongodb.com/manual/reference/operator/update/push/#example-push-eac
 https://docs.mongodb.com/manual/reference/operator/update/push/#op._S_push
 https://docs.oracle.com/cd/B12037_01/server.101/b12170/ch3.htm
 https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/tune_startup.html
+https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html
 https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-packaging.html
 https://docs.python.org/3.1/library/getopt.html
 https://drfone.wondershare.com/notes/iphone-notes-duplicate.html
@@ -2442,6 +2450,7 @@ https://drhurd.com/2012/07/23/what-makes-a-snob/
 https://drscdn.500px.org/photo/49504796/q=80_m=2000/f28512eb79ce757879c4dd480e934b28
 https://duenablomstrom.com/2015/08/03/everythings-a-brand-everything-but-a-bank/
 https://dzone.com/articles/a-detailed-breakdown-of-the-jvm?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
+https://dzone.com/articles/creating-executable-uber-jar%E2%80%99s
 https://dzone.com/articles/csv-operations-using-opencsv
 https://dzone.com/articles/design-patterns-uncovered-0
 https://dzone.com/articles/does-your-application-really-need-a-database
@@ -2911,6 +2920,7 @@ https://news.ycombinator.com/item?id=2567186
 https://news.ycombinator.com/item?id=2932620
 https://news.ycombinator.com/item?id=9601748
 https://nfts.co.uk/our-courses/short-courses/factual#developing_and_pitching_documentaries
+https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/util/PriorityQueue.html
 https://nonfics.com/the-20-best-documentaries-about-los-angeles-f9b8cfd29ee2#.5vgqjp9be
 https://nowtoronto.com/news/if-bikinis-are-so-practical-why-don-t-men-wear-speedos/
 https://ocramius.github.io/blog/fluent-interfaces-are-evil/
@@ -3770,6 +3780,7 @@ https://www.google.com/search?q=investing+in+an+apartment+building&rlz=1CDGOYI_e
 https://www.google.com/search?q=iphone+applescript&rlz=1CDGOYI_enUS590US590&oq=iphone+applescript&aqs=chrome..69i57j0l3.4869j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=iphone+scripting&rlz=1CDGOYI_enUS590US590&oq=iphone+scripting&aqs=chrome..69i57j0l3.6536j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=iplayer+rss&oq=iplayer+rss&aqs=chrome..69i57j0l5.2312j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=is+a+jar+really+an+executable&oq=is+a+jar+really+an+executable&aqs=chrome..69i57j69i64.4319j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+berkeley+db+free&oq=is+berkeley+db+&aqs=chrome.0.0j69i57j0l4.4141j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+closed+circuit+still+in+business&rlz=1CDGOYI_enUS590US590&oq=is+closed+circuit+still+in+business&aqs=chrome..69i57.24507j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=is+east+palo+alto+a+good+investment&rlz=1CDGOYI_enUS590US590&oq=is+east+palo+alto+a+good+investment&aqs=chrome..69i57j0.10846j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8

@@ -5758,3 +5758,14 @@ http://viral.thetypicalindian.in/2017/05/04/charlotte-flair-wwe-leaked-17-photos
 http://amazingribs.com/recipes/pizza_and_flatbreads_on_the_grill/different_pizza_styles.html
 http://spamisbetterfried.blogspot.com/2013/09/the-tale-of-two-pizzas-neapolitan-and.html
 http://www.snopes.com/business/genius/spacepen.asp
+http://charuaggarwal.net/streambook.pdf
+http://stackoverflow.com/questions/10454748/how-can-an-executable-jar-file-be-run-without-the-command-prompt
+http://stackoverflow.com/questions/14008125/shell-script-common-template
+http://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash
+http://stackoverflow.com/questions/22461663/convert-inputstream-to-jsonobject
+http://stackoverflow.com/questions/24835431/use-jackson-to-stream-parse-an-array-of-json-objects
+http://trentm.com/json/
+https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html
+https://dzone.com/articles/creating-executable-uber-jar%E2%80%99s
+https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/util/PriorityQueue.html
+https://www.google.com/search?q=is+a+jar+really+an+executable&oq=is+a+jar+really+an+executable&aqs=chrome..69i57j69i64.4319j0j7&sourceid=chrome&ie=UTF-8
