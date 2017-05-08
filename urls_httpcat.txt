@@ -216,6 +216,7 @@ http://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html
 http://download.cnet.com/OBiON/3000-12941_4-75387542.html
 http://download.intel.com/support/motherboards/desktop/sb/biosglossary_nuc_v02.pdf
 http://dukrat.net/124/deluge-webui-1-3-6-autologin-disable-password
+http://eatupnewyork.com/why-is-new-york-city-pizza-so-good/
 http://eclipsescript.org/
 http://economics.stackexchange.com/questions/13312/when-a-stock-market-crashes-how-does-money-just-disappear/15702#15702
 http://economics.stackexchange.com/questions/15698/does-a-stock-market-crash-undo-the-multiplier-effects-money-creation
@@ -374,6 +375,7 @@ http://indianexpress.com/article/entertainment/entertainment-others/remember-big
 http://info.cern.ch/hypertext/WWW/TheProject.html
 http://info.philsystems.com/blog/reclaiming-a-mine
 http://ingridsundberg.com/2013/06/05/what-is-arch-plot-and-classic-design/
+http://investorplace.com/2014/02/mall-food-courts-lose-155-sbarro-pizza-restaurants/#.WRAPIrRVikp
 http://investorplace.com/2015/02/best-vanguard-balanced-funds-vbinx-vtmfx-vwinx/#.WFm4jbYrLOQ
 http://invisibleinkblog.blogspot.com/2013/08/yes-documentaries-also-use-story.html
 http://jbl.web.cern.ch/jbl/doc/plain/
@@ -533,6 +535,7 @@ http://pdf.th7.cn/down/files/1312/html5_media.pdf
 http://peninsulapress.com/2015/11/03/east-palo-alto-crime-drop/
 http://people.exeter.ac.uk/cnwburge/pages/Rule-breaking.html
 http://perldoc.perl.org/perlrun.html
+http://perldoc.perl.org/perlrun.html#Command-Switches
 http://peter.sh/experiments/chromium-command-line-switches/
 http://peter.sh/experiments/chromium-command-line-switches/#load-extension
 http://petereisentraut.blogspot.com/2010/11/pipefail.html
@@ -570,6 +573,7 @@ http://ries.com/wp-content/uploads/2015/05/Ad_Age_Hammer004.pdf
 http://ries.com/wp-content/uploads/2015/05/Visual_Hammer_Free_Chapter_new.pdf
 http://ries.com/wp-content/uploads/2015/05/Visual_Hammer_Free_Chapter_new.pdf
 http://rss.art19.com/jim-cornette-experience
+http://sbarro.is/files/Sbarro_Nutritional_Information.pdf
 http://scholar.harvard.edu/heiditworek/publications/telegraph-and-bank-interdependence-global-communications-and-capitalism
 http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1299&context=etd_projects
 http://school-ratings.com/cities/San_Francisco_South_Bay_Area.html
@@ -892,6 +896,7 @@ http://stackoverflow.com/questions/9375704/ignoring-stacktrace-when-testing-for-
 http://stackoverflow.com/questions/9375704/ignoring-stacktrace-when-testing-for-exceptions-in-junit
 http://stackoverflow.com/questions/9517198/can-i-update-an-existing-amazon-s3-object
 http://stackoverflow.com/questions/9555769/how-to-insert-a-date-inside-the-filename-with-logrotate
+http://stackoverflow.com/questions/9605232/how-to-merge-every-two-lines-into-one-from-the-command-line
 http://stackoverflow.com/questions/9637297/proper-rest-formatted-url-with-date-ranges
 http://stackoverflow.com/questions/9666102/bash-double-bracket-issue
 http://stackoverflow.com/questions/9807353/getting-stock-graphs-from-yahoo-finance
@@ -1448,6 +1453,7 @@ http://www.dailyrecord.co.uk/sport/football/football-news/atletico-madrid-thug-b
 http://www.dailywritingtips.com/flat-adverbs-are-flat-out-useful/
 http://www.davidmcelroy.org/?p=9971
 http://www.davidsongifted.org/Search-Database/entry/A10447
+http://www.dcoutlook.com/2012/12/cheese-pizza-at-sbarro-does-anyone.html
 http://www.de7ec7ed.com/2013/05/ssh-daemon-samsung-chromebook-exynos.html?m=1
 http://www.deccanchronicle.com/141026/lifestyle-fashionbeauty/article/now-petite-new-sexy
 http://www.democraticunderground.com/discuss/duboard.php/http:/duboard.php?az=view_all&address=105x9744304
@@ -1818,6 +1824,7 @@ http://www.marca.com/futbol/america/2016/11/29/583d27ad46163f214a8b4629.html
 http://www.marca.com/futbol/atletico/2016/10/01/57ed636a268e3efe698b463c.html
 http://www.marketriders.com/investing/learning-to-ignore-the-news/
 http://www.marketwatch.com/story/investing-boring-good-youre-doing-it-right-2013-05-02
+http://www.marketwatch.com/story/post-bankruptcy-sbarro-is-back-in-growth-mode-2015-10-05
 http://www.marketwatch.com/story/the-sp-500-index-is-not-your-buddy-2015-01-14
 http://www.massagetoday.com/mpacms/mt/article.php?id=14152
 http://www.mathsnoproblem.co.uk/concrete-pictorial-abstract
@@ -2668,6 +2675,7 @@ https://en.wikipedia.org/wiki/High-heeled_footwear
 https://en.wikipedia.org/wiki/Homophone
 https://en.wikipedia.org/wiki/House_arrest
 https://en.wikipedia.org/wiki/Housing_cooperative
+https://en.wikipedia.org/wiki/How_Weird_Street_Faire
 https://en.wikipedia.org/wiki/Hydrazine
 https://en.wikipedia.org/wiki/Hypercube
 https://en.wikipedia.org/wiki/Hyperrectangle
@@ -2707,6 +2715,7 @@ https://en.wikipedia.org/wiki/Long-form_journalism
 https://en.wikipedia.org/wiki/Maunder_Minimum
 https://en.wikipedia.org/wiki/Megastructures
 https://en.wikipedia.org/wiki/Microbrand
+https://en.wikipedia.org/wiki/Microsoft_Linux_distributions
 https://en.wikipedia.org/wiki/Monetary_base
 https://en.wikipedia.org/wiki/Moral_high_ground
 https://en.wikipedia.org/wiki/Mutual_insurance#United_Kingdom
@@ -3414,10 +3423,12 @@ https://www.engr.washington.edu/news/trend/aut09_alumni.html
 https://www.enotes.com/homework-help/why-macbeth-classic-398806
 https://www.entrepreneur.com/article/231549
 https://www.entrepreneur.com/article/233843
+https://www.entrepreneur.com/article/235379
 https://www.entrepreneur.com/article/269611
 https://www.entrepreneur.com/video/234676
 https://www.entrepreneur.com/video/234692
 https://www.eventbrite.com/d/ca--san-jose/christmas-concert/
+https://www.eventbrite.com/e/how-weird-2017-tickets-32056243086
 https://www.eventbrite.com/e/thinking-positive-about-the-future-for-young-adults-with-autism-ld-berkeley-ca-registration-31295240908
 https://www.excelsior-usa.com/articles/java-to-exe.html
 https://www.facebook.com/ATLETINY/videos/1619625008065050/
@@ -3454,7 +3465,9 @@ https://www.finder.com/international-money-transfers/regular-overseas-payments
 https://www.flexjobs.com/jobs/online-java
 https://www.flickr.com/photos/38037974@N00/15948284872
 https://www.flickr.com/photos/76406369@N04/7005890425/
+https://www.fool.com/investing/general/2014/03/22/why-sbarro-and-quiznoes-failed.aspx
 https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/tobyshapshak/2015/09/04/why-whatsapp-is-south-africas-favourite-app/&refURL=https://www.google.com/&referrer=https://www.google.com/
+https://www.forbes.com/sites/briansolomon/2014/06/03/reheated-sbarro-exits-bankruptcy-with-new-chipotle-style-plan-for-pizza/#6a1c508359c2
 https://www.forbes.com/sites/gordonkelly/2017/04/13/massive-iphone-8-leak-reveals-10-new-features/#4e040bbc1e3c
 https://www.forbes.com/sites/johntamny/2012/07/29/ron-paul-fractional-reserve-banking-and-the-money-multiplier-myth/#7c19550e79b7
 https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5dedfe7547d3
@@ -4454,6 +4467,7 @@ https://www.kaanoon.com/2054/passport-issues
 https://www.kaanoon.com/54386/court-order-for-dob-change-in-passport-by-indian-consulate-usa
 https://www.labnol.org/software/get-usa-local-phone-number/18407/
 https://www.leasequit.com/
+https://www.legalzoom.com/articles/sbarro-leaves-bankruptcy-behind-with-less-debt-and-a-new-plan
 https://www.lifehacker.com.au/2012/08/dye-methylated-spirits-to-avoid-accidental-consumption/
 https://www.lifewire.com/what-are-the-gmail-smtp-settings-1170854
 https://www.linkedin.com/company-beta/283625/?pathWildcard=283625
@@ -4541,6 +4555,7 @@ https://www.oreilly.com/ideas/transformative-programming
 https://www.oreilly.com/learning/making-sense-of-stream-processing/page/4/the-unix-philosophy-of-distributed-data
 https://www.owasp.org/images/1/1b/Building_Your_Company's_Vision_-_Jim_Collins.pdf
 https://www.patelco.org/Loans-And-Credit/Home-Loans/Patelco-Mortgage-Rates/#fixed
+https://www.perl.com/pub/2004/08/09/commandline.html
 https://www.pindrop.com/irs-phone-scam-live-call_analysis/
 https://www.pinterest.com/carlesmiche/metropolitano-atletico-madrid/
 https://www.pinterest.com/fernandolzarori/club-atl%C3%A9tico-de-madrid-sad-201011/
@@ -4561,6 +4576,7 @@ https://www.psychologytoday.com/blog/the-human-beast/201305/sexual-wiring-womens
 https://www.psychologytoday.com/blog/the-human-beast/201305/sexual-wiring-womens-breasts
 https://www.psychologytoday.com/blog/the-scientific-fundamentalist/201101/women-are-more-beautiful-men
 https://www.psychologytoday.com/blog/the-therapist-is-in/200910/humble-men-and-confident-women-are-more-successful
+https://www.qsrmagazine.com/start-finish-what-inspires-execs/how-sbarro-s-ceo-revitalizing-brand
 https://www.questia.com/magazine/1G1-119444343/the-rhythm-of-thinking-speculations-on-how-an-editor
 https://www.quimbee.com/cases/ventura-v-titan-sports-inc
 https://www.quora.com/
@@ -4680,6 +4696,7 @@ https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/
 https://www.rt.com/news/magadan-sorrow-at-world-s-end/
 https://www.safaribooksonline.com/library/view/documentary-storytelling-3rd/9780240812410/
 https://www.sap.com/corporate/en/company/diversity/differently-abled.html
+https://www.sbarro.com/wp-content/uploads/2016/01/Sbarro-Ingredients-and-Allergy-Sheet.pdf
 https://www.scoopwhoop.com/Interesting-Geographical-Facts#.2fvpkoc10
 https://www.scope.org.uk/support/disabled-people/work/employment-support-training
 https://www.scu.edu/business/realestatesymposium/

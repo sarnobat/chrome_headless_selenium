@@ -5769,3 +5769,20 @@ https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html :: Priori
 https://dzone.com/articles/creating-executable-uber-jar%E2%80%99s :: (Could not determine)
 https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/util/PriorityQueue.html :: PriorityQueue (Stanford JavaNLP API)
 https://www.google.com/search?q=is+a+jar+really+an+executable&oq=is+a+jar+really+an+executable&aqs=chrome..69i57j69i64.4319j0j7&sourceid=chrome&ie=UTF-8 :: is a jar really an executable - Google Search
+http://www.marketwatch.com/story/post-bankruptcy-sbarro-is-back-in-growth-mode-2015-10-05 :: Post-bankruptcy Sbarro is back in growth mode - MarketWatch
+https://en.wikipedia.org/wiki/Microsoft_Linux_distributions :: Microsoft Linux distributions - Wikipedia
+https://www.entrepreneur.com/article/235379 :: Why These 3 Once Thriving Franchises Have Fallen on Hard Times
+https://www.fool.com/investing/general/2014/03/22/why-sbarro-and-quiznoes-failed.aspx :: (Could not determine)
+https://www.forbes.com/sites/briansolomon/2014/06/03/reheated-sbarro-exits-bankruptcy-with-new-chipotle-style-plan-for-pizza/#6a1c508359c2 :: Forbes Welcome
+https://www.legalzoom.com/articles/sbarro-leaves-bankruptcy-behind-with-less-debt-and-a-new-plan :: Sbarro Leaves Bankruptcy Behind with Less Debt and a New Plan | LegalZoom
+https://www.qsrmagazine.com/start-finish-what-inspires-execs/how-sbarro-s-ceo-revitalizing-brand :: How Sbarro?s CEO is Revitalizing the Brand - QSR magazine
+https://www.sbarro.com/wp-content/uploads/2016/01/Sbarro-Ingredients-and-Allergy-Sheet.pdf :: (Could not determine)
+http://eatupnewyork.com/why-is-new-york-city-pizza-so-good/ :: Why Is New York City Pizza So Good?
+http://investorplace.com/2014/02/mall-food-courts-lose-155-sbarro-pizza-restaurants/#.WRAPIrRVikp :: Mall Food Courts to Lose 155 Sbarro Pizza Restaurants | InvestorPlace
+http://perldoc.perl.org/perlrun.html#Command-Switches :: perlrun - perldoc.perl.org
+http://sbarro.is/files/Sbarro_Nutritional_Information.pdf :: (Could not determine)
+http://www.dcoutlook.com/2012/12/cheese-pizza-at-sbarro-does-anyone.html :: They're Still Around? - DC Outlook
+http://stackoverflow.com/questions/9605232/how-to-merge-every-two-lines-into-one-from-the-command-line :: bash - How to merge every two lines into one from the command line? - Stack Overflow
+https://en.wikipedia.org/wiki/How_Weird_Street_Faire :: How Weird Street Faire - Wikipedia
+https://www.eventbrite.com/e/how-weird-2017-tickets-32056243086 :: How Weird 2017 Tickets, Sun, May 7, 2017 at 12:00 PM | Eventbrite
+https://www.perl.com/pub/2004/08/09/commandline.html :: Perl Command-Line Options - Perl.com
