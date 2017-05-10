@@ -147,6 +147,7 @@ http://brandfailures.blogspot.com/2007/05/rebranding-failures-bt-cellnet-to-o2.h
 http://britneyspears.ac/lasers.htm
 http://bulletjournal.com/
 http://buta.news/wp-content/uploads/2016/03/fft26_mf7673713-1.jpeg
+http://c.ymcdn.com/sites/www.autism-insar.org/resource/resmgr/IMFAR_2017_Onsite_Reg_FormFi.pdf
 http://cambridgeglobalist.org/2016/05/30/guerrilla-football-atletico-madrid-conquered-world-football/
 http://camelcamelcamel.com/Fundamentals-Stream-Processing-Application-Analytics/product/1107015545?active=watch
 http://camelcamelcamel.com/Pro-Mart-Deluxe-Pop-Up-Hamper-Rectangle/product/B002V919A8?active=watch
@@ -672,6 +673,7 @@ http://stackoverflow.com/questions/12377892/merging-two-files-based-on-first-col
 http://stackoverflow.com/questions/12582624/what-is-user-agent-stylesheet
 http://stackoverflow.com/questions/12630206/how-do-i-use-the-perl-text-mediawikiformat-to-convert-mediawiki-to-xhtml
 http://stackoverflow.com/questions/1279953/how-to-execute-the-output-of-a-command-within-the-current-shell
+http://stackoverflow.com/questions/12809776/can-a-for-loop-increment-decrement-by-more-than-one
 http://stackoverflow.com/questions/1290285/why-cant-i-stop-vim-from-wrapping-my-code
 http://stackoverflow.com/questions/12997447/how-to-answer-to-ajax-request-on-server-side
 http://stackoverflow.com/questions/13178397/how-to-remove-first-line-of-a-text-file-in-java
@@ -690,6 +692,8 @@ http://stackoverflow.com/questions/14008125/shell-script-common-template
 http://stackoverflow.com/questions/14378419/invalid-property-value-on-background-image
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css/40903714#40903714
+http://stackoverflow.com/questions/14723848/push-multiple-elements-to-array
+http://stackoverflow.com/questions/14810506/map-function-for-objects-instead-of-arrays
 http://stackoverflow.com/questions/14867132/is-d3-js-the-right-choice-for-real-time-visualization-of-neo4j-graph-db-data
 http://stackoverflow.com/questions/14889951/how-to-verify-a-method-is-called-two-times-with-mockito-verify
 http://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash
@@ -711,9 +715,12 @@ http://stackoverflow.com/questions/16640054/minimal-web-server-using-netcat
 http://stackoverflow.com/questions/16712031/how-to-exit-from-a-command-after-n-seconds
 http://stackoverflow.com/questions/16798066/set-default-java-compliance-level-for-maven-projects-in-eclipse
 http://stackoverflow.com/questions/17029902/using-curl-post-with-variables-defined-in-bash-script-functions
+http://stackoverflow.com/questions/171251/how-can-i-merge-properties-of-two-javascript-objects-dynamically
 http://stackoverflow.com/questions/1715137/what-is-the-best-way-to-ensure-only-one-instance-of-a-bash-script-is-running
+http://stackoverflow.com/questions/1723168/what-is-the-fastest-or-most-elegant-way-to-compute-a-set-difference-using-javasc
 http://stackoverflow.com/questions/1764197/what-are-some-ofx-open-financial-exchange-apis
 http://stackoverflow.com/questions/17758018/is-it-possible-to-make-a-fan-chart-with-css
+http://stackoverflow.com/questions/18008025/remove-duplicate-item-from-array-javascript
 http://stackoverflow.com/questions/18049847/when-would-i-use-a-priority-queue
 http://stackoverflow.com/questions/18115854/unable-to-load-bodystructure-exception-with-an-email-containing-an-eml-file-sen
 http://stackoverflow.com/questions/18986345/send-request-for-bank-transactions-using-open-financial-exchange-ofx-with-php
@@ -728,6 +735,7 @@ http://stackoverflow.com/questions/1997001/setting-up-a-basic-web-proxy-in-apach
 http://stackoverflow.com/questions/2011289/how-to-use-svg-files-in-a-webpage
 http://stackoverflow.com/questions/20600800/js-client-side-exif-orientation-rotate-and-mirror-jpeg-images
 http://stackoverflow.com/questions/20641643/subdomains-with-multiple-dots-best-practices
+http://stackoverflow.com/questions/20804163/check-if-a-key-exists-inside-a-json-object
 http://stackoverflow.com/questions/2102499/iterating-through-a-list-in-reverse-order-in-java
 http://stackoverflow.com/questions/21233033/css3-marquee-effect
 http://stackoverflow.com/questions/215718/reset-or-revert-a-specific-file-to-a-specific-revision-using-git
@@ -779,6 +787,7 @@ http://stackoverflow.com/questions/32525699/listing-all-deployed-rest-endpoints-
 http://stackoverflow.com/questions/33106248/updating-a-file-in-amazon-s3-bucket
 http://stackoverflow.com/questions/33132888/what-design-pattern-does-java-executor-framework-implements
 http://stackoverflow.com/questions/33638511/differences-between-sponge-and-tee
+http://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
 http://stackoverflow.com/questions/339483/how-can-i-remove-the-first-line-of-a-text-file-using-bash-sed-script
 http://stackoverflow.com/questions/33962371/find-and-sub-in-one-line-using-python-re
 http://stackoverflow.com/questions/340824/which-transpilers-are-out-there
@@ -836,6 +845,7 @@ http://stackoverflow.com/questions/605696/get-file-name-from-url
 http://stackoverflow.com/questions/6176833/get-windows-version-in-cygwin
 http://stackoverflow.com/questions/6234867/use-java-as-a-linux-shell-script-language
 http://stackoverflow.com/questions/6259202/how-do-i-print-a-groovy-stack-trace
+http://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 http://stackoverflow.com/questions/6300639/future-of-smilsynchronized-multimedia-integration-language
 http://stackoverflow.com/questions/672466/junit-how-to-avoid-no-runnable-methods-in-test-utils-classes/31798648?noredirect=1#comment68994252_31798648
 http://stackoverflow.com/questions/6734144/how-to-set-the-column-width-of-the-desc-result-in-sqlplus
@@ -846,6 +856,7 @@ http://stackoverflow.com/questions/7076186/how-do-i-purge-a-linux-mail-box-with-
 http://stackoverflow.com/questions/711913/what-are-the-key-differences-between-scala-and-groovy
 http://stackoverflow.com/questions/7161821/how-to-grep-a-continuous-stream
 http://stackoverflow.com/questions/7269668/is-there-an-api-to-get-bank-transaction-and-bank-balance
+http://stackoverflow.com/questions/7306669/how-to-get-all-properties-values-of-a-javascript-object-without-knowing-the-key
 http://stackoverflow.com/questions/7381974/which-characters-need-to-be-escaped-on-html
 http://stackoverflow.com/questions/7584794/accessing-jpeg-exif-rotation-data-in-javascript-on-the-client-side
 http://stackoverflow.com/questions/7632454/how-do-you-use-git-bare-init-repository
@@ -859,6 +870,7 @@ http://stackoverflow.com/questions/8558453/how-to-convert-string-to-reader-in-ja
 http://stackoverflow.com/questions/8748831/when-do-we-need-curly-braces-in-variables-using-bash/43623909#43623909
 http://stackoverflow.com/questions/8758294/test-cases-in-inner-classes-with-junit
 http://stackoverflow.com/questions/9210765/any-way-to-start-google-chrome-in-headless-mode
+http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array
 http://stackoverflow.com/questions/9375704/ignoring-stacktrace-when-testing-for-exceptions-in-junit
 http://stackoverflow.com/questions/9517198/can-i-update-an-existing-amazon-s3-object
 http://stackoverflow.com/questions/9555769/how-to-insert-a-date-inside-the-filename-with-logrotate
@@ -1194,6 +1206,7 @@ http://www.bbcamerica.com/anglophenia/2015/03/want-to-move-to-britain-10-things-
 http://www.bdfutbol.com/en/p/p.php?id=510946
 http://www.besoccer.com/new/the-best-moments-in-atletico-madrid-s-history
 http://www.betternovelproject.com/blog/withhold-information/
+http://www.bizjournals.com/sanjose/news/2012/04/16/best-buy-to-close-east-palo-alto-store.html
 http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html
 http://www.bizjournals.com/seattle/news/2015/03/06/delta-wed-fly-direct-to-india-if-it-werent-for.html
 http://www.blackwhitereadallover.com/2010/1/6/2837224/the-rivalry-is-back-parma-juventus
@@ -1244,6 +1257,7 @@ http://www.cholismo.com/partidos-historicos/
 http://www.christianitytoday.com/women/2010/may/modesty-female-only-virtue.html
 http://www.chromalabel.com/collections/color-code-adhesive-dots
 http://www.cilect.org/gallery/know/31/doc/The_New_Storytellers_-_Documentary_Filmmaking_in_the_21st_Century.pdf
+http://www.cimaglobal.com/Pages-that-we-will-need-to-bring-back/Old-site-pages1/Old-site-pages/About-us/CIMA-people/Working-with-CIMA/CIMA-students-the-career-fast-track/Hiren-Shah-Ernst--Young/
 http://www.cindyzoeller.com/
 http://www.circleofmoms.com/autismaspergerspdd-awareness/danish-co-only-hires-people-w-autism-asperger-316722
 http://www.city-data.com/forum/cats/1158778-my-cat-does-not-meow.html
@@ -1764,6 +1778,7 @@ http://www.mathsnoproblem.co.uk/concrete-pictorial-abstract
 http://www.mediamusicnow.co.uk/royalty-free-music-loops/soundscapes-atmospheres
 http://www.medicaldaily.com/psychological-effects-idolatry-how-celebrity-crushes-impact-childrens-health-358604
 http://www.memedroid.com/gallery/1580343
+http://www.mercurynews.com/2012/04/14/best-buy-to-close-stores-in-east-palo-alto-pittsburg/
 http://www.mercurynews.com/2013/09/28/new-ventures-train-high-functioning-autistic-adults-for-high-tech-jobs/
 http://www.mercurynews.com/2013/11/15/jan-johnston-tyler-ceo-of-evolibri-on-helping-workers-with-aspergers-other-disorders/
 http://www.mercurynews.com/2017/01/09/san-jose-taqueria-fatal-shooting-victims-identified-by-authorities/
@@ -2221,6 +2236,7 @@ http://www.wikihow.com/Explore-the-San-Andreas-Fault-Near-the-San-Francisco-Bay
 http://www.wikihow.com/Touch-a-Guy
 http://www.wikinvest.com/fund/IShares_S%26P_500_Index_Fund_(IVV)
 http://www.winterspeak.com/2001/08/joy-of-plaintext-to-quoted-parts-of.html
+http://www.workforce.com/2016/10/24/ernst-young-pilots-program-tap-autistic-talents/
 http://www.worldstadiums.com/stadium_menu/architecture/historic_stadiums.shtml
 http://www.worldwidewords.org/topicalwords/tw-bof1.htm
 http://www.wrestlezone.com/news/196235-the-steven-dunn-doll-story-death-of-a-journeyman
@@ -2600,6 +2616,7 @@ https://en.wikipedia.org/wiki/Isolation_(database_systems)
 https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings
 https://en.wikipedia.org/wiki/Jump_server
 https://en.wikipedia.org/wiki/Knowledge_economy
+https://en.wikipedia.org/wiki/Kuiper_belt
 https://en.wikipedia.org/wiki/LaMia_Flight_2933
 https://en.wikipedia.org/wiki/Leaning_toothpick_syndrome
 https://en.wikipedia.org/wiki/Leeds_United_F.C.#2001.E2.80.932007:_Financial_implosion_and_relegation
@@ -2635,11 +2652,13 @@ https://en.wikipedia.org/wiki/Mutual_insurance#United_Kingdom
 https://en.wikipedia.org/wiki/Neoteny
 https://en.wikipedia.org/wiki/Network_era
 https://en.wikipedia.org/wiki/Neuroplasticity
+https://en.wikipedia.org/wiki/New_Horizons
 https://en.wikipedia.org/wiki/Nightclub
 https://en.wikipedia.org/wiki/Nroff
 https://en.wikipedia.org/wiki/Null_Island
 https://en.wikipedia.org/wiki/Omnichannel
 https://en.wikipedia.org/wiki/One-time_password
+https://en.wikipedia.org/wiki/Oort_cloud
 https://en.wikipedia.org/wiki/Open_economy
 https://en.wikipedia.org/wiki/Ordnance_Survey
 https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy
@@ -2660,6 +2679,7 @@ https://en.wikipedia.org/wiki/Ray_Kurzweil
 https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
 https://en.wikipedia.org/wiki/River_Thames_frost_fairs
 https://en.wikipedia.org/wiki/SRI_International
+https://en.wikipedia.org/wiki/Schadenfreude
 https://en.wikipedia.org/wiki/Scottish_Canadians#Large-scale_migration
 https://en.wikipedia.org/wiki/Scripting_language
 https://en.wikipedia.org/wiki/Sega_Classics_Arcade_Collection
@@ -3218,6 +3238,7 @@ https://www.amazon.com/s/ref=sr_pg_3?rh=i%3Aaps%2Ck%3Amodular+furniture&page=3&k
 https://www.ambitiousaboutautism.org.uk/
 https://www.ambitiousaboutautism.org.uk/talk-to-others/2015-04-09/claiming-benefits-at-the-job-centre
 https://www.ambitiousaboutautism.org.uk/understanding-autism/independence/employment
+https://www.amtrak.com/servlet/BlobServer?blobtable=MungoBlobs&blobkey=id&blobcol=urldata&blobheader=image%2Fgif&blobwhere=1249287213946
 https://www.aol.com/article/2014/03/19/which-is-worse-eating-before-bed-or-going-to-bed-hungry/20853265/
 https://www.apartments.com/woodland-park-east-palo-alto-ca/9mpcbz5/
 https://www.architecture.com/explore/stories/thearchitectureoffootballstadiums.aspx
@@ -3256,6 +3277,7 @@ https://www.buzzfeed.com/srishtidixit/oh-to-be-this-attractive-and-laugh-this-fr
 https://www.buzzhero.io/hero
 https://www.buzzsprout.com/18338.rss
 https://www.careercup.com/forumpost?id=6220310781100032
+https://www.carpoolworld.com/carpool_.html
 https://www.celebjihad.com/kaitlyn/wwe-diva-kaitlyn-nude-photos-leaked
 https://www.celebjihad.com/sarah-hyland/sarah-hyland-boob-slips-out
 https://www.celebslike.me/
@@ -3366,6 +3388,7 @@ https://www.forbes.com/sites/johntamny/2012/07/29/ron-paul-fractional-reserve-ba
 https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5dedfe7547d3
 https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5f79595647d3
 https://www.forbes.com/sites/michaelbernick/2016/12/13/where-is-autism-employment-heading-in-2017/#504c7c8e1e35
+https://www.forbes.com/sites/michaelbernick/2017/05/09/the-anthropologist-of-autism-employment/print/
 https://www.forbes.com/sites/stevendennis/2017/02/13/sears-is-the-end-finally-in-sight-for-the-worlds-slowest-liquidation-sale/#29a279db1a3d
 https://www.forbes.com/sites/tobyshapshak/2015/09/04/why-whatsapp-is-south-africas-favourite-app/#763d0c32e2be
 https://www.fourfourtwo.com/features/brief-history-football-grounds
@@ -4430,6 +4453,7 @@ https://www.onefootball.com/magazine/10-players-played-sides-atletico-real-madri
 https://www.oreilly.com/ideas/transformative-programming
 https://www.oreilly.com/learning/making-sense-of-stream-processing/page/4/the-unix-philosophy-of-distributed-data
 https://www.owasp.org/images/1/1b/Building_Your_Company's_Vision_-_Jim_Collins.pdf
+https://www.paloaltoonline.com/news/2012/04/15/east-palo-alto-best-buy-store-to-close
 https://www.patelco.org/Loans-And-Credit/Home-Loans/Patelco-Mortgage-Rates/#fixed
 https://www.perl.com/pub/2004/08/09/commandline.html
 https://www.pindrop.com/irs-phone-scam-live-call_analysis/
@@ -4626,6 +4650,7 @@ https://www.thesun.co.uk/living/1616034/woman-checks-in-at-the-airport-wearing-w
 https://www.thesun.co.uk/sport/football/2286573/colombia-plane-crash-former-champions-league-star-posted-final-haunting-picture-from-inside-doomed-flight/
 https://www.thesun.co.uk/sport/football/2997762/fernando-torres-head-injury-hospital-atletico-madrid-swallowing-tongue/
 https://www.thesun.co.uk/tvandshowbiz/2567574/stars-go-wild-at-golden-globes-after-parties-as-sofia-vergara-grabs-priyanka-chopras-boobs-and-miranda-kerr-flashes-the-flesh-in-a-very-revealing-dress/
+https://www.thoughtco.com/english-in-billiards-368382
 https://www.thoughtworks.com/insights/blog/forget-productivity
 https://www.thoughtworks.com/insights/blog/nosql-databases-overview
 https://www.thrillist.com/entertainment/seattle/why-dating-in-seattle-is-different-than-anywhere-else
@@ -4681,6 +4706,7 @@ https://www.yelp.com/search?find_desc=learning+disorder&find_loc=San+Jose,+CA
 https://www.yelp.com/search?find_desc=mortgage+loan+broker&find_loc=94061
 https://www.yelp.com/search?find_desc=property+management&find_loc=94061
 https://www.yelp.com/topic/seattle-do-our-cats-know-that-we-find-them-cute
+https://www.yourtravelmates.com/
 https://www.youtube.com/channel/UC7fX0t6PTtUz2yC60DcJdDw/videos
 https://www.youtube.com/channel/UCGov3v6D4LdhVFbTd-aBG7g/videos
 https://www.youtube.com/channel/UCewJNd5DShokVCh4_2uWPXA/videos
