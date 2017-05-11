@@ -5822,3 +5822,43 @@ https://en.wikipedia.org/wiki/New_Horizons :: New Horizons - Wikipedia
 https://en.wikipedia.org/wiki/Oort_cloud :: Oort cloud - Wikipedia
 https://www.thoughtco.com/english-in-billiards-368382 :: English in Pool. What is It?
 http://stackoverflow.com/questions/20804163/check-if-a-key-exists-inside-a-json-object :: javascript - Check if a key exists inside a json object - Stack Overflow
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values :: Object.values() - JavaScript | MDN
+https://en.wikipedia.org/wiki/Association_of_Chartered_Certified_Accountants :: Association of Chartered Certified Accountants - Wikipedia
+http://blog.extramaster.net/2013/01/views-on-stackoverflow.html :: Why I now hate stackoverflow's gamification system - extramaster
+http://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array :: javascript - How can I shuffle an array? - Stack Overflow
+https://arstechnica.com/information-technology/2016/07/stack-overflow-brings-its-gamified-peer-support-to-documentation/ :: Stack Overflow brings its gamified peer support to documentation | Ars Technica
+https://www.youtube.com/results?search_query=cow+palace+royale+cody :: cow palace royale cody - YouTube
+http://www.just-one-liners.com/ppl/rodney-dangerfield/ :: Rodney Dangerfield | Just-One-Liners.com
+https://en.wikipedia.org/wiki/2012_phenomenon :: 2012 phenomenon - Wikipedia
+https://www.google.com/search?q=why+should+government+fund+space+exploration&oq=why+do+governments+fund+space+exploration&aqs=chrome.1.69i57j0.7541j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: why should government fund space exploration - Google Search
+https://www.quora.com/How-much-does-the-US-space-program-benefit-the-economy :: How much does the US space program benefit the economy? - Quora
+https://www.quora.com/Who-designed-the-Stack-Overflow-gamification :: Who designed the Stack Overflow gamification? - Quora
+http://www.icare4autism.org/ :: Autism Conference - Center for Autism Research &amp; Education - ICare4autism.org
+https://en.wikipedia.org/wiki/Applicative_programming_language :: Applicative programming language - Wikipedia
+https://en.wikipedia.org/wiki/Function-level_programming :: Function-level programming - Wikipedia
+https://twitter.com/dinnerwithking?lang=en :: Dinner With The King (@DinnerWithKing) | Twitter
+https://www.nytimes.com/2017/05/09/sports/soccer/atletico-madrid-stadium-estadio-vicente-calderon.html :: In Atl?tico Madrid?s Ramshackle Home, an Underdog?s Spirit Thrived - The New York Times
+http://www.flashersslipsandmore.com/main.html :: Flashers Slips and More Galleries
+http://www.dailystar.co.uk/news/latest-news/610237/WWE-star-Nikki-Bella-boobs-video-wardrobe-malfunction-wrestling :: (timeout)
+https://clips.news.co.uk/thesun/psYnd4OTE6SXbtyoC3B1r9bnWAfdEta2/DOcJ-FxaFrRg4gtDEwOmk2OjBrO6qGv_?_=vnadbvb1emi :: (Could not determine)
+https://www.thesun.co.uk/sport/2935380/nikki-bella-wwe-wardrobe-malfunction-slip/ :: WWE superstar Nikki Bella suffers wardrobe malfunction as her top falls down in intimate home video
+http://www.mirror.co.uk/news/world-news/pop-star-suffers-embarrassing-wardrobe-9142757 :: Pop star suffers embarrassing wardrobe malfunction live on air - but has no idea she's revealed all - Mirror Online
+https://cdn-img.pressreader.com/pressdisplay/docserver/getimage.aspx?regionKey=adKQCfkce2A3BbyEoZx9lg%3D%3D&scale=100 :: getimage.aspx (622?907)
+http://media.gettyimages.com/photos/closer-view-of-a-girl-sitting-down-picture-id144449501 :: closer-view-of-a-girl-sitting-down-picture-id144449501 (683?1024)
+http://media.gettyimages.com/photos/girl-sitting-down-in-grass-and-holding-a-book-picture-id509122137?s=170667a :: girl-sitting-down-in-grass-and-holding-a-book-picture-id509122137 (507?338)
+http://media.gettyimages.com/photos/woman-in-a-park-picture-id144449585?k=6&m=144449585&s=170667a&w=0&h=1FATK5HuERx6bs6m4RQz_M7rp4WXuIdcup-tT-VfJDc= :: woman-in-a-park-picture-id144449585 (507?338)
+http://www.youbeauty.com/fitness/ask-a-scientist-men-and-butts/ :: (timeout)
+https://img.clipartfox.com/64cc4382b09f9eff50da23ab1056090b_picture-woman-portrait-field-happy-girl-sitting-down-clipart_327-470.jpeg :: 64cc4382b09f9eff50da23ab1056090b_picture-woman-portrait-field-happy-girl-sitting-down-clipart_327-470.jpeg (327?470)
+http://imgur.com///IHwxEno :: (Could not determine)
+http://www.mirror.co.uk/news/uk-news/queen-vs-kim-kardashian-who-7981473 :: The Queen vs Kim Kardashian: who would you rather be ruled by? - Fleet Street Fox - Mirror Online
+http://d-nb.info/965826791/04 :: (Could not determine)
+http://wrongplanet.net/forums/viewtopic.php?t=249954 :: NASA hiring people with disabilities | Wrong Planet Autism Community Forum
+http://www.yourlittleprofessor.com/the-benefits-of-aspergers-syndrome/ :: The Benefits of Asperger?s Syndrome | Your Little Professor
+https://books.google.com/books?id=8FbTZc4pa-cC&pg=PA64&lpg=PA64&dq=reasoning+about+program+transformations&source=bl&ots=RcHG6rnCws&sig=yc5a6EKKt3Yy376WuI3mT353fR4&hl=en&sa=X&ved=0ahUKEwiBsYWM0dXTAhWFg1QKHTaRAd0Q6AEIPTAE#v=onepage&q=reasoning%20about%20program%20transformations&f=false :: Reasoning About Program Transformations: Imperative Programming and Flow of Data - Jean-Francois Collard - Google Books
+https://nasajobs.nasa.gov/generalinfo/nssc.htm :: NASAJobs
+https://www.google.com/search?num=40&q=successive+approximation+doug+mcilroy&oq=successive+approximation+doug+mcilroy&gs_l=serp.3..33i21k1.4386312.4388562.0.4388810.13.10.0.0.0.0.694.2090.4-2j2.4.0....0...1c.1.64.serp..9.2.1203...33i160k1.LLfz9xvg-1I :: successive approximation doug mcilroy - Google Search
+https://www.google.com/search?q=objectification+vs+empowerment&oq=objectification+vs+empo&aqs=chrome.0.0j69i57j0.4875j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: objectification vs empowerment - Google Search
+https://www.inc.com/kimberly-weisul/temple-grandin-on-happy-aspies-autism-and-startups.html :: Temple Grandin on "Happy Aspies," Autism, and Start-Ups | Inc.com
+https://www.usajobs.gov/GetJob/ViewDetails/354140000 :: USAJOBS - Job Announcement
+https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/individuals-with-disabilities/ :: USAJOBS Help Center | Individuals with disabilities
+http://www.goal.com/en-us/news/55/main/2017/05/02/35140352/the-story-of-how-simeone-was-desperate-to-join-real-madrid :: The story of how Simeone was desperate to join Real Madrid - Goal.com
