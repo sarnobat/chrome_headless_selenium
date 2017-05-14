@@ -113,6 +113,8 @@ http://bleacherreport.com/articles/2673752-remembering-antoine-griezmanns-breakt
 http://bleacherreport.com/articles/2680722-20-heartwarming-sports-moments-from-2016
 http://bleacherreport.com/articles/2683099-old-and-new-combine-to-help-atletico-madrid-see-off-a-rocky-2016-in-style
 http://bleacherreport.com/articles/2695842-fernando-torres-injury-atletico-madrid-star-injures-head-vs-deportivo
+http://bleacherreport.com/articles/2707118-how-atletico-madrid-turned-to-private-lenders-to-keep-pace-with-real-madrid
+http://bleacherreport.com/articles/2707118-how-atletico-madrid-turned-to-private-lenders-to-keep-pace-with-real-madrid
 http://bleacherreport.com/articles/418595-the-real-truth-world-cup-why-soccer-is-so-popular-around-the-world
 http://bleacherreport.com/articles/995021-serie-a-10-biggest-rivalries-in-italian-football
 http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/
@@ -762,6 +764,7 @@ http://stackoverflow.com/questions/1963806/is-there-a-fixed-sized-queue-which-re
 http://stackoverflow.com/questions/19957268/applescript-fails-with-error-600-when-launched-over-ssh-on-mavericks
 http://stackoverflow.com/questions/1997001/setting-up-a-basic-web-proxy-in-apache
 http://stackoverflow.com/questions/2011289/how-to-use-svg-files-in-a-webpage
+http://stackoverflow.com/questions/2041778/how-to-initialize-hashset-values-by-construction
 http://stackoverflow.com/questions/20600800/js-client-side-exif-orientation-rotate-and-mirror-jpeg-images
 http://stackoverflow.com/questions/20641643/subdomains-with-multiple-dots-best-practices
 http://stackoverflow.com/questions/20804163/check-if-a-key-exists-inside-a-json-object
@@ -1205,6 +1208,8 @@ http://www.atlasobscura.com/articles/new-uses-for-old-mines
 http://www.atleeeti.com/
 http://www.atleticomadrid.co.uk/
 http://www.atleticomadrid.co.uk/aboutus
+http://www.autism-insar.org/events/EventDetails.aspx?id=892473
+http://www.autism-insar.org/page/IMFAR
 http://www.autism-works.com/products-services
 http://www.autism.org.uk/
 http://www.autism.org.uk/about/adult-life/work.aspx
@@ -3745,6 +3750,7 @@ https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=bejewel
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=cialis+headache&spell=1&sa=X&ved=0ahUKEwjkheTvu_zRAhXjqFQKHbC7CqUQvwUIGSgA&biw=1285&bih=688
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=clams+nonvegetarian&oq=clams+nonvege&gs_l=serp.3.0.33i160k1l2.9192.10919.0.12111.8.8.0.0.0.0.95.640.8.8.0....0...1c.1.64.serp..0.8.638...0j0i20k1j0i67k1j0i22i30k1.Z6LPBK1vMzI
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=d3.js+dsl+chaining+fluent&oq=d3.js+dsl+chaining+fluent&gs_l=serp.3...237792951.237793399.0.237793489.3.3.0.0.0.0.87.237.3.3.0....0...1c.1.64.serp..0.0.0.5AJGy-KJq0Q
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=dr+stewart+academy+autism+bay+area&spell=1&sa=X&ved=0ahUKEwjiv43XvLjTAhUUVmMKHbJwDVIQvwUIIigA&biw=1659&bih=1164
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=evolutionary+putpose+of+nipple+arousal&oq=evolutionary+putpose+of+nipple+arousal&gs_l=serp.3..30i10k1.553114.553647.0.554446.2.2.0.0.0.0.74.133.2.2.0....0...1c.1.64.serp..0.1.73.ZfZAUzZ-_IQ
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=fannie+mae+minimum+occupancy&spell=1&sa=X&ved=0ahUKEwjYi97Ax5jSAhWnsFQKHSPOBtAQvwUIGSgA&biw=1285&bih=659
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&q=fxb+commission+free&spell=1&sa=X&ved=0ahUKEwiu6rLSyYHRAhVGilQKHaw2AosQvwUIGSgA&biw=1285&bih=780
@@ -3784,6 +3790,7 @@ https://www.google.com/search?q=amazon+price+watch&rlz=1CDGOYI_enUS590US590&oq=a
 https://www.google.com/search?q=america+is+a+lonely+country&oq=america+is+a+lone&aqs=chrome.0.0j69i57j0l4.3558j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=american+english+flat+adverbs&rlz=1CDGOYI_enUS590US590&oq=american+english+flat+adverbs&aqs=chrome..69i57.4915j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=americans+like+money&rlz=1CDGOYI_enUS590US590&oq=americans+like+money&aqs=chrome..69i57.7856j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=antacid&oq=antacid&aqs=chrome..69i57.3425j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=anti+elitist&oq=anti+elitist&aqs=chrome..69i57j0l5.3757j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=apache+proxy+virtualhost&rlz=1CDGOYI_enUS590US590&oq=apache+proxy+virtua&aqs=chrome.1.69i57j0l3.7572j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=apologist&rlz=1CDGOYI_enUS590US590&oq=apologist&aqs=chrome..69i57j0j5j0.6652j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -3832,6 +3839,7 @@ https://www.google.com/search?q=bullet+journal&rlz=1CDGOYI_enUS590US590&oq=bulle
 https://www.google.com/search?q=bullion&oq=bullion&aqs=chrome..69i57j69i60j69i65j69i59j69i60j69i61.1558j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=bully+mentality&oq=bully+mentality&aqs=chrome..69i57j0l3.4455j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=buying+syndicated+programming&oq=buying+syndicated&aqs=chrome.1.69i57j0l2.33640j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=cablelabs+autism&oq=cablelabs+autism&aqs=chrome..69i57.10210j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=california+occupational+guides&rlz=1CDGOYI_enUS590US590&oq=california+occupational+gui&aqs=chrome.1.69i57j0l2.19277j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=can+I+put+a+mobile+home+on+my+lot&oq=can+I+put+a+mobile+home+on+my+lot&aqs=chrome..69i57j69i64.5611j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=can+women+sleep+face+down&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&ei=wtACWdXGHYeVjwTu-pOICQ&start=10&sa=N&biw=320&bih=548#spf=1
@@ -3930,6 +3938,7 @@ https://www.google.com/search?q=forum+markup+language&rlz=1CDGOYI_enUS590US590&o
 https://www.google.com/search?q=forumscraping&rlz=1CDGOYI_enUS590US590&oq=forumscraping&aqs=chrome..69i57j0l3.6854j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=frank+lampard+harry+redknapp+related&rlz=1CDGOYI_enUS590US590&oq=frank+lampard+harry+redknapp+related&aqs=chrome..69i57.5239j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=friendship+geographical+convenience&oq=friendship+geographical+convenience&aqs=chrome..69i57.5999j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=gaviscon&oq=gabiscon&aqs=chrome.1.69i57j0l5.4464j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=genetic+discrimination&rlz=1CDGOYI_enUS590US590&oq=genetic+disx&aqs=chrome.1.69i57j0l3.5951j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=german+empire&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0zMK02PnQAhWHjlQKHZU2BosQ_AUICCgB&biw=1189&bih=780#imgrc=OnA7QhwTn7GDkM%3A
 https://www.google.com/search?q=get+in+at+the+ground+floor&rlz=1CDGOYI_enUS590US590&oq=get+in+at+&aqs=chrome.1.69i57j0l2j5.5307j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4009,6 +4018,7 @@ https://www.google.com/search?q=job+carving+aspergers&rlz=1CDGOYI_enUS590US590&o
 https://www.google.com/search?q=jordyn+jones+hot&tbm=isch&tbs=rimg:CawSs8NjRYR5IjgI7K53_1By1iwjxbyBTbWoNqQMbsJYS091Nyzm6Mg4S-1D9zgZ0rArtMuQMLwk3y1dYq_1GpLCBaMSoSCQjsrnf8HLWLEXz6wEl8FSNRKhIJCPFvIFNtag0RqzHi3RhxGBAqEgmpAxuwlhLT3RHBdPXRLHGxkSoSCU3LOboyDhL7EdWrPxGQ7PnEKhIJUP3OBnSsCu0RHqXnwjNwOswqEgky5AwvCTfLVxFfSTYCYYP-OioSCVir8aksIFoxEQEBVPtd8qy9&tbo=u
 https://www.google.com/search?q=jose+antonio+reyes+documentary&rlz=1CDGOYI_enUS590US590&oq=jose+antonio+reyes+documentary&aqs=chrome..69i57.11929j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#scso=uid_WFNRGQAIe-gKY8BXeQQYLg_0:-8,uid_WFNRGQAIe-gKY8BXeQQYLg_0:-9,uid_WFNRGQAIe-gKY8BXeQQYLg_0:0
 https://www.google.com/search?q=justice+for+the+rich+only&oq=justice+for+the+rich&aqs=chrome.1.69i57j0l5.7566j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=kalms&oq=kalms&aqs=chrome..69i57j0l5.5326j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=karate+defence+bullying&rlz=1CDGOYI_enUS590US590&oq=karate+defence+bullying&aqs=chrome..69i57.12419j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=kenny+dalglish+documentary&rlz=1CDGOYI_enUS590US590&oq=dalglish+documentary&aqs=chrome.1.69i57j0.4191j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=key+bindings+underutilized&oq=key+bindings+underutilized&aqs=chrome..69i57.4392j0j7&sourceid=chrome&ie=UTF-8
