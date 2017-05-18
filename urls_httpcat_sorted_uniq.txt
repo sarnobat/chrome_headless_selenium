@@ -3165,6 +3165,8 @@ https://sports.good.is/infographics/high-school-student-athlete-gpa
 https://sports.vice.com/en_uk/article/football-inflation-and-the-transfer-window
 https://sports.vice.com/en_uk/article/the-beauty-and-the-bollocks-of-football-songs
 https://sports.vice.com/en_us/article/breaking-kayfabe-an-inside-look-at-wwes-unlikely-business-empire
+https://spring.io/guides/gs/spring-boot/
+https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
@@ -4687,6 +4689,7 @@ https://www.quora.com/What-does-it-means-when-a-guy-called-her-girlfriend-kutty-
 https://www.quora.com/What-does-the-saying-Oh-Sugar-mean
 https://www.quora.com/What-is-alternate-of-torrentz-eu/answer/Vivek-Ramaswamy-12?prompt_topic_bio=1
 https://www.quora.com/What-is-the-best-programming-language-for-automating-repetitive-workflows-in-a-browser
+https://www.quora.com/What-is-the-difference-between-Spring-Boot-and-the-Spring-framework
 https://www.quora.com/What-is-the-difference-between-cognitive-bias-and-cognitive-distortion
 https://www.quora.com/What-is-the-future-of-final-cut-pro-x-Is-it-worth-buying-and-learning
 https://www.quora.com/What-is-the-major-difference-in-men-being-called-cute-handsome-or-hot-Whom-will-women-choose-for-dating-marriage-or-one-night-stand
