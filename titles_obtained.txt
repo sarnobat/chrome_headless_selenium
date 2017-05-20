@@ -6077,3 +6077,6 @@ http://www.medbroadcast.com/drug/getdrug/buscopan
 http://www.sfchronicle.com/performance/article/Cow-Palace-is-Bay-Area-s-working-class-hero-10817856.php
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=priority+queue
 https://www.fourfourtwo.com/us/news/atletico-boss-simeone-proud-and-motivated-despite-champions-league-exit
+http://stackoverflow.com/questions/6702146/generating-random-integer-in-range-that-doesnt-start-at-zero
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=inferiority+complex
+https://en.wikipedia.org/wiki/Bumper_cars

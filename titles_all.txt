@@ -6077,3 +6077,6 @@ http://www.medbroadcast.com/drug/getdrug/buscopan :: Buscopan - Uses, Side Effec
 http://www.sfchronicle.com/performance/article/Cow-Palace-is-Bay-Area-s-working-class-hero-10817856.php :: Cow Palace is Bay Area?s working-class hero - San Francisco Chronicle
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=priority+queue :: Amazon.com: priority queue
 https://www.fourfourtwo.com/us/news/atletico-boss-simeone-proud-and-motivated-despite-champions-league-exit :: Atletico boss Simeone proud and motivated despite Champions League exit | FourFourTwo
+http://stackoverflow.com/questions/6702146/generating-random-integer-in-range-that-doesnt-start-at-zero :: javascript - Generating random integer in range that doesn't start at zero - Stack Overflow
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=inferiority+complex :: Amazon.com: inferiority complex
+https://en.wikipedia.org/wiki/Bumper_cars :: Bumper cars - Wikipedia

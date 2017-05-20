@@ -919,6 +919,7 @@ http://stackoverflow.com/questions/6259202/how-do-i-print-a-groovy-stack-trace
 http://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 http://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
 http://stackoverflow.com/questions/6300639/future-of-smilsynchronized-multimedia-integration-language
+http://stackoverflow.com/questions/6702146/generating-random-integer-in-range-that-doesnt-start-at-zero
 http://stackoverflow.com/questions/672466/junit-how-to-avoid-no-runnable-methods-in-test-utils-classes/31798648?noredirect=1#comment68994252_31798648
 http://stackoverflow.com/questions/6734144/how-to-set-the-column-width-of-the-desc-result-in-sqlplus
 http://stackoverflow.com/questions/6830399/how-to-build-an-eclipse-plugin-with-maven
@@ -2778,6 +2779,7 @@ https://en.wikipedia.org/wiki/Blackout_(broadcasting)
 https://en.wikipedia.org/wiki/Booch_method
 https://en.wikipedia.org/wiki/Boutique_hotel
 https://en.wikipedia.org/wiki/Broadcast_engineering
+https://en.wikipedia.org/wiki/Bumper_cars
 https://en.wikipedia.org/wiki/Business_cluster#The_Digital_Media_City_case
 https://en.wikipedia.org/wiki/Business_cluster#The_Silicon_Valley_case
 https://en.wikipedia.org/wiki/Case%E2%80%93Shiller_index
@@ -3515,6 +3517,7 @@ https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=data+cleansing
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=data+cleansing
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=economic+warfare
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=inferiority+complex
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=mini+laptop
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=modular+shelf
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=platform+strategy
