@@ -724,6 +724,7 @@ http://stackoverflow.com/questions/13886430/passing-options-to-chrome-driver-sel
 http://stackoverflow.com/questions/13891177/css-border-less-than-1px
 http://stackoverflow.com/questions/13927326/reading-input-till-eof-in-java
 http://stackoverflow.com/questions/14008125/shell-script-common-template
+http://stackoverflow.com/questions/1406473/simulate-touch-command-with-java
 http://stackoverflow.com/questions/14378419/invalid-property-value-on-background-image
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css
 http://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css/40903714#40903714
@@ -839,6 +840,7 @@ http://stackoverflow.com/questions/35947858/how-to-convert-listnamevaluepair-int
 http://stackoverflow.com/questions/36148726/how-can-i-get-the-itemid-from-any-amazon-product-url
 http://stackoverflow.com/questions/3679296/only-get-hash-value-using-md5sum-without-filename
 http://stackoverflow.com/questions/37350518/yahoo-finance-chart-parameters
+http://stackoverflow.com/questions/37409379/invalidpathexception-for-chinese-filename
 http://stackoverflow.com/questions/37474553/drag-and-drop-from-image-onto-another-image
 http://stackoverflow.com/questions/37640027/add-text-label-to-d3-node-in-force-layout
 http://stackoverflow.com/questions/37888560/is-static-method-always-discouraged-in-java-even-for-stateless-class
@@ -922,6 +924,7 @@ http://stadiumdb.com/news/2016/05/sevilla_betis_to_enclose_their_stadium_with_ne
 http://stadiumdb.com/news/2016/11/italy_cagliari_will_build_a_stadium_before_building_a_stadium
 http://stadiumdb.com/news/2017/03/italy_heres_cagliaris_temporary_stadium_in_more_detail
 http://stadiumdb.com/news/2017/05/liverpool_anfield_second_only_to_old_trafford
+http://starcasm.net/archives/268784
 http://startupseattle.com/resources/map-seattle-startup-ecosystem/
 http://stevelorek.com/how-to-shrink-a-git-repository.html
 http://store.americanapparel.net/en/holiday-16-from-pm-to-am_cat2880844#bodysuits
@@ -2973,6 +2976,7 @@ https://github.com/stedolan/jq/issues/42
 https://github.com/stoicflame/ofx4j
 https://github.com/substack/stream-handbook
 https://github.com/tmrts/boilr
+https://github.com/tools4j/unix4j
 https://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md
 https://github.com/unlhcc/autofs
 https://github.com/yogthos/json-html
@@ -3020,6 +3024,7 @@ https://internal.nfp.com/webfiles/public/insurance/prodexpert/Historical_Whole_L
 https://investor.vanguard.com/investing/how-to-invest/risk-reward-compounding
 https://investor.vanguard.com/mutual-funds/list#/mutual-funds/asset-class/month-end-returns
 https://investor.vanguard.com/mutual-funds/low-cost
+https://issues.apache.org/jira/browse/GROOVY-4150
 https://issues.apache.org/jira/browse/MESOS-6212
 https://issues.apache.org/jira/browse/MESOS-6390
 https://issues.apache.org/jira/browse/MESOS-6458
@@ -4741,6 +4746,7 @@ https://www.quora.com/If-a-phone-is-in-Airplane-Mode-will-alarms-still-work
 https://www.quora.com/Is-Ariel-Winter-getting-fat
 https://www.quora.com/Is-TL-DR-the-new-executive-summary
 https://www.quora.com/Is-a-house-in-East-Palo-Alto-a-good-investment
+https://www.quora.com/Is-it-legal-to-shoot-a-burglar-in-your-own-house
 https://www.quora.com/Is-it-proper-to-say-real-quick-in-American-English
 https://www.quora.com/Is-it-true-that-most-programmers-have-mild-Aspergers-syndrome
 https://www.quora.com/Is-right-now-a-good-a-time-to-buy-Sterling-Pounds-currency
@@ -4984,6 +4990,7 @@ https://www.youtube.com/results?q=howstuffworks+garbage+recycling&sm=3&app=deskt
 https://www.youtube.com/results?q=social+capital+documentary&sp=EgIYAg%253D%253D
 https://www.youtube.com/results?q=telegraphy+in+banking&sp=EgIYAkgU6gMA
 https://www.youtube.com/results?q=waste+management+documentary&sp=EgQQARgC
+https://www.youtube.com/results?search_query=Natalee+Holloway&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=Project+FEDcoin
 https://www.youtube.com/results?search_query=capital+asset+pricing+model&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=cow+palace+royale+cody

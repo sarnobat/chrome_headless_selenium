@@ -6080,3 +6080,10 @@ https://www.fourfourtwo.com/us/news/atletico-boss-simeone-proud-and-motivated-de
 http://stackoverflow.com/questions/6702146/generating-random-integer-in-range-that-doesnt-start-at-zero :: javascript - Generating random integer in range that doesn't start at zero - Stack Overflow
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=inferiority+complex :: Amazon.com: inferiority complex
 https://en.wikipedia.org/wiki/Bumper_cars :: Bumper cars - Wikipedia
+https://www.youtube.com/results?search_query=Natalee+Holloway&page=&utm_source=opensearch :: Natalee Holloway - YouTube
+http://stackoverflow.com/questions/37409379/invalidpathexception-for-chinese-filename :: java - InvalidPathException for chinese filename - Stack Overflow
+https://issues.apache.org/jira/browse/GROOVY-4150 :: [GROOVY-4150] groovy -Dfile.encoding has no affect on Charset.defaultCharset() - ASF JIRA
+http://starcasm.net/archives/268784 :: (timeout)
+https://github.com/tools4j/unix4j :: GitHub - tools4j/unix4j: An implementation of Unix command line tools in Java.
+https://www.quora.com/Is-it-legal-to-shoot-a-burglar-in-your-own-house :: Is it legal to shoot a burglar in your own house? - Quora
+http://stackoverflow.com/questions/1406473/simulate-touch-command-with-java :: file - Simulate touch command with Java - Stack Overflow

@@ -6080,3 +6080,10 @@ https://www.fourfourtwo.com/us/news/atletico-boss-simeone-proud-and-motivated-de
 http://stackoverflow.com/questions/6702146/generating-random-integer-in-range-that-doesnt-start-at-zero
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=inferiority+complex
 https://en.wikipedia.org/wiki/Bumper_cars
+https://www.youtube.com/results?search_query=Natalee+Holloway&page=&utm_source=opensearch
+http://stackoverflow.com/questions/37409379/invalidpathexception-for-chinese-filename
+https://issues.apache.org/jira/browse/GROOVY-4150
+http://starcasm.net/archives/268784
+https://github.com/tools4j/unix4j
+https://www.quora.com/Is-it-legal-to-shoot-a-burglar-in-your-own-house
+http://stackoverflow.com/questions/1406473/simulate-touch-command-with-java
