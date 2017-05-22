@@ -6087,3 +6087,9 @@ http://starcasm.net/archives/268784 :: (timeout)
 https://github.com/tools4j/unix4j :: GitHub - tools4j/unix4j: An implementation of Unix command line tools in Java.
 https://www.quora.com/Is-it-legal-to-shoot-a-burglar-in-your-own-house :: Is it legal to shoot a burglar in your own house? - Quora
 http://stackoverflow.com/questions/1406473/simulate-touch-command-with-java :: file - Simulate touch command with Java - Stack Overflow
+http://forums.drom.ru/attachment.php?attachmentid=5412520&d=1441350458 :: attachment.php (900?625)
+http://forums.liverpoolfc.com/threads/389896-Jurgen-Klopp-and-his-Premier-League-scoreline-frequency-distribution ::  Jurgen Klopp and his Premier League scoreline frequency distribution
+http://tannerlectures.utah.edu/_documents/a-to-z/s/sandel00.pdf :: (Could not determine)
+http://davidmills.net/index_files/Overcoming-Self-Esteem.pdf :: (Could not determine)
+https://books.google.com/books?id=zkEYS9EKGN4C&printsec=frontcover#v=onepage&q&f=false :: The Myth of Self-esteem: How Rational Emotive Behavior Therapy Can Change ... - Albert Ellis - Google Books
+http://cdn.photogyps.com/thumbnail/OIP.P9rto5jCOpCzVlEjIXKwNgDIEs :: OIP.P9rto5jCOpCzVlEjIXKwNgDIEs (200?300)
