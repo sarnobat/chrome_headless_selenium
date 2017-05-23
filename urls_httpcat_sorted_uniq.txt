@@ -7,6 +7,7 @@
 http://192.168.1.3/hello/
 http://2.bp.blogspot.com/-0wLoTQR21LM/UIpLM9q3WsI/AAAAAAAAACU/0I9AUEpnjkI/s1600/images13.jpeg
 http://3.bp.blogspot.com/-Yu5Z8rwjBoA/UGgzkfA4mWI/AAAAAAAAHOc/OnZyUAorJfo/s1600/Serebro.jpeg
+http://3.bp.blogspot.com/-tcxvVXFlAQM/UHWo3NGZu9I/AAAAAAAAAYo/N7B00nnUb7o/s1600/a+child.jpeg
 http://3.bp.blogspot.com/_Ci9HbVh3IKE/RqEYUb2a6-I/AAAAAAAACqw/FvuEMsVVFww/s400/vieri+atletico.bmp
 http://4.bp.blogspot.com/-TWQ-e1zq6GU/UYXeCz0SN2I/AAAAAAAABtE/FVvJWoY3IuE/s640/dashboard.jpeg
 http://411mania.com/wrestling/going-home-again-the-cow-palace-royale/
@@ -533,6 +534,7 @@ http://nudewwedivas.forumcommunity.net/?t=59643435
 http://nuevoestadioatleti.blogspot.com/search?updated-max=2012-08-01T15:15:00%2B02:00&max-results=200&start=4&by-date=false
 http://nymag.com/scienceofus/2016/08/how-cat-people-differ-from-dog-people-on-facebook.html
 http://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html
+http://oerpub.github.io/epubjs-demo-book/content/m46060.xhtml
 http://officialfan.proboards.com/thread/398146
 http://officialfan.proboards.com/thread/470058/single-wrestlemania-stage-entryway?page=1
 http://officialfan.proboards.com/thread/470058/single-wrestlemania-stage-entryway?page=2
@@ -569,6 +571,7 @@ http://petereisentraut.blogspot.com/2010/11/pipefail.html
 http://photogallery.indiatimes.com/photo/4580574.cms
 http://photogallery.indiatimes.com/photo/6086029.cms
 http://photographersdirect.com/pdwm.php?i=799977&s=9597&p=8
+http://photos.prnewswire.com/prnvar/20140421/76895
 http://pl.ecal.com/
 http://plasmasturm.org/log/487/
 http://podbay.fm/show/1137115592
@@ -2007,6 +2010,9 @@ http://www.popsci.com/science/article/2012-09/fyi-do-men-and-women-throw-ball-di
 http://www.pps-training.co.uk/
 http://www.primermagazine.com/2010/field-manual/know-it-all-w%E2%80%99s-and-k%E2%80%99s-the-history-of-radio-and-television-call-letters
 http://www.printfriendly.com/print?source=homepage&url_s=uGGCF%25dN%25cS%25cSJJJmBErvyyLmpBz%25cSyrnEAvAt%25cSznxvAt-FrAFr-Bs-FGErnz-CEBprFFvAt%25cSCntr%25cSe%25cSGur-HAvK-CuvyBFBCuL-Bs-qvFGEvoHGrq-qnGn
+http://www.prnewswire.com/news-releases/dfw-technoplex-map-plots-the-hotbed-of-technology-and-innovation-in-north-texas-256983391.html
+http://www.prnewswire.com/news-releases/silicon-hills-map-plots-austin-as-the-hotbed-of-technology-and-innovation-in-the-texas-capital-city-255684581.html
+http://www.prnewswire.com/news-releases/tech-coast-map---plots-southern-california-high-tech-community-256072791.html
 http://www.professores.uff.br/diomar_cesar_lobao/material/MCCT/Sam_Text.pdf
 http://www.programcreek.com/java-api-examples/index.php?api=com.google.common.collect.ImmutableMultimap
 http://www.proshares.com/media/documents/nine_questions_every_etf_investor_should_ask_before_investing.pdf
@@ -2686,6 +2692,7 @@ https://en.wikipedia.org/wiki/Autarky
 https://en.wikipedia.org/wiki/BBCode
 https://en.wikipedia.org/wiki/Benefit_corporation
 https://en.wikipedia.org/wiki/Blackout_(broadcasting)
+https://en.wikipedia.org/wiki/Blockchain
 https://en.wikipedia.org/wiki/Booch_method
 https://en.wikipedia.org/wiki/Boutique_hotel
 https://en.wikipedia.org/wiki/Broadcast_engineering
@@ -3921,6 +3928,7 @@ https://www.google.com/search?q=cscope+batch+mode&rlz=1CDGOYI_enUS590US590&oq=cs
 https://www.google.com/search?q=cubs+beavers+scouts&rlz=1CDGOYI_enUS590US590&oq=cubs+beave&aqs=chrome.2.69i57j0l3.10533j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=curved+monitor+bad+idea&rlz=1CDGOYI_enUS590US590&oq=curved+monitor+bad+idea&aqs=chrome..69i57.10607j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=d3+map+visualization&rlz=1CDGOYI_enUS590US590&oq=d3+map&aqs=chrome.1.69i57j0l3.9647j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=d3.js+force+speed&oq=d3.js+force+speed&aqs=chrome..69i57.5691j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=ddmc+tony+adams&rlz=1CDGOYI_enUS590US590&oq=ddmc+tony+adams&aqs=chrome..69i57.8149j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=debt+freedom+overrated&oq=debt+freedom+overrated&aqs=chrome..69i57.2864j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=deep+fat+visceral+fat&oq=deep+fat+visceral+fat&aqs=chrome..69i57j69i64.14639j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -4903,6 +4911,7 @@ https://www.theregister.co.uk/2013/10/08/managing_aspergers_techies/
 https://www.thescottishsun.co.uk/archives/news/47081/lockout-its-never-knockout/
 https://www.thespectrumcareers.com/
 https://www.thestreet.com/story/12667398/1/etfs-to-make-you-rich-during-a-market-crash.html
+https://www.thestreet.com/story/12676653/1/tech-coast-map--plots-southern-california-high-tech-community.html
 https://www.thesun.co.uk/archives/news/369767/a-car-on-the-wrong-side-of-the-road-hit-us-at-90mph-killing-four-i-still-dont-know-how-im-here/
 https://www.thesun.co.uk/living/1616034/woman-checks-in-at-the-airport-wearing-what-appears-to-be-her-underwear/
 https://www.thesun.co.uk/sport/2935380/nikki-bella-wwe-wardrobe-malfunction-slip/
@@ -5095,4 +5104,6 @@ https://www.zillow.com/homes/0_fs/0_mmm/1_fr/0_rs/1_z/any_days/1100-1400_mp/Bell
 https://www.zillow.com/homes/3619_rid/47.689197,-122.03167,47.51465,-122.251396_rect/0_fs/0_rs/1_fr/1_z/0_mmm/true_fro/-2000_mp/2-_beds/any_days/condo,apartment_duplex_type/days_sort/
 https://www2.deloitte.com/uk/en/pages/sports-business-group/topics/sports-business-group.html#
 https://xapian.org/docs/
+https://xhamster.com/movies/1068402/kamilla_18_in_bed.html
+https://xhamster.com/movies/967483/kamilla_18_-_good_morning.html
 https://ycharts.com/store/professional_tour/section/charting
