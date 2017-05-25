@@ -413,6 +413,7 @@ http://invisibleinkblog.blogspot.com/2013/08/yes-documentaries-also-use-story.ht
 http://jbl.web.cern.ch/jbl/doc/plain/
 http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
 http://jezebel.com/5614072/do-women-objectify-themselves
+http://jezebel.com/behind-the-cultural-imperative-for-women-to-be-sexy-and-1069455704
 http://jezebel.com/can-someone-explain-this-new-teen-photo-pose-to-me-1792455050
 http://joda-time.sourceforge.net/timezones.html
 http://jokes-app.com/joke/2pkinm4g99w
@@ -694,6 +695,7 @@ http://softwarerecs.stackexchange.com/questions/18906/web-based-text-editor-for-
 http://sonic.wikia.com/wiki/Too_Tall_Tails/Transcript
 http://spamisbetterfried.blogspot.com/2013/09/the-tale-of-two-pizzas-neapolitan-and.html
 http://spectrum.ieee.org/telecom/internet/the-autistic-hacker
+http://spf13.com/post/easy-bash-scripting-with-shflags
 http://spoon.gforge.inria.fr/first_analysis_processor.html
 http://spoonuniversity.com/lifestyle/orange-juice-isnt-going-to-prevent-your-cold
 http://sport360.com/article/football/arabian-gulf-league/200882/interview-javier-aguirre-the-man-who-helped-to-paint-madrid-in-the-red-of-atletico/
@@ -1068,6 +1070,7 @@ http://time.com/money/3959425/boring-investors-rich/
 http://timesofindia.indiatimes.com/city/kochi/Court-order-must-for-correcting-DOB-on-passport-HC/articleshow/48063175.cms?from=mdr
 http://timesofindia.indiatimes.com/life-style/relationships/love-sex/What-your-social-networking-photo-says-about-you/articleshow/15073979.cms?from=mdr
 http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html
+http://tldp.org/LDP/abs/abs-guide.pdf
 http://toffeeweb.com/season/09-10/comment/fan/RedBlueGreenOrange.pdf
 http://torrentking.eu/movie-2004/new-york-minute-torrents/
 http://transom.org/2014/brief-history-of-documentary-forms/#nanook
@@ -1230,6 +1233,7 @@ http://www.afilm.es/workshops/james-duffs-creative-documentary-workshop/
 http://www.afterbuzztv.com/afterbuzz-tv-all-shows/making-their-way-to-the-ring-with-lilian-garcia-afterbuzz-tv/
 http://www.afterbuzztv.com/afterbuzz-tv-all-shows/making-their-way-to-the-ring-with-lilian-garcia-afterbuzz-tv/
 http://www.agilearts.nl/tasty-test-tip-using-argumentcaptor-for-generic-collections-with-mockito/
+http://www.airlineticket-center.com/airlines/air-india-non-stop-flight/from-los-angeles-to-delhi/
 http://www.aish.com/sp/dl/46123197.html
 http://www.al-raqi.net/showthread.php?t=132149
 http://www.alexlowery.co.uk/national-autistic-society-dont-write-me-off-campaign/
@@ -1355,6 +1359,7 @@ http://www.brandautopsy.com/2006/10/house_of_brands.html
 http://www.bridge-over.com/micro-branding/
 http://www.brittonmdg.com/the-britton-blog/co-brands-are-a-brands-best-friend
 http://www.building.co.uk/six-stadiums-that-tell-the-story-of-english-football/5061797.article
+http://www.builtinla.com/jobs#/jobs?f%5B%5D=im_job_categories%3A78&f%5B%5D=im_job_categories%3A5531&f%5B%5D=tags%3AJava%7Cim_job_categories%3A5531%3Aterm
 http://www.bundespremierleague.com/atletico-madrid/
 http://www.businessdictionary.com/definition/digital-storefront.html
 http://www.businessinsider.com/microsoft-updates-hotmail-but-why-2011-10
@@ -1511,6 +1516,7 @@ http://www.colorcoda.com/colour-coding-school-subjects/
 http://www.colormatters.com/color-and-marketing/color-and-branding
 http://www.communitycare.co.uk/2009/10/09/people-with-autism-the-struggle-to-gain-benefits-and-find-work/
 http://www.concurrentaffair.org/2012/11/08/java-executors-continuations-and-small-step-semantics/
+http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
 http://www.corsahomesolutions.com/do-i-earn-equity-with-a-rent-to-own-agreement/
 http://www.cosmopolitan.com/health-fitness/advice/a40684/better-to-have-a-big-butt/
 http://www.cosmopolitan.com/style-beauty/beauty/advice/a2013/scents-that-seduce/
@@ -1872,6 +1878,7 @@ http://www.ishouldhavesaid.net/top-ten/
 http://www.janubaba.com/c/forum/topic/9831/pg_1/Lollywood/paki_babez
 http://www.java2s.com/Code/Oracle/Hierarchical-Query/LEVELandtheLPADFormattingtheResultsfromaHierarchicalQuery.htm
 http://www.javabrahman.com/programming-principles/pipelines-in-computing-and-software-engineering/
+http://www.jeromecukier.net/blog/2015/05/19/you-may-not-need-d3/
 http://www.jewishpress.com/news/breaking-news/from-911-to-119-trumps-victory-is-how-western-civilization-regrouped/2016/11/09/
 http://www.jokes4us.com/peoplejokes/comedianjokes/rodneydangerfieldjokes.html
 http://www.jqueryscript.net/demo/Smooth-Marquee-like-Content-Scroller-Plugin-For-jQuery-limarquee/
@@ -3165,6 +3172,7 @@ https://itunes.apple.com/us/podcast/madusas-full-throttle-podcast/id1214727595?m
 https://itunes.apple.com/us/podcast/the-spanish-football-podcast/id687671367?mt=2
 https://jawbone.com/up
 https://jekyllrb.com/
+https://jobs.experian.com/location/united-states-california-los-angeles-jobs/439/6252001-5332921-5368381-5368361/4
 https://jsfiddle.net/gerardofurtado/7pvhxfzg/1/
 https://jsfiddle.net/orotemo/obvna6qn/1/
 https://kickerst.com/products/unofficial-retro-football-jersey-10
@@ -3340,6 +3348,8 @@ https://sports.vice.com/en_us/article/breaking-kayfabe-an-inside-look-at-wwes-un
 https://spring.io/guides/gs/spring-boot/
 https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
+https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
+https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
 https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/
@@ -3377,6 +3387,8 @@ https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/
 https://techcrunch.com/2015/04/28/the-facebook-effect-on-real-estate-prices/
 https://techcrunch.com/2015/11/25/trialpay-cofounder-back-with-point-a-novel-fractional-home-ownership-startup/
 https://techcrunch.com/2016/04/26/dropboxs-project-infinite-could-change-the-way-you-think-of-cloud-storage/
+https://techcrunch.com/2017/01/13/los-angeles-tech-companies-take-a-victory-lap-with-planned-tech-job-fair/
+https://techjobsla.com/
 https://telegram.org/
 https://telerevision.wordpress.com/2011/02/14/narrative-and-plot-in-the-simpsons-s22-e13/
 https://telerevision.wordpress.com/2011/02/14/narrative-and-plot-in-the-simpsons-s22-e13/
@@ -3394,6 +3406,7 @@ https://therapists.psychologytoday.com/rms/name/Sara_Hyatt_PsyD_San+Jose_Califor
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=121898&ref=12&sid=1492631390.648_22468&city=San+Jose&county=Santa+Clara&state=CA&spec=251&tr=ResultsRow
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=90476&ref=18&sid=1492631390.648_22468&city=San+Jose&county=Santa+Clara&state=CA&spec=251&tr=ResultsName
 https://thesocietypages.org/graphicsociology/tag/migration/
+https://thesocietypages.org/socimages/2011/02/04/susan-sontag-on-the-three-standards-of-beauty-girl-boy-and-man/
 https://thetrichordist.com/2012/04/17/the-real-issue-of-online-piracy/
 https://theultimatesportsblog.com/2017/02/01/the-time-machine-wwe-raw-episode-2/
 https://tomkinstimes.com/2010/02/tpi%C2%A9-the-complete-guide-to-football-inflation/
@@ -3545,6 +3558,7 @@ https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=screenscraping
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=sports+broadcasting+engineering
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=transpiler
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dindustrial&field-keywords=ice+pack+freeze&rh=n%3A16310091%2Ck%3Aice+pack+freeze
 https://www.amazon.com/s/ref=sr_nr_i_24?rh=k%3Aband+network%2Ci%3Astripbooks&keywords=band+network&ie=UTF8&qid=1485480456
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3Anetwork+effect&keywords=network+effect&ie=UTF8&qid=1485480452&rnid=2941120011
 https://www.amazon.com/s/ref=sr_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Ck%3Agoogle+maps&keywords=google+maps&ie=UTF8&qid=1481438530&rnid=2941120011
@@ -3647,6 +3661,17 @@ https://www.dawn.com/news/1107962
 https://www.dawn.com/news/1254628
 https://www.dereckson.be/blog/2015/01/15/chromebook-run-a-ssh-server-on-chrome-os/
 https://www.dereckson.be/blog/2015/01/15/chromebook-run-a-ssh-server-on-chrome-os/#comment-224628
+https://www.dice.com/jobs/detail/Java-Developer-Cougar-Tech-USA-DBA-Brevitii-San-Jose-CA-95106/RTL106247/001149?icid=sr2-1p&q=java&l=95128
+https://www.dice.com/jobs/detail/Java-Developer-Encore-Software-Services-San-Jose-CA-95002/10115152/962102?icid=sr8-1p&q=java&l=95128#
+https://www.dice.com/jobs/detail/Java-Developer-IDC-Technologies-Milpitas-CA-95035/10114879/997238?icid=sr5-1p&q=java&l=95128
+https://www.dice.com/jobs/detail/Java-Developer-IRIS-Software%2C-Inc.-Mountain-View-CA-94035/irissoft/ADMVCA?icid=sr10-1p&q=java&l=95128#
+https://www.dice.com/jobs/detail/Java-Developer-Mumba-Technologies-Sunnyvale-CA-94085/10410924/904966?icid=sr6-1p&q=java&l=95128#
+https://www.dice.com/jobs/detail/Java-Developer-Pyramid-Consulting%2C-Inc.-Mountain-View-CA-94039/pyrmid/17%26%234509689?icid=sr11-1p&q=java&l=95128#
+https://www.dice.com/jobs/detail/Java-Developer-Sigma-Group-Mountain-View-CA-94041/10105938/003257?icid=sr13-1p&q=java&l=95128
+https://www.dice.com/jobs/detail/Java-Developer-Sigmaways%2C-Inc.-Sunnyvale-CA-94086/10231101/972921?icid=sr12-1p&q=java&l=95128
+https://www.dice.com/jobs/detail/Java-Developer-The-Armada-Group-Milpitas-CA-95035/armada/7998?icid=sr9-1p&q=java&l=95128#
+https://www.dice.com/jobs/detail/Java-Developer-The-Armada-Group-Mt-View-CA-94039/armada/8009?icid=sr14-1p&q=java&l=95128
+https://www.dice.com/jobs/q-java-djt-Java+Developer-l-95128-radius-10-jobs?searchid=2418626492867&stst=#dice
 https://www.digitalmediaacademy.org/filmmaking-photography-camps/documentary-filmmaking/
 https://www.digitalocean.com/community/questions/postfix-mail-forwarding-socket-error-how-to-fix-mx-records
 https://www.digitalocean.com/community/questions/postfix-receive-email-from-outside-not-working
@@ -3655,6 +3680,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-postfix-e-mail-
 https://www.dimensions-uk.org/position-statement/employing-people-with-a-learning-disability-or-autism/
 https://www.dimensions-uk.org/what-we-do/supported-employment/
 https://www.disabilityrightsuk.org/careers-and-work-disabled-people
+https://www.dissentmagazine.org/online_articles/blaming-women-for-the-infantilization-of-men
 https://www.doordash.com/store/anjappar-chettinad-milpitas-13161/
 https://www.dreamsongs.com/WorseIsBetter.html
 https://www.drugs.com/answers/why-do-u-have-to-take-effexor-with-food-477071.html
@@ -3715,6 +3741,7 @@ https://www.forbes.com/sites/gordonkelly/2017/04/13/massive-iphone-8-leak-reveal
 https://www.forbes.com/sites/johntamny/2012/07/29/ron-paul-fractional-reserve-banking-and-the-money-multiplier-myth/#7c19550e79b7
 https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5dedfe7547d3
 https://www.forbes.com/sites/kellyphillipserb/2016/08/09/i-received-those-irs-lawsuit-calls-too-scammers-dont-discriminate/#5f79595647d3
+https://www.forbes.com/sites/lorikozlowski/2012/03/26/how-to-land-a-tech-job-in-l-a-or-anywhere/#560a3a677eee
 https://www.forbes.com/sites/michaelbernick/2016/12/13/where-is-autism-employment-heading-in-2017/#504c7c8e1e35
 https://www.forbes.com/sites/michaelbernick/2017/05/09/the-anthropologist-of-autism-employment/print/
 https://www.forbes.com/sites/stevendennis/2017/02/13/sears-is-the-end-finally-in-sight-for-the-worlds-slowest-liquidation-sale/#29a279db1a3d
@@ -4412,6 +4439,7 @@ https://www.google.com/search?q=why+resumes+should+be+plaintext&rlz=1CDGOYI_enUS
 https://www.google.com/search?q=why+short+girls+are+more+attractive&oq=why+short+girls+are+more+attractive&aqs=chrome..69i57.7263j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=why+should+government+fund+space+exploration&oq=why+do+governments+fund+space+exploration&aqs=chrome.1.69i57j0.7541j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=why+some+people+crave+salt&rlz=1CDGOYI_enUS590US590&oq=why+some+people+crave+salt&aqs=chrome..69i57.8944j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=why+the+british+like+pub+quizzes&oq=why+the+british+like+pub+quizzes&aqs=chrome..69i57.7379j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=why+us+banks+dont+buy+rupees&rlz=1CDGOYI_enUS590US590&oq=why+us+banks+dont+buy+rupees&aqs=chrome..69i57.12094j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=why+you+should+%22brand+everything%22&num=40&espv=2&ei=J4CvWJj2Mo--jwOKkpLgAQ&start=40&sa=N&biw=1285&bih=659
 https://www.google.com/search?q=will+gold+always+be+valuable&oq=will+gold+always+&aqs=chrome.0.0j69i57j0l4.4114j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -4823,6 +4851,7 @@ https://www.merriam-webster.com/dictionary/trust
 https://www.metfilmschool.ac.uk/courses/documentary-filmmaking/
 https://www.metv.com/lists/9-more-actors-who-died-during-the-production-of-their-television-shows
 https://www.mgtow.com/forums/topic/why-are-women-always-sick/
+https://www.microsoft.com/en-us/mtc/locations/siliconvalley.aspx
 https://www.mmu.ac.uk/equality-and-diversity/disability/the_undiscovered_workforce.pdf
 https://www.motifinvesting.com/motifs/san-francisco-bay-area-reit-G7vfjdpu
 https://www.mrc-cbu.cam.ac.uk/wp-content/uploads/2013/01/WM-classroom-guide.pdf
@@ -4847,6 +4876,7 @@ https://www.nzx.com/files/assets/good_to_great.pdf
 https://www.obitalk.com/forum/index.php?OBTKSID=tm78acnk6nhkdus4giavg4dme3&topic=11545.0
 https://www.obitalk.com/info/googlevoice
 https://www.onefootball.com/magazine/10-players-played-sides-atletico-real-madrid/
+https://www.oreilly.com/ideas/contrasting-architecture-patterns-with-design-patterns
 https://www.oreilly.com/ideas/transformative-programming
 https://www.oreilly.com/learning/making-sense-of-stream-processing/page/4/the-unix-philosophy-of-distributed-data
 https://www.owasp.org/images/1/1b/Building_Your_Company's_Vision_-_Jim_Collins.pdf
@@ -4929,6 +4959,7 @@ https://www.quora.com/What-does-it-means-when-a-guy-called-her-girlfriend-kutty-
 https://www.quora.com/What-does-it-means-when-a-guy-called-her-girlfriend-kutty-in-malayalam-And-what-sweet-names-can-call-to-your-mallu-boyfriend
 https://www.quora.com/What-does-the-saying-Oh-Sugar-mean
 https://www.quora.com/What-is-alternate-of-torrentz-eu/answer/Vivek-Ramaswamy-12?prompt_topic_bio=1
+https://www.quora.com/What-is-it-like-for-a-woman-to-have-a-platonic-male-friend-see-her-breasts
 https://www.quora.com/What-is-the-best-programming-language-for-automating-repetitive-workflows-in-a-browser
 https://www.quora.com/What-is-the-difference-between-Spring-Boot-and-the-Spring-framework
 https://www.quora.com/What-is-the-difference-between-cognitive-bias-and-cognitive-distortion
@@ -4966,6 +4997,7 @@ https://www.quora.com/Why-is-it-that-most-women-get-offended-when-they-find-out-
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/
 https://www.reddit.com/r/AskWomen/comments/17wg9a/when_hugging_a_regular_guy_or_guy_friend_do_you/
+https://www.reddit.com/r/AskWomen/comments/3imc3r/whats_the_etiquette_for_platonic_cuddling_as_an/
 https://www.reddit.com/r/Documentaries/comments/1guuam/are_there_any_good_documentaries_about/
 https://www.reddit.com/r/Filmmakers/comments/1bx29w/uk_filmmakers_what_are_the_very_best_british_film/
 https://www.reddit.com/r/LiverpoolFC/comments/4f5q5z/firminos_grin/
@@ -5002,6 +5034,7 @@ https://www.researchgate.net/publication/257980182_The_Seduction_of_Modern_Spain
 https://www.researchgate.net/publication/26248743_Effects_of_listening_ability_on_speaking_writing_and_reading_skills_of_children_who_were_suspected_of_auditory_processing_difficulty
 https://www.resolvedhypnotherapy.co.uk/specialism-1-aspergers-syndrome-and-hypnotherapy-in-berksire-and-oxfordshire/
 https://www.riteaid.com/shop/conair-gel-grips-hair-brush-paddle-1-brush-0363305
+https://www.roberthalf.com/technology/job/santa-monica-ca/senior-backend-java-developer-direct-hire/43939181?shwAppMsg=true&appMethod=linkedin
 https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/
 https://www.rt.com/news/magadan-sorrow-at-world-s-end/
 https://www.safaribooksonline.com/library/view/documentary-storytelling-3rd/9780240812410/
@@ -5074,6 +5107,7 @@ https://www.thesun.co.uk/sport/2935380/nikki-bella-wwe-wardrobe-malfunction-slip
 https://www.thesun.co.uk/sport/football/2286573/colombia-plane-crash-former-champions-league-star-posted-final-haunting-picture-from-inside-doomed-flight/
 https://www.thesun.co.uk/sport/football/2997762/fernando-torres-head-injury-hospital-atletico-madrid-swallowing-tongue/
 https://www.thesun.co.uk/tvandshowbiz/2567574/stars-go-wild-at-golden-globes-after-parties-as-sofia-vergara-grabs-priyanka-chopras-boobs-and-miranda-kerr-flashes-the-flesh-in-a-very-revealing-dress/
+https://www.thetimes.co.uk/article/girls-are-groped-and-called-sluts-as-part-of-school-life-hsk8nbkwc
 https://www.thevaninsurer.co.uk/news/events/cats-getting-stuck-in-vans-how-to-prevent-feline-stowaways/
 https://www.thoughtco.com/english-in-billiards-368382
 https://www.thoughtworks.com/insights/blog/forget-productivity
