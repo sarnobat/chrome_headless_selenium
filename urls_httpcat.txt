@@ -237,6 +237,7 @@ http://docs.aws.amazon.com/cli/latest/reference/s3/rm.html
 http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
 http://docs.aws.amazon.com/efs/latest/ug/mounting-fs.html
 http://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html
+http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
 http://download.cnet.com/OBiON/3000-12941_4-75387542.html
 http://download.intel.com/support/motherboards/desktop/sb/biosglossary_nuc_v02.pdf
 http://dukrat.net/124/deluge-webui-1-3-6-autologin-disable-password
@@ -2181,6 +2182,7 @@ http://www.schoolandhousing.com/jsp/school_locator/schooldetail.jsp?id=551a3b36c
 http://www.scientificchess.com/articles/Biochemical%20Techniques%20in%20DNA%20Computing.pdf
 http://www.scooponthecity.com/scoop-on-football/real-madrids-strangest-sackings-of-managers
 http://www.scribblelive.com/blog/2014/10/15/uncover-best-story-tips-finding-narrative-data/
+http://www.sdfonlinetester.info/#
 http://www.searchquotes.com/quotation/A_wise_man_is_superior_to_any_insults_which_can_be_put_upon_him%2C_and_the_best_reply_to_unseemly_beha/229333/
 http://www.searchquotes.com/search/Bad_Times_Wont_Last_Forever/
 http://www.seattlepi.com/business/article/Are-Seattle-tech-firms-poaching-San-Francisco-6905930.php
@@ -3374,6 +3376,7 @@ https://rsa.revues.org/1048
 https://runwayexposed.wordpress.com/2016/04/13/femininity-and-the-media/
 https://ry4an.org/unblog/post/amazon-s3-as-append-only-datastore/
 https://s.yimg.com/ny/api/res/1.2/osNS12mAFMsGnoIgpKSGQw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/4b8aa6a9b65ec457ca6f6e3eb6cfe97f
+https://s3.amazonaws.com/na-ops-ltd/olo_shared_docs_external_f1/sd/Amazon+Leadership+Principles+-+Connected+Leadership+Competencies.pdf
 https://sandbox.qbo.intuit.com/app/banking?accountId=35
 https://savedeo.com/download?url=https%3A%2F%2Ftwitter.com%2FBayleysAss%2Fstatus%2F818904756261416960
 https://scholar.google.com/scholar?hl=en&q=visual+auditory+vestibular&btnG=&as_sdt=1%2C5&as_sdtp=
@@ -3413,9 +3416,14 @@ https://spring.io/guides/gs/spring-boot/
 https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
 https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
+https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
+https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
+https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
+https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
+https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/7967918/illegal-string-body-character-after-dollar-sign
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
@@ -3647,6 +3655,7 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Abelt+badge+clip&page=2&key
 https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Abook+sleeves+transparent&page=2&keywords=book+sleeves+transparent&ie=UTF8&qid=1480736927&spIA=B01AXJ6VFU,B0151CUB9Q
 https://www.amazon.com/s/ref=sr_pg_3?rh=i%3Aaps%2Ck%3Amodular+furniture&page=3&keywords=modular+furniture&ie=UTF8&qid=1483937010&spIA=B01GQ0VQWS,B01LH50TB6,B00OSB29DS,B00CCEVSNA,B002803XAO,B000YTNKK4
 https://www.amazon.com/serious-question-life-size-missing-girlfriend/forum/Fx1D6OSYE3DLN42/TxUOUIPG15MXSB/1/ref=cm_cd_et_voterdr?_encoding=UTF8&asin=B009SR4IRC&cdMSG=addedToThread&cdShowComment=Mx1RMQAFROTYMBO&newContentID=Mx3LEC6QC4GWGJO&newContentNum=1#Mx1RMQAFROTYMBO
+https://www.amazon.jobs/principles
 https://www.amazon.jobs/principles
 https://www.ambitiousaboutautism.org.uk/
 https://www.ambitiousaboutautism.org.uk/talk-to-others/2015-04-09/claiming-benefits-at-the-job-centre

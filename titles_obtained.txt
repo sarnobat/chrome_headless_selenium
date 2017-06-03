@@ -6252,3 +6252,11 @@ http://www.urbandictionary.com/define.php?term=sweet+16
 https://qph.ec.quoracdn.net/main-qimg-d65c79e0d18c53ce3e17ad125e232b17
 https://www.quora.com/Genetically-speaking-are-Asians-closer-to-Blacks-or-Caucasians
 https://www.amazon.jobs/principles
+https://s3.amazonaws.com/na-ops-ltd/olo_shared_docs_external_f1/sd/Amazon+Leadership+Principles+-+Connected+Leadership+Competencies.pdf
+https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
+https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
+https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
+https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
+https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
+http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+http://www.sdfonlinetester.info/#
