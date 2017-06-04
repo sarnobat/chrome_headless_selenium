@@ -6260,3 +6260,6 @@ https://stackoverflow.com/questions/604424/lookup-enum-by-string-value :: java -
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp :: date - Java: Convert String to TimeStamp - Stack Overflow
 http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html :: SimpleDateFormat (Java Platform SE 7 )
 http://www.sdfonlinetester.info/# :: Java SimpleDateFormat Online Tester
+http://www.urbandictionary.com/define.php?term=E-Crush :: Urban Dictionary: E-Crush
+http://www.urbandictionary.com/define.php?term=roll%20tide :: Urban Dictionary: roll tide
+https://en.wikipedia.org/wiki/Kemps_(card_game) :: Kemps (card game) - Wikipedia
