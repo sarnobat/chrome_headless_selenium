@@ -231,6 +231,7 @@ http://docs.aws.amazon.com/efs/latest/ug/mounting-fs.html
 http://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html
 http://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
 http://download.cnet.com/OBiON/3000-12941_4-75387542.html
+http://download.eclipse.org/jetty/stable-9/apidocs/org/eclipse/jetty/server/handler/ResourceHandler.html
 http://download.intel.com/support/motherboards/desktop/sb/biosglossary_nuc_v02.pdf
 http://dukrat.net/124/deluge-webui-1-3-6-autologin-disable-password
 http://eatupnewyork.com/why-is-new-york-city-pizza-so-good/
@@ -1906,6 +1907,7 @@ http://www.marca.com/en/football/spanish-football/2016/09/30/57eed507e5fdeaea628
 http://www.marca.com/en/football/spanish-football/2016/11/02/5819b1b9e5fdea500c8b45c8.html
 http://www.marca.com/en/football/spanish-football/2017/02/01/58910623e2704e70768b45ff.html
 http://www.marca.com/en/football/spanish-football/2017/05/11/59139b0446163f720a8b4657.html
+http://www.marca.com/en/football/spanish-football/2017/06/01/59300f24468aeb916f8b458c.html
 http://www.marca.com/en/more-sports/2017/02/10/589e1eaa22601d5e138b46db.html
 http://www.marca.com/futbol/america/2016/11/29/583d27ad46163f214a8b4629.html
 http://www.marca.com/futbol/atletico/2016/10/01/57ed636a268e3efe698b463c.html
@@ -2282,6 +2284,7 @@ http://www.thesimpledollar.com/life-insurance-earning-dividends/
 http://www.thesimpledollar.com/where-does-7-come-from-when-it-comes-to-long-term-stock-returns/
 http://www.thesimpledollar.com/why-you-shouldnt-buy-gold-as-a-hedge-against-devastation/
 http://www.thesquareoff.org/?p=127
+http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php
 http://www.theunixschool.com/2011/08/fold-files-using-fold-command.html?m=1
 http://www.theunixschool.com/2012/07/10-examples-of-paste-command-usage-in.html
 http://www.theverge.com/2012/11/16/3652752/uk-state-of-tv-cord-cutting
@@ -2729,6 +2732,7 @@ https://en.m.wikipedia.org/wiki/Pop_(U.S._TV_network)
 https://en.m.wikipedia.org/wiki/Pretty_Good_Privacy#PGP_Corporation_encryption_applications
 https://en.m.wikipedia.org/wiki/Purely_functional_data_structure
 https://en.m.wikipedia.org/wiki/Sharenting
+https://en.m.wikipedia.org/wiki/Situation,_Task,_Action,_Result
 https://en.m.wikipedia.org/wiki/Slew_(spacecraft)
 https://en.m.wikipedia.org/wiki/SoX
 https://en.m.wikipedia.org/wiki/Sting_(musical_phrase)
@@ -2870,6 +2874,7 @@ https://en.wikipedia.org/wiki/Lists_of_companies
 https://en.wikipedia.org/wiki/Little_Ice_Age
 https://en.wikipedia.org/wiki/Long-form_journalism
 https://en.wikipedia.org/wiki/Lunch_atop_a_Skyscraper
+https://en.wikipedia.org/wiki/Martial_law
 https://en.wikipedia.org/wiki/Maunder_Minimum
 https://en.wikipedia.org/wiki/Megastructures
 https://en.wikipedia.org/wiki/Microbrand
@@ -2996,6 +3001,7 @@ https://gangaji.org/radio/view/?id=32
 https://gethuman.com/phone-number/Google
 https://gist.github.com/RobSis/50af3d3ef8e747a0bd18
 https://gist.github.com/alonisser/11192482
+https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90
 https://gist.github.com/runeb/c11f864cd7ead969a5f0
 https://gist.github.com/uncreative/1100212
 https://gist.github.com/yamalight/e7489322868eae34916e
@@ -3018,6 +3024,7 @@ https://github.com/d3/d3-hierarchy#stratify
 https://github.com/d3/d3-hierarchy/blob/master/README.md#stratify
 https://github.com/d3/d3/blob/master/API.md
 https://github.com/decklin/curlicue
+https://github.com/dekellum/jetty/blob/master/example-jetty-embedded/src/main/java/org/eclipse/jetty/embedded/FileServer.java
 https://github.com/dhleong/pepper-mint
 https://github.com/eventualbuddha/MoneyMoney/blob/master/MoneyMoneyTests/sample.ofx
 https://github.com/fornwall/eclipsescript/
@@ -3307,6 +3314,7 @@ https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
+https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
@@ -3450,6 +3458,7 @@ https://wiki.centos.org/TipsAndTricks/WindowsShares
 https://wiki.debian.org/DebianRepository
 https://wiki.eclipse.org/EASE/Scripts
 https://wiki.eclipse.org/Eclipse_Monkey/Overview
+https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty#Setting_a_Web_Application_Context
 https://willowtreeapps.com/ideas/the-end-of-apps-multimodal-ui-and-the-future-of-mobile
 https://workaround.org/
 https://workaround.org/article/whitelisting-complements-blacklisting/
@@ -3574,6 +3583,7 @@ https://www.britannica.com/art/television-in-the-United-States/The-21st-century
 https://www.broadviewnet.com/blog/2015/06/largest-companies-by-revenue-in-each-state-2015-map/
 https://www.bustle.com/articles/177855-is-the-focus-on-body-baring-sports-at-the-olympics-sexist
 https://www.bustle.com/articles/178180-why-do-female-gymnasts-dance-during-floor-routines-men-dont-the-olympics-rule-has-old-timey
+https://www.bustle.com/articles/80733-8-things-people-on-antidepressants-are-seriously-tired-of-hearing
 https://www.buzzfeed.com/joannaborns/men-telling-women-to-smile?utm_term=.ajKk1VJv4#.qvqxD58rv
 https://www.buzzfeed.com/juliareinstein/science-is-green?utm_term=.ya0Go1VZ3#.rrEOo2xzG
 https://www.buzzfeed.com/juliegerstein/holding-your-own-boobs-is-the-best-damn-feeling-in?utm_term=.rhr5Aywe#.ls8wAj49
@@ -4007,6 +4017,7 @@ https://www.google.com/search?q=brand+cohesion&oq=brand+cohesi&aqs=chrome.0.0j69
 https://www.google.com/search?q=brand+confidence+longevity&oq=brand+confidence+longevity&aqs=chrome..69i57.4155j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=brand+portfolio&oq=brand+portfolio&aqs=chrome..69i57j69i60j69i65l3j69i59.2679j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=brick+means+dual+voltage&rlz=1CDGOYI_enUS590US590&oq=brick+means+dual+voltage&aqs=chrome..69i57.14701j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=bridge+router&oq=bridge+router&aqs=chrome..69i57j0l5.3510j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=bullet+journal&rlz=1CDGOYI_enUS590US590&oq=bullet+journal&aqs=chrome..69i57j0l3.25864j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=bullion&oq=bullion&aqs=chrome..69i57j69i60j69i65j69i59j69i60j69i61.1558j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=bully+mentality&oq=bully+mentality&aqs=chrome..69i57j0l3.4455j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -4240,6 +4251,7 @@ https://www.google.com/search?q=mutual+insurance+dividends&oq=mutual+insurance+d
 https://www.google.com/search?q=my+cat+never+meows&rlz=1CDGOYI_enUS590US590&oq=my+cat+ne&aqs=chrome.1.69i57j0l3.5907j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=nads+vs+gonads&oq=nads+vs+gonads&aqs=chrome..69i57.2365j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=narrated+documentary+vs+unnarrated&oq=narrated+documentary+vs+unnarrated&aqs=chrome..69i57.9139j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=nat+vs+bridged+connection&oq=bridge+connection+vs+&aqs=chrome.2.0j69i57j0l2.8502j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=need+something+to+worry+about&rlz=1CDGOYI_enUS590US590&oq=need+something+to+worr&aqs=chrome.1.69i57j0l3.9887j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=nerd+venn+diagram&rlz=1CDGOYI_enUS590US590&oq=venn+nerd+di&aqs=chrome.1.69i57j0l3.19763j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#imgrc=6_64I93HWobVnM:
 https://www.google.com/search?q=nest+egg+finance+shelter&rlz=1CDGOYI_enUS590US590&oq=nest+egg+finance+shelter&aqs=chrome..69i57.11354j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4912,6 +4924,7 @@ https://www.quora.com/Is-it-proper-to-say-real-quick-in-American-English
 https://www.quora.com/Is-it-true-that-most-programmers-have-mild-Aspergers-syndrome
 https://www.quora.com/Is-right-now-a-good-a-time-to-buy-Sterling-Pounds-currency
 https://www.quora.com/Is-there-a-way-to-send-an-email-to-an-IP-address-directly
+https://www.quora.com/Is-there-a-way-to-turn-off-the-router-component-of-Comcasts-Xfinity-box
 https://www.quora.com/Should-I-buy-a-property-in-East-Palo-Alto-CA-in-2015
 https://www.quora.com/The-Twitter-stock-is-at-a-record-low-level-Is-this-a-good-time-to-invest/answer/Luca-Falda
 https://www.quora.com/The-Twitter-stock-is-at-a-record-low-level-Is-this-a-good-time-to-invest/answer/Luca-Falda/comment/28677083

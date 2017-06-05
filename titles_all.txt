@@ -6263,3 +6263,16 @@ http://www.sdfonlinetester.info/# :: Java SimpleDateFormat Online Tester
 http://www.urbandictionary.com/define.php?term=E-Crush :: Urban Dictionary: E-Crush
 http://www.urbandictionary.com/define.php?term=roll%20tide :: Urban Dictionary: roll tide
 https://en.wikipedia.org/wiki/Kemps_(card_game) :: Kemps (card game) - Wikipedia
+http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php :: HTML Escape Characters: Complete List
+https://en.wikipedia.org/wiki/Martial_law :: Martial law - Wikipedia
+https://www.google.com/search?q=bridge+router&oq=bridge+router&aqs=chrome..69i57j0l5.3510j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: bridge router - Google Search
+https://www.google.com/search?q=nat+vs+bridged+connection&oq=bridge+connection+vs+&aqs=chrome.2.0j69i57j0l2.8502j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: nat vs bridged connection - Google Search
+http://download.eclipse.org/jetty/stable-9/apidocs/org/eclipse/jetty/server/handler/ResourceHandler.html :: ResourceHandler (Jetty :: Project 9.4.3.v20170317 API)
+https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90 :: Create File Server With Jetty ? GitHub
+https://github.com/dekellum/jetty/blob/master/example-jetty-embedded/src/main/java/org/eclipse/jetty/embedded/FileServer.java :: jetty/FileServer.java at master ? dekellum/jetty ? GitHub
+https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re :: java - Creating a ResourceConfig that behaves the same way as default Jetty's Jersey registering - Stack Overflow
+https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty#Setting_a_Web_Application_Context :: Jetty/Tutorial/Embedding Jetty - Eclipsepedia
+https://www.quora.com/Is-there-a-way-to-turn-off-the-router-component-of-Comcasts-Xfinity-box :: Is there a way to turn off the router component of Comcast's Xfinity box? - Quora
+http://www.marca.com/en/football/spanish-football/2017/06/01/59300f24468aeb916f8b458c.html :: (Could not determine)
+https://en.m.wikipedia.org/wiki/Situation,_Task,_Action,_Result :: Situation, Task, Action, Result - Wikipedia
+https://www.bustle.com/articles/80733-8-things-people-on-antidepressants-are-seriously-tired-of-hearing :: 8 Things People On Antidepressants Are Seriously Tired Of Hearing
