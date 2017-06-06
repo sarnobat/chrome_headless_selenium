@@ -181,6 +181,7 @@ http://cdn.newsapi.com.au/image/v1/e0957994917ef74dbfc5f0bdeab20d30?width=1024
 http://cdn.photogyps.com/thumbnail/OIP.P9rto5jCOpCzVlEjIXKwNgDIEs
 http://cdn.photogyps.com/thumbnail/OIP.P9rto5jCOpCzVlEjIXKwNgDIEs
 http://cdn.trendhunterstatic.com/thumbs/pantene-ads.jpeg
+http://cdn1.uvnimg.com/dims4/default/79e1e6b/2147483647/resize/860x645%3E/quality/75/?url=http%3A%2F%2Fcdn2.uvnimg.com%2F8f%2F70%2Ffd0bf8ed4756acf11bc9d05aef11%2Fc8f0d546360b4d909e59626170e61fcc
 http://cdn4.videos.motherlessmedia.com/videos/D3E13D8.mp4?fs=opencloud
 http://changingminds.org/techniques/body/parts_body_language/bottom_body_language.htm
 http://changingminds.org/techniques/conversation/interrupting/overlap_speech.htm
@@ -286,6 +287,7 @@ http://feederio.com/files/book/14853356701531_77737a5f174e5a213e749ddbdfbb82a5.p
 http://feedpress.me/kuthighered
 http://feeds.adknit.com/app-search/cnn/quest-means-business/all/1200/200/
 http://feeds.feedburner.com/freakonomicsradio
+http://feeds.feedburner.com/sawfirst
 http://feeds.feedburner.com/tedtalks_audio
 http://feeds.soundcloud.com/users/soundcloud:users:167629577/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:40717662/sounds.rss
@@ -493,15 +495,21 @@ http://media.gettyimages.com/photos/apr-2000-carlos-aguilera-of-atletico-madrid-
 http://media.gettyimages.com/photos/closer-view-of-a-girl-sitting-down-picture-id144449501
 http://media.gettyimages.com/photos/club-atletico-de-madrid-fans-cheer-on-their-team-ahead-of-the-jesus-picture-id481919860
 http://media.gettyimages.com/photos/girl-sitting-down-in-grass-and-holding-a-book-picture-id509122137?s=170667a
+http://media.gettyimages.com/photos/girl-sitting-on-a-cliff-by-the-sea-picture-id74167055?s=170667a
 http://media.gettyimages.com/photos/mar-1998-christian-vieri-of-atletico-madrid-in-action-during-a-match-picture-id1635728
 http://media.gettyimages.com/photos/miss-america-2014-nina-davuluri-attends-the-2016-miss-america-at-picture-id488123912
 http://media.gettyimages.com/photos/nell-mcandrew-kelly-dalglish-karen-brady-and-diana-stewart-picture-id117946746?s=594x594
+http://media.gettyimages.com/photos/preteen-girl-picture-id139655960?s=170667a
+http://media.gettyimages.com/photos/preteen-girl-running-picture-id156201540?s=170667a
 http://media.gettyimages.com/photos/september-1995-photo-of-yugoslav-radomir-antic-who-has-agreed-to-picture-id52017107
+http://media.gettyimages.com/photos/studio-shot-of-young-pretty-woman-sitting-on-chair-picture-id129312039?s=170667a
 http://media.gettyimages.com/photos/teenage-girl-wearing-bikini-at-beach-picture-id200241384-002?s=170667a
 http://media.gettyimages.com/photos/teenage-girls-walking-down-high-school-hallway-picture-id86485511?s=170667a
 http://media.gettyimages.com/photos/the-spanish-jesus-gil-y-gil-businessman-politician-president-of-the-picture-id543643265?s=594x594
 http://media.gettyimages.com/photos/woman-in-a-park-picture-id144449585?k=6&m=144449585&s=170667a&w=0&h=1FATK5HuERx6bs6m4RQz_M7rp4WXuIdcup-tT-VfJDc=
+http://media.gettyimages.com/photos/young-preteen-girl-picture-id139655961?s=170667a
 http://media.gettyimages.com/photos/young-teen-girl-picture-id157437645?s=170667a
+http://media.istockphoto.com/photos/preteen-girl-spending-time-with-her-father-at-beach-picture-id180837983
 http://mediapub.it.ox.ac.uk/feeds/129191/audio.xml
 http://members.shaw.ca/wrestling-brent/WrestlingTapes.htm
 http://mentalfloss.com/article/29669/why-do-some-radio-stations-begin-k-and-others-w
@@ -512,6 +520,7 @@ http://metro.co.uk/2007/08/16/revealed-how-to-get-plump-and-round-breasts-23965/
 http://metro.co.uk/2010/02/04/top-20-things-men-and-women-find-irresistible-77602/
 http://metro.co.uk/2016/05/30/atletico-madrids-juanfran-pens-emotional-open-letter-to-fans-after-champions-league-final-loss-5913630/
 http://midtownpaloalto.com/rent/spacious-1-bedroom-condo-in-woodland-creek-complex/
+http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=317916&vid=4
 http://mommything.com/haunting-photos-before-tragedy/20/
 http://money.cnn.com/2015/03/16/news/willis-tower-sears-chicago-blackstone/
 http://money.cnn.com/2015/07/06/news/companies/american-apparel-closing-stores-layoffs/
@@ -1362,6 +1371,7 @@ http://www.bbcamerica.com/anglophenia/2015/03/want-to-move-to-britain-10-things-
 http://www.bdfutbol.com/en/p/p.php?id=510946
 http://www.besoccer.com/new/the-best-moments-in-atletico-madrid-s-history
 http://www.besoccer.com/new/the-best-moments-in-atletico-madrid-s-history
+http://www.bethesdamagazine.com/Bethesda-Magazine/November-December-2008/Why-Do-Teen-Girls-Dress-the-Way-They-Do/
 http://www.betternovelproject.com/blog/withhold-information/
 http://www.bizjournals.com/sanjose/news/2012/04/16/best-buy-to-close-east-palo-alto-store.html
 http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html
@@ -1556,6 +1566,7 @@ http://www.d4dramas.com/watch-video-koffee-with-karan-13th-november-2016-full-ep
 http://www.d4dramas.com/watch-video-koffee-with-karan-13th-november-2016-full-episode-2/
 http://www.dailydock.com/autism-helped-messi-become-worlds-best/
 http://www.dailymail.co.uk/femail/article-2128446/Has-fashion-hit-rock-Designers-unfortunate-derriere-baring-dress-make-butt-jokes.html
+http://www.dailymail.co.uk/femail/article-3243803/Research-shows-men-attracted-women-early-20s-no-matter-old-get.html
 http://www.dailymail.co.uk/femail/article-3474468/Is-way-sleep-giving-wrinkles-bed-position-aging-avoid-waking-fine-lines.html
 http://www.dailymail.co.uk/femail/article-4032622/Women-reveal-prefer-man-touch-feminine-side.html
 http://www.dailymail.co.uk/health/article-1382217/Why-crave-junk-food-fruit-veg.html
@@ -1756,6 +1767,7 @@ http://www.geekwire.com/engineering-centers/
 http://www.geekyarticles.com/2011/08/manipulating-java-class-files-with-bcel_25.html
 http://www.gelato.unsw.edu.au/archives/git/0504/0598.html
 http://www.geologictrips.com/sf/sfttbaf.pdf
+http://www.gettyimages.com/detail/photo/studio-shot-of-young-pretty-woman-sitting-on-chair-royalty-free-image/129312039?esource=SEO_GIS_CDN_Redirect
 http://www.ghacks.net/2013/10/06/list-useful-google-chrome-command-line-switches/
 http://www.giarts.org/article/lets-put-word-%E2%80%98nonprofit%E2%80%99-out-business-excerpt
 http://www.girlsaskguys.com/fashion-style/q78368-are-short-girls-attractive
@@ -1820,6 +1832,7 @@ http://www.imaginaryplanet.net/weblogs/idiotprogrammer/wp-content/uploads/2014/0
 http://www.imdb.com/title/tt0383010/
 http://www.imdb.com/title/tt0529504/
 http://www.imdb.com/title/tt1632708/
+http://www.imdb.com/title/tt2072045/reviews
 http://www.imdb.com/title/tt2337576/
 http://www.imdb.com/title/tt3470600/
 http://www.imdb.com/title/tt4424318/
@@ -2008,6 +2021,7 @@ http://www.mercurynews.com/2013/11/15/jan-johnston-tyler-ceo-of-evolibri-on-help
 http://www.mercurynews.com/2017/01/09/san-jose-taqueria-fatal-shooting-victims-identified-by-authorities/
 http://www.merriam-webster.com/dictionary/fornicate
 http://www.merriam-webster.com/dictionary/masticate
+http://www.messynessychic.com/2012/05/11/documentary-suggests-pedophilia-might-not-be-that-bad-as-it-sounds/
 http://www.midfielddynamo.com/stadia/stadia_britain_closest.htm
 http://www.mindpub.com/art194.htm
 http://www.minterest.org/adblock-vs-adblock-plus/
@@ -2128,6 +2142,7 @@ http://www.pixellized.com/assets/cutting-rhythm.pdf
 http://www.playedinbritain.co.uk/books.php
 http://www.podbay.fm/show/749154884
 http://www.podbay.fm/show/749154884
+http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=20085290
 http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=49018254
 http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=54429702
 http://www.popcornlinux.org/
@@ -2184,6 +2199,7 @@ http://www.schoolandhousing.com/jsp/school_locator/schooldetail.jsp?id=551a3b36c
 http://www.scientificchess.com/articles/Biochemical%20Techniques%20in%20DNA%20Computing.pdf
 http://www.scooponthecity.com/scoop-on-football/real-madrids-strangest-sackings-of-managers
 http://www.scribblelive.com/blog/2014/10/15/uncover-best-story-tips-finding-narrative-data/
+http://www.scriptonitedaily.com/2014/07/08/paedophilia-is-natural-and-normal-for-males-heres-why-we-need-to-stop-calling-child-rapists-paedophiles/
 http://www.sdfonlinetester.info/#
 http://www.searchquotes.com/quotation/A_wise_man_is_superior_to_any_insults_which_can_be_put_upon_him%2C_and_the_best_reply_to_unseemly_beha/229333/
 http://www.searchquotes.com/search/Bad_Times_Wont_Last_Forever/
@@ -2849,6 +2865,7 @@ https://en.wikipedia.org/wiki/Actuality_film
 https://en.wikipedia.org/wiki/Administration_(British_football)#List_of_clubs_that_have_entered_administration
 https://en.wikipedia.org/wiki/African_American_Vernacular_English
 https://en.wikipedia.org/wiki/Agalmatophilia
+https://en.wikipedia.org/wiki/Age_disparity_in_sexual_relationships#Male_preference_for_younger_females
 https://en.wikipedia.org/wiki/AlltheWeb
 https://en.wikipedia.org/wiki/Andrew_Marr's_The_Making_of_Modern_Britain
 https://en.wikipedia.org/wiki/Applicative_programming_language
@@ -2908,6 +2925,7 @@ https://en.wikipedia.org/wiki/Economic_history_of_Spain#The_Franco_Era.2C_1939.E
 https://en.wikipedia.org/wiki/Economic_system
 https://en.wikipedia.org/wiki/Empty_calorie
 https://en.wikipedia.org/wiki/English_football_on_television#Rise_of_live_League_coverage
+https://en.wikipedia.org/wiki/Ephebophilia
 https://en.wikipedia.org/wiki/Equity_Residential
 https://en.wikipedia.org/wiki/Exclusionary_zoning
 https://en.wikipedia.org/wiki/Fiat_money
@@ -3558,6 +3576,7 @@ https://ubuntuforums.org/showthread.php?t=380660
 https://uk.answers.yahoo.com/question/index?qid=20070325144812AAAdyrx
 https://uk.answers.yahoo.com/question/index?qid=20100313123836AABPRRC
 https://uk.answers.yahoo.com/question/index?qid=20100313123836AABPRRC
+https://underarmour.scene7.com/is/image/Underarmour/170323_SPRNG_BRK_PRM_DP_G?fmt=jpg&wid=1200
 https://underdogorganic.com/menu/
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://upload.wikimedia.org/wikipedia/commons/f/f2/Stocks_and_Flows.svg
@@ -3821,6 +3840,7 @@ https://www.facebook.com/profile/picture/view/?profile_id=100004501207712
 https://www.facebook.com/profile/picture/view/?profile_id=100004501207712
 https://www.facebook.com/sara.besharati.10
 https://www.fanniemae.com/content/tool/occupancy-defect-guidelines.pdf
+https://www.fashionbase.com/outfits/53218f98e4b059301e217882/jennifer-lopez-wearing-christian-louboutin-and-j-brand.jpeg
 https://www.fastcodesign.com/3032807/why-england-has-the-best-wall-sockets-on-earth
 https://www.fastcompany.com/3014951/why-your-bittorrent-downloads-move-so-fast
 https://www.fastcompany.com/3016324/master-class/how-to-write-a-simpsons-episode-according-to-original-show-writer-al-jean
@@ -5161,6 +5181,7 @@ https://www.reddit.com/r/programming/comments/stz0n/my_satisfaction_with_git_no_
 https://www.reddit.com/r/shittyaskscience/comments/11xekg/is_asparagus_syndrome_genetic_or_herediatry/
 https://www.reddit.com/r/todayilearned/comments/1mdkxz/til_american_pronunciation_is_actually_closer_to/
 https://www.reddit.com/r/todayilearned/comments/4j9fj7/til_that_there_are_about_16_million_brazilians_of/
+https://www.reddit.com/r/youtubetitties/
 https://www.reference.com/art-literature/fox-sports-2-available-comcast-4c599f052d7b378e
 https://www.reindex.io/blog/you-might-not-need-underscore/
 https://www.researchgate.net/post/Is_SSI_single_system_image_dead_for_linux
