@@ -334,6 +334,7 @@ http://forums.liverpoolfc.com/threads/389121-If-Dalglish-had-stayed-from-1991-to
 http://forums.liverpoolfc.com/threads/389327-Stats-Fun-facts-thread?p=12460667&posted=1
 http://forums.liverpoolfc.com/threads/389330-Was-European-football-a-big-allure-for-players-back-in-the-80s
 http://forums.liverpoolfc.com/threads/389896-Jurgen-Klopp-and-his-Premier-League-scoreline-frequency-distribution
+http://forums.liverpoolfc.com/threads/390320-LFC-and-the-US-Brooks-Lennon-(longish-ramblings)
 http://forums.phoenixrising.me/index.php?threads/why-does-vitamin-d-make-me-so-tired.22694/
 http://forums.sega.com/showthread.php?51574-Why-is-the-Genesis-called-Genesis-instead-of-Megadrive
 http://forums.xfinity.com/t5/Email-Web-Browsing/Using-SMTP-mail-server-and-SMTP-relay/td-p/2053255
@@ -2811,6 +2812,7 @@ https://dzone.com/articles/google-guava-concurrency-%E2%80%93
 https://dzone.com/articles/javautilconcurrentfuture
 https://dzone.com/articles/lesser-known-git-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
+https://dzone.com/articles/unix-commands-dealing
 https://dzone.com/refcardz/jetty
 https://earth.stanford.edu/sites/default/files/San_Andreas_Fault_Trail.pdf
 https://eden.dei.uc.pt/~amilcar/pdf/CompilerInJava.pdf
@@ -4163,6 +4165,7 @@ https://www.google.com/search?q=book+on+monetizing+ideas&rlz=1CDGOYI_enUS590US59
 https://www.google.com/search?q=book+on+xmp+tag&rlz=1CDGOYI_enUS590US590&oq=book+on+xmp+tag&aqs=chrome..69i57.7115j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=book+photocopier&rlz=1CDGOYI_enUS590US590&oq=book+photocopi&aqs=chrome.1.69i57j0l3.6465j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=borrowing+fixed+rate+to+invest+in+stock&oq=borrowing+fixed+rate+to+invest+in+stock&aqs=chrome..69i57.7270j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=bought+a+present+for+someone+else+for+myself&oq=bought+a+present+for+someone+else+for+myself&aqs=chrome..69i57.7226j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=brain+plasticity&rlz=1CDGOYI_enUS590US590&oq=brain+plasticity&aqs=chrome..69i57j0j5j0.5604j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=brand+cohesion&oq=brand+cohesi&aqs=chrome.0.0j69i57j0l4.5843j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=brand+confidence+longevity&oq=brand+confidence+longevity&aqs=chrome..69i57.4155j0j7&sourceid=chrome&ie=UTF-8
