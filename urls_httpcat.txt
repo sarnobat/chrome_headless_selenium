@@ -191,6 +191,7 @@ http://chromlea.com/spanish/swear-words-extreme.php
 http://cipworldwide.org/curriculum/career-preparation/?gclid=CjwKEAiArvTFBRCLq5-7-MSJ0jMSJABHBvp0dbP8Vz6EUpl_mm2MqLNZzT0sid3c3K0-pn2Ye2vFvxoCja_w_wcB
 http://classroom.synonym.com/advantages-heap-sort-8553794.html
 http://cloudacademy.com/blog/aws-cli-10-useful-commands/
+http://coach.nine.com.au/2016/11/15/16/08/why-instagram-butt-is-actually-anterior-pelvic-tilt
 http://codegolf.stackexchange.com/questions/107937/war-is-peace-freedom-is-slavery-ignorance-is-strength
 http://codingautism.com/
 http://colgadosporelfutbol.com/los-cinco-mejores-entrenadores-de-la-historia-del-atletico-de-madrid/
@@ -2010,6 +2011,9 @@ http://www.marketriders.com/investing/learning-to-ignore-the-news/
 http://www.marketwatch.com/story/investing-boring-good-youre-doing-it-right-2013-05-02
 http://www.marketwatch.com/story/post-bankruptcy-sbarro-is-back-in-growth-mode-2015-10-05
 http://www.marketwatch.com/story/the-sp-500-index-is-not-your-buddy-2015-01-14
+http://www.marklogic.com/blog/rdbms-mismatch-modern-app-development/
+http://www.marklogic.com/blog/relational-databases-heterogeneous-data/
+http://www.marklogic.com/blog/relational-databases-scale/
 http://www.massagetoday.com/mpacms/mt/article.php?id=14152
 http://www.mathsnoproblem.co.uk/concrete-pictorial-abstract
 http://www.medbroadcast.com/drug/getdrug/buscopan
@@ -2463,6 +2467,7 @@ http://www.urbandictionary.com/define.php?term=disco
 http://www.urbandictionary.com/define.php?term=doggy%20style
 http://www.urbandictionary.com/define.php?term=fart%20box
 http://www.urbandictionary.com/define.php?term=fucktard
+http://www.urbandictionary.com/define.php?term=hazing
 http://www.urbandictionary.com/define.php?term=high+heels
 http://www.urbandictionary.com/define.php?term=hole+in+the+wall
 http://www.urbandictionary.com/define.php?term=hugger
@@ -2904,6 +2909,7 @@ https://en.wikipedia.org/wiki/Core_sample
 https://en.wikipedia.org/wiki/D3.js#Technical_principles
 https://en.wikipedia.org/wiki/DNA_computing
 https://en.wikipedia.org/wiki/Danny_Boffin
+https://en.wikipedia.org/wiki/Dark_web
 https://en.wikipedia.org/wiki/Data_dependency#Flow_dependency
 https://en.wikipedia.org/wiki/Dell#2016_merge_and_fate
 https://en.wikipedia.org/wiki/Dell_Technologies
@@ -3336,6 +3342,7 @@ https://news.ycombinator.com/item?id=13777077
 https://news.ycombinator.com/item?id=1782791
 https://news.ycombinator.com/item?id=2567186
 https://news.ycombinator.com/item?id=2932620
+https://news.ycombinator.com/item?id=859468
 https://news.ycombinator.com/item?id=9601748
 https://nfts.co.uk/our-courses/short-courses/factual#developing_and_pitching_documentaries
 https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/util/PriorityQueue.html
@@ -3428,6 +3435,7 @@ https://slackhq.com/give-opportunity-not-charity-the-case-for-neurodiversity-in-
 https://sleep.org/articles/man-vs-woman-sleep/
 https://softsolder.com/2009/03/08/extracting-digital-camera-multi-burst-images/
 https://softwareengineering.stackexchange.com/questions/124233/why-is-it-impossible-to-produce-truly-random-numbers
+https://softwareengineering.stackexchange.com/questions/194340/why-are-nosql-databases-more-scalable-than-sql
 https://softwareengineering.stackexchange.com/questions/254947/difference-between-a-heap-and-a-priority-queue
 https://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/
 https://soundcloud.com/newgenpodcast
@@ -4333,6 +4341,7 @@ https://www.google.com/search?q=importance+of+red+herrings+unpredictable&rlz=1CD
 https://www.google.com/search?q=inferiority+complex+around+girls&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=548&prmd=visn&ei=pTZ5WPrlA8mr0gLKsZ2YBQ&start=10&sa=N&dpr=2
 https://www.google.com/search?q=infinitely+countable+pattern&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgieuprvLRAhUD9GMKHb0FCsoQ_AUICCgB&biw=1285&bih=659#imgrc=gg7cExhwVv8RkM:
 https://www.google.com/search?q=init.d&oq=init.d&aqs=chrome..69i57j5j0l4.1110j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=insomnia+more+common+in+cities&oq=insomnia+more+common+in+cities&aqs=chrome..69i57.4296j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=integrity+preservation&rlz=1CDGOYI_enUS590US590&oq=integtity+preservat&aqs=chrome.1.69i57j0l3.15608j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=internet+persona&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpqOzohIHRAhXiqlQKHRG8BYsQ_AUICCgB&biw=1057&bih=780
 https://www.google.com/search?q=interstate+highway+system+documentary&rlz=1CDGOYI_enUS590US590&oq=interstate+higheay+system+dicunentsr&aqs=chrome.1.69i57j0.12318j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5262,6 +5271,7 @@ https://www.thescottishsun.co.uk/archives/news/47081/lockout-its-never-knockout/
 https://www.thespectrumcareers.com/
 https://www.thestreet.com/story/12667398/1/etfs-to-make-you-rich-during-a-market-crash.html
 https://www.thestreet.com/story/12676653/1/tech-coast-map--plots-southern-california-high-tech-community.html
+https://www.thestudentroom.co.uk/showthread.php?t=2548596
 https://www.thesun.co.uk/archives/news/369767/a-car-on-the-wrong-side-of-the-road-hit-us-at-90mph-killing-four-i-still-dont-know-how-im-here/
 https://www.thesun.co.uk/living/1616034/woman-checks-in-at-the-airport-wearing-what-appears-to-be-her-underwear/
 https://www.thesun.co.uk/sport/2935380/nikki-bella-wwe-wardrobe-malfunction-slip/

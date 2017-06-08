@@ -6300,3 +6300,13 @@ http://www.imdb.com/title/tt2072045/reviews :: Are All Men Pedophiles?  Reviews 
 http://forums.liverpoolfc.com/threads/390320-LFC-and-the-US-Brooks-Lennon-(longish-ramblings) ::  LFC and the US + Brooks Lennon (longish ramblings)
 https://dzone.com/articles/unix-commands-dealing :: (Could not determine)
 https://www.google.com/search?q=bought+a+present+for+someone+else+for+myself&oq=bought+a+present+for+someone+else+for+myself&aqs=chrome..69i57.7226j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: bought a present for someone else for myself - Google Search
+http://coach.nine.com.au/2016/11/15/16/08/why-instagram-butt-is-actually-anterior-pelvic-tilt :: (timeout)
+https://www.thestudentroom.co.uk/showthread.php?t=2548596 :: Girls, does your butt stick out when you wear dresses/skirts? - The Student Room
+http://www.urbandictionary.com/define.php?term=hazing :: Urban Dictionary: hazing
+http://www.marklogic.com/blog/rdbms-mismatch-modern-app-development/ :: RDBMS Are A Mismatch for Modern App Development | MarkLogic
+http://www.marklogic.com/blog/relational-databases-heterogeneous-data/ :: RDBMS Are Not Designed for Heterogeneous Data
+http://www.marklogic.com/blog/relational-databases-scale/ :: Relational Databases Are Not Designed For Scale | MarkLogic
+https://en.wikipedia.org/wiki/Dark_web :: Dark web - Wikipedia
+https://news.ycombinator.com/item?id=859468 :: SQL Databases Don't Scale | Hacker News
+https://softwareengineering.stackexchange.com/questions/194340/why-are-nosql-databases-more-scalable-than-sql :: why are noSQL databases more scalable than SQL? - Software Engineering Stack Exchange
+https://www.google.com/search?q=insomnia+more+common+in+cities&oq=insomnia+more+common+in+cities&aqs=chrome..69i57.4296j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: insomnia more common in cities - Google Search
