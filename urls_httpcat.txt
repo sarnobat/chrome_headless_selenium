@@ -2135,6 +2135,7 @@ http://www.paloaltoonline.com/news/2006/03/31/east-palo-alto-settles-condo-lawsu
 http://www.paloaltoonline.com/print/story/2015/01/30/real-estate-matters-palo-alto-property-a-long-term-cyclical-view
 http://www.pantaneto.co.uk/issue15/leon.htm
 http://www.paragon-re.com/Case_Shiller_Reflects_Accelerating_Home_Prices
+http://www.passportindia.gov.in/AppOnlineProject/online/pccOnlineApp
 http://www.pastordavidrn.com/files/Breasts.html
 http://www.pbs.org/city-in-the-sky/home/
 http://www.pbs.org/newshour/rundown/everything-need-know-wannacrypt-ransomware-attack/
@@ -2497,6 +2498,7 @@ http://www.urbandictionary.com/define.php?term=soccer&defid=1232057
 http://www.urbandictionary.com/define.php?term=socialist
 http://www.urbandictionary.com/define.php?term=southerner
 http://www.urbandictionary.com/define.php?term=sweet+16
+http://www.urbandictionary.com/define.php?term=tab%20dump
 http://www.urbandictionary.com/define.php?term=video%20selfie
 http://www.urbandictionary.com/define.php?term=voluptuous
 http://www.urbandictionary.com/tags.php?tag=pingers
@@ -3464,6 +3466,7 @@ https://spring.io/guides/gs/spring-boot/
 https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
 https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
+https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
@@ -4067,6 +4070,7 @@ https://www.google.com/search?num=40&q=list+of+cognitive+distortions&oq=list+of+
 https://www.google.com/search?num=40&q=muang+ton+thani+new+city&oq=muang+ton+thani+new+city&gs_l=serp.3..33i160k1.46504.47467.0.47708.9.8.0.0.0.0.107.751.5j3.8.0....0...1c.1.64.serp..1.8.748...0i22i30k1j33i21k1.477rdic44uQ
 https://www.google.com/search?num=40&q=narrative+plot+integrity&oq=narrative+plot+integrity&gs_l=serp.3...5055.5894.0.6086.5.5.0.0.0.0.96.440.5.5.0....0...1c.1.64.serp..0.3.280...0j0i7i30k1j0i30k1j0i8i7i30k1j30i10k1.usY-KqcMkjA
 https://www.google.com/search?num=40&q=netcat+receive+email+&oq=netcat+receive+email+&gs_l=serp.3..33i160k1.4055.7093.0.7390.15.15.0.0.0.0.118.1334.7j7.14.0.foo%2Ccfro%3D1%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-21%2Cnso-qnt-npdq%3D0-57%2Cnso-qnt-npt%3D0-16%2Cnso-qnt-ndc%3D400%2Ccspa-dspm-nm-mnp%3D0-08%2Ccspa-dspm-nm-mxp%3D0-2%2Cnso-unt-npqp%3D0-21%2Cnso-unt-npdq%3D0-35%2Cnso-unt-npt%3D0-1%2Cnso-unt-ndc%3D400%2Ccspa-uipm-nm-mnp%3D0-0125%2Ccspa-uipm-nm-mxp%3D0-0875...0...1.1.64.serp..2.5.468...30i10k1.VjiwvT2IE6A
+https://www.google.com/search?num=40&q=non+refundable+is+unethical&spell=1&sa=X&ved=0ahUKEwiO-qb2-K_UAhULS2MKHRp1BiYQvwUIJSgA&biw=1332&bih=703
 https://www.google.com/search?num=40&q=overpricing+gouging++causes+piracy&oq=overpricing+gouging++causes+piracy&gs_l=serp.3...16065.19326.0.19506.11.11.0.0.0.0.151.843.7j2.9.0....0...1.1.64.serp..2.0.0.K38J_c8WYWg
 https://www.google.com/search?num=40&q=powerwake+ERROR+%22Could+not+determine+the+MAC+address+of%22&oq=powerwake+ERROR+%22Could+not+determine+the+MAC+address+of%22&gs_l=serp.3..0i30k1.17840.20497.0.20801.6.6.0.0.0.0.175.719.0j5.5.0....0...1c.1.64.serp..1.4.596...0i22i30k1.ujqZGpXZuHM
 https://www.google.com/search?num=40&q=simpsons+narrative+techniques&oq=simpsons+narrative+techniques&gs_l=serp.3..33i21k1.6533.7617.0.7755.10.10.0.0.0.0.116.815.6j3.9.0....0...1.1.64.serp..1.9.814...0i22i30k1j33i160k1.e7H37nHyv8M
@@ -4919,6 +4923,7 @@ https://www.houstonpublicmedia.org/podcasts/engines-of-our-ingenuity/
 https://www.houstonpublicmedia.org/podcasts/engines-of-our-ingenuity/
 https://www.howtoforge.com/accessing_windows_or_samba_shares_using_autofs
 https://www.howtoforge.com/accessing_windows_or_samba_shares_using_autofs
+https://www.ibm.com/support/knowledgecenter/en/SSB27U_6.3.0/com.ibm.zvm.v630.dmse6/tabdump.htm
 https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shell_feat.htm
 https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shells.htm
 https://www.imagemagick.org/script/command-line-processing.php
@@ -5336,6 +5341,7 @@ https://www.w3.org/Talks/Tools/Slidy2/#(1)
 https://www.w3schools.com/css/css_rwd_viewport.asp
 https://www.w3schools.com/cssref/sel_attribute_value.asp
 https://www.w3schools.com/html/html5_draganddrop.asp
+https://www.w3schools.com/jsref/jsref_min.asp
 https://www.w3schools.com/tags/ref_urlencode.asp
 https://www.w3schools.com/tags/tag_mark.asp
 https://www.w3schools.com/w3css/w3css_mobile.asp
