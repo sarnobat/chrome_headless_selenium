@@ -6362,3 +6362,29 @@ https://www.meetup.com/Spiritually-minded-young-professionals/events/239989372/
 https://www.meetup.com/southbayfriends/events/240201005/
 https://www.meetup.com/getthegirl/
 https://www.quora.com/What-are-some-good-ways-for-an-Indian-guy-to-meet-Indian-girls-in-the-Bay-Area
+http://www.onjava.com/pub/a/onjava/2001/11/07/atomic.html?page=2
+https://commons.apache.org/proper/commons-transaction/
+https://commons.apache.org/proper/commons-transaction/file/index.html
+https://en.m.wikipedia.org/wiki/Memoization
+https://en.m.wikipedia.org/wiki/Persistent_data_structure
+https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
+https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
+https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java#
+https://www.google.com/search?q=java+transactional+file+system&rlz=1CDGOYI_enUS590US590&oq=java+transaction+fil&aqs=chrome.1.69i57j0l3j69i60.12543j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=Q0g6WYvwDZigjwPG_73ADg&q=atomic+file+operations+java&oq=atomic+file+op+java&gs_l=mobile-gws-serp.1.0.0i7i30k1j0i8i7i30k1.20251.20836.0.22229.3.3.0.0.0.0.634.779.0j1j5-1.2.0....0...1.1.64.mobile-gws-serp..2.1.145.HhCOsVSYDEY
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=x1Y6WbvtGoymjwOerbewDg&q=do+boys+wearing+football+pads+look+sexy&oq=do+boys+wearing+football+pads+look+sexy&gs_l=mobile-gws-serp.3...19964.23679.0.24788.9.9.0.0.0.0.869.1795.0j7j6-1.8.0....0...1.1.64.mobile-gws-serp..2.0.0.1LkgFRHyIKU
+https://audioboom.com/channels/4909224.rss
+http://www.imdb.com/title/tt6508408/
+https://en.wikipedia.org/wiki/David_Reimer#Documentaries
+https://www.youtube.com/results?q=water+purification+documentary&sp=EgIYAg%253D%253D
+http://www.ajha88.com/ExpandMind_Relaxation_CD.mp3
+https://en.wikipedia.org/wiki/Reverse_discrimination
+https://www.google.com/search?q=we+are+all+given+challenges+in+life&oq=we+are+all+given+challenges+in+life&aqs=chrome..69i57j69i64l3.3519j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://en.wikipedia.org/wiki/Longitudinal_study
+https://www.youtube.com/results?q=hypnosis+documentary
+https://www.eventshigh.com/bangalore/speed+dating
+https://www.youtube.com/results?search_query=emotions+documentary&page=&utm_source=opensearch
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   16349
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+

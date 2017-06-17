@@ -6362,3 +6362,29 @@ https://www.meetup.com/Spiritually-minded-young-professionals/events/239989372/ 
 https://www.meetup.com/southbayfriends/events/240201005/ :: yahoo
 https://www.meetup.com/getthegirl/ :: yahoo
 https://www.quora.com/What-are-some-good-ways-for-an-Indian-guy-to-meet-Indian-girls-in-the-Bay-Area :: What are some good ways for an Indian guy to meet Indian girls in the Bay Area? - Quora
+http://www.onjava.com/pub/a/onjava/2001/11/07/atomic.html?page=2 :: Atomic File Transactions, Part 1 - O'Reilly Media
+https://commons.apache.org/proper/commons-transaction/ :: (Could not determine)
+https://commons.apache.org/proper/commons-transaction/file/index.html :: (Could not determine)
+https://en.m.wikipedia.org/wiki/Memoization :: Memoization - Wikipedia
+https://en.m.wikipedia.org/wiki/Persistent_data_structure :: Persistent data structure - Wikipedia
+https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java :: Transaction mode for file operations in Java - Stack Overflow
+https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid :: java - Apache Transaction:write file transactionally - how to use resourceId - Stack Overflow
+https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java# :: Modifying existing file content in Java - Stack Overflow
+https://www.google.com/search?q=java+transactional+file+system&rlz=1CDGOYI_enUS590US590&oq=java+transaction+fil&aqs=chrome.1.69i57j0l3j69i60.12543j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: java transactional file system - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=Q0g6WYvwDZigjwPG_73ADg&q=atomic+file+operations+java&oq=atomic+file+op+java&gs_l=mobile-gws-serp.1.0.0i7i30k1j0i8i7i30k1.20251.20836.0.22229.3.3.0.0.0.0.634.779.0j1j5-1.2.0....0...1.1.64.mobile-gws-serp..2.1.145.HhCOsVSYDEY :: atomic file operations java - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=x1Y6WbvtGoymjwOerbewDg&q=do+boys+wearing+football+pads+look+sexy&oq=do+boys+wearing+football+pads+look+sexy&gs_l=mobile-gws-serp.3...19964.23679.0.24788.9.9.0.0.0.0.869.1795.0j7j6-1.8.0....0...1.1.64.mobile-gws-serp..2.0.0.1LkgFRHyIKU :: do boys wearing football pads look sexy - Google Search
+https://audioboom.com/channels/4909224.rss :: (Could not determine)
+http://www.imdb.com/title/tt6508408/ :: Gender Revolution (TV Movie 2017) - IMDb
+https://en.wikipedia.org/wiki/David_Reimer#Documentaries :: David Reimer - Wikipedia
+https://www.youtube.com/results?q=water+purification+documentary&sp=EgIYAg%253D%253D :: water purification documentary - YouTube
+http://www.ajha88.com/ExpandMind_Relaxation_CD.mp3 :: (Could not determine)
+https://en.wikipedia.org/wiki/Reverse_discrimination :: Reverse discrimination - Wikipedia
+https://www.google.com/search?q=we+are+all+given+challenges+in+life&oq=we+are+all+given+challenges+in+life&aqs=chrome..69i57j69i64l3.3519j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: we are all given challenges in life - Google Search
+https://en.wikipedia.org/wiki/Longitudinal_study :: Longitudinal study - Wikipedia
+https://www.youtube.com/results?q=hypnosis+documentary :: hypnosis documentary - YouTube
+https://www.eventshigh.com/bangalore/speed+dating :: Speed Dating In Bangalore - Events, Tickets, Parties And Nightlife &amp; Dating - Events High
+https://www.youtube.com/results?search_query=emotions+documentary&page=&utm_source=opensearch :: emotions documentary - YouTube
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   16349
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+

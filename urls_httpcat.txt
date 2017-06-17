@@ -1276,6 +1276,7 @@ http://www.afterbuzztv.com/afterbuzz-tv-all-shows/making-their-way-to-the-ring-w
 http://www.agilearts.nl/tasty-test-tip-using-argumentcaptor-for-generic-collections-with-mockito/
 http://www.airlineticket-center.com/airlines/air-india-non-stop-flight/from-los-angeles-to-delhi/
 http://www.aish.com/sp/dl/46123197.html
+http://www.ajha88.com/ExpandMind_Relaxation_CD.mp3
 http://www.al-raqi.net/showthread.php?t=132149
 http://www.alexlowery.co.uk/national-autistic-society-dont-write-me-off-campaign/
 http://www.allreadable.com/f249IOav
@@ -1853,6 +1854,7 @@ http://www.imdb.com/title/tt3470600/
 http://www.imdb.com/title/tt4424318/
 http://www.imdb.com/title/tt4898282/
 http://www.imdb.com/title/tt4981636/
+http://www.imdb.com/title/tt6508408/
 http://www.imgdrive.net/img-584fd1b3d5b94.html
 http://www.immihelp.com/forum/archive/index.php/t-20754.html
 http://www.immihelp.com/nri/indianpassport/change-date-place-of-birth.html
@@ -2137,6 +2139,7 @@ http://www.ofx.net/downloads/OFX%202.2.pdf
 http://www.ofxhome.com/index.php/home/directory
 http://www.olivetreegenealogy.com/ships/tousa1600-1630.shtml
 http://www.omgchrome.com/extension-to-stop-chromebook-sleeping/
+http://www.onjava.com/pub/a/onjava/2001/11/07/atomic.html?page=2
 http://www.opentable.com/promo.aspx?pid=1&m=4
 http://www.organizeit.com/
 http://www.outsider-mag.fr/wp-content/uploads/2016/05/Ben-Barek-2.jpeg
@@ -2654,6 +2657,7 @@ https://askubuntu.com/questions/851749/error-no-such-device-grub-rescue/851771
 https://assetbuilder.com/knowledge-center/articles/competition-has-eliminated-brokerage-commissions
 https://audioboom.com/channel/jim-cornette-s-drive-thru
 https://audioboom.com/channels/4859238.rss
+https://audioboom.com/channels/4909224.rss
 https://aws.amazon.com/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/
 https://aws.amazon.com/developers/getting-started/browser/
 https://aws.amazon.com/efs/?p=tile
@@ -2776,6 +2780,8 @@ https://coderwall.com/p/h-tzia/quickly-test-an-imap-server-with-telnet
 https://colab.coop/blog/how-to-start-flowing-with-flow-based-programming/
 https://commons.apache.org/proper/commons-collections/javadocs/api-3.2.2/org/apache/commons/collections/buffer/CircularFifoBuffer.html
 https://commons.apache.org/proper/commons-collections/javadocs/api-3.2.2/org/apache/commons/collections/buffer/CircularFifoBuffer.html
+https://commons.apache.org/proper/commons-transaction/
+https://commons.apache.org/proper/commons-transaction/file/index.html
 https://communities.intel.com/thread/46549
 https://communities.intel.com/thread/48120
 https://community.sigames.com/topic/185757-fm11-club-atletico-de-madrid-the-quotsuper-championsquot-of-europe/
@@ -2871,10 +2877,12 @@ https://en.m.wikipedia.org/wiki/List_of_Metropolitan_Statistical_Areas
 https://en.m.wikipedia.org/wiki/List_of_United_States_cities_by_population
 https://en.m.wikipedia.org/wiki/List_of_independent_wrestling_promotions_in_the_United_States#California
 https://en.m.wikipedia.org/wiki/List_of_land-grant_universities
+https://en.m.wikipedia.org/wiki/Memoization
 https://en.m.wikipedia.org/wiki/Mercator_projection
 https://en.m.wikipedia.org/wiki/Money_for_Nothing:_Inside_the_Federal_Reserve
 https://en.m.wikipedia.org/wiki/Newsreel
 https://en.m.wikipedia.org/wiki/North_American_Soccer_League_(1968%E2%80%9384)
+https://en.m.wikipedia.org/wiki/Persistent_data_structure
 https://en.m.wikipedia.org/wiki/Polyandry
 https://en.m.wikipedia.org/wiki/Pop_(U.S._TV_network)
 https://en.m.wikipedia.org/wiki/Pretty_Good_Privacy#PGP_Corporation_encryption_applications
@@ -2936,6 +2944,7 @@ https://en.wikipedia.org/wiki/DNA_computing
 https://en.wikipedia.org/wiki/Danny_Boffin
 https://en.wikipedia.org/wiki/Dark_web
 https://en.wikipedia.org/wiki/Data_dependency#Flow_dependency
+https://en.wikipedia.org/wiki/David_Reimer#Documentaries
 https://en.wikipedia.org/wiki/Dell#2016_merge_and_fate
 https://en.wikipedia.org/wiki/Dell_Technologies
 https://en.wikipedia.org/wiki/Deuterium
@@ -3027,6 +3036,7 @@ https://en.wikipedia.org/wiki/List_of_world_expositions
 https://en.wikipedia.org/wiki/Lists_of_companies
 https://en.wikipedia.org/wiki/Little_Ice_Age
 https://en.wikipedia.org/wiki/Long-form_journalism
+https://en.wikipedia.org/wiki/Longitudinal_study
 https://en.wikipedia.org/wiki/Lunch_atop_a_Skyscraper
 https://en.wikipedia.org/wiki/Martial_law
 https://en.wikipedia.org/wiki/Maunder_Minimum
@@ -3064,6 +3074,7 @@ https://en.wikipedia.org/wiki/Racing_Club_de_France_football_Colombes_92
 https://en.wikipedia.org/wiki/Ram%C3%B3n_de_Carranza_Trophy
 https://en.wikipedia.org/wiki/Ray_Kurzweil
 https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
+https://en.wikipedia.org/wiki/Reverse_discrimination
 https://en.wikipedia.org/wiki/River_Thames_frost_fairs
 https://en.wikipedia.org/wiki/SRI_International
 https://en.wikipedia.org/wiki/Schadenfreude
@@ -3484,6 +3495,7 @@ https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
 https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
 https://stackoverflow.com/questions/1187518/javascript-array-difference
+https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
@@ -3491,9 +3503,11 @@ https://stackoverflow.com/questions/2644179/accenture-interview-question-find-th
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
+https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/7967918/illegal-string-body-character-after-dollar-sign
+https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java#
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
 https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/
@@ -3862,6 +3876,7 @@ https://www.entrepreneur.com/video/234692
 https://www.eventbrite.com/d/ca--san-jose/christmas-concert/
 https://www.eventbrite.com/e/how-weird-2017-tickets-32056243086
 https://www.eventbrite.com/e/thinking-positive-about-the-future-for-young-adults-with-autism-ld-berkeley-ca-registration-31295240908
+https://www.eventshigh.com/bangalore/speed+dating
 https://www.excelsior-usa.com/articles/java-to-exe.html
 https://www.facebook.com/ATLETINY/videos/1619625008065050/
 https://www.facebook.com/MeddyBear.Net/photos/a.923158111136797.1073741894.188144997971449/923157851136823/?type=3&theater
@@ -4405,6 +4420,7 @@ https://www.google.com/search?q=is+twitter+undervalued&rlz=1CDGOYI_enUS590US590&
 https://www.google.com/search?q=is+vbinx+a+good+investment&oq=is+vbinx+a+&aqs=chrome.0.0j69i57j69i64.2339j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+viagara+available+over+the+counter+in+india&rlz=1CDGOYI_enUS590US590&oq=is+viagara+available+over+the+counter+in+india&aqs=chrome..69i57j0l2.9115j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=java+aot+compiler+linux&rlz=1CDGOYI_enUS590US590&oq=java+aot&aqs=chrome.3.69i57j0l3.5582j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=java+transactional+file+system&rlz=1CDGOYI_enUS590US590&oq=java+transaction+fil&aqs=chrome.1.69i57j0l3j69i60.12543j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=java+transpiler&rlz=1CDGOYI_enUS590US590&oq=java+transpil&aqs=chrome.1.69i57j0l3.11216j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=job+carving+aspergers&rlz=1CDGOYI_enUS590US590&oq=job+carving+aspergers&aqs=chrome..69i57.8639j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=jordyn+jones+hot&tbm=isch&tbs=rimg:CawSs8NjRYR5IjgI7K53_1By1iwjxbyBTbWoNqQMbsJYS091Nyzm6Mg4S-1D9zgZ0rArtMuQMLwk3y1dYq_1GpLCBaMSoSCQjsrnf8HLWLEXz6wEl8FSNRKhIJCPFvIFNtag0RqzHi3RhxGBAqEgmpAxuwlhLT3RHBdPXRLHGxkSoSCU3LOboyDhL7EdWrPxGQ7PnEKhIJUP3OBnSsCu0RHqXnwjNwOswqEgky5AwvCTfLVxFfSTYCYYP-OioSCVir8aksIFoxEQEBVPtd8qy9&tbo=u
@@ -4572,6 +4588,7 @@ https://www.google.com/search?q=vim+java+formatter+script&rlz=1CDGOYI_enUS590US5
 https://www.google.com/search?q=vim+server+mode&rlz=1CDGOYI_enUS590US590&oq=vim+server&aqs=chrome.1.69i57j0l3.4203j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=visual+storytelling&rlz=1CDGOYI_enUS590US590&oq=visual+story&aqs=chrome.1.69i57j0l3.5721j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=visualize+higher+dimensional+space&rlz=1CDGOYI_enUS590US590&oq=visualize+higher+dimensional+space&aqs=chrome..69i57.9472j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=we+are+all+given+challenges+in+life&oq=we+are+all+given+challenges+in+life&aqs=chrome..69i57j69i64l3.3519j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=web+server+text+editor&rlz=1CDGOYI_enUS590US590&oq=tect+editir+web+ser&aqs=chrome.1.69i57j0.8520j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=welfare+capitalism+vs+shareholder+capitalism&oq=welfare+capitalism+vs+shareholder+capitalism&aqs=chrome..69i57.5982j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=what+came+before+cable+tv&rlz=1CDGOYI_enUS590US590&oq=what+came+before+cabl&aqs=chrome.1.69i57j0.8430j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4672,6 +4689,7 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=JOnlWO_TLs6Cj
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=LefuWLntDoSsjwO54J-ABw&q=rpo+refusing+to+correct+passport+india+modi&oq=rpo+refusing+to+correct+passport+india+modi&gs_l=mobile-gws-serp.3..33i160k1l2.242587.244651.0.245282.6.6.0.0.0.0.383.1330.0j2j1j2.5.0....0...1.1.64.mobile-gws-serp..1.4.1011.ON_inl78O4Q
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=MNFVWKO8LMzOjwPXmK2ICQ&q=maritime+museum+sf&oq=maritime+museum+&gs_l=mobile-gws-serp.1.0.0i20k1j0l4.10619.15757.0.16650.9.9.0.5.5.0.626.1999.0j5j5-2.7.0....0...1c.1.64.mobile-gws-serp..1.8.556...0i20i46k1j46i20k1j0i67k1.RQEoNVWJvFo
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=PAZ7WMWUHM-qjQOCvpjwBw&q=retail+location+strategies+highways+gas+stations&oq=retail+location+strategies+highways+gas+stations&gs_l=mobile-gws-serp.3...76778.77372.0.78085.9.7.0.0.0.0.372.1801.2-3j3.6.0.foo%2Ccfro%3D1%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-21%2Cnso-qnt-npdq%3D0-57%2Cnso-qnt-npt%3D0-16%2Cnso-qnt-ndc%3D400%2Ccspa-dspm-nm-mnp%3D0-08%2Ccspa-dspm-nm-mxp%3D0-2%2Cnso-unt-npqp%3D0-21%2Cnso-unt-npdq%3D0-35%2Cnso-unt-npt%3D0-1%2Cnso-unt-ndc%3D400%2Ccspa-uipm-nm-mnp%3D0-0125%2Ccspa-uipm-nm-mxp%3D0-0875...0...1.1.64.mobile-gws-serp..8.0.0.le95PrnhxJw
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=Q0g6WYvwDZigjwPG_73ADg&q=atomic+file+operations+java&oq=atomic+file+op+java&gs_l=mobile-gws-serp.1.0.0i7i30k1j0i8i7i30k1.20251.20836.0.22229.3.3.0.0.0.0.634.779.0j1j5-1.2.0....0...1.1.64.mobile-gws-serp..2.1.145.HhCOsVSYDEY
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=QYVUWLWnHMqc0wLkz5TgCA&q=ishares+british+pound+etf&oq=ishares+british+pound+etf&gs_l=mobile-gws-serp.3...14454.16547.0.17271.7.7.0.0.0.0.457.1395.0j4j1j0j1.6.0....0...1c.1.64.mobile-gws-serp..2.2.454...30i10k1.wFo9TOhP7fI
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=RXKWWMWjGYSajwPj9IPwBw&q=invest+in+an+apartment+complex&oq=invest+in+an+apartment+complex&gs_l=mobile-gws-serp.3..0i22i30k1l2.39773.51286.0.51516.49.40.9.0.0.0.335.8415.0j17j19j3.39.0....0...1c.1.64.mobile-gws-serp..10.39.6239...0j35i39k1j0i67k1j0i20k1j0i13i5i30k1j33i22i29i30k1j0i13k1j0i13i30k1.3mkZI9yndQk
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=RkbnWPmwMdfgjwO4t6vgBQ&q=oauth+dance+command+line&oq=oauth+dance+command+line&gs_l=mobile-gws-serp.3...42866.46326.0.47096.7.7.0.0.0.0.158.815.0j6.6.0....0...1.1.64.mobile-gws-serp..1.5.669...35i39k1j0i8i7i30k1j0i13i30k1j0i13i5i30k1j30i10k1.pEb5ypSmSno
@@ -4702,6 +4720,7 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=sGgWWdWiEIOYj
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=u-McWfftF4KD0wLy_rrACA&q=rise+and+fall+tv+trope&oq=rise+and+fall+tv+trope&gs_l=mobile-gws-serp.3..33i22i29i30k1.49428.55250.0.56037.14.14.0.0.0.0.509.3512.0j1j11j5-1.13.0....0...1.1.64.mobile-gws-serp..2.12.3242...0j35i39k1j0i22i30k1j0i67k1.z68-GWPPXwk
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=uBulWL6bB8mS0gKt44XIAw&q=event+sourcing+easy+undo&oq=event+sourcing+easy+undo&gs_l=mobile-gws-serp.3..33i22i29i30k1j33i13i21k1.2669.3221.0.3878.3.3.0.0.0.0.258.410.0j1j1.2.0....0...1c.1.64.mobile-gws-serp..1.2.410.4zxEYoPJXcU
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=vswPWaOsMomM0wLrpJagAg&q=neapolitan+pizza+bellevue&oq=neapolitan+pizza+bell&gs_l=mobile-gws-serp.1.0.0l3j0i22i30k1.24987.26495.0.27905.6.6.0.0.0.0.354.1162.0j3j0j2.5.0....0...1c.1.64.mobile-gws-serp..1.5.1160...0i67k1.UFNtojySzP8#fid=0x54906db088b086df:0x9f4b57aba0fdeac8&fpstate=luuv&imagekey=!1e3!2s-8Zj4nLmKxDQ/WFdXdpKVSkI/AAAAAAAApcQ/mpqwuE4mzXk-ZsW4LsPo1YAHxH2vrRquQCLIB&spf=123&viewerState=ga
+https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=x1Y6WbvtGoymjwOerbewDg&q=do+boys+wearing+football+pads+look+sexy&oq=do+boys+wearing+football+pads+look+sexy&gs_l=mobile-gws-serp.3...19964.23679.0.24788.9.9.0.0.0.0.869.1795.0j7j6-1.8.0....0...1.1.64.mobile-gws-serp..2.0.0.1LkgFRHyIKU
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&ei=ybleWLGNHIWC0wLNnbKYDA&q=upselling+infomercial+freemium+%22in+the+door%22+funnel&oq=upselling+infomercial+freemium+%22in+the+door%22+funnel&gs_l=mobile-gws-serp.3...3311.6078.0.7363.8.8.0.0.0.0.428.1735.0j2j4j0j1.7.0....0...1c.1.64.mobile-gws-serp..1.5.1330...33i160k1j33i21k1.6Q0fMx9W8vU
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=51+49+split&sa=X&ved=0ahUKEwjA-LK4sZjSAhVU8WMKHQD1ALAQ1QIIPSgH&biw=320&bih=492
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=airline+economics&spell=1&sa=X&ved=0ahUKEwjX4Ki_l43RAhUGwFQKHfThAxYQvwUIFigA&biw=320&bih=492
@@ -5421,15 +5440,18 @@ https://www.youtube.com/results?q=gentrification+documentary&sm=1&app=desktop
 https://www.youtube.com/results?q=history+of+broadcasting&sp=EgIYAg%253D%253D
 https://www.youtube.com/results?q=history+of+the+potato+chip+saratoga+springs&sp=EgIYAg%253D%253D
 https://www.youtube.com/results?q=howstuffworks+garbage+recycling&sm=3&app=desktop
+https://www.youtube.com/results?q=hypnosis+documentary
 https://www.youtube.com/results?q=social+capital+documentary&sp=EgIYAg%253D%253D
 https://www.youtube.com/results?q=telegraphy+in+banking&sp=EgIYAkgU6gMA
 https://www.youtube.com/results?q=waste+management+documentary&sp=EgQQARgC
+https://www.youtube.com/results?q=water+purification+documentary&sp=EgIYAg%253D%253D
 https://www.youtube.com/results?search_query=Natalee+Holloway&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=Project+FEDcoin
 https://www.youtube.com/results?search_query=capital+asset+pricing+model&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=cow+palace+royale+cody
 https://www.youtube.com/results?search_query=economic+systems&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=economy+documentary&page=&utm_source=opensearch
+https://www.youtube.com/results?search_query=emotions+documentary&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=etf+construction&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=euro+2016+all+the+goals&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=french+empire+documentary&page=&utm_source=opensearch
