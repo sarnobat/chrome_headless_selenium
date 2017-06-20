@@ -372,6 +372,7 @@ http://googlemapsmania.blogspot.com/2017/04/30-years-of-simpsons.html?m=1
 http://googlemapsmania.blogspot.com/2017/04/the-diversity-map-of-united-states.html?m=1
 http://gothamist.com/2013/11/06/a_closer_look_at_the_statue_of_libe.php
 http://graphicmaniacs.com/note/send-simple-http-request-with-wget-curl-telnet-and-netcat/
+http://graphs.grevian.org/example
 http://greyenlightenment.com/real-estate-palo-alto-vs-everywhere-else/
 http://grist.org/article/disposable-everything-really-everything/
 http://gritorojiblanco.blogspot.com/
@@ -1065,6 +1066,7 @@ http://swissramble.blogspot.com/2012/08/atletico-madrid-its-mad-world.html
 http://syntagmatic.github.io/parallel-coordinates/
 http://t0.gstatic.com/images?q=tbn:ANd9GcQ0uWcRq9w2Ed7P_sZ34Lh-myFF1sCytnGxSzCokF_un9W04skl
 http://talesfromtheargo.com/uk-film-schools/
+http://talksport.com/football/premier-league-club-partnerships-revealed-chelsea-arsenal-liverpool-man-united-and-more
 http://talksport.com/football/premier-league/fixtures
 http://talnexus.com/apollo-workshop/
 http://tannerlectures.utah.edu/_documents/a-to-z/s/sandel00.pdf
@@ -1088,18 +1090,23 @@ http://theinsidechannel.com/understanding-antoine-griezmanns-role-atletico-madri
 http://theleakyboob.com/tag/how-we-view-breasts-shapes-us/
 http://thelinuxworks.blogspot.com/2017/03/how-things-work-today-or-joys-of.html
 http://thesefootballtimes.co/2015/01/15/parma-and-the-parmalat-scandal/
+http://thesefootballtimes.co/2015/05/20/a-tale-of-one-city-rome/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
 http://thesefootballtimes.co/2016/07/04/investigating-the-origins-of-cholismo/
 http://thesefootballtimes.co/2016/08/25/fc-fidel-when-cuba-joined-the-german-fourth-tier/
 http://thesefootballtimes.co/2016/10/20/jesus-gil-and-the-story-of-spanish-footballs-own-donald-trump/
+http://thesefootballtimes.co/2016/11/01/the-roman-revival-of-lazio-and-as-roma-at-the-turn-of-the-21st-century/
 http://thesefootballtimes.co/2016/11/22/the-insatiable-rise-of-parma-in-the-1990s/
+http://thesefootballtimes.co/2016/12/16/denilson-and-the-mercurial-talent-of-a-lost-legend/
 http://thesefootballtimes.co/2017/01/08/diego-godin-and-the-story-of-footballs-ultimate-survivor/
 http://thesefootballtimes.co/2017/03/22/the-kidnap-of-quini-in-1981-one-of-spains-finest-goalscorers/
 http://thesefootballtimes.co/2017/03/30/preben-elkjaer-the-last-great-maverick-of-world-football/
 http://thesefootballtimes.co/2017/04/21/quique-setien-the-tinkering-innovator-using-chess-to-improve-his-football/
 http://thesefootballtimes.co/2017/06/08/pierre-littbarski-german-footballs-glorious-anomaly/
 http://thesefootballtimes.co/2017/06/13/dejan-savicevic-the-outsider-still-fighting-for-recognition/
+http://thesefootballtimes.co/2017/06/18/a-season-of-torment-alessio-cerci-and-ciro-immobile-at-torino/
+http://thesefootballtimes.co/2017/06/18/diego-ribas-the-other-half-of-a-double-act-once-destined-for-greatness/
 http://thesnugglebuddies.com/female-snugglers-6/#ca
 http://thespanishfootballpodcast.libsyn.com/rss
 http://thewellnessdigest.com/flexor-digitorum-longus-muscle-foot-and-toe-pain/
@@ -1358,6 +1365,7 @@ http://www.bankrate.com/finance/home-equity/heloc-draw-period-ending-what-to-do.
 http://www.bankrate.com/financing/investing/borrowing-to-invest-in-the-market/
 http://www.barnesandnoble.com/blog/7-reasons-books-are-better-than-tv/
 http://www.barrons.com/articles/betting-on-the-cloud-tech-stocks-to-snap-up-now-1480418390
+http://www.bashguru.com/2010/04/how-to-handle-cursor-movement-in-shell.html
 http://www.bbc.co.uk/academy/page/courses
 http://www.bbc.co.uk/academy/page/courses
 http://www.bbc.co.uk/academy/production/article/art20130702112135364
@@ -1377,6 +1385,7 @@ http://www.bbc.co.uk/programmes/b07g70j1
 http://www.bbc.co.uk/programmes/b07g70j1/episodes/guide
 http://www.bbc.co.uk/programmes/p02p9f7d/episodes/downloads.rss
 http://www.bbc.co.uk/programmes/p04ht73b
+http://www.bbc.co.uk/programmes/p05593y9
 http://www.bbc.co.uk/programmes/w0006q4f/episodes/guide
 http://www.bbc.com/capital/story/20160106-model-employee-are-autistic-individuals-the-best-workers-around
 http://www.bbc.com/culture/story/20151109-english-speakers-or-not-brits-and-americans-swear-in-different-languages
@@ -1675,6 +1684,7 @@ http://www.drdobbs.com/rdb-a-unix-command-line-database/199101326
 http://www.dreyfussir.com/eng/sales/palo-alto-ca-usa/price-low-sort/0-2000000-price
 http://www.ebay.co.uk/itm/ATLETICO-MADRID-SPAIN-COSMOS-NUEVA-YORK-HOMENAJE-TRIBUTE-LUIS-ARAGONES-1978-/252750355804
 http://www.ebay.com/itm/162016867552
+http://www.ebay.com/itm/AZ3-VHS-PAL-VIDEO-MOVIE-NOT-DVD-THE-ROAD-TO-AMERICA-SOCCER-FOOTBALL-IRELAND/112267342462
 http://www.ebay.com/sch/i.html?_odkw=metro+chrome+wire+shelving+posts&_osacat=12576&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xmetro+chrome+wire+.TRS0&_nkw=metro+chrome+wire+&_sacat=12576
 http://www.eclipse.org/proposals/dash/html/maintopic.html
 http://www.eclipse.org/tycho/
@@ -1834,6 +1844,7 @@ http://www.hexjam.com/uk/news/snapchat-take-a-secret-screenshot-without-the-othe
 http://www.himalayan-kitchen.com/menu.html
 http://www.history.com/topics/u-s-immigration-before-1965
 http://www.hlri.org/properties
+http://www.hollywoodhomestead.com/magnesium-over-melatonin-to-induce-sleep/
 http://www.hookingupsmart.com/2009/10/19/relationshipstrategies/dont-be-too-perfect-it-scares-the-men/
 http://www.hostingprimer.com/ssi/
 http://www.hotstar.com/tv/koffee-with-karan/1525/akshay-kumar-twinkle-khanna/1000157392
@@ -2179,6 +2190,8 @@ http://www.pentaho.com/sites/default/files/uploads/resources/oreilly-ebook-desig
 http://www.perlmonks.org/?node_id=324749
 http://www.petful.com/behaviors/male-cats-versus-female-cats/
 http://www.petmd.com/blogs/fullyvetted/2010/dec/cold_is_too_cold-10570
+http://www.phqscreeners.com/sites/g/files/g10016261/f/201412/PHQ-9_English.pdf
+http://www.pichunter.com/gallery/2339704/From_her_big_natural_indian#10
 http://www.pichunter.com/gallery/2801006/Sexy_Blonde_Gets_Her_Dress#&gid=1&pid=1
 http://www.pictaram.com/user/vanditarohid/187457548/379008900200388416_187457548
 http://www.pinkteenpussy.net/Kamilla18/24/2.jpeg
@@ -2606,6 +2619,7 @@ http://www.xconomy.com/seattle/2015/12/02/new-map-shows-expanding-seattle-tech-u
 http://www.xtratime.org/forum/156-world-football/222848-autistic-players.html
 http://www.xtratime.org/forum/266-atletico-madrid/
 http://www.xvideos.com/video23557170/poonam_pandey_playing_rock_paper_scissor_got_high
+http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/
 http://www.yolinux.com/TUTORIALS/BashShellCgi.html
 http://www.yorkshirepost.co.uk/sport/football/leeds-united/sheffield-wednesday-6-leeds-united-0-wednesday-wipe-out-22-years-of-hurt-with-destruction-of-leeds-1-6368579
 http://www.youbeauty.com/fitness/ask-a-scientist-men-and-butts/
@@ -2622,6 +2636,7 @@ http://www.zillow.com/east-palo-alto-ca/home-values/
 http://www.zillow.com/research/data/
 http://xmodulo.com/mail-server-ubuntu-debian.html
 http://zoartphotography.zenfolio.com/p92818710/h2260785b#h3f939fa1
+http://zoartphotography.zenfolio.com/studentshow3
 http://zsh.sourceforge.net/Doc/Release/User-Contributions.html
 https://1fiafzs.oloadcdn.net/dl/l/0L6bqrE5FF7jDeRx/9jz1dng1g_E/ITV.mp4?mime=true
 https://9to5mac.com/2016/10/28/apple-standalone-displays/
@@ -2674,6 +2689,7 @@ https://arialdomartini.wordpress.com/2011/10/10/event-sourcing-and-git/
 https://arstechnica.com/information-technology/2016/07/stack-overflow-brings-its-gamified-peer-support-to-documentation/
 https://article.wn.com/view/2016/07/23/We_start_the_friendly_games_with_the_Jesus_Gil_y_Gil_Memoria/
 https://askjan.org/
+https://askjan.org/media/ASD.html
 https://askubuntu.com/questions/243435/not-able-to-understand-and-map-output-of-proc-net-tcp
 https://askubuntu.com/questions/55352/convert-library-of-wma-tracks-to-mp3s
 https://askubuntu.com/questions/568277/how-do-i-get-past-the-libc-dependency-issues-on-12-04
@@ -2863,6 +2879,7 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/self-contained-pac
 https://docs.python.org/3.1/library/getopt.html
 https://drfone.wondershare.com/notes/iphone-notes-duplicate.html
 https://drhurd.com/2012/07/23/what-makes-a-snob/
+https://drscdn.500px.org/photo/120955189/m%3D900/5847e96683c46e52506c16869e6ba635
 https://drscdn.500px.org/photo/49504796/q=80_m=2000/f28512eb79ce757879c4dd480e934b28
 https://duenablomstrom.com/2015/08/03/everythings-a-brand-everything-but-a-bank/
 https://dzone.com/articles/a-detailed-breakdown-of-the-jvm?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
@@ -3057,6 +3074,7 @@ https://en.wikipedia.org/wiki/List_of_accidents_involving_sports_teams
 https://en.wikipedia.org/wiki/List_of_association_football_families
 https://en.wikipedia.org/wiki/List_of_defunct_restaurants_of_the_United_States
 https://en.wikipedia.org/wiki/List_of_defunct_retailers_of_the_United_States
+https://en.wikipedia.org/wiki/List_of_feeder_teams_in_football
 https://en.wikipedia.org/wiki/List_of_film_schools_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_former_English_Football_League_clubs
 https://en.wikipedia.org/wiki/List_of_international_call_prefixes#Example
@@ -3442,6 +3460,7 @@ https://perishablepress.com/the-5-minute-css-mobile-makeover/
 https://personal.vanguard.com/us/funds/snapshot?FundId=0854&FundIntExt=INT
 https://personal.vanguard.com/us/funds/snapshot?FundId=0854&FundIntExt=INT
 https://personal.vanguard.com/us/funds/snapshot?FundIntExt=INT&FundId=5861
+https://ph.answers.yahoo.com/question/index?qid=20160411144148AAlHeeB
 https://photography.tutsplus.com/courses/producing-great-video/lessons/music-spotting-and-edits
 https://pitacodogringo.wordpress.com/2008/01/30/viola-i-dont-like-gringos-allegedly/
 https://player.fm/series/the-bbc-academy-podcast/how-to-create-stories-with-sound
@@ -5384,6 +5403,7 @@ https://www.theguardian.com/business/2015/apr/19/the-innovators-matching-autisti
 https://www.theguardian.com/environment/earth-insight/2014/mar/20/iraq-war-oil-resources-energy-peak-scarcity-economy
 https://www.theguardian.com/football/2005/dec/19/europeanfootball.sport1
 https://www.theguardian.com/football/2008/oct/28/premierleague-tottenhamhotspur1
+https://www.theguardian.com/football/2011/feb/04/roma-fenway-sports
 https://www.theguardian.com/football/2013/mar/21/eu-debt-spain-football-clubs
 https://www.theguardian.com/football/2017/apr/10/leicester-city-atletico-madrid-european-competition-champions-league
 https://www.theguardian.com/football/2017/mar/01/liverpool-announce-19-million-loss-despite-record-revenues-301-million
@@ -5472,6 +5492,7 @@ https://www.washingtontechnology.org/
 https://www.washingtontechnology.org/story-behind-mapping-stars-2015-seattle-tech-universe-map/
 https://www.watfordfc.com/club/exclusive-nbc-sports-documentary
 https://www.weforum.org/agenda/2016/01/stop-patronising-young-people-and-start-listening/
+https://www.welldesk.com/
 https://www.welsh-tartan.com/tartan-finder
 https://www.wesayhowhigh.com/blog/article/the-importance-of-colour-in-business-identity
 https://www.whatsapp.com/faq/en/android/28000018
