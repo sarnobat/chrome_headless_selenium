@@ -2708,6 +2708,7 @@ https://app.box.com/representation/file_version_153856219326/video_480.mp4?share
 https://app.hiive.co.uk/courses/documentary-research/7942/#/
 https://appealtoauthority.wordpress.com/2009/08/06/the-great-bus-battle-greyhound-vs-megabus/
 https://apple.stackexchange.com/questions/254259/how-can-i-get-3-finger-gesture-drag-in-new-macos-sierra/254268#254268
+https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities
 https://archive.org/stream/dictionaryofslan00farmuoft/dictionaryofslan00farmuoft_djvu.txt
 https://archive.org/stream/techniqueofdocum000745mbp/techniqueofdocum000745mbp_djvu.txt
 https://arialdomartini.wordpress.com/2011/10/10/event-sourcing-and-git/
@@ -3167,6 +3168,7 @@ https://en.wikipedia.org/wiki/Server_Side_Includes
 https://en.wikipedia.org/wiki/Session_Initiation_Protocol
 https://en.wikipedia.org/wiki/Sexualization_in_child_beauty_pageants
 https://en.wikipedia.org/wiki/Silicon_Fen
+https://en.wikipedia.org/wiki/Software_agent
 https://en.wikipedia.org/wiki/Stanford_Research_Park
 https://en.wikipedia.org/wiki/Steve_Shirley
 https://en.wikipedia.org/wiki/Stock_and_flow
@@ -3613,6 +3615,7 @@ https://superuser.com/questions/450148/how-to-identify-replacement-for-power-sup
 https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs#
 https://superuser.com/questions/527495/how-to-mount-partition-with-spaces-in-path
 https://superuser.com/questions/552445/formatting-of-the-diff-output
+https://superuser.com/questions/811156/dhcp-reservation-vs-static-ip-address
 https://superuser.com/questions/904004/bios-has-detected-unsuccessful-post-attempts/1201430#1201430
 https://superuser.com/questions/968928/problems-renaming-file-with-a-exclamation-mark-in-it-s-filename-in-bash
 https://superuser.com/questions/98562/way-to-avoid-ssh-connection-timeout-freezing-of-gnome-terminal
@@ -3927,6 +3930,7 @@ https://www.coedcherry.com/models/kamilla-18/galleries/3838
 https://www.coedcherry.com/models/kamilla-18/galleries/3910
 https://www.coedcherry.com/models/kamilla-18?page=2
 https://www.coldwellbankerhomes.com/ca/east-palo-alto/condos-townhomes/?groupId=-1&sortId=2&offset=0&z=20&c=37.460961%2C-122.1352
+https://www.control4.com/blog/2016/05/control4-named-top-home-automation-provider-for-2016
 https://www.cs.swarthmore.edu/help/vim/variables.html
 https://www.curejoy.com/
 https://www.cyberciti.biz/faq/how-to-fix-x11-forwarding-request-failed-on-channel-0/
@@ -4092,6 +4096,7 @@ https://www.google.com/search?hl=en-US&tbm=isch&q=d3+4+dimension&imgrc=ItqE_V_8K
 https://www.google.com/search?hl=en-US&tbm=isch&q=divorce+length+of+marriage+chart&cad=h#imgrc=waLP3Li51PljPM%3A
 https://www.google.com/search?hl=en-US&tbm=isch&q=futuristic+wrap+around+monoblock+shield+sunglasses&cad=h
 https://www.google.com/search?hl=en-US&tbm=isch&q=principal+stockholders+s1+netscape&cad=h#imgrc=X901nAjiWCw7jM:
+https://www.google.com/search?num=40&biw=1131&bih=930&q=+event+sourcing+nondeterminism&oq=+event+sourcing+nondeterminism&gs_l=serp.3...20251.22196.0.22509.2.2.0.0.0.0.60.113.2.2.0....0...1.1.64.serp..0.0.0.aTh0XMBTu_k
 https://www.google.com/search?num=40&biw=1288&bih=679&q=muang+thong+thani+in+bangkok+planned+city+empty+buildings&oq=muang+thong+thani+in+bangkok+planned+city+empty+buildings&gs_l=serp.3...946.946.0.1155.1.1.0.0.0.0.160.160.0j1.1.0....0...1.1.64.serp..0.0.0.jLyy5Kjqg1k
 https://www.google.com/search?num=40&espv=2&biw=1189&bih=736&q=treasury+bills+by+volume&oq=treasury+bills+by+volume&gs_l=serp.3..0i22i30k1.14105.19127.0.19680.24.23.0.0.0.0.226.2721.0j15j2.17.0....0...1c.1.64.serp..7.17.2717...0j35i39k1j0i67k1j0i20k1j0i131k1j0i22i10i30k1.plfeolQxn8E
 https://www.google.com/search?num=40&espv=2&biw=1284&bih=758&q=golf+gameshow+usa&oq=golf+gameshow+usa&gs_l=serp.3..35i39k1.4591.4591.0.4868.1.1.0.0.0.0.76.76.1.1.0....0...1c.1.64.serp..0.1.75.gaBgg1TTsFI
@@ -4427,6 +4432,7 @@ https://www.google.com/search?q=event+sourcing&rlz=1CDGOYI_enUS590US590&oq=event
 https://www.google.com/search?q=everybody%27s+life+is+better+than+mine&oq=everybody%27s+life+&aqs=chrome.2.69i57j0l5.12323j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=everyone+friend+is+a+%22convenience+friend%22&oq=everyone+friend+is+a+%22convenience+friend%22&aqs=chrome..69i57.8458j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=everyone+friend+is+a+%22convenience+friendship%22&oq=everyone+friend+is+a+%22convenience+friendship%22&aqs=chrome..69i57.1751j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=everything+is+harassment&oq=eveeything+is+harass&aqs=chrome.1.69i57j0.4255j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=f5+load+balancer&oq=f5+load&aqs=chrome.0.0j69i57j0l4.1457j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=face+morph+into+other+gender&rlz=1CDGOYI_enUS590US590&oq=face+morph+into+other+gender&aqs=chrome..69i57.10883j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#mie=g%2C%2Cface%20morph%20into%20other%20gender%2CH4sIAAAAAAAAAOMQBwAwHdMKAgAAAA
 https://www.google.com/search?q=facilitated+play+autism&rlz=1CDGOYI_enUS590US590&oq=facilitated+play&aqs=chrome.1.69i57j0l3.9371j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8

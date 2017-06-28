@@ -6676,3 +6676,9 @@ https://therapists.psychologytoday.com/rms/prof_detail.php?profid=179517&ref=9&s
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=80545&ref=3&sid=1498496145.9651_8907&zipcode=95128&spec=251&tr=ResultsName :: Dr. Tejal Jakatdar, Psychologist, San Jose, CA 95128 | Psychology Today
 https://apple.stackexchange.com/questions/254259/how-can-i-get-3-finger-gesture-drag-in-new-macos-sierra/254268#254268 :: How can I get 3 Finger Gesture / Drag in new MacOs sierra? - Ask Different
 https://www.google.com/search?num=40&q=macbook+lock+keyboard+bar&oq=macbook+lock+keyboard+bar&gs_l=serp.3...2293.4189.0.4986.12.12.0.0.0.0.82.776.11.11.0....0...1.1.64.serp..1.10.696...0j0i22i30k1j0i22i10i30k1.F9IBSHFk09U :: macbook lock keyboard bar - Google Search
+https://superuser.com/questions/811156/dhcp-reservation-vs-static-ip-address :: networking - DHCP Reservation vs Static IP address - Super User
+https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities :: terminal - How to replace Mac OS X utilities with GNU core utilities? - Ask Different
+https://en.wikipedia.org/wiki/Software_agent :: Software agent - Wikipedia
+https://www.control4.com/blog/2016/05/control4-named-top-home-automation-provider-for-2016 :: Control4 Named Top Home Automation Provider for 2016 | Home Automation Blog
+https://www.google.com/search?num=40&biw=1131&bih=930&q=+event+sourcing+nondeterminism&oq=+event+sourcing+nondeterminism&gs_l=serp.3...20251.22196.0.22509.2.2.0.0.0.0.60.113.2.2.0....0...1.1.64.serp..0.0.0.aTh0XMBTu_k ::  event sourcing nondeterminism - Google Search
+https://www.google.com/search?q=everything+is+harassment&oq=eveeything+is+harass&aqs=chrome.1.69i57j0.4255j0j7&sourceid=chrome&ie=UTF-8 :: everything is harassment - Google Search
