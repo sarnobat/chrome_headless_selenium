@@ -6682,3 +6682,13 @@ https://en.wikipedia.org/wiki/Software_agent :: Software agent - Wikipedia
 https://www.control4.com/blog/2016/05/control4-named-top-home-automation-provider-for-2016 :: Control4 Named Top Home Automation Provider for 2016 | Home Automation Blog
 https://www.google.com/search?num=40&biw=1131&bih=930&q=+event+sourcing+nondeterminism&oq=+event+sourcing+nondeterminism&gs_l=serp.3...20251.22196.0.22509.2.2.0.0.0.0.60.113.2.2.0....0...1.1.64.serp..0.0.0.aTh0XMBTu_k ::  event sourcing nondeterminism - Google Search
 https://www.google.com/search?q=everything+is+harassment&oq=eveeything+is+harass&aqs=chrome.1.69i57j0.4255j0j7&sourceid=chrome&ie=UTF-8 :: everything is harassment - Google Search
+https://apple.stackexchange.com/questions/139904/see-call-history-from-a-computer/139907#139907 :: macos - see call history from a computer - Ask Different
+https://superuser.com/questions/442849/why-do-i-see-operation-was-denied-because-the-current-credentials-do-not-have-t :: mac - Why do I see "Operation was denied because the current credentials do not have the appropriate privileges" when trying to chsh? - Super User
+http://dev.solita.fi/2015/10/15/goodbye-glasspath-java-9.html :: Goodbye classpath - welcome Java 9 - /dev/solita
+http://jakubdziworski.github.io/java/2016/07/31/jshell-getting-started-examples.html :: JShell - Java 9 interpreter (REPL) - Getting Started and Examples
+http://www.dictionary.com/browse/associate :: Associate | Define Associate at Dictionary.com
+https://dzone.com/articles/event-sourcing-and-cqrs-in-practise :: (Could not determine)
+https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview :: linux - How to enable Bash in Windows 10 developer preview? - Stack Overflow
+http://www.networkworld.com/article/3126088/mobile-wireless/microsoft-is-leaving-the-consumer-mobile-market.html :: Microsoft is leaving the consumer mobile market | Network World
+https://www.google.com/search?num=40&q=why+customers+defected+from+microsoft+windows&oq=why+customers+defected+from+microsoft+windows&gs_l=serp.3...5994.9693.0.10447.15.14.1.0.0.0.111.1218.11j3.14.0....0...1.1.64.serp..1.9.748...30i10k1.t3eriOXrJM4 :: why customers defected from microsoft windows - Google Search
+http://www.bbc.co.uk/programmes/b006qy05/episodes/downloads ::  BBC Radio 4 - Thinking Allowed - Downloads

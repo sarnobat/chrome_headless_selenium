@@ -219,6 +219,7 @@ http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf
 http://desktoppub.about.com/od/scanninggraphics/a/papermoney.htm
 http://dev.deluge-torrent.org/wiki/UserGuide/Service/Upstart
 http://dev.deluge-torrent.org/wiki/UserGuide/ThinClient
+http://dev.solita.fi/2015/10/15/goodbye-glasspath-java-9.html
 http://diariodeportivogolazohonduras.blogspot.com/2013/01/la-la-coneja-cardona-un-grande-que-jugo.html
 http://dictionary.cambridge.org/us/dictionary/english/smoke-someone-out
 http://directory.apache.org/apacheds/
@@ -424,6 +425,7 @@ http://ingridsundberg.com/2013/06/05/what-is-arch-plot-and-classic-design/
 http://investorplace.com/2014/02/mall-food-courts-lose-155-sbarro-pizza-restaurants/#.WRAPIrRVikp
 http://investorplace.com/2015/02/best-vanguard-balanced-funds-vbinx-vtmfx-vwinx/#.WFm4jbYrLOQ
 http://invisibleinkblog.blogspot.com/2013/08/yes-documentaries-also-use-story.html
+http://jakubdziworski.github.io/java/2016/07/31/jshell-getting-started-examples.html
 http://jbl.web.cern.ch/jbl/doc/plain/
 http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
 http://jezebel.com/5614072/do-women-objectify-themselves
@@ -1333,6 +1335,7 @@ http://www.bbc.co.uk/blogs/danwalker/2011/01/hughton_and_a_hall_of_mirrors.html
 http://www.bbc.co.uk/editorialguidelines/guidelines
 http://www.bbc.co.uk/programmes/b006mkw3/episodes/player
 http://www.bbc.co.uk/programmes/b006qnwb
+http://www.bbc.co.uk/programmes/b006qy05/episodes/downloads
 http://www.bbc.co.uk/programmes/b03b51db/episodes/guide
 http://www.bbc.co.uk/programmes/b07g70j1
 http://www.bbc.co.uk/programmes/b07g70j1/episodes/guide
@@ -1596,6 +1599,7 @@ http://www.dictionary.com/browse/acrimonious
 http://www.dictionary.com/browse/affliction
 http://www.dictionary.com/browse/anthropology
 http://www.dictionary.com/browse/asinine
+http://www.dictionary.com/browse/associate
 http://www.dictionary.com/browse/bigfoot
 http://www.dictionary.com/browse/curate
 http://www.dictionary.com/browse/didactic
@@ -2042,6 +2046,7 @@ http://www.nalinidance.com/bollywood_class.html
 http://www.naturegirls.com/natural-nude-girls/watch4beauty/nika-park/
 http://www.nbcbayarea.com/news/local/SAP-Hiring-Tech-Workers-with-Autism-252802471.html
 http://www.netapp.com/us/products/platform-os/ontap/index.aspx
+http://www.networkworld.com/article/3126088/mobile-wireless/microsoft-is-leaving-the-consumer-mobile-market.html
 http://www.newegg.com/Product/Product.aspx?Item=N82E16820231704&cm_re=gskill_8gb-_-20-231-704-_-Product
 http://www.newnormalwork.com/
 http://www.news.cornell.edu/stories/2007/03/temple-grandin-discusses-autism
@@ -2607,6 +2612,7 @@ https://apisandbox.openbankproject.com/obp/v2.1.0//banks/hsbc-test/accounts/publ
 https://app.box.com/representation/file_version_153856219326/video_480.mp4?shared_name=ndlpouwhflkri12ii9nek7t2r2pnb32s
 https://app.hiive.co.uk/courses/documentary-research/7942/#/
 https://appealtoauthority.wordpress.com/2009/08/06/the-great-bus-battle-greyhound-vs-megabus/
+https://apple.stackexchange.com/questions/139904/see-call-history-from-a-computer/139907#139907
 https://apple.stackexchange.com/questions/254259/how-can-i-get-3-finger-gesture-drag-in-new-macos-sierra/254268#254268
 https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities
 https://archive.org/stream/dictionaryofslan00farmuoft/dictionaryofslan00farmuoft_djvu.txt
@@ -2810,6 +2816,7 @@ https://dzone.com/articles/creating-executable-uber-jar%E2%80%99s
 https://dzone.com/articles/csv-operations-using-opencsv
 https://dzone.com/articles/design-patterns-uncovered-0
 https://dzone.com/articles/does-your-application-really-need-a-database
+https://dzone.com/articles/event-sourcing-and-cqrs-in-practise
 https://dzone.com/articles/google-guava-concurrency-%E2%80%93
 https://dzone.com/articles/javautilconcurrentfuture
 https://dzone.com/articles/lesser-known-git-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
@@ -3470,6 +3477,7 @@ https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-beha
 https://stackoverflow.com/questions/29728151/how-to-listen-for-multiple-tcp-connection-using-nc
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
+https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
@@ -3485,6 +3493,7 @@ https://stv.tv/sport/football/clubs/celtic/283862-atletico-v-celtic-1974-why-the
 https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell
 https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/401926/how-to-get-shiftarrows-and-ctrlarrows-working-in-vim-in-tmux
+https://superuser.com/questions/442849/why-do-i-see-operation-was-denied-because-the-current-credentials-do-not-have-t
 https://superuser.com/questions/446401/power-issues-foxconn-barebones-kit
 https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs#
 https://superuser.com/questions/527495/how-to-mount-partition-with-spaces-in-path
@@ -4089,6 +4098,7 @@ https://www.google.com/search?num=40&q=ultimate+warrior+vignettes+1996+blind+man
 https://www.google.com/search?num=40&q=vbinx+equivalent+ishares&oq=vbinx+equivalent+ishares&gs_l=serp.3...369643.371959.0.372137.11.11.0.0.0.0.92.779.10.10.0....0...1c.1.64.serp..1.0.0.C0_UdrIfBWU
 https://www.google.com/search?num=40&q=why+arcade+fight+games+aren%27t+popular+anymore&oq=why+arcade+fight+games+aren%27t+popular+anymore&gs_l=serp.3..33i21k1.1812.3001.0.3158.8.7.0.0.0.0.246.608.0j2j1.3.0....0...1c.1.64.serp..5.3.607...33i160k1._Nq7G3Dryx0
 https://www.google.com/search?num=40&q=why+british+english+and+american+english+vocabulary+diverged&oq=why+british+english+and+american+english+vocabulary+diverged&gs_l=serp.3...16346.17740.0.18014.11.11.0.0.0.0.117.885.7j3.10.0....0...1c.1.64.serp..4.0.0.URR8apkI-t4
+https://www.google.com/search?num=40&q=why+customers+defected+from+microsoft+windows&oq=why+customers+defected+from+microsoft+windows&gs_l=serp.3...5994.9693.0.10447.15.14.1.0.0.0.111.1218.11j3.14.0....0...1.1.64.serp..1.9.748...30i10k1.t3eriOXrJM4
 https://www.google.com/search?num=40&q=why+is+competitive+eating+a+sport&oq=why+is+competitive+eating&gs_l=serp.3.0.0l2j0i22i30k1l4.9467.12291.0.20714.25.21.0.4.4.0.165.2215.10j10.20.0....0...1c.1.64.serp..1.24.2218...35i39k1j0i20k1j0i131k1j0i67k1j0i3k1.RyAQHLIgyX0
 https://www.google.com/search?num=40&q=youtube+start+video+manually&oq=youtube+start+video+manually&gs_l=serp.3...6849.15125.0.15392.39.33.2.0.0.0.262.3926.6j12j8.26.0....0...1.1.64.serp..11.26.3705...0j35i39k1j0i22i30k1j0i22i10i30k1j0i20k1j33i21k1j33i160k1.zfHpnCOSrrE
 https://www.google.com/search?num=40&rlz=1CAASUA_enUS721US723&q=chrome+os+screen++blank+idle&oq=chrome+os+screen++blank+idle&gs_l=serp.3...34774.47132.0.47346.29.28.0.1.1.0.134.2614.23j5.28.0....0...1c.1.64.serp..2.26.2291...0j0i22i30k1j35i39k1j0i20k1j0i67k1j0i7i30k1j0i10k1j33i21k1j33i160k1.1fiTOTGJfpc
