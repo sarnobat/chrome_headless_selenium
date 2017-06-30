@@ -670,6 +670,7 @@ http://ries.com/wp-content/uploads/2015/05/Ad_Age_Hammer004.pdf
 http://ries.com/wp-content/uploads/2015/05/Visual_Hammer_Free_Chapter_new.pdf
 http://ries.com/wp-content/uploads/2015/05/Visual_Hammer_Free_Chapter_new.pdf
 http://rineshpk.weebly.com/uploads/1/8/2/0/1820991/data_structures_and_algorithms_in_javatqw_darksiderg.pdf
+http://rocketit.com/what-the-difference-between-an-update-and-an-upgrade-means/
 http://rss.acast.com/makingtheirwaytothering
 http://rss.art19.com/jim-cornette-experience
 http://rss.art19.com/jim-cornette-s-drive-thru
@@ -1257,6 +1258,7 @@ http://wiki.c2.com/?DependencyHell
 http://wiki.c2.com/?DoesBeingStatelessImplyBeingIdempotent
 http://wiki.c2.com/?DougMcIlroy
 http://wiki.c2.com/?GrepVsDatabase
+http://wiki.c2.com/?HowSimpleComplexityIs
 http://wiki.c2.com/?NimbleDatabase
 http://wiki.c2.com/?PowerOfPlainText
 http://wiki.c2.com/?RollYourOwnDatabase
@@ -1637,6 +1639,7 @@ http://www.dailymail.co.uk/news/article-3982052/Heartbreak-locker-room-Anguished
 http://www.dailymail.co.uk/news/article-3982844/Son-Chapecoense-manager-reveals-missed-doomed-flight-Colombia-FORGOT-passport.html
 http://www.dailymail.co.uk/sciencetech/article-1390319/Scientists-happy-men-significantly-attractive-ladies.html
 http://www.dailymail.co.uk/sciencetech/article-2022385/Why-nipples-stimulate-area-female-brain-genitals-do.html
+http://www.dailymail.co.uk/sciencetech/article-2333467/Microsoft-goes-the-start-Missing-button-reinstated-Windows-software-bid-stop-customers-defecting-tablets.html
 http://www.dailymail.co.uk/sciencetech/article-3465438/Microsoft-launches-autism-recruitment-scheme-UK-Firm-wants-hire-people-condition-boost-diversity.html
 http://www.dailymail.co.uk/sport/football/article-2394356/Jennifer-Aniston-Watfords-latest-celebrity-fan-Hollywood-actress-follows-Mila-Kuniss-footsteps.html
 http://www.dailymail.co.uk/sport/football/article-2604100/REVEALED-The-secret-Atleticos-soaring-success-Madrid-coaches-use-Google-glass-DURING-matches.html
@@ -2437,6 +2440,7 @@ http://www.telegraph.co.uk/news/2016/11/29/colombia-plane-carrying-brazil-footba
 http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7918699/Women-view-modesty-as-sign-of-weakness.html
 http://www.telegraph.co.uk/sport/3017778/We-didnt-want-Robbie-to-go-for-free-says-Parry.html
 http://www.telegraph.co.uk/sport/football/competitions/la-liga/10839778/Atletico-Madrids-La-Liga-winning-fairy-tale-enchants-Thibaut-Courtois.html
+http://www.telegraph.co.uk/technology/2016/04/15/its-confirmed-your-iphone-has-a-limited-lifespan-says-apple/
 http://www.telegraph.co.uk/technology/bill-gates/9812672/Bill-Gates-interview-I-have-no-use-for-money.-This-is-Gods-work.html
 http://www.telegraph.co.uk/technology/news/10083879/Hao2-the-British-startup-built-by-an-autistic-workforce.html
 http://www.telegraph.co.uk/women/mother-tongue/10231010/Why-my-life-will-be-more-fulfilling-without-children.html
@@ -3020,6 +3024,7 @@ https://en.wikipedia.org/wiki/Coding_conventions
 https://en.wikipedia.org/wiki/Cognitive_distortion
 https://en.wikipedia.org/wiki/Come_on_Down!_The_Game_Show_Story
 https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English#Vocabulary
+https://en.wikipedia.org/wiki/Comparison_of_UPnP_AV_media_servers
 https://en.wikipedia.org/wiki/Computer_form_factor
 https://en.wikipedia.org/wiki/Cookie_jar_accounting
 https://en.wikipedia.org/wiki/Coolie
@@ -3223,6 +3228,7 @@ https://en.wikiversity.org/wiki/LaTeX/helloworld.tex
 https://en.wikiversity.org/wiki/Video_journalism
 https://en.wikiversity.org/wiki/Video_journalism/Telling_Stories
 https://en.wiktionary.org/wiki/pygophilia
+https://en.wiktionary.org/wiki/turn_of_phrase
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHecARhE6z65hPo4rMTBKIakKeETJJDq0FZp5kCujgyLy6A-chrg
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nTrNEBYS6tc2MwszuqG7sgz2G2yI1bcSvh6Fxez-Zn4ZG1RQWQ
 https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL7QKDcBu-N-hW8I6txrVgyG9Z9p6Ft5Kaq24EYFNF4N4ErAVnoA
@@ -3590,11 +3596,13 @@ https://sports.vice.com/en_us/article/breaking-kayfabe-an-inside-look-at-wwes-un
 https://spring.io/guides/gs/spring-boot/
 https://spring.io/understanding/application-context
 https://sridharsarnobat.wordpress.com/2016/11/19/history-of-atletico-madrid-in-english/
+https://stackoverflow.com/questions/10108374/maven-how-to-run-a-java-file-from-command-line-passing-arguments
 https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
 https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
+https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
@@ -3728,8 +3736,10 @@ https://twitter.com/mick_birchall/status/499653415291858944
 https://twitter.com/oldfootball11/status/712059525323423744
 https://twitter.com/samccone/status/739166801427210240
 https://twitter.com/search?q=%23DataFlow%20%23controlflow&src=typd
+https://twitter.com/search?q=%23Diegoisms%20tortoise&src=typd
 https://twitter.com/vieri_bobo/status/834433531543687169
 https://twitter.com/wildheartweasel
+https://ubuntuforums.org/showthread.php?t=1019832
 https://ubuntuforums.org/showthread.php?t=2166134
 https://ubuntuforums.org/showthread.php?t=2334934
 https://ubuntuforums.org/showthread.php?t=380660
@@ -3740,6 +3750,7 @@ https://underarmour.scene7.com/is/image/Underarmour/170323_SPRNG_BRK_PRM_DP_G?fm
 https://underdogorganic.com/menu/
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii/127775#127775
+https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://unsolved.com/?season=season-5-amazon-Dennis%20Farina
 https://upload.wikimedia.org/wikipedia/commons/f/f2/Stocks_and_Flows.svg
