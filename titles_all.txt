@@ -6703,3 +6703,43 @@ http://www.dailymail.co.uk/sciencetech/article-2333467/Microsoft-goes-the-start-
 https://en.wikipedia.org/wiki/Comparison_of_UPnP_AV_media_servers :: Comparison of UPnP AV media servers - Wikipedia
 http://wiki.c2.com/?HowSimpleComplexityIs :: How Simple Complexity Is
 http://www.telegraph.co.uk/technology/2016/04/15/its-confirmed-your-iphone-has-a-limited-lifespan-says-apple/ :: Apple expects iPhone owners to replace their phones every three years
+https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/ :: Use Homebrew zsh Instead of the OS X Default : Rick Cogley Central
+https://twitter.com/nixcraft/status/854259070299021314?lang=en :: (Could not determine)
+http://blogs.economictimes.indiatimes.com/moneyhappyreturns/currency-markets-are-risky/ :: A fool?s market?
+http://dictionary.cambridge.org/us/dictionary/english/pie-in-the-sky :: pie in the sky Definition in the Cambridge English Dictionary
+http://teapartypolitics.com/the-fools-favorite-investment/ :: The Fool?s Favorite Investment | Tea Party
+http://thesefootballtimes.co/2015/01/11/remembering-sampdorias-glory-years/ :: Remembering Sampdoria's glory years in the 1990s
+http://thesefootballtimes.co/2016/07/19/torino-the-resurgence-of-footballs-most-tragic-club/ :: Torino and the resurgence of football's most tragic club
+http://thesefootballtimes.co/2016/11/04/the-glory-days-of-the-1990s-are-set-to-return-to-serie-a/ :: The glory days of the 1990s are set to return to Serie A
+http://tvtropes.org/pmwiki/pmwiki.php/Main/WomenAreDelicate :: Women Are Delicate - TV Tropes
+http://www.espnfc.us/spanish-primera-division/15/blog/post/3046019/la-liga-hoping-international-outreach-continental-glory-can-help-league-grow :: La Liga hoping international outreach continental glory can help league grow - ESPN FC
+http://www.investmentu.com/article/detail/41045/lecture-notes-a-fools-market#.WVbHuNPyt26 :: Investor Senitment:  A Tool to Measure Risk - Investment U
+http://www.telegraph.co.uk/football/2016/10/20/the-rise-and-fall-of-ac-milan-and-inter---why-both-clubs-must-di/ :: The rise and fall of AC Milan and Inter - why both clubs must ditch imperious self-regard and accept the old days are gone
+https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library# :: swift - iOS 10 app crashes when trying to save image to photo library - Stack Overflow
+https://www.google.com/search?q=%22fool%27s+market%22+meaning&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=vin&ei=hUVTWenoB8KU0wLz3IJ4&start=40&sa=N&biw=375&bih=647 :: "fool's market" meaning - Google Search
+https://www.sportskeeda.com/football/serie-a-could-seereturn-glory-days-after-revamp-planned :: Serie A could see a return to the glory days after revamp is planned
+https://www.theguardian.com/football/blog/2014/oct/10/italy-serie-a-juventus-stadium :: Italy?s ambition grows to resurrect glory days for Serie A clubs | Amy Lawrence | Football | The Guardian
+https://www.theverge.com/2015/9/9/9296829/apple-live-photos-feature-iphone-6s :: Apple's new Live Photos feature turns your pictures into videos - The Verge
+https://en.wikipedia.org/wiki/Getty_(Unix) :: getty (Unix) - Wikipedia
+http://familycommunity.church/event/divorcecare-group/2017-06-29/ :: DivorceCare Group - Family Community Church
+http://ithare.com/historical-data-in-databases-audit-tables/ :: Historical Data in Databases. Audit Tables. Event Sourcing - IT Hare on Soft.ware
+http://www.asayo.com/marketing/led-sign-software.htm :: LED Sign Software and Accessories - Asayo
+http://www.techrepublic.com/article/keyboard-shortcuts-in-bash-and-zsh/ :: Keyboard shortcuts in bash and zsh - TechRepublic
+https://en.wikipedia.org/wiki/Actuator :: Actuator - Wikipedia
+https://gitlab.com/gnachman/iterm2/issues/1276 :: Key command for copying last command and output of last command (#1276) ? Issues ? George Nachman / iterm2 ? GitLab
+https://stackoverflow.com/questions/3452/sql-client-for-mac-os-x-that-works-with-ms-sql-server :: osx - SQL Client for Mac OS X that works with MS SQL Server - Stack Overflow
+https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get-arg-numeric-what-is-that :: shell - Press alt + numeric in bash and you get (arg [numeric]) what is that? - Stack Overflow
+https://www.divorcecare.org/countries/us/states/ca/cities/san_jose :: (timeout)
+https://www.divorcecare.org/groups/82864 :: (timeout)
+https://www.google.com/search?num=40&q=%22sound+out%22+words+%22auditory+comprehension%22+%22visual+learner%22&oq=%22sound+out%22+words+%22auditory+comprehension%22+%22visual+learner%22&gs_l=serp.3...16448.21956.0.22073.17.17.0.0.0.0.78.1061.17.17.0....0...1.1.64.serp..0.6.385...33i160k1j30i10k1.1Du901imP8Q :: "sound out" words "auditory comprehension" "visual learner" - Google Search
+https://www.google.com/search?num=40&q=iterm+copy+previous+output+line&oq=iterm+copy+previous+output+line&gs_l=serp.3...22167609.22168327.0.22168543.7.7.0.0.0.0.91.498.7.7.0....0...1.1.64.serp..1.1.91...33i21k1.lD3xfdv4-sI :: iterm copy previous output line - Google Search
+https://www.google.com/search?num=40&q=sexual+harassment+by+women+arousal&oq=sexual+harassment+by+women+arousal&gs_l=serp.3...33863.34876.0.35110.8.8.0.0.0.0.118.610.7j1.8.0....0...1.1.64.serp..0.0.0.4ozSCo0hdz4 :: sexual harassment by women arousal - Google Search
+https://www.google.com/search?num=40&q=why+did+apple+darken+grey+metallic+look&oq=why+did+apple+darken+grey+metallic+look&gs_l=serp.3...1379.2146.0.4690.6.6.0.0.0.0.85.393.6.6.0....0...1.1.64.serp..0.2.147...30i10k1.x95BtO_gJmc :: why did apple darken grey metallic look - Google Search
+https://www.google.com/search?q=%22sexy+harassment%22&oq=%22sexy+harassment%22&aqs=chrome..69i57.2843j0j7&sourceid=chrome&ie=UTF-8 :: "sexy harassment" - Google Search
+https://gist.github.com/samyk/65c12468686707b388ec43710430a421#file-chrome_tabs-osa :: applescript to show all url+titles of Chrome tabs along with front window+tab url+title ? GitHub
+https://www.google.com/search?q=zsh+select+output+line+as+input&oq=zsh+select+output+line+as+input&aqs=chrome..69i57.7374j0j7&sourceid=chrome&ie=UTF-8 :: zsh select output line as input - Google Search
+https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices?cmp=tw-prog-na-article-engagement_sponsored_article_scalable_microservices_as :: The evolution of scalable microservices - O'Reilly Media
+https://www.quora.com/Is-it-better-as-an-investment-to-buy-one-expensive-house-or-various-cheaper-ones# :: Is it better as an investment to buy one expensive house or various cheaper ones? - Quora
+https://www.exratione.com/2014/08/do-not-use-amazon-linux/ :: Do Not Use Amazon Linux ? Ex Ratione
+https://superuser.com/questions/14762/execute-applescript-without-open-the-editor :: macos - Execute applescript without open the editor - Super User
+https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window :: html - Form Submission Opens New Tab/Window? - Stack Overflow
