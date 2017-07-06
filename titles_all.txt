@@ -6773,3 +6773,7 @@ https://en.wikipedia.org/wiki/Vlad_the_Impaler :: Vlad the Impaler - Wikipedia
 https://www.youtube.com/results?search_query=asexuality&page=&utm_source=opensearch :: asexuality - YouTube
 https://9gag.com/gag/aZgxorp?ref=android.s.wt :: Dad award goes to.. - 9GAG
 https://www.google.com/search?q=seeking+male+approval&safe=off&ei=jmlcWb6dA-Oc0gKg9ZfQAQ&start=10&sa=N&biw=1332&bih=684 :: seeking male approval - Google Search
+http://cdn.ghanasoccernet.com/2017/04/469157-9776a212aebf84a9cdd6642ff7717e86fa78ab5e.jpeg :: 469157-9776a212aebf84a9cdd6642ff7717e86fa78ab5e.jpeg (630?811)
+http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake-on-lan :: Access Your Computer Anytime and Save Energy with Wake-on-LAN
+https://help.ubuntu.com/community/WakeOnLan :: WakeOnLan - Community Help Wiki
+https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html :: HowTo: Wake Up Computers Using Linux Command [ Wake-on-LAN ( WOL ) ] ? nixCraft

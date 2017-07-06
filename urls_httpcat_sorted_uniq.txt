@@ -175,6 +175,7 @@ http://catdir.loc.gov/catdir/toc/ecip071/2006031108.html
 http://cats.about.com/od/faqsbehavior/f/nomeow.htm
 http://cavaliercoder.com/blog/dmidecode-for-apple-osx.html
 http://cdn-03.independent.ie/business/farming/ploughing-championships/article30831543.ece/cb13a/AUTOCROP/w620/I
+http://cdn.ghanasoccernet.com/2017/04/469157-9776a212aebf84a9cdd6642ff7717e86fa78ab5e.jpeg
 http://cdn.newsapi.com.au/image/v1/857fce535cfcc436bca175665b18970e?width=650
 http://cdn.newsapi.com.au/image/v1/e0957994917ef74dbfc5f0bdeab20d30?width=1024
 http://cdn.photogyps.com/thumbnail/OIP.P9rto5jCOpCzVlEjIXKwNgDIEs
@@ -464,6 +465,7 @@ http://library.stanford.edu/libraries/art/about
 http://lifehacker.com/127179/amazon-rss-feeds
 http://lifehacker.com/139274/sentence-software-to-death-row
 http://lifehacker.com/202271/roll-your-own-servers-with-netcat
+http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake-on-lan
 http://lifehacker.com/399468/top-10-command-line-tools
 http://lifehacker.com/5270634/move-files-without-breaking-stuff
 http://lifehacker.com/5713726/how-to-use-gmail-as-your-central-universal-communications-hub
@@ -3282,6 +3284,7 @@ https://heartiste.wordpress.com/diversity-proximity-war-the-reference-list/
 https://help.ubuntu.com/community/32bit_and_64bit
 https://help.ubuntu.com/community/Autofs
 https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20(Command-line%20interface/Linux%20Terminal)%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!
+https://help.ubuntu.com/community/WakeOnLan
 https://help.ubuntu.com/community/WakeOnLan#Enabling_WoL_in_the_NIC
 https://hobbyistsoftware.com/vlcremote-test?ips=192.168.225.111&interfaces=Wi-Fi%20(en0)&port=8080
 https://hrshadhin.wordpress.com/2014/01/03/get-your-computer-hardware-information-in-unix-like-systemsnix/comment-page-1/
@@ -3871,6 +3874,7 @@ https://www.cyberciti.biz/faq/how-to-fix-x11-forwarding-request-failed-on-channe
 https://www.cyberciti.biz/faq/linux-port-scanning/
 https://www.cyberciti.biz/faq/understanding-etcshadow-file/
 https://www.cyberciti.biz/tips/executing-linuxunix-commands-from-web-page-part-i.html
+https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html
 https://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html
 https://www.cygnethealth.co.uk/service-users-carers/useful-websites/
 https://www.dailydot.com/upstream/alleged-wwe-announer-rules-leaked-vince-mcmahon/
