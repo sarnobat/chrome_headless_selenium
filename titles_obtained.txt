@@ -6777,3 +6777,9 @@ http://cdn.ghanasoccernet.com/2017/04/469157-9776a212aebf84a9cdd6642ff7717e86fa7
 http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake-on-lan
 https://help.ubuntu.com/community/WakeOnLan
 https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html
+https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html
+https://neosmart.net/wiki/diskpart/
+https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
+https://www.partitionwizard.com/partitionmagic/delete-active-system-partition.html
+https://twitter.com/johnlister/status/872840012659916801
+http://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/3029797.stm

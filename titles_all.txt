@@ -6777,3 +6777,9 @@ http://cdn.ghanasoccernet.com/2017/04/469157-9776a212aebf84a9cdd6642ff7717e86fa7
 http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake-on-lan :: Access Your Computer Anytime and Save Energy with Wake-on-LAN
 https://help.ubuntu.com/community/WakeOnLan :: WakeOnLan - Community Help Wiki
 https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html :: HowTo: Wake Up Computers Using Linux Command [ Wake-on-LAN ( WOL ) ] ? nixCraft
+https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html :: MySQL :: MySQL 5.7 Reference Manual :: B.5.3.2 How to Reset the Root Password
+https://neosmart.net/wiki/diskpart/ :: diskpart ? Guide for Windows XP, Vista, 7, 8, 10
+https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file :: passwords - MySQL Utilities - ~/.my.cnf option file - Stack Overflow
+https://www.partitionwizard.com/partitionmagic/delete-active-system-partition.html :: Solved ? Cannot Delete The Active System Partition on This Disk in Windows 7
+https://twitter.com/johnlister/status/872840012659916801 :: John Lister on Twitter: "@Maffewgregg Used to be an old Heenan line that the three quickest ways to spread a message were "Telephone, telegraph, tell a wrestler"."
+http://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/3029797.stm :: (Could not determine)

@@ -578,6 +578,7 @@ http://news.bbc.co.uk/2/hi/business/1795397.stm
 http://news.bbc.co.uk/2/hi/europe/250826.stm
 http://news.bbc.co.uk/2/hi/science/nature/21836.stm
 http://news.bbc.co.uk/2/hi/uk_news/8303389.stm
+http://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/3029797.stm
 http://news.bbc.co.uk/sportacademy/hi/sa/treatment_room/newsid_2131000/2131683.stm
 http://news.nationalgeographic.com/news/2004/01/0107_040107_violin.html
 http://news.nationalpost.com/sports/tennis/it-was-flying-everywhere-women-players-hate-wearing-nikes-revealing-tennis-dress-at-wimbledon
@@ -2919,6 +2920,7 @@ https://datamaps.github.io/
 https://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
 https://design.tutsplus.com/articles/cartoon-fundamentals-how-to-draw-the-female-form--vector-22024
 https://design.tutsplus.com/tutorials/human-anatomy-fundamentals-advanced-facial-features--cms-20683
+https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html
 https://developer.intuit.com/apis
 https://developer.intuit.com/apis
 https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account
@@ -3516,6 +3518,7 @@ https://mpra.ub.uni-muenchen.de/10169/1/birth_of_brand_july_14_2004.pdf
 https://mrbill.homeip.net/albums/long_ridge.1993.11.13/pages/page_2.html
 https://mvnrepository.com/artifact/org.eclipse.jetty.aggregate/jetty-all-server/7.6.11.v20130520
 https://nasajobs.nasa.gov/generalinfo/nssc.htm
+https://neosmart.net/wiki/diskpart/
 https://net.educause.edu/ir/library/pdf/eli08167b.pdf
 https://newcome.wordpress.com/2012/03/06/functional-programming-and-the-death-of-the-unix-way/
 https://newoldage.blogs.nytimes.com/2008/07/29/single-childless-and-downright-terrified/?_r=0
@@ -3645,8 +3648,10 @@ https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-it
 https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
+https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
+https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
@@ -3781,6 +3786,7 @@ https://twitter.com/hashtag/thenandnow?f=images&vertical=default&lang=en
 https://twitter.com/i/web/status/803535893428576256
 https://twitter.com/itsvadertime/status/831639440909021185
 https://twitter.com/jalabata/status/459017427146137600?lang=en
+https://twitter.com/johnlister/status/872840012659916801
 https://twitter.com/mick_birchall/status/499653415291858944
 https://twitter.com/nixcraft/status/854259070299021314?lang=en
 https://twitter.com/oldfootball11/status/712059525323423744
@@ -5335,6 +5341,7 @@ https://www.oreilly.com/ideas/transformative-programming
 https://www.oreilly.com/learning/making-sense-of-stream-processing/page/4/the-unix-philosophy-of-distributed-data
 https://www.owasp.org/images/1/1b/Building_Your_Company's_Vision_-_Jim_Collins.pdf
 https://www.paloaltoonline.com/news/2012/04/15/east-palo-alto-best-buy-store-to-close
+https://www.partitionwizard.com/partitionmagic/delete-active-system-partition.html
 https://www.patelco.org/Loans-And-Credit/Home-Loans/Patelco-Mortgage-Rates/#fixed
 https://www.perl.com/pub/2004/08/09/commandline.html
 https://www.pindrop.com/irs-phone-scam-live-call_analysis/
