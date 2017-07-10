@@ -565,7 +565,6 @@ http://news.bbc.co.uk/2/hi/business/1795397.stm
 http://news.bbc.co.uk/2/hi/europe/250826.stm
 http://news.bbc.co.uk/2/hi/science/nature/21836.stm
 http://news.bbc.co.uk/2/hi/uk_news/8303389.stm
-http://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/3029797.stm
 http://news.bbc.co.uk/sportacademy/hi/sa/treatment_room/newsid_2131000/2131683.stm
 http://news.nationalgeographic.com/news/2004/01/0107_040107_violin.html
 http://news.nationalpost.com/sports/tennis/it-was-flying-everywhere-women-players-hate-wearing-nikes-revealing-tennis-dress-at-wimbledon
@@ -2486,7 +2485,6 @@ http://www.urbandictionary.com/define.php?term=dancefloor
 http://www.urbandictionary.com/define.php?term=daytime+tv
 http://www.urbandictionary.com/define.php?term=disco
 http://www.urbandictionary.com/define.php?term=doggy%20style
-http://www.urbandictionary.com/define.php?term=drink%20the%20kool-aid
 http://www.urbandictionary.com/define.php?term=fart%20box
 http://www.urbandictionary.com/define.php?term=fucktard
 http://www.urbandictionary.com/define.php?term=hazing
@@ -3035,7 +3033,6 @@ https://en.wikipedia.org/wiki/Leeds_United_F.C.#2001.E2.80.932007:_Financial_imp
 https://en.wikipedia.org/wiki/Leicester_City_F.C._in_European_football
 https://en.wikipedia.org/wiki/Line_of_beauty
 https://en.wikipedia.org/wiki/List_of_Eclipse_projects
-https://en.wikipedia.org/wiki/List_of_England_international_footballers_born_outside_England
 https://en.wikipedia.org/wiki/List_of_Frontline_(PBS)_episodes
 https://en.wikipedia.org/wiki/List_of_Nova_episodes
 https://en.wikipedia.org/wiki/List_of_Teenage_Mutant_Ninja_Turtles_(1987_TV_series)_episodes#Season_4_.281990.E2.80.9391.29
@@ -3048,7 +3045,6 @@ https://en.wikipedia.org/wiki/List_of_feeder_teams_in_football
 https://en.wikipedia.org/wiki/List_of_film_schools_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_former_English_Football_League_clubs
 https://en.wikipedia.org/wiki/List_of_international_call_prefixes#Example
-https://en.wikipedia.org/wiki/List_of_naturalised_Spanish_international_football_players
 https://en.wikipedia.org/wiki/List_of_sportspeople_with_diabetes#Football.2Fsoccer
 https://en.wikipedia.org/wiki/List_of_stock_exchanges#Major_stock_exchanges
 https://en.wikipedia.org/wiki/List_of_technology_centers
@@ -3655,7 +3651,6 @@ https://twitter.com/hashtag/thenandnow?f=images&vertical=default&lang=en
 https://twitter.com/i/web/status/803535893428576256
 https://twitter.com/itsvadertime/status/831639440909021185
 https://twitter.com/jalabata/status/459017427146137600?lang=en
-https://twitter.com/johnlister/status/872840012659916801
 https://twitter.com/mick_birchall/status/499653415291858944
 https://twitter.com/nixcraft/status/854259070299021314?lang=en
 https://twitter.com/oldfootball11/status/712059525323423744
@@ -3770,7 +3765,6 @@ https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keyw
 https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=laptop+bed+table&rh=i%3Aaps%2Ck%3Alaptop+bed+table
 https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=portable+printer+battery&rh=i%3Aaps%2Ck%3Aportable+printer+battery
 https://www.amazon.com/s/ref=nb_sb_noss_2?field-keywords=heel+sock
-https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=art+of+doing+less
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=broadcast+engineering
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=data+cleansing
 https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=economic+warfare
@@ -4855,9 +4849,7 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=why+unix+does+
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=william+and+mary+neurodiversity&spell=1&sa=X&ved=0ahUKEwjv2quyt6LTAhXBzlQKHcmqC7MQvwUIFigA&biw=320&bih=492
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=wireless+electricity+documentary&spell=1&sa=X&ved=0ahUKEwjQrcvzssrTAhVI1WMKHVWgBIwQvwUIGCgA&biw=320&bih=492#spf=1
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=women+correcting+your+pronunciation&spell=1&sa=X&ved=0ahUKEwjTrLmelY3RAhVhqlQKHa5jCCIQvwUIFigA&biw=320&bih=492
-https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&biw=375&bih=591&ei=lm5WWaTLGJKCjwPL8anQAg&q=vulnerable+modest+embarrassed+weak+delicate+female&oq=vulnerable+modest+embarrassed+weak+delicate+female&gs_l=mobile-gws-serp.3..33i160k1.25194.30514.0.31011.10.10.0.0.0.0.282.1278.2j5j2.9.0....0...1.1.64.mobile-gws-serp..1.8.1055...33i21k1.jrkQRreHA8Q
 https://www.google.com/search?safe=off&biw=1288&bih=679&q=largest+cities+in+antarctica&oq=antarctica+biggescities&gs_l=serp.3.0.0i8i7i10i30k1.3229.4467.0.5396.6.6.0.0.0.0.101.512.5j1.6.0....0...1c.1.64.serp..0.6.510...0i8i7i30k1.qaYIDOpZ4xE
-https://www.google.com/search?safe=off&q=%22being+female+means%22+revealing+clothing&oq=%22being+female+means%22+revealing+clothing&gs_l=serp.3...13359.14982.0.17254.10.10.0.0.0.0.108.824.8j2.10.0....0...1.1.64.serp..2.0.0.UsCDeMwFkxU
 https://www.google.com/search?safe=off&q=admiration+vs+objectification&oq=admiration+vs+objectification&gs_l=serp.3...29113.33333.0.33606.29.15.0.0.0.0.520.869.3-1j0j1.2.0....0...1.1.64.serp..27.2.868...0j0i20k1j0i22i10i30k1j0i22i30k1.VU9YyIQMP68
 https://www.google.com/search?safe=off&q=female+friend+lifted+my+skirt&oq=female+friend+lifted+my+skirt&gs_l=serp.3...8716.9680.0.9816.7.7.0.0.0.0.118.470.3j2.5.0....0...1c.1.64.serp..3.2.221...30i10k1.OOoa0U_rd1g
 https://www.google.com/search?safe=off&q=jordyn+jones+hot&tbm=isch&imgil=L-kSU37lGd1bgM%253A%253BLBimTr2cjaa7bM%253Bhttps%25253A%25252F%25252Fwww.pinterest.com%25252FFootlightsDance%25252Fcalifornia-kisses%25252F&source=iu&pf=m&tbs=simg:CAESvgIJhgj8dH8YSwwasgILEKjU2AQaBggJCD4IQwwLELCMpwgaYgpgCAMSKMAR0RHqHJwaxBG_1EZoagh-YGvIc_1jGHMr48-DG4PPcxgTL6MYAy_1zEaMGaYv0Ux1SdwdPgJbrhVYBlmzNbAxl7Sq-dHzTzPfHkdEyJF_1u8qNkkxu2e5y9MOVyAEDAsQjq7-CBoKCggIARIE2ns3UwwLEJ3twQkamwEKGgoIY2xvdGhpbmfapYj2AwoKCC9tLzA5ajJkCh4KDHVuZGVyZ2FybWVudNqliPYDCgoIL20vMDlqMXgKGAoGZmVtYWxl2qWI9gMKCggvbS8wMnpzbgoaCghsaW5nZXJpZdqliPYDCgoIL20vMDloeXgKJwoTYWN0aXZlIHVuZGVyZ2FybWVudNqliPYDDAoKL20vMGhncDJ6Nww&fir=L-kSU37lGd1bgM%253A%252CLBimTr2cjaa7bM%252C_&usg=__WfjjYeQKhWPYHCI__CcxF5ARQug%3D&biw=1312&bih=739#imgrc=61QFpdgSZ39QnM%3A
@@ -5111,7 +5103,6 @@ https://www.mainemedia.edu/workshops/filmmaking/four-week-documentary-film-schoo
 https://www.mainemedia.edu/workshops/filmmaking/producing-professional-documentaries-broadcast
 https://www.mainemedia.edu/workshops/filmmaking/writing-developing-documentary
 https://www.mainemedia.edu/workshops/filmmaking?gclid=Cj0KEQiAgJTGBRDLr5_az_Ouk44BEiQAIxaA4gcxDGCS-NRYPVc-Dq37Xv9z7sen6dh98TF56beubnYaAqi08P8HAQ
-https://www.maketecheasier.com/nas-solutions-linux/
 https://www.maketecheasier.com/portable-apps-for-linux/
 https://www.marketplace.org/2013/08/20/business/whatever-happened-good-old-fashioned-bank-robbery
 https://www.massmutual.com/dividends
@@ -5197,7 +5188,6 @@ https://www.pinterest.com/fernandolzarori/club-atl%C3%A9tico-de-madrid-sad-20101
 https://www.pinterest.com/marekmalanka/atletico-madryt/
 https://www.pinterest.com/mazharcivitech/joanna-krupa/
 https://www.pinterest.com/pin/372109987940942239/
-https://www.pizzamaking.com/forum/index.php?topic=20258.0
 https://www.portablefreeware.com/forums/viewtopic.php?t=4925
 https://www.portfoliovisualizer.com/asset-correlations
 https://www.premiumbeat.com/blog/how-to-find-your-story-when-cutting-a-documentary/

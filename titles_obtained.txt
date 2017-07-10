@@ -6791,3 +6791,49 @@ https://www.maketecheasier.com/nas-solutions-linux/
 https://www.google.com/search?safe=off&q=%22being+female+means%22+revealing+clothing&oq=%22being+female+means%22+revealing+clothing&gs_l=serp.3...13359.14982.0.17254.10.10.0.0.0.0.108.824.8j2.10.0....0...1.1.64.serp..2.0.0.UsCDeMwFkxU
 https://www.pizzamaking.com/forum/index.php?topic=20258.0
 http://www.urbandictionary.com/define.php?term=drink%20the%20kool-aid
+https://www.pizzamarketplace.com/articles/the-rising-artisan-pizza-movement/
+http://www.economicshelp.org/macroeconomics/economic-growth/causes-economic-growth/
+http://www.idownloadblog.com/2017/03/17/how-to-select-different-still-frames-of-live-photos/
+https://www.pinterest.com/pin/221591244136683328/
+https://www.pinterest.com/pin/566186984389461753/
+https://en.wikipedia.org/wiki/Appeal_to_accomplishment
+https://en.wikipedia.org/wiki/Asset_stripping
+https://www.brfcs.com/mb/index.php?/forums/topic/30295-shaun-hbk-michaels-at-ewood/
+https://www.google.com/search?q=autofs+tutorial&rlz=1CDGOYI_enUS750US750&oq=autofs+tuto&aqs=chrome.1.69i57j0l3.8630j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=do+all+parents+worry+about+their+adult+children&spell=1&sa=X&ved=0ahUKEwjNt-eCyffUAhUI7mMKHdjfAXoQvwUIGSgA&biw=375&bih=591
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   6950
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   8657
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   9467
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   10264
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   10708
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11130
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   12843
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   13435
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   14201
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
