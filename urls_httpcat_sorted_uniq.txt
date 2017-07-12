@@ -746,6 +746,7 @@ http://softwarerecs.stackexchange.com/questions/18906/web-based-text-editor-for-
 http://sonic.wikia.com/wiki/Too_Tall_Tails/Transcript
 http://southasiannetwork.org/
 http://spamisbetterfried.blogspot.com/2013/09/the-tale-of-two-pizzas-neapolitan-and.html
+http://specialistsguild.org/
 http://spectrum.ieee.org/telecom/internet/the-autistic-hacker
 http://spf13.com/post/easy-bash-scripting-with-shflags
 http://spoon.gforge.inria.fr/first_analysis_processor.html
@@ -2025,6 +2026,7 @@ http://www.marca.com/en/football/spanish-football/2016/11/02/5819b1b9e5fdea500c8
 http://www.marca.com/en/football/spanish-football/2017/02/01/58910623e2704e70768b45ff.html
 http://www.marca.com/en/football/spanish-football/2017/05/11/59139b0446163f720a8b4657.html
 http://www.marca.com/en/football/spanish-football/2017/06/01/59300f24468aeb916f8b458c.html
+http://www.marca.com/en/football/spanish-football/2017/07/09/59613fa922601de26f8b45d3.html
 http://www.marca.com/en/more-sports/2017/02/10/589e1eaa22601d5e138b46db.html
 http://www.marca.com/futbol/america/2016/11/29/583d27ad46163f214a8b4629.html
 http://www.marca.com/futbol/atletico/2016/10/01/57ed636a268e3efe698b463c.html
@@ -3046,6 +3048,7 @@ https://en.wikipedia.org/wiki/Impact,_Muang_Thong_Thani
 https://en.wikipedia.org/wiki/Inbetweening
 https://en.wikipedia.org/wiki/Indian_Americans#U.S._metropolitan_areas_with_large_Asian_Indian_populations
 https://en.wikipedia.org/wiki/Information_revolution
+https://en.wikipedia.org/wiki/InnoDB
 https://en.wikipedia.org/wiki/International_Monetary_Fund
 https://en.wikipedia.org/wiki/Isolation_(database_systems)
 https://en.wikipedia.org/wiki/Item_number
@@ -3519,6 +3522,7 @@ https://security.stackexchange.com/questions/30843/how-to-store-a-private-rsa-ke
 https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
+https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
 https://shapeshed.com/unix-join/
 https://simpleprogrammer.com/2017/02/20/jobs-job-titles/
 https://simplycharlottemason.com/scmforum/topic/cutting-off-spines-of-paperback-books/

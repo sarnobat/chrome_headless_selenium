@@ -6890,3 +6890,7 @@ http://autismwest.org.au/contact/
 http://www.fraser.org/About-Fraser/Locations
 https://www.atenv.org/contact
 https://unix.stackexchange.com/questions/12532/dd-vs-cat-is-dd-still-relevant-these-days
+http://www.marca.com/en/football/spanish-football/2017/07/09/59613fa922601de26f8b45d3.html
+https://en.wikipedia.org/wiki/InnoDB
+https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
+http://specialistsguild.org/
