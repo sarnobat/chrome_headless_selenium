@@ -324,6 +324,7 @@ http://footballanthem.blogspot.com/2010/04/atletico-de-madrid-anthem-lyrics.html
 http://fortune.com/2016/04/13/american-apparel-lays-off-hundreds-of-workers/
 http://fortune.com/2016/08/03/office-depot-closing-stores/
 http://fortune.com/2016/10/26/autism-jobs-employment-ey/
+http://fortune.com/2017/06/21/walmart-amazon-whole-foods/
 http://forum.bodybuilding.com/showthread.php?t=107055511
 http://forum.bodybuilding.com/showthread.php?t=134975201
 http://forum.bodybuilding.com/showthread.php?t=5775911
@@ -347,6 +348,7 @@ http://forums.liverpoolfc.com/threads/389330-Was-European-football-a-big-allure-
 http://forums.liverpoolfc.com/threads/389896-Jurgen-Klopp-and-his-Premier-League-scoreline-frequency-distribution
 http://forums.liverpoolfc.com/threads/390320-LFC-and-the-US-Brooks-Lennon-(longish-ramblings)
 http://forums.liverpoolfc.com/threads/390787-Videos-not-displaying?p=12636927&posted=1#post12636927
+http://forums.liverpoolfc.com/threads/390843-If-Films-were-Footballers
 http://forums.phoenixrising.me/index.php?threads/why-does-vitamin-d-make-me-so-tired.22694/
 http://forums.sega.com/showthread.php?51574-Why-is-the-Genesis-called-Genesis-instead-of-Megadrive
 http://forums.welltrainedmind.com/topic/447606-chopping-binding-off-of-a-book/
@@ -753,6 +755,7 @@ http://spf13.com/post/easy-bash-scripting-with-shflags
 http://spoon.gforge.inria.fr/first_analysis_processor.html
 http://spoonuniversity.com/lifestyle/orange-juice-isnt-going-to-prevent-your-cold
 http://sport360.com/article/football/arabian-gulf-league/200882/interview-javier-aguirre-the-man-who-helped-to-paint-madrid-in-the-red-of-atletico/
+http://sridattalabs.com/2012/02/06/rabbit-holes-being-smart-hurts-prod/
 http://srobbin.com/blog/3d-css-book-covers/
 http://st-eutychus.com/tag/preaching-as-storytelling/
 http://st.suckless.org/
@@ -1652,6 +1655,7 @@ http://www.dictionary.com/browse/schmuck
 http://www.digitaldesire.com/?nats=ODQyMy4xMDA1MS4xLjEuMC4wLjAuMC4w
 http://www.digitales.us/resources/documentary-and-docudrama/
 http://www.diminishedvalueca.com/
+http://www.directexpose.com/disappearance-new-evidence-natalee-holloway/?utm_source=ouins&utm_campaign=0049b202ac9418cdf45b441ad29a6eda41&utm_term=The+Telegraph+UK+%5BG%5D+%28Telegraph+Media+Group+Ltd%29_The+Telegraph_00d4e6dffbacd48459d26033472fd13ee4&utm_content=newnext&utm_medium=Y_OS_DE_US_M_Mystery_v5_1806
 http://www.diversityjobs.co.uk/cm/jobs-for-autistic-people
 http://www.dividendmantra.com/2011/09/gold-as-investment/
 http://www.dividendmantra.com/2013/05/equities-unlimited-upside-with-limited/
@@ -2682,6 +2686,7 @@ https://arialdomartini.wordpress.com/2011/10/10/event-sourcing-and-git/
 https://arstechnica.com/information-technology/2016/07/stack-overflow-brings-its-gamified-peer-support-to-documentation/
 https://article.wn.com/view/2016/07/23/We_start_the_friendly_games_with_the_Jesus_Gil_y_Gil_Memoria/
 https://as.com/videos/2014/10/28/portada/1414499468_076840.html
+https://as02.epimg.net/videos/videos/2014/10/28/portada/1414499468_076840_1414499497.mp4
 https://askjan.org/
 https://askjan.org/media/ASD.html
 https://askubuntu.com/questions/215505/how-do-you-monitor-the-progress-of-dd/215590#215590
@@ -2794,6 +2799,7 @@ https://bugzilla.redhat.com/show_bug.cgi?id=430113
 https://busybox.net/about.html
 https://calendar.google.com/calendar/embed?src=pfutdblf1gi8jmfsvroh76f6jg@group.calendar.google.com&ctz=America/New_York
 https://calendar.google.com/calendar/render?pli=1#main_7
+https://camo.githubusercontent.com/81237833eeedea03b1f124ef97a2834f07e81e53/687474703a2f2f7777772e6373652e756e73772e6564752e61752f7e62696c6c772f4a757374736561726368312e676966
 https://carvesite.wordpress.com/2014/12/09/male-female-facial-features/
 https://cb.hbsp.harvard.edu/cbmp/product/803111-PDF-ENG
 https://cbttherapist.com/dir/therapists/cardiff/asperger-syndrome/
@@ -2851,6 +2857,7 @@ https://developer.intuit.com/apis
 https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account
 https://developer.intuit.com/v2/ui#/app/appdetail/b7r6ggz2yu/b7r6ggz22t/development
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values
 https://developer.yodlee.com/API_Resources/Sample_Code
 https://developers.google.com/custom-search-ads/docs/implementation-guide
@@ -2887,6 +2894,7 @@ https://dzone.com/articles/event-sourcing-and-cqrs-in-practise
 https://dzone.com/articles/google-guava-concurrency-%E2%80%93
 https://dzone.com/articles/javautilconcurrentfuture
 https://dzone.com/articles/lesser-known-git-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
+https://dzone.com/articles/maven-vs-gradle-one-year-later
 https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://dzone.com/articles/unix-commands-dealing
 https://dzone.com/refcardz/jetty
@@ -3232,6 +3240,7 @@ https://gethuman.com/phone-number/Google
 https://gist.github.com/RobSis/50af3d3ef8e747a0bd18
 https://gist.github.com/alonisser/11192482
 https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90
+https://gist.github.com/ncerny/b1b1a8ddde51d6e32576
 https://gist.github.com/runeb/c11f864cd7ead969a5f0
 https://gist.github.com/samyk/65c12468686707b388ec43710430a421#file-chrome_tabs-osa
 https://gist.github.com/uncreative/1100212
@@ -3421,6 +3430,8 @@ https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
 https://medium.com/@steveneperez21/a-look-at-gentrification-at-work-in-east-palo-alto-f7a1acb97001#.5b9m2e2n7
 https://medium.com/fwd-thoughts/the-future-is-without-apps-ddf43ec52aab#.oauxzp8y0
 https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7#.cusqoxb9d
+https://medium.com/modern-entrepreneur/iterate-then-innovate-1f68f301b0e5
+https://medium.com/the-design-innovator/iteration-is-not-design-668695445f76
 https://medium.com/true-investing/no-risk-no-reward-d84f370f6572#.7dn21076l
 https://meta.discourse.org/t/is-forum-migration-really-worth-it/7644
 https://mint.lc.intuit.com/questions/1041265-now-that-mint-intuit-has-acquired-check-pageonce-and-turned-it-into-mint-bills-will-the-accounts-link-together
@@ -3449,6 +3460,7 @@ https://news.ycombinator.com/item?id=1782791
 https://news.ycombinator.com/item?id=2567186
 https://news.ycombinator.com/item?id=2932620
 https://news.ycombinator.com/item?id=859468
+https://news.ycombinator.com/item?id=9120564
 https://news.ycombinator.com/item?id=9601748
 https://nfts.co.uk/our-courses/short-courses/factual#developing_and_pitching_documentaries
 https://nlp.stanford.edu/nlp/javadoc/javanlp/edu/stanford/nlp/util/PriorityQueue.html
@@ -3483,6 +3495,7 @@ https://podcasts.ox.ac.uk/series/uehiro-centre-practical-ethics
 https://point.com/
 https://prezi.com/2aokc2f7emiq/evolution-of-television-90s/
 https://productforums.google.com/forum/#!msg/chrome/-tWlnO4bmUs/efnjHzNRBwAJ
+https://productforums.google.com/forum/#!msg/chrome/af0CrX_48pk/sDiMnGJ9U_MJ
 https://productforums.google.com/forum/#!topic/adsense/5VXIq4Aa9xs
 https://productforums.google.com/forum/#!topic/gmail/u-1vs2wgIP4
 https://projects.eclipse.org/list-of-projects
@@ -3723,6 +3736,7 @@ https://unix.stackexchange.com/questions/113544/interpret-the-output-of-lstopo/1
 https://unix.stackexchange.com/questions/12532/dd-vs-cat-is-dd-still-relevant-these-days
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii/127775#127775
+https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ssh-on-local-machine-and-save-to-a-local-disk
 https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
@@ -3801,6 +3815,7 @@ https://www.amazon.com/gp/aw/s/ref=sr_nr_i_6?rh=k%3Aascii+art%2Ci%3Astripbooks&k
 https://www.amazon.com/gp/offer-listing/B006YG8X9Y/ref=olp_f_new?ie=UTF8&f_new=true&mv_size_name=4
 https://www.amazon.com/gp/profile/amzn1.account.AETP3AUSSFRLVZMTL5OOC3LPOPTA?ie=UTF8&ref_=sv_ys_3
 https://www.amazon.com/review/R1HEPOU8AZKVX5?_encoding=UTF8&cdMSG=addedToThread&cdPage=&newContentID=Mx3PBKJ2GW0ZLPS&newContentNum=1#CustomerDiscussionsNRPB
+https://www.amazon.com/review/R22YZEYXC6K33M/ref=ask_dp_lswr_rp_hza
 https://www.amazon.com/review/R2QM5MTW9GRPBN?_encoding=UTF8&asin=B00PIMIUPW&cdForum=FxXZE64RWQGE62&cdMSG=addedToThread&cdPage=&cdThread=Tx13O93E6G8VHOK&newContentID=MxMGNBXEUB9MLP&newContentNum=2&store=pc#CustomerDiscussionsNRPB
 https://www.amazon.com/review/R3OB4E03TSXOGG?_encoding=UTF8&cdMSG=addedToThread&cdPage=&newContentID=Mx1BL6Y7D95O232&newContentNum=1#CustomerDiscussionsNRPB
 https://www.amazon.com/review/R3S7CXN2Q0PKR9/ref=cm_cr_dp_cmt?ie=UTF8&ASIN=0138543801&channel=detail-glance&nodeID=283155&store=books#wasThisHelpful
@@ -4727,6 +4742,7 @@ https://www.google.com/search?q=vim+java+formatter+script&rlz=1CDGOYI_enUS590US5
 https://www.google.com/search?q=vim+server+mode&rlz=1CDGOYI_enUS590US590&oq=vim+server&aqs=chrome.1.69i57j0l3.4203j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=visual+storytelling&rlz=1CDGOYI_enUS590US590&oq=visual+story&aqs=chrome.1.69i57j0l3.5721j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=visualize+higher+dimensional+space&rlz=1CDGOYI_enUS590US590&oq=visualize+higher+dimensional+space&aqs=chrome..69i57.9472j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=vlc+better+than+itunes&oq=vlc+better+than+itunes&aqs=chrome..69i57j0.4191j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=we+are+all+given+challenges+in+life&oq=we+are+all+given+challenges+in+life&aqs=chrome..69i57j69i64l3.3519j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=web+server+text+editor&rlz=1CDGOYI_enUS590US590&oq=tect+editir+web+ser&aqs=chrome.1.69i57j0.8520j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=welfare+capitalism+vs+shareholder+capitalism&oq=welfare+capitalism+vs+shareholder+capitalism&aqs=chrome..69i57.5982j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -5440,6 +5456,7 @@ https://www.shubhsblog.com/downloads/data/books/%5BCS%5D%20Modern%20Compiler%20I
 https://www.siliconmaps.com/silicon-valley-map/
 https://www.sky.com/new-search/panel-d8736c0a-b629-49d9-8ce2-9f25184458ee?q=unsolved%20mysteries
 https://www.skyword.com/contentstandard/creativity/5-digital-storytelling-lessons-from-film-pacing-and-tension/
+https://www.slant.co/versus/1427/1608/~itunes_vs_vlc
 https://www.southbankcentre.co.uk/whats-on/119616-stories-through-sound-2017
 https://www.sportsjoe.ie/sports/juanfran
 https://www.sportskeeda.com/football/serie-a-could-seereturn-glory-days-after-revamp-planned
@@ -5543,6 +5560,7 @@ https://www.w3schools.com/css/css_rwd_viewport.asp
 https://www.w3schools.com/cssref/sel_attribute_value.asp
 https://www.w3schools.com/html/html5_draganddrop.asp
 https://www.w3schools.com/jsref/jsref_min.asp
+https://www.w3schools.com/tags/ref_httpmethods.asp
 https://www.w3schools.com/tags/ref_urlencode.asp
 https://www.w3schools.com/tags/tag_mark.asp
 https://www.w3schools.com/w3css/w3css_mobile.asp

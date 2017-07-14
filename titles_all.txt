@@ -6919,3 +6919,21 @@ https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-se
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file :: Is there a quick git command to see an old version of a file? - Stack Overflow
 https://www.barebones.com/support/bbedit/cmd-line-tools.html :: Bare Bones Software | BBEdit Command-Line Tools
 https://www.quora.com/Has-a-Bollywood-actress-done-a-nude-scene :: Has a Bollywood actress done a nude scene? - Quora
+https://productforums.google.com/forum/#!msg/chrome/af0CrX_48pk/sDiMnGJ9U_MJ :: Keyboard shortcut for switching tabs - Google Product Forums
+https://camo.githubusercontent.com/81237833eeedea03b1f124ef97a2834f07e81e53/687474703a2f2f7777772e6373652e756e73772e6564752e61752f7e62696c6c772f4a757374736561726368312e676966 :: 687474703a2f2f7777772e6373652e756e73772e6564752e61752f7e62696c6c772f4a757374736561726368312e676966 (544?269)
+https://as02.epimg.net/videos/videos/2014/10/28/portada/1414499468_076840_1414499497.mp4 :: (Could not determine)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods :: HTTP request methods - HTTP | MDN
+https://medium.com/modern-entrepreneur/iterate-then-innovate-1f68f301b0e5 :: Iterate, Then Innovate ? Modern Entrepreneur ? Medium
+https://medium.com/the-design-innovator/iteration-is-not-design-668695445f76 :: Iteration is not design ? The Design Innovator ? Medium
+https://news.ycombinator.com/item?id=9120564 :: (Could not determine)
+https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ssh-on-local-machine-and-save-to-a-local-disk :: How to dd a remote disk using SSH on local machine and save to a local disk - Unix &amp; Linux Stack Exchange
+https://www.google.com/search?q=vlc+better+than+itunes&oq=vlc+better+than+itunes&aqs=chrome..69i57j0.4191j0j7&sourceid=chrome&ie=UTF-8 :: vlc better than itunes - Google Search
+https://www.slant.co/versus/1427/1608/~itunes_vs_vlc :: iTunes vs VLC detailed comparison as of 2017 - Slant
+https://www.w3schools.com/tags/ref_httpmethods.asp :: HTTP Methods GET vs POST
+http://forums.liverpoolfc.com/threads/390843-If-Films-were-Footballers ::  If Films were Footballers
+http://sridattalabs.com/2012/02/06/rabbit-holes-being-smart-hurts-prod/ :: Rabbit holes: Why being smart hurts your productivity : Sridatta Thatipamala
+https://www.amazon.com/review/R22YZEYXC6K33M/ref=ask_dp_lswr_rp_hza :: (timeout)
+http://www.directexpose.com/disappearance-new-evidence-natalee-holloway/?utm_source=ouins&utm_campaign=0049b202ac9418cdf45b441ad29a6eda41&utm_term=The+Telegraph+UK+%5BG%5D+%28Telegraph+Media+Group+Ltd%29_The+Telegraph_00d4e6dffbacd48459d26033472fd13ee4&utm_content=newnext&utm_medium=Y_OS_DE_US_M_Mystery_v5_1806 :: Natalee Holloway's Disappearance Remains a Mystery
+http://fortune.com/2017/06/21/walmart-amazon-whole-foods/ :: (timeout)
+https://dzone.com/articles/maven-vs-gradle-one-year-later :: (Could not determine)
+https://gist.github.com/ncerny/b1b1a8ddde51d6e32576 :: Install chefdk with brew ? GitHub
