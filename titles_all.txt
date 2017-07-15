@@ -6937,3 +6937,16 @@ http://www.directexpose.com/disappearance-new-evidence-natalee-holloway/?utm_sou
 http://fortune.com/2017/06/21/walmart-amazon-whole-foods/ :: (timeout)
 https://dzone.com/articles/maven-vs-gradle-one-year-later :: (Could not determine)
 https://gist.github.com/ncerny/b1b1a8ddde51d6e32576 :: Install chefdk with brew ? GitHub
+http://faculty.marianopolis.edu/c.belanger/quebechistory/Historicalcontext.html :: Historical context
+https://www.google.com/search?q=cars+in+america+before+air+conditioning&rlz=1CDGOYI_enUS750US750&oq=cars+in+america+before+air+conditioning&aqs=chrome..69i57.11996j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: cars in america before air conditioning - Google Search
+https://www.google.com/search?q=every+truth+has+a+time+component&oq=every+truth+has+a+time+component&aqs=chrome..69i57.5179j0j7&sourceid=chrome&ie=UTF-8 :: every truth has a time component - Google Search
+https://www.google.com/search?q=news+is+just+entertainment&oq=news+is+just+e&aqs=chrome.0.0j69i57j0l4.2799j0j7&sourceid=chrome&ie=UTF-8 :: news is just entertainment - Google Search
+https://www.google.com/search?q=politics+is+just+entertainment&oq=politics+is+just+entertainment&aqs=chrome..69i57.8014j0j7&sourceid=chrome&ie=UTF-8 :: politics is just entertainment - Google Search
+https://en.wikipedia.org/wiki/Apache_JServ_Protocol :: Apache JServ Protocol - Wikipedia
+https://forums.aws.amazon.com/message.jspa?messageID=174828 :: (Could not determine)
+https://www.google.com/search?q=rabbit+hole+productivity&oq=rabbit+hole+productivity&aqs=chrome..69i57.3642j0j7&sourceid=chrome&ie=UTF-8 :: rabbit hole productivity - Google Search
+https://learn.chef.io/modules/learn-the-basics/ubuntu/bring-your-own-system/make-your-recipe-more-manageable#/ :: Make your recipe more manageable - Learn the Chef basics on Ubuntu on your own system - Learn the Chef basics on Ubuntu - Learn the Chef basics - Modules | Learn Chef
+https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory :: bash - How can I ssh directly to a particular directory? - Stack Overflow
+https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770 :: amazon ec2 - Apache server on EC2 responds on localhost but not public IP - Server Fault
+https://www.amazon.com/forum/-/Tx33RHAY962KVM6/1?source&asin=B00DCEBLP4 :: Amazon.com: Questions And Answers: what size pin connector does this unit use? 2.0 mm? 2.5? 3.5?
+https://en.wiktionary.org/wiki/unplayable :: unplayable - Wiktionary

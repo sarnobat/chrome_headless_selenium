@@ -289,6 +289,7 @@ http://evolibri.com/career-counseling-job-development/
 http://executive.mit.edu/openenrollment/program/platform-strategy-building-and-thriving-in-a-vibrant-ecosystem/#.WIJp27YrLOR
 http://experienceunlimitedsanfrancisco.weebly.com/
 http://f22.videoup.net/vfile/39/4/9gxggjgr4/video240.mp4?hash=svp1P_F-63DN3wUQCNydRA
+http://faculty.marianopolis.edu/c.belanger/quebechistory/Historicalcontext.html
 http://familycommunity.church/event/divorcecare-group/2017-06-29/
 http://fapville.com/wp-content/uploads/2016/11/nice-boobs-flashing-at-work_016.jpeg
 http://feederio.com/files/book/14853356701531_77737a5f174e5a213e749ddbdfbb82a5.pdf
@@ -2963,6 +2964,7 @@ https://en.wikipedia.org/wiki/Agalmatophilia
 https://en.wikipedia.org/wiki/Age_disparity_in_sexual_relationships#Male_preference_for_younger_females
 https://en.wikipedia.org/wiki/AlltheWeb
 https://en.wikipedia.org/wiki/Andrew_Marr's_The_Making_of_Modern_Britain
+https://en.wikipedia.org/wiki/Apache_JServ_Protocol
 https://en.wikipedia.org/wiki/Applicative_programming_language
 https://en.wikipedia.org/wiki/Asperger's_Are_Us
 https://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Chapecoense_de_Futebol
@@ -3201,6 +3203,7 @@ https://en.wikiversity.org/wiki/Video_journalism
 https://en.wikiversity.org/wiki/Video_journalism/Telling_Stories
 https://en.wiktionary.org/wiki/pygophilia
 https://en.wiktionary.org/wiki/turn_of_phrase
+https://en.wiktionary.org/wiki/unplayable
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHecARhE6z65hPo4rMTBKIakKeETJJDq0FZp5kCujgyLy6A-chrg
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nTrNEBYS6tc2MwszuqG7sgz2G2yI1bcSvh6Fxez-Zn4ZG1RQWQ
 https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL7QKDcBu-N-hW8I6txrVgyG9Z9p6Ft5Kaq24EYFNF4N4ErAVnoA
@@ -3222,6 +3225,7 @@ https://firepad.io/#1
 https://fitandfeminist.com/2012/07/20/a-defense-of-skimpy-running-clothes/
 https://fitisafeministissue.com/2016/08/10/beach-volleyball-does-it-make-a-difference-if-the-women-choose-the-skimpy-uniforms/
 https://flippedlifestyle.com/being-frugal-is-overrated/
+https://forums.aws.amazon.com/message.jspa?messageID=174828
 https://forums.aws.amazon.com/thread.jspa?threadID=119572
 https://forums.aws.amazon.com/thread.jspa?threadID=240908
 https://forums.aws.amazon.com/thread.jspa?threadID=51225
@@ -3387,6 +3391,7 @@ https://launchpad.net/ubuntu/+source/etherwake
 https://launchpad.net/ubuntu/+source/powernap
 https://launchpad.net/ubuntu/+source/wakeonlan
 https://launchpad.net/~nathan-renniewaldock/+archive/ubuntu/qdirstat
+https://learn.chef.io/modules/learn-the-basics/ubuntu/bring-your-own-system/make-your-recipe-more-manageable#/
 https://leetcode.com/book/
 https://lh3.googleusercontent.com/xSIy3BAhHIOGnswyQFIa_CE6PCQQZmEHueqw1ia4re43B1mF26SvAvjP4oBVeAC-RXBtPC8OkpVBj3OWBOeXNQcKRv__djUvaVZrtv1yk03VnJhBFJunmyq6xkKXEfCdJ580oFtqir4dZkCkgqSdBFiE0uv-HaMZQkzZ6VQkKIfZdHSsPq9-BJi5x2x3y6z6lbufCcB_yQGI1E1jUrDdU2m9cq416PXpnhDajEM8ozulUKeARkhc9SHB4ZcVBFMdPgQPpbuTOhniytw-lgVuK9Z6071sCHH_U0pOa5VPUbo0SAcH7L2wYfvyXIN6NWqzHpuDVRnpfyiLNS_SJFgmjaF1d_GiJY8_t97SgiKNCcVTg_5RoDLax3AaL86A0851DBU9ebjjxrQDOAKk-VimosfQB4xfOd71JHz9LZZKaYBtKJTgf4-iw0E_1IK0v7NiaFIAkgdvw9GKWhxG8LYcaRrtzx6GJJchTLp8uwlZkWDLsFG2QO2HN0hntpAodt6Smd6yjUk5cFfCMxTPJRLIwsPX3pM7entlKu80uacJbmRnv62L3ZSs_dwjRsuGJWO1ZWAvJenVFAd7dZUo4QJye6Dkjq9GKlWj0TLQSIAP9RvYtQv6HLJW=w800-h1052-no
 https://lh4.googleusercontent.com/5Xc092FqTJo1X2yw8Q5NiyJC1Oq5Vf8NF9NKO5X3p5U=w481-h488-no
@@ -3545,6 +3550,7 @@ https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-lan
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
 https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
+https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770
 https://shapeshed.com/unix-join/
 https://simpleprogrammer.com/2017/02/20/jobs-job-titles/
 https://simplycharlottemason.com/scmforum/topic/cutting-off-spines-of-paperback-books/
@@ -3599,6 +3605,7 @@ https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transac
 https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get-arg-numeric-what-is-that
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
+https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 https://stackoverflow.com/questions/796319/strengths-of-shell-scripting-compared-to-python
 https://stackoverflow.com/questions/7967918/illegal-string-body-character-after-dollar-sign
 https://stackoverflow.com/questions/820888/java-rtsp-client-server-library
@@ -3793,6 +3800,7 @@ https://www.amazon.com/forum/-/Tx1DZVZEDCMWLR9/1/ref=cm_cd_naredir?_encoding=UTF
 https://www.amazon.com/forum/-/Tx1F3JYA9Q514RL/-/ref=ask_dp_lsw_al_hza?asin=B01I17W2YK
 https://www.amazon.com/forum/-/Tx1M0FBPZ0PKRBE/ref=ask_dp_dpmw_al_hza?asin=B00IT1WJZQ
 https://www.amazon.com/forum/-/Tx2EL4FKWGCVGII/-/ref=ask_dp_lsw_al_hza?asin=B01I17W2YK
+https://www.amazon.com/forum/-/Tx33RHAY962KVM6/1?source&asin=B00DCEBLP4
 https://www.amazon.com/forum/-/Tx3QUEBKOIPI152/1/ref=cm_cd_naredir?_encoding=UTF8&asin=B00556F8BU&cdItems=25&cdNewQuestion=1&store=generic&cdPenName=
 https://www.amazon.com/forum/-/TxE93XOVSG39GM/-/ref=ask_dp_lsw_al_hza?asin=B01FWAZEIU
 https://www.amazon.com/gp/aw/review/B013VZ27QK/R25TGVIGFVWBPZ/ref=cm_cr_dp_mb_rvw_1?ie=UTF8&cursor=1
@@ -4380,6 +4388,7 @@ https://www.google.com/search?q=can+you+sue+a+child+for+bullying&rlz=1CDGOYI_enU
 https://www.google.com/search?q=capitalism+drives+innovation&rlz=1CDGOYI_enUS590US590&oq=capitalism+innovation&aqs=chrome.1.69i57j0l3j69i60l2.3384j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=capitalist+warfare&oq=capitalist+warfare&aqs=chrome..69i57.3036j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=cards+dealt+in+life+quotes&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjloc62rMvTAhUR4mMKHT7QBa0Q_AUICSgA&biw=1095&bih=703&dpr=1
+https://www.google.com/search?q=cars+in+america+before+air+conditioning&rlz=1CDGOYI_enUS750US750&oq=cars+in+america+before+air+conditioning&aqs=chrome..69i57.11996j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=catalog+showroom+stores&oq=Catalog+showroom&aqs=chrome.1.69i57j0l5.4114j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=central+coherence+theory&rlz=1CDGOYI_enUS590US590&oq=central+coherence+the&aqs=chrome.1.69i57j0l3.8361j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=change+adsense+style&oq=change+adsense+style&aqs=chrome..69i57j0.3528j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -4458,6 +4467,7 @@ https://www.google.com/search?q=etf+voting+rights&rlz=1CDGOYI_enUS590US590&oq=et
 https://www.google.com/search?q=etrade+buy+bonds&rlz=1CDGOYI_enUS590US590&oq=etrade+buy+&aqs=chrome.0.0j69i57j0l2.4808j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=etymology+rubbish&rlz=1CDGOYI_enUS590US590&oq=etymology+rubb&aqs=chrome.2.69i57j0l3.6017j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=event+sourcing&rlz=1CDGOYI_enUS590US590&oq=event+sourcing&aqs=chrome..69i57j0l3.5263j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=every+truth+has+a+time+component&oq=every+truth+has+a+time+component&aqs=chrome..69i57.5179j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=everybody%27s+life+is+better+than+mine&oq=everybody%27s+life+&aqs=chrome.2.69i57j0l5.12323j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=everyone+friend+is+a+%22convenience+friend%22&oq=everyone+friend+is+a+%22convenience+friend%22&aqs=chrome..69i57.8458j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=everyone+friend+is+a+%22convenience+friendship%22&oq=everyone+friend+is+a+%22convenience+friendship%22&aqs=chrome..69i57.1751j0j7&sourceid=chrome&ie=UTF-8
@@ -4622,6 +4632,7 @@ https://www.google.com/search?q=never+had+my+boobs+sucked&oq=never+had+my+boobs+
 https://www.google.com/search?q=new+gen+podcast&rlz=1CDGOYI_enUS590US590&oq=new+gen+podc&aqs=chrome.1.69i57j0l3.9343j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=new+york+liverpool+architecture+similarity&oq=new+york+liverpool+architecture+similarity&aqs=chrome..69i57j69i64l3.7051j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=new+york+to+london+by+ship&rlz=1CDGOYI_enUS590US590&oq=new+york+to+london+by+&aqs=chrome.1.69i57j0l3.14871j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=news+is+just+entertainment&oq=news+is+just+e&aqs=chrome.0.0j69i57j0l4.2799j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=nobody+speak+documentary+hogan&num=40&espv=2&biw=1285&bih=736&source=lnms&sa=X&ved=0ahUKEwjd2J_9kdzRAhUL5WMKHU_pCREQ_AUIBygA&dpr=2
 https://www.google.com/search?q=noche+de+estrellas+esmeralda+pimentel&safe=off&biw=1288&bih=643&source=lnms&sa=X&ved=0ahUKEwjCxqr-sP_QAhXIqlQKHRGxCIkQ_AUIBygA&dpr=1
 https://www.google.com/search?q=nosql+plaintext&rlz=1CDGOYI_enUS590US590&oq=nosql+plaintext&aqs=chrome..69i57.9882j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4646,11 +4657,13 @@ https://www.google.com/search?q=peltier&rlz=1CDGOYI_enUS590US590&oq=peltier+&aqs
 https://www.google.com/search?q=people+jumping+from+twin+towers&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ9efr68_TAhXHhlQKHWY0DNUQ_AUICigC&biw=320&bih=492#imgrc=e_hwY0rdynWKMM:&spf=174
 https://www.google.com/search?q=plaintext+branding&rlz=1CDGOYI_enUS590US590&oq=plaintext+branding&aqs=chrome..69i57.3931j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=plot+vs+story&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfxpX_9snRAhXBsFQKHfQ0DwIQ_AUICSgD&biw=320&bih=492#imgrc=tGm038gMbMelfM%3A
+https://www.google.com/search?q=politics+is+just+entertainment&oq=politics+is+just+entertainment&aqs=chrome..69i57.8014j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=power+of+pussy&rlz=1CDGOYI_enUS590US590&oq=power+of+pussy&aqs=chrome..69i57.7292j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=preachy&oq=preachy&aqs=chrome..69i57j0l5.223j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=pretotype+dogfood&oq=pretotype+dogfood&aqs=chrome..69i57.2167j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=pro+wrestling+talk+radio+podcast&rlz=1CDGOYI_enUS590US590&oq=prowredylinh+talk&aqs=chrome.3.69i57j0l3.8979j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=progressive+web+applications&rlz=1CDGOYI_enUS590US590&oq=progressive+web+applic&aqs=chrome.0.0j69i57j0l2.9332j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=rabbit+hole+productivity&oq=rabbit+hole+productivity&aqs=chrome..69i57.3642j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=racist+analytics&oq=racist+analytics&aqs=chrome..69i57.5111j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=ranieri+resigns+antic+takes+over+again+2000&num=40&espv=2&biw=2203&bih=1030&ei=omCbWI_lHObl0gKqprPwCQ&start=80&sa=N
 https://www.google.com/search?q=rant+blog&oq=rant+blog&aqs=chrome..69i57j0l5.1281j0j7&sourceid=chrome&ie=UTF-8
