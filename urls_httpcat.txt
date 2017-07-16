@@ -232,6 +232,7 @@ http://dev.deluge-torrent.org/wiki/UserGuide/Service/Upstart
 http://dev.deluge-torrent.org/wiki/UserGuide/ThinClient
 http://dev.solita.fi/2015/10/15/goodbye-glasspath-java-9.html
 http://diariodeportivogolazohonduras.blogspot.com/2013/01/la-la-coneja-cardona-un-grande-que-jugo.html
+http://dictionary.cambridge.org/us/dictionary/english/caught-in-the-crossfire
 http://dictionary.cambridge.org/us/dictionary/english/pie-in-the-sky
 http://dictionary.cambridge.org/us/dictionary/english/smoke-someone-out
 http://directory.apache.org/apacheds/
@@ -497,6 +498,7 @@ http://lifehacker.com/5812427/asciiflow-makes-flow-charts-in-ascii-text
 http://lifehacker.com/5894523/how-many-hours-do-you-work-per-week-hint-if-its-over-40-you-may-have-a-problem
 http://lifehacker.com/5964031/doxie-go-scans-all-your-paper-goes-everywhere-and-syncs-with-many-popular-cloud-apps
 http://lifehacker.com/good-investing-is-usually-quite-boring-1714188969
+http://linuxcommand.org/man_pages/formail1.html
 http://lionofviennasuite.sbnation.com/2017/4/17/15323936/blog-the-bizarre-rise-and-rise-of-marcos-alonso
 http://livehealthy.chron.com/causes-women-flat-butt-6995.html
 http://localjobs.sulekha.com/search?l=cerritos-ca&jt=1&cm=city&q=java
@@ -514,6 +516,7 @@ http://mahatma-t-rex.blogspot.com/2015_07_01_archive.html
 http://manpages.ubuntu.com/manpages/precise/man5/mailname.5.html
 http://manpages.ubuntu.com/manpages/wily/man1/grc.1.html
 http://manpages.ubuntu.com/manpages/wily/man1/powerwake.1.html
+http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
 http://manpages.ubuntu.com/manpages/yakkety/man1/csv2rec.1.html
 http://mantalks.com/masculine-men-protect-womens-feminine-energy/
 http://marmaro.de/docs/studium/unix-phil/unix-phil.pdf
@@ -663,6 +666,7 @@ http://podbay.fm/show/1137115592
 http://podbay.fm/show/1171085891
 http://podbay.fm/show/629984240
 http://podbay.fm/show/668555687/e/1394724822?autostart=1
+http://podcasts.files.bbci.co.uk/b006qnmr.rss
 http://poddirectory.com/podcast/85179/a-conversation-with-gangaji
 http://podtail.com/podcast/e-c-s-pod-of-awesomeness/
 http://popculture.com/wwe/2017/06/06/smith-hart-posts-emotional-message-after-entering-hospice/
@@ -1438,6 +1442,7 @@ http://www.bbc.co.uk/programmes/b006qy05/episodes/downloads
 http://www.bbc.co.uk/programmes/b03b51db/episodes/guide
 http://www.bbc.co.uk/programmes/b07g70j1
 http://www.bbc.co.uk/programmes/b07g70j1/episodes/guide
+http://www.bbc.co.uk/programmes/b08xxfz3
 http://www.bbc.co.uk/programmes/p02p9f7d/episodes/downloads.rss
 http://www.bbc.co.uk/programmes/p04ht73b
 http://www.bbc.co.uk/programmes/p05593y9
@@ -1449,6 +1454,7 @@ http://www.bbc.com/news/blogs-ouch-28746359
 http://www.bbc.com/news/business-30532463
 http://www.bbc.com/news/entertainment-arts-29205286
 http://www.bbc.com/news/entertainment-arts-39149127
+http://www.bbc.com/news/magazine-35993633
 http://www.bbc.com/news/uk-wales-35719731
 http://www.bbc.com/news/world-latin-america-38140981
 http://www.bbc.com/sport/football/38142966
@@ -2812,6 +2818,7 @@ https://audioboom.com/channels/4909224.rss
 https://audioboom.com/posts/5940900-liverpool-snatch-4th-spot-from-arsenal?t=0
 https://autismawarenesscentre.com/speakers/joyce-cooper-kahn/
 https://aws.amazon.com/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/
+https://aws.amazon.com/blogs/ses/receiving-email-with-amazon-ses/
 https://aws.amazon.com/developers/getting-started/browser/
 https://aws.amazon.com/efs/?p=tile
 https://aws.amazon.com/kinesis/firehose/
@@ -2969,6 +2976,7 @@ https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account
 https://developer.intuit.com/v2/ui#/app/appdetail/b7r6ggz2yu/b7r6ggz22t/development
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values
 https://developer.yodlee.com/API_Resources/Sample_Code
 https://developers.google.com/custom-search-ads/docs/implementation-guide
@@ -3428,6 +3436,8 @@ https://github.com/sananth12/ImageScraper
 https://github.com/shundhammer/qdirstat/blob/master/doc/QDirStat-for-Servers.md
 https://github.com/skycocker/chromebrew/tree/master/packages
 https://github.com/skycocker/chromebrew/tree/master/packages
+https://github.com/stedolan/jq/issues/1110
+https://github.com/stedolan/jq/issues/206
 https://github.com/stedolan/jq/issues/42
 https://github.com/stoicflame/ofx4j
 https://github.com/substack/stream-handbook
@@ -3496,6 +3506,7 @@ https://issues.apache.org/jira/browse/MESOS-6390
 https://issues.apache.org/jira/browse/MESOS-6458
 https://it.slashdot.org/story/14/12/01/1958230/workers-on-autism-spectrum-finding-careers-in-software-testing
 https://itunes.apple.com/do/album/vaya-cristo!/id1066898411
+https://itunes.apple.com/gb/podcast/desert-island-discs/id342735925?mt=2
 https://itunes.apple.com/gb/podcast/the-blizzard/id968673096?mt=2
 https://itunes.apple.com/ie/podcast/the-stand/id1178026212?mt=2
 https://itunes.apple.com/us/podcast/a-converstation-with-gangaji/id569185235
@@ -3679,6 +3690,7 @@ https://security.stackexchange.com/questions/30843/how-to-store-a-private-rsa-ke
 https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
+https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server
 https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
 https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770
 https://shapeshed.com/unix-join/
@@ -3717,6 +3729,7 @@ https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-services
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
+https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
@@ -3727,12 +3740,18 @@ https://stackoverflow.com/questions/2644179/accenture-interview-question-find-th
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/29728151/how-to-listen-for-multiple-tcp-connection-using-nc
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
+https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
 https://stackoverflow.com/questions/3452/sql-client-for-mac-os-x-that-works-with-ms-sql-server
+https://stackoverflow.com/questions/35154684/use-jq-to-parse-a-json-string
+https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081
 https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview
 https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library#
+https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
+https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
+https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
 https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get-arg-numeric-what-is-that
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
@@ -3748,14 +3767,17 @@ https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df
 https://storageservers.wordpress.com/2015/12/14/the-rise-of-scale-out-network-attached-storage/
 https://storageservers.wordpress.com/2015/12/14/the-rise-of-scale-out-network-attached-storage/
 https://stv.tv/sport/football/clubs/celtic/283862-atletico-v-celtic-1974-why-theres-history/
+https://superuser.com/questions/1003788/reboot-linux-via-netcat
 https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell
 https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/14762/execute-applescript-without-open-the-editor
+https://superuser.com/questions/187106/extract-save-a-mail-attachment-using-bash
 https://superuser.com/questions/401926/how-to-get-shiftarrows-and-ctrlarrows-working-in-vim-in-tmux
 https://superuser.com/questions/442849/why-do-i-see-operation-was-denied-because-the-current-credentials-do-not-have-t
 https://superuser.com/questions/446401/power-issues-foxconn-barebones-kit
 https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs#
 https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs#
+https://superuser.com/questions/503784/loading-local-shell-aliases-to-ssh-session-dynamicaly/1078431#1078431
 https://superuser.com/questions/527495/how-to-mount-partition-with-spaces-in-path
 https://superuser.com/questions/552445/formatting-of-the-diff-output
 https://superuser.com/questions/553238/using-dd-to-copy-partition-to-another-partition-while-using-physical-drive
@@ -3888,6 +3910,8 @@ https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://unix.stackexchange.com/questions/37773/recover-many-files-using-ntfsundelete
+https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
+https://unix.stackexchange.com/questions/378604/bind-to-string-with-escaped-double-quotes
 https://unsolved.com/?season=season-5-amazon-Dennis%20Farina
 https://upload.wikimedia.org/wikipedia/commons/f/f2/Stocks_and_Flows.svg
 https://upload.wikimedia.org/wikipedia/it/f/fe/Stadio-santelia.jpeg
@@ -4408,6 +4432,7 @@ https://www.google.com/search?num=40&q=why+british+english+and+american+english+
 https://www.google.com/search?num=40&q=why+customers+defected+from+microsoft+windows&oq=why+customers+defected+from+microsoft+windows&gs_l=serp.3...5994.9693.0.10447.15.14.1.0.0.0.111.1218.11j3.14.0....0...1.1.64.serp..1.9.748...30i10k1.t3eriOXrJM4
 https://www.google.com/search?num=40&q=why+did+apple+darken+grey+metallic+look&oq=why+did+apple+darken+grey+metallic+look&gs_l=serp.3...1379.2146.0.4690.6.6.0.0.0.0.85.393.6.6.0....0...1.1.64.serp..0.2.147...30i10k1.x95BtO_gJmc
 https://www.google.com/search?num=40&q=why+is+competitive+eating+a+sport&oq=why+is+competitive+eating&gs_l=serp.3.0.0l2j0i22i30k1l4.9467.12291.0.20714.25.21.0.4.4.0.165.2215.10j10.20.0....0...1c.1.64.serp..1.24.2218...35i39k1j0i20k1j0i131k1j0i67k1j0i3k1.RyAQHLIgyX0
+https://www.google.com/search?num=40&q=xarelto+blood+thinner+death&oq=xarelto+blood+thinner+death&gs_l=serp.3..33i21k1.3270.4112.0.4391.6.6.0.0.0.0.136.567.4j2.6.0....0...1.1.64.serp..0.6.565...0j0i22i30k1j33i160k1.gE1f-C3liOI
 https://www.google.com/search?num=40&q=youtube+start+video+manually&oq=youtube+start+video+manually&gs_l=serp.3...6849.15125.0.15392.39.33.2.0.0.0.262.3926.6j12j8.26.0....0...1.1.64.serp..11.26.3705...0j35i39k1j0i22i30k1j0i22i10i30k1j0i20k1j33i21k1j33i160k1.zfHpnCOSrrE
 https://www.google.com/search?num=40&rlz=1CAASUA_enUS721US723&q=chrome+os+screen++blank+idle&oq=chrome+os+screen++blank+idle&gs_l=serp.3...34774.47132.0.47346.29.28.0.1.1.0.134.2614.23j5.28.0....0...1c.1.64.serp..2.26.2291...0j0i22i30k1j35i39k1j0i20k1j0i67k1j0i7i30k1j0i10k1j33i21k1j33i160k1.1fiTOTGJfpc
 https://www.google.com/search?num=40&rlz=1CAASUA_enUS721US723&q=hbr+ubuntu+&oq=hbr+ubuntu+&gs_l=serp.3..35i39k1.35480.36947.0.37303.2.2.0.0.0.0.102.201.1j1.2.0....0...1c.1.64.serp..0.2.199...33i160k1.8dc0AkdHqOQ
@@ -4460,6 +4485,7 @@ https://www.google.com/search?q=active+active&rlz=1CDGOYI_enUS590US590&oq=active
 https://www.google.com/search?q=ad+servers+for+your+web+application&oq=ad+servers+for+your+web+application&aqs=chrome..69i57.19095j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=adsense+minimal+site+requirements&oq=adsense+minimal+site+requirements&aqs=chrome..69i57.5389j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=advantages+of+seattle+over+bay+area&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nisv&ei=rZ4OWaiKNYm4jwOmmLqADg&start=10&sa=N&biw=320&bih=548#spf=1
+https://www.google.com/search?q=agassi+hair+symbolic+era&oq=agassi+hair+symbolic+era&aqs=chrome..69i57.4803j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=age+of+autism+diagnosis+chart&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nisv&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimkNPitqLTAhWmrlQKHXtSAzYQ_AUICCgC&biw=320&bih=492
 https://www.google.com/search?q=al+gore+investment+fund&rlz=1CDGOYI_enUS590US590&oq=al+gorw+inves&aqs=chrome.1.69i57j0l3.6810j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=alpha+maximum+gradient+investing&num=40&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUn7WrvuPQAhVS02MKHRj4BwwQ_AUICSgC&biw=1189&bih=761#imgrc=F8LifDwOvYJ1MM%3A
@@ -4866,6 +4892,7 @@ https://www.google.com/search?q=stinger+music&rlz=1CDGOYI_enUS590US590&oq=stinge
 https://www.google.com/search?q=stock+bounce&rlz=1CDGOYI_enUS590US590&oq=stoxk+boun&aqs=chrome.1.69i57j0l3.5128j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=stop+blaming+men+for+objectification&oq=stop+blaming+men+for+objectification&aqs=chrome..69i57.6389j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=story+spine+ken+adams&oq=story+spine+ken+a&aqs=chrome.1.69i57j0.3311j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=streptokinase+death&oq=streptokinase+death&aqs=chrome..69i57.4631j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=svg+animation+css&rlz=1CDGOYI_enUS590US590&oq=svg+anim&aqs=chrome.2.69i57j0l3.4939j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=synaptic+plasticity+autism&rlz=1CDGOYI_enUS590US590&oq=synaptic+plasticity+auti&aqs=chrome.1.69i57j0.9303j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=synergy+and+diversification&rlz=1CDGOYI_enUS590US590&oq=synergy+vs+diver&aqs=chrome.1.69i57j0.8514j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5516,6 +5543,7 @@ https://www.quora.com/If-a-phone-is-in-Airplane-Mode-will-alarms-still-work
 https://www.quora.com/Is-Ariel-Winter-getting-fat
 https://www.quora.com/Is-TL-DR-the-new-executive-summary
 https://www.quora.com/Is-a-house-in-East-Palo-Alto-a-good-investment
+https://www.quora.com/Is-iconic-the-most-overused-word-in-the-English-language-today
 https://www.quora.com/Is-it-better-as-an-investment-to-buy-one-expensive-house-or-various-cheaper-ones#
 https://www.quora.com/Is-it-legal-to-shoot-a-burglar-in-your-own-house
 https://www.quora.com/Is-it-proper-to-say-real-quick-in-American-English

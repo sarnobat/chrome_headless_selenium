@@ -6950,3 +6950,29 @@ https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particula
 https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770 :: amazon ec2 - Apache server on EC2 responds on localhost but not public IP - Server Fault
 https://www.amazon.com/forum/-/Tx33RHAY962KVM6/1?source&asin=B00DCEBLP4 :: Amazon.com: Questions And Answers: what size pin connector does this unit use? 2.0 mm? 2.5? 3.5?
 https://en.wiktionary.org/wiki/unplayable :: unplayable - Wiktionary
+https://superuser.com/questions/503784/loading-local-shell-aliases-to-ssh-session-dynamicaly/1078431#1078431 :: linux - loading local shell aliases to ssh session dynamicaly - Super User
+https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile :: dot files - Bash use alternate dotfile? - Unix &amp; Linux Stack Exchange
+https://unix.stackexchange.com/questions/378604/bind-to-string-with-escaped-double-quotes :: bash - bind to string with escaped double-quotes - Unix &amp; Linux Stack Exchange
+http://podcasts.files.bbci.co.uk/b006qnmr.rss :: (Could not determine)
+http://www.bbc.co.uk/programmes/b08xxfz3 ::  BBC Radio 4 - Desert Island Discs, John McEnroe
+https://itunes.apple.com/gb/podcast/desert-island-discs/id342735925?mt=2 :: Desert Island Discs by BBC on Apple Podcasts
+http://www.bbc.com/news/magazine-35993633 :: The Vocabularist: Is there anything wrong with 'iconic'? - BBC News
+https://www.quora.com/Is-iconic-the-most-overused-word-in-the-English-language-today :: Is 'iconic' the most overused word in the English language today? - Quora
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random :: Math.random() - JavaScript | MDN
+https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url :: javascript - Get text from a txt file in the url - Stack Overflow
+https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery :: Set value of textarea in jQuery - Stack Overflow
+https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage :: html - simple way to display data in a .txt file on a webpage? - Stack Overflow
+https://www.google.com/search?num=40&q=xarelto+blood+thinner+death&oq=xarelto+blood+thinner+death&gs_l=serp.3..33i21k1.3270.4112.0.4391.6.6.0.0.0.0.136.567.4j2.6.0....0...1.1.64.serp..0.6.565...0j0i22i30k1j33i160k1.gE1f-C3liOI :: xarelto blood thinner death - Google Search
+https://www.google.com/search?q=agassi+hair+symbolic+era&oq=agassi+hair+symbolic+era&aqs=chrome..69i57.4803j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: agassi hair symbolic era - Google Search
+https://www.google.com/search?q=streptokinase+death&oq=streptokinase+death&aqs=chrome..69i57.4631j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: streptokinase death - Google Search
+http://dictionary.cambridge.org/us/dictionary/english/caught-in-the-crossfire :: caught in the crossfire Definition in the Cambridge English Dictionary
+https://github.com/stedolan/jq/issues/1110 :: jq prints help when piping output ? Issue #1110 ? stedolan/jq ? GitHub
+https://github.com/stedolan/jq/issues/206 :: Feature request: option for unbuffered output ? Issue #206 ? stedolan/jq ? GitHub
+https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline :: pipe - How to use `jq` in a shell pipeline? - Stack Overflow
+https://stackoverflow.com/questions/35154684/use-jq-to-parse-a-json-string :: Use jq to parse a JSON String - Stack Overflow
+https://aws.amazon.com/blogs/ses/receiving-email-with-amazon-ses/ :: Receiving Email with Amazon SES | Amazon SES Blog
+https://superuser.com/questions/187106/extract-save-a-mail-attachment-using-bash :: linux - Extract/save a mail attachment using bash - Super User
+https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server :: Receive emails on Amazon EC2 Server - Server Fault
+http://linuxcommand.org/man_pages/formail1.html :: formail
+https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116 :: linux - Parse mail's body using mailx and bash scripting - Stack Overflow
+https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081 :: maildir - Extract only the body part of incoming emails using bash - Stack Overflow
