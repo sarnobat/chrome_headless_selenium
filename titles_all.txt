@@ -6976,3 +6976,16 @@ https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server :: 
 http://linuxcommand.org/man_pages/formail1.html :: formail
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116 :: linux - Parse mail's body using mailx and bash scripting - Stack Overflow
 https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081 :: maildir - Extract only the body part of incoming emails using bash - Stack Overflow
+http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html :: (Could not determine)
+https://superuser.com/questions/1003788/reboot-linux-via-netcat :: Reboot Linux via netcat? - Super User
+http://thoughtcatalog.com/holden-desalles/2014/03/19-women-reveal-the-male-body-part-theyre-just-as-obsessed-with-as-dudes-are-with-boobs/ :: 19 Women Reveal The Male Body Part They?re Just As Obsessed With As Dudes Are With Boobs | Thought Catalog
+https://en.m.wikipedia.org/wiki/Ad_hominem :: Ad hominem - Wikipedia
+http://www.dictionary.com/browse/solitary-confinement :: (timeout)
+http://www.urbandictionary.com/define.php?term=goat :: (timeout)
+http://media.istockphoto.com/photos/sexy-girl-on-the-basketball-court-picture-id498119438 :: sexy-girl-on-the-basketball-court-picture-id498119438 (683?1024)
+http://www.goal.com/en/news/12/spanish-football/2015/05/20/11904832/ronaldo-is-nadal-messi-is-federer-cassano :: (timeout)
+https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo :: (timeout)
+http://cdn.newsapi.com.au/image/v1/65a8dc37511c4e0936d4361305ef3b75?width=650 :: 65a8dc37511c4e0936d4361305ef3b75 (650?488)
+http://www.dailymail.co.uk/femail/article-4322016/Size-6-model-accused-PHOTOSHOPPING-friend-hits-back.html :: Size 6 model accused of PHOTOSHOPPING friend hits back | Daily Mail Online
+http://www.slate.com/blogs/xx_factor/2016/06/29/nike_s_wimbledon_dress_raises_the_question_why_do_women_still_play_tennis.html :: (timeout)
+http://www.slate.com/articles/arts/culturebox/2001/07/athletes_in_skirts.html :: Athletes in Skirts

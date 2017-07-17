@@ -177,6 +177,7 @@ http://cats.about.com/od/faqsbehavior/f/nomeow.htm
 http://cavaliercoder.com/blog/dmidecode-for-apple-osx.html
 http://cdn-03.independent.ie/business/farming/ploughing-championships/article30831543.ece/cb13a/AUTOCROP/w620/I
 http://cdn.ghanasoccernet.com/2017/04/469157-9776a212aebf84a9cdd6642ff7717e86fa78ab5e.jpeg
+http://cdn.newsapi.com.au/image/v1/65a8dc37511c4e0936d4361305ef3b75?width=650
 http://cdn.newsapi.com.au/image/v1/857fce535cfcc436bca175665b18970e?width=650
 http://cdn.newsapi.com.au/image/v1/e0957994917ef74dbfc5f0bdeab20d30?width=1024
 http://cdn.photogyps.com/thumbnail/OIP.P9rto5jCOpCzVlEjIXKwNgDIEs
@@ -541,6 +542,7 @@ http://media.gettyimages.com/photos/woman-in-a-park-picture-id144449585?k=6&m=14
 http://media.gettyimages.com/photos/young-preteen-girl-picture-id139655961?s=170667a
 http://media.gettyimages.com/photos/young-teen-girl-picture-id157437645?s=170667a
 http://media.istockphoto.com/photos/preteen-girl-spending-time-with-her-father-at-beach-picture-id180837983
+http://media.istockphoto.com/photos/sexy-girl-on-the-basketball-court-picture-id498119438
 http://mediapub.it.ox.ac.uk/feeds/129191/audio.xml
 http://members.shaw.ca/wrestling-brent/WrestlingTapes.htm
 http://mentalfloss.com/article/29669/why-do-some-radio-stations-begin-k-and-others-w
@@ -1111,6 +1113,7 @@ http://thewellnessdigest.com/flexor-digitorum-longus-muscle-foot-and-toe-pain/
 http://thewellnessdigest.com/quadratus-plantae-muscle-heel-pain/
 http://thewhyaxis.info/hairball/
 http://thoughtcatalog.com/charlie-shaw/2014/06/30-guys-reveal-the-things-girls-think-they-dont-notice-but-they-actually-do/
+http://thoughtcatalog.com/holden-desalles/2014/03/19-women-reveal-the-male-body-part-theyre-just-as-obsessed-with-as-dudes-are-with-boobs/
 http://thoughtcatalog.com/jill-neumann/2013/07/the-double-standard-how-women-contribute-to-their-own-objectification/
 http://thoughtcatalog.com/justin-hook/2012/09/12-reasons-you-should-never-meet-your-hero/
 http://thoughtcatalog.com/lance-pauker-stephanie-karina/2014/03/what-should-you-do-when-your-crush-asks-you-for-relationship-advice-plus-when-youve-gotta-keep-it-a-secret/
@@ -1598,6 +1601,7 @@ http://www.dailymail.co.uk/femail/article-2128446/Has-fashion-hit-rock-Designers
 http://www.dailymail.co.uk/femail/article-3243803/Research-shows-men-attracted-women-early-20s-no-matter-old-get.html
 http://www.dailymail.co.uk/femail/article-3474468/Is-way-sleep-giving-wrinkles-bed-position-aging-avoid-waking-fine-lines.html
 http://www.dailymail.co.uk/femail/article-4032622/Women-reveal-prefer-man-touch-feminine-side.html
+http://www.dailymail.co.uk/femail/article-4322016/Size-6-model-accused-PHOTOSHOPPING-friend-hits-back.html
 http://www.dailymail.co.uk/health/article-1382217/Why-crave-junk-food-fruit-veg.html
 http://www.dailymail.co.uk/health/article-2546975/One-twin-gave-sugar-gave-fat-Their-experiment-change-YOUR-life.html
 http://www.dailymail.co.uk/health/article-3766837/Why-men-hot-women-cold-body-fat-hormones-explain-causes-great-gender-temperature-divide.html
@@ -1659,6 +1663,7 @@ http://www.dictionary.com/browse/rhetoric
 http://www.dictionary.com/browse/rite-of-passage
 http://www.dictionary.com/browse/sadism
 http://www.dictionary.com/browse/schmuck
+http://www.dictionary.com/browse/solitary-confinement
 http://www.digitaldesire.com/?nats=ODQyMy4xMDA1MS4xLjEuMC4wLjAuMC4w
 http://www.digitales.us/resources/documentary-and-docudrama/
 http://www.diminishedvalueca.com/
@@ -1812,6 +1817,7 @@ http://www.gizra.com/content/phantomjs-chrome-docker-selenium-standalone/
 http://www.glamour.com/story/true-guy-confession-what-it-fe
 http://www.gnu.org/software/bash/manual/html_node/ANSI_002dC-Quoting.html#ANSI_002dC-Quoting
 http://www.goal.com/en-us/news/55/main/2017/05/02/35140352/the-story-of-how-simeone-was-desperate-to-join-real-madrid
+http://www.goal.com/en/news/12/spanish-football/2015/05/20/11904832/ronaldo-is-nadal-messi-is-federer-cassano
 http://www.goal.com/en/news/1717/editorial/2014/11/21/5658431/debt-is-power-how-real-madrid-can-get-away-with-being-600m
 http://www.goal.com/en/news/722/la-liga/2017/03/02/33243792/gabi-bitten-by-torres-as-deportivo-doctor-praises-atletico
 http://www.goaldentimes.org/spanish-corner-the-story-of-the-mattress-makers/
@@ -2291,7 +2297,9 @@ http://www.skysports.com/internationals-fixtures
 http://www.skysports.com/la-liga-fixtures
 http://www.skysports.com/serie-a-fixtures
 http://www.skysports.com/watch/wwe-on-sky
+http://www.slate.com/articles/arts/culturebox/2001/07/athletes_in_skirts.html
 http://www.slate.com/blogs/browbeat/2012/12/27/who_coined_amazeballs_and_why_do_they_hate_humanity.html
+http://www.slate.com/blogs/xx_factor/2016/06/29/nike_s_wimbledon_dress_raises_the_question_why_do_women_still_play_tennis.html
 http://www.smartrecovery.org/resources/library/Articles_and_Essays/Self-Acceptance/Overcoming_the_Rating_Game.pdf
 http://www.smartsound.com/royalty-free-music/?search=guitar+action&x=0&y=0
 http://www.smartsound.com/royalty-free-music/Ambient/Ambient+Drama/Mars+Sunrise/
@@ -2523,6 +2531,7 @@ http://www.urbandictionary.com/define.php?term=disco
 http://www.urbandictionary.com/define.php?term=doggy%20style
 http://www.urbandictionary.com/define.php?term=fart%20box
 http://www.urbandictionary.com/define.php?term=fucktard
+http://www.urbandictionary.com/define.php?term=goat
 http://www.urbandictionary.com/define.php?term=hazing
 http://www.urbandictionary.com/define.php?term=high+heels
 http://www.urbandictionary.com/define.php?term=hole+in+the+wall
@@ -2911,6 +2920,7 @@ https://earth.stanford.edu/sites/default/files/San_Andreas_Fault_Trail.pdf
 https://eden.dei.uc.pt/~amilcar/pdf/CompilerInJava.pdf
 https://emergent.unpythonic.net/01391191549
 https://en.m.wikipedia.org/wiki/2009%E2%80%9317_Oklahoma_earthquake_swarms
+https://en.m.wikipedia.org/wiki/Ad_hominem
 https://en.m.wikipedia.org/wiki/Amsterdam_Tournament
 https://en.m.wikipedia.org/wiki/Au_pair
 https://en.m.wikipedia.org/wiki/Barker_channel
@@ -5429,6 +5439,7 @@ https://www.quora.com/Why-does-it-always-seem-that-everyone-elses-life-is-so-muc
 https://www.quora.com/Why-hasnt-East-Palo-Alto-gentrified-yet
 https://www.quora.com/Why-is-competitive-eating-a-sport
 https://www.quora.com/Why-is-it-that-most-women-get-offended-when-they-find-out-a-guy-is-having-a-good-time-by-looking-at-their-pics-or-fantasizing-about-them-eventhough-it-causes-them-no-harm
+https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/
 https://www.reddit.com/r/AskWomen/comments/17wg9a/when_hugging_a_regular_guy_or_guy_friend_do_you/

@@ -4,5 +4,3 @@
 45::http://www.ebay.com/itm/Fashion-Womens-Ladies-Off-shoulder-Long-Sleeve-Casual-Blouses-Crop-Tops-T-Shirt-/112175230775?hash=item1a1e2a2f37:g:PtgAAOSwXeJYCedk::1478582882988
 45::https://www.google.com/search?q=i%27m+obsessed+with+boys&safe=off&espv=2&biw=1309&bih=677&ei=7DMgWOi8J8uA0wLVgYfwDA&start=30&sa=N::1478582671515
 45::https://www.tumblr.com/search/i'm%20obsessed%20with%20boys%20by%20girls::1478582630638
-http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
-https://superuser.com/questions/1003788/reboot-linux-via-netcat

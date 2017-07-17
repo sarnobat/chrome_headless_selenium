@@ -6976,3 +6976,16 @@ https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server
 http://linuxcommand.org/man_pages/formail1.html
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
 https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081
+http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
+https://superuser.com/questions/1003788/reboot-linux-via-netcat
+http://thoughtcatalog.com/holden-desalles/2014/03/19-women-reveal-the-male-body-part-theyre-just-as-obsessed-with-as-dudes-are-with-boobs/
+https://en.m.wikipedia.org/wiki/Ad_hominem
+http://www.dictionary.com/browse/solitary-confinement
+http://www.urbandictionary.com/define.php?term=goat
+http://media.istockphoto.com/photos/sexy-girl-on-the-basketball-court-picture-id498119438
+http://www.goal.com/en/news/12/spanish-football/2015/05/20/11904832/ronaldo-is-nadal-messi-is-federer-cassano
+https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo
+http://cdn.newsapi.com.au/image/v1/65a8dc37511c4e0936d4361305ef3b75?width=650
+http://www.dailymail.co.uk/femail/article-4322016/Size-6-model-accused-PHOTOSHOPPING-friend-hits-back.html
+http://www.slate.com/blogs/xx_factor/2016/06/29/nike_s_wimbledon_dress_raises_the_question_why_do_women_still_play_tennis.html
+http://www.slate.com/articles/arts/culturebox/2001/07/athletes_in_skirts.html
