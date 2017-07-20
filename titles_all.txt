@@ -7072,3 +7072,18 @@ https://en.wikipedia.org/wiki/Indo-European_languages :: Indo-European languages
 https://www.acast.com/truthandmovies :: Truth &amp; Movies: A Little White Lies Podcast on acast
 https://www.cyberciti.biz/faq/linux-modify-partition-labels-command-to-change-diskname/ :: Linux Change Disk Label Name on EXT2 / EXT3 / EXT4 File Systems ? nixCraft
 https://www.cyberciti.biz/faq/linux-partition-howto-set-labels/ :: Label a Linux Partition ? nixCraft
+https://www.cyberciti.biz/faq/mount-drive-from-command-line-ubuntu-linux/ :: Ubuntu: Mount The Drive From Command Line ? nixCraft
+https://www.howtogeek.com/106873/how-to-use-fdisk-to-manage-partitions-on-linux/ :: How to Use Fdisk to Manage Partitions on Linux 
+http://www.subzin.com/quotes/S31649356d/The+Fresh+Prince+of+Bel-Air/It+Had+to+Be+You/Where+I+come+from,+manners+count+for+a+lot. :: Where I come from, manners count for a lot | It Had to Be You quotes
+https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream :: java - Recursively list all files within a directory using nio.file.DirectoryStream; - Stack Overflow
+http://evonomics.com/why-capitalism-creates-pointless-jobs-david-graeber/ :: Why Capitalism Creates Pointless Jobs - Evonomics
+http://www.apartments.com/blog/difference-between-renting-an-apartment-or-condo :: (Could not determine)
+http://www.bankrate.com/finance/mortgages/condo-loans-easier-to-get.aspx :: bankrate-logo
+http://www.bankrate.com/finance/mortgages/how-to-jump-through-condo-loan-hoops.aspx :: bankrate-logo
+http://www.express.co.uk/news/uk/265475/Inflation-makes-saving-pointless :: Inflation makes saving pointless | UK | News | Express.co.uk
+https://www.zillow.com/advice-thread/How-do-I-find-a-list-of-portfolio-lenders-in-the-Bay-Area-of-Northern-California/457940/ :: How do I find a list of portfolio lenders in the Bay Area of Northern California? - Zillow Mortgage Advice
+https://www.zillow.com/advice-thread/Refinance-my-condo-with-low-owner-occupancy/476955/ :: Refinance my condo with low owner occupancy - Zillow Mortgage Advice
+http://www.heraldscotland.com/sport/tennis/14513694.Roy_Erskine__the_former_Hibs_player_and_grandfather_of_tennis_ace_Andy_Murray__discusses_his_own_waiting_game______/ :: Roy Erskine, the former Hibs player and grandfather of tennis ace Andy Murray, discusses his own waiting game . . . (From HeraldScotland)
+https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse :: java - Maven build debug in Eclipse - Stack Overflow
+http://maven.apache.org/surefire/maven-surefire-plugin/examples/debugging.html :: Maven Surefire Plugin ? Debugging Tests
+https://askubuntu.com/questions/276911/how-to-rename-partitions/276928#276928 :: 12.10 - How to rename partitions? - Ask Ubuntu

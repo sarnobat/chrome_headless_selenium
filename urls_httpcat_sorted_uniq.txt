@@ -289,6 +289,7 @@ http://etfdb.com/mutualfund/VBINX/
 http://etfstore.com/investment-costs-boring-confusing-absolutely-critical/
 http://everydayfeminism.com/2013/04/the-difference-between-appreciation-and-objectification/
 http://evolibri.com/career-counseling-job-development/
+http://evonomics.com/why-capitalism-creates-pointless-jobs-david-graeber/
 http://executive.mit.edu/openenrollment/program/platform-strategy-building-and-thriving-in-a-vibrant-ecosystem/#.WIJp27YrLOR
 http://experienceunlimitedsanfrancisco.weebly.com/
 http://f22.videoup.net/vfile/39/4/9gxggjgr4/video240.mp4?hash=svp1P_F-63DN3wUQCNydRA
@@ -520,6 +521,7 @@ http://mathfour.com/algebra/get-the-answer-first
 http://matt.might.net/articles/what-cs-majors-should-know/
 http://maven.40175.n5.nabble.com/skip-a-single-junit-test-from-command-line-td4400476.html
 http://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html
+http://maven.apache.org/surefire/maven-surefire-plugin/examples/debugging.html
 http://mbostock.github.io/protovis/
 http://med.stanford.edu/autism.html
 http://med.stanford.edu/autismcenter/events.html
@@ -1318,6 +1320,7 @@ http://www.apartmentfinder.com/Washington/Bellevue-Apartments/Soma-Apartments
 http://www.apartmentfinder.com/Washington/Bellevue-Apartments/Venn-At-Main-Apartments-yhmthnt
 http://www.apartmentfinder.com/q/?cd=m_grhvz1sQ6xxwoB&sr=2
 http://www.apartmentratings.com/ca/east-palo-alto/runnymede-gardens-apartments_650323110694303/
+http://www.apartments.com/blog/difference-between-renting-an-apartment-or-condo
 http://www.apple.com/uk-business/shop/question/answers/product/HKMY2B/A/is-this-a-dual-voltage-monitor-can-i-use-it-in-us-and-in-europe/QA72CDXPCC4TPPUY4
 http://www.arcgis.com/home/webmap/viewer.html?useExisting=1
 http://www.artima.com/forums//forum.jsp?forum=121&start=16499&thRange=15
@@ -1367,6 +1370,8 @@ http://www.balkaninsight.com/en/article/radomir-antic-serbia-s-favourite-spaniar
 http://www.bandsintown.com/TheCorrs/past_events
 http://www.bankrate.com/finance/cd-rates-history-0112.aspx
 http://www.bankrate.com/finance/home-equity/heloc-draw-period-ending-what-to-do.aspx
+http://www.bankrate.com/finance/mortgages/condo-loans-easier-to-get.aspx
+http://www.bankrate.com/finance/mortgages/how-to-jump-through-condo-loan-hoops.aspx
 http://www.bankrate.com/financing/investing/borrowing-to-invest-in-the-market/
 http://www.barnesandnoble.com/blog/7-reasons-books-are-better-than-tv/
 http://www.barrons.com/articles/betting-on-the-cloud-tech-stocks-to-snap-up-now-1480418390
@@ -1760,6 +1765,7 @@ http://www.expandability.org/about-us/
 http://www.expandability.org/for-job-seekers/
 http://www.experienceproject.com/question-answer/Girls-Have-You-Ever-Let-A-Guy-Look-Up-Your-Skirt/1906195
 http://www.explainxkcd.com/wiki/index.php?title=1343#Explanation
+http://www.express.co.uk/news/uk/265475/Inflation-makes-saving-pointless
 http://www.express.co.uk/pictures/sport/5686/Footballers-bankrupt-riches-rags-sportgalleries
 http://www.express.co.uk/sport/football/733489/Safe-standing-explained-Premier-League-stadiums-terraces
 http://www.f4wonline.com/wwe-news/looking-effects-brand-exclusive-ppvs-wwe-ratings-230246
@@ -1851,6 +1857,7 @@ http://www.healthline.com/health/erectile-dysfunction/ed-natural-treatments#Medi
 http://www.healthyblackwoman.com/geraldo-rivera-implies-older-women-are-useless-what-a-woman-brings-to-marriage-is-her-youth/
 http://www.hecklerspray.com/britney-spears-nude
 http://www.helenioherrera.it/english-photos.html
+http://www.heraldscotland.com/sport/tennis/14513694.Roy_Erskine__the_former_Hibs_player_and_grandfather_of_tennis_ace_Andy_Murray__discusses_his_own_waiting_game______/
 http://www.hexjam.com/uk/news/snapchat-take-a-secret-screenshot-without-the-other-person-knowing
 http://www.himalayan-kitchen.com/menu.html
 http://www.history.com/topics/u-s-immigration-before-1965
@@ -2411,6 +2418,7 @@ http://www.stripersonline.com/content/type/61/id/1628498/width/1000/height/1000
 http://www.stuffmomnevertoldyou.com/blogs/do-women-have-neater-handwriting-than-men.htm
 http://www.stuffmomnevertoldyou.com/podcasts/nipple-nonsense.htm
 http://www.stylishwife.com/2015/01/sensual-backless-dresses-for-2015.html/2
+http://www.subzin.com/quotes/S31649356d/The+Fresh+Prince+of+Bel-Air/It+Had+to+Be+You/Where+I+come+from,+manners+count+for+a+lot.
 http://www.svsd.net/cms/lib5/PA01001234/Centricity/Domain/1035/Video%203%20Early%20Packet%20-%202013-14.pdf
 http://www.synonym.com/synonyms/martyrdom
 http://www.taketours.com/salt-lake-city-ut/5-day-yellowstone-national-park-mt-rushmore-grand-teton-tour-from-salt-lake-city-089-3855.html#itinerary
@@ -2735,6 +2743,7 @@ https://askjan.org/media/ASD.html
 https://askubuntu.com/questions/215505/how-do-you-monitor-the-progress-of-dd/215590#215590
 https://askubuntu.com/questions/243435/not-able-to-understand-and-map-output-of-proc-net-tcp
 https://askubuntu.com/questions/276911/how-to-rename-partitions
+https://askubuntu.com/questions/276911/how-to-rename-partitions/276928#276928
 https://askubuntu.com/questions/2799/how-to-merge-several-pdf-files
 https://askubuntu.com/questions/55352/convert-library-of-wma-tracks-to-mp3s
 https://askubuntu.com/questions/568277/how-do-i-get-past-the-libc-dependency-issues-on-12-04
@@ -3658,12 +3667,14 @@ https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-it
 https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/12222607/how-to-do-a-soap-wsdl-web-services-call-from-the-command-line
 https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-services
+https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
+https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/25084288/keep-ssh-session-alive
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
@@ -4058,6 +4069,7 @@ https://www.cyberciti.biz/faq/how-to-fix-x11-forwarding-request-failed-on-channe
 https://www.cyberciti.biz/faq/linux-modify-partition-labels-command-to-change-diskname/
 https://www.cyberciti.biz/faq/linux-partition-howto-set-labels/
 https://www.cyberciti.biz/faq/linux-port-scanning/
+https://www.cyberciti.biz/faq/mount-drive-from-command-line-ubuntu-linux/
 https://www.cyberciti.biz/faq/understanding-etcshadow-file/
 https://www.cyberciti.biz/tips/executing-linuxunix-commands-from-web-page-part-i.html
 https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html
@@ -5245,6 +5257,7 @@ https://www.highbeam.com/doc/1G1-189666655.htmlhttp://archive.azcentral.com/comm
 https://www.hindawi.com/journals/crior/2015/823107/
 https://www.houstonpublicmedia.org/podcasts/engines-of-our-ingenuity/
 https://www.howtoforge.com/accessing_windows_or_samba_shares_using_autofs
+https://www.howtogeek.com/106873/how-to-use-fdisk-to-manage-partitions-on-linux/
 https://www.ibm.com/support/knowledgecenter/en/SSB27U_6.3.0/com.ibm.zvm.v630.dmse6/tabdump.htm
 https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shell_feat.htm
 https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/shells.htm
@@ -5852,6 +5865,8 @@ https://www.youtube.com/watch?v=vXCT3YkSfW4&app=desktop
 https://www.youtube.com/watch?v=ykwJGD_BAWo
 https://www.youtube.com/watch?v=ywhd3csUlao
 https://www.zendesk.com/blog/whats-the-future-of-customer-support/
+https://www.zillow.com/advice-thread/How-do-I-find-a-list-of-portfolio-lenders-in-the-Bay-Area-of-Northern-California/457940/
+https://www.zillow.com/advice-thread/Refinance-my-condo-with-low-owner-occupancy/476955/
 https://www.zillow.com/homes/0_fs/0_mmm/1_fr/0_rs/1_z/any_days/1100-1400_mp/Bellevue-WA_rb/47.614459,-122.188021,47.607978,-122.194888_rect/3619_rid/apartment_duplex,condo_type/days_sort/?fromHomePage=true&isList=false
 https://www.zillow.com/homes/3619_rid/47.689197,-122.03167,47.51465,-122.251396_rect/0_fs/0_rs/1_fr/1_z/0_mmm/true_fro/-2000_mp/2-_beds/any_days/condo,apartment_duplex_type/days_sort/
 https://www2.deloitte.com/uk/en/pages/sports-business-group/topics/sports-business-group.html#
