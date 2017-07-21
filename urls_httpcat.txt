@@ -764,6 +764,7 @@ http://simson.net/ref/1995/netscape-s1.pdf
 http://sites.cardiff.ac.uk/warc/
 http://sites.cardiff.ac.uk/warc/contact-us/useful-links/
 http://sjrotary.org/
+http://slabscapedia.com/Ego_Massage_Parlour
 http://slam.canoe.com/SlamWrestlingBiosG/gordy_friends-can.html
 http://slam.canoe.com/SlamWrestlingBiosG/gordy_friends-can.html
 http://sluthate.com/viewtopic.php?f=2&t=21744
@@ -1141,7 +1142,9 @@ http://theleakyboob.com/tag/how-we-view-breasts-shapes-us/
 http://thelinuxworks.blogspot.com/2017/03/how-things-work-today-or-joys-of.html
 http://thesefootballtimes.co/2015/01/11/remembering-sampdorias-glory-years/
 http://thesefootballtimes.co/2015/01/15/parma-and-the-parmalat-scandal/
+http://thesefootballtimes.co/2015/05/19/rise-and-fall-of-ipswich-premier-league/
 http://thesefootballtimes.co/2015/05/20/a-tale-of-one-city-rome/
+http://thesefootballtimes.co/2015/10/08/wimbledon-the-final-premier-league-season/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
 http://thesefootballtimes.co/2016/07/04/investigating-the-origins-of-cholismo/
@@ -1161,6 +1164,7 @@ http://thesefootballtimes.co/2017/03/22/the-kidnap-of-quini-in-1981-one-of-spain
 http://thesefootballtimes.co/2017/03/30/preben-elkjaer-the-last-great-maverick-of-world-football/
 http://thesefootballtimes.co/2017/04/21/quique-setien-the-tinkering-innovator-using-chess-to-improve-his-football/
 http://thesefootballtimes.co/2017/04/25/canada-at-world-cup-1986-an-era-of-great-talent-that-amounted-to-nothing/
+http://thesefootballtimes.co/2017/05/05/portsmouths-demise-the-not-so-fantastic-four-and-recent-signs-of-hope/
 http://thesefootballtimes.co/2017/06/08/pierre-littbarski-german-footballs-glorious-anomaly/
 http://thesefootballtimes.co/2017/06/13/dejan-savicevic-the-outsider-still-fighting-for-recognition/
 http://thesefootballtimes.co/2017/06/18/a-season-of-torment-alessio-cerci-and-ciro-immobile-at-torino/
@@ -2230,6 +2234,7 @@ http://www.nalinidance.com/bollywood_class.html
 http://www.nasdaq.com/article/visual-data-mlp-treemaps-20-cm779273
 http://www.naturegirls.com/natural-nude-girls/watch4beauty/nika-park/
 http://www.nbcbayarea.com/news/local/SAP-Hiring-Tech-Workers-with-Autism-252802471.html
+http://www.nbcnews.com/id/7149127/ns/business-answer_desk/t/fixed-or-variable-rate-mortgage-better/
 http://www.netapp.com/us/products/platform-os/ontap/index.aspx
 http://www.networkworld.com/article/3126088/mobile-wireless/microsoft-is-leaving-the-consumer-mobile-market.html
 http://www.newegg.com/Product/Product.aspx?Item=N82E16820231704&cm_re=gskill_8gb-_-20-231-704-_-Product
@@ -2546,6 +2551,7 @@ http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7918699/Women-view-mo
 http://www.telegraph.co.uk/sport/3017778/We-didnt-want-Robbie-to-go-for-free-says-Parry.html
 http://www.telegraph.co.uk/sport/8462312/How-Sky-Sports-dragged-football-back-from-the-dark-days-of-the-Eighties.html
 http://www.telegraph.co.uk/sport/football/competitions/la-liga/10839778/Atletico-Madrids-La-Liga-winning-fairy-tale-enchants-Thibaut-Courtois.html
+http://www.telegraph.co.uk/sport/football/teams/tottenham-hotspur/9041797/Harry-Redknapp-I-cant-spell-and-I-write-like-a-2-year-old.html
 http://www.telegraph.co.uk/technology/2016/04/15/its-confirmed-your-iphone-has-a-limited-lifespan-says-apple/
 http://www.telegraph.co.uk/technology/bill-gates/9812672/Bill-Gates-interview-I-have-no-use-for-money.-This-is-Gods-work.html
 http://www.telegraph.co.uk/technology/news/10083879/Hao2-the-British-startup-built-by-an-autistic-workforce.html
@@ -3818,6 +3824,7 @@ https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
 https://stackoverflow.com/questions/3452/sql-client-for-mac-os-x-that-works-with-ms-sql-server
+https://stackoverflow.com/questions/3491925/looking-for-spring-hibernate3-2-0-8-sources
 https://stackoverflow.com/questions/35154684/use-jq-to-parse-a-json-string
 https://stackoverflow.com/questions/3538021/why-do-we-use-base64
 https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081
@@ -5443,6 +5450,7 @@ https://www.interviewcake.com/question/python/find-unique-int-among-duplicates
 https://www.interviewcake.com/question/python/highest-product-of-3
 https://www.interviewcake.com/question/python/merging-ranges
 https://www.interviewcake.com/question/python/simulate-5-sided-die
+https://www.intothecalderon.com/2017/7/18/15668030/atletico-madrid-lost-the-battle-but-are-positioning-themselves-to-win-the-war
 https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online
 https://www.ishares.com/uk/individual/en/site-entry-new?nc=true&targetUrl=%2Fuk%2Findividual%2Fen%2Fproducts%2Fetf-product-list%3FsiteEntryPassthrough%3Dtrue
 https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf
@@ -5539,6 +5547,7 @@ https://www.merriam-webster.com/dictionary/nulliparous
 https://www.merriam-webster.com/dictionary/philanthropy
 https://www.merriam-webster.com/dictionary/platitude
 https://www.merriam-webster.com/dictionary/poignant
+https://www.merriam-webster.com/dictionary/prickly
 https://www.merriam-webster.com/dictionary/rally
 https://www.merriam-webster.com/dictionary/study%20hall
 https://www.merriam-webster.com/dictionary/trust
@@ -5909,6 +5918,8 @@ https://www.wsj.com/articles/the-other-496-s-p-stocks-1500213602?mod=yahoo_hs&yp
 https://www.xaprb.com/blog/2006/10/05/five-great-perl-programming-techniques-to-make-your-life-fun-again/
 https://www.xaprb.com/blog/2013/12/28/immutability-mvcc-and-garbage-collection/
 https://www.yell.com/biz/dr-ellen-davis-consultant-clinical-psychologist-cardiff-901281886/
+https://www.yelp.ca/biz/new-india-chaat-cafe-san-jose-2
+https://www.yelp.ca/biz/new-india-chaat-cafe-san-jose-2
 https://www.yelp.com/biz/alpha-property-management-redwood-city-2
 https://www.yelp.com/biz/wreck-check-of-california-los-gatos?osq=auto+appraisal
 https://www.yelp.com/search?find_desc=Indian+Grocery+Store&find_loc=Bellevue,+WA
