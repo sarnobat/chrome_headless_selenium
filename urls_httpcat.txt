@@ -158,6 +158,7 @@ http://blogs.wsj.com/marketbeat/2009/11/19/correlation-between-stocks-and-gold-a
 http://bloody-disgusting.com/news/3418873/unsolved-mysteries-just-hit-amazon-streaming-robert-stack-episodes-coming-soon/
 http://bluesock.org/~willg/dev/ansi.html#sequences
 http://blyt.net/phxslides/
+http://boards.straightdope.com/sdmb/showthread.php?t=392427
 http://boards.straightdope.com/sdmb/showthread.php?t=40764
 http://boards.straightdope.com/sdmb/showthread.php?t=510936
 http://boards.straightdope.com/sdmb/showthread.php?t=599258
@@ -570,6 +571,7 @@ http://meticulon.com/
 http://metro.co.uk/2007/08/16/revealed-how-to-get-plump-and-round-breasts-23965/
 http://metro.co.uk/2010/02/04/top-20-things-men-and-women-find-irresistible-77602/
 http://metro.co.uk/2016/05/30/atletico-madrids-juanfran-pens-emotional-open-letter-to-fans-after-champions-league-final-loss-5913630/
+http://metro.co.uk/2016/08/07/liverpool-fans-confused-after-4-0-defeat-to-mainz-day-after-barcelona-battering-6053550/
 http://midtownpaloalto.com/rent/spacious-1-bedroom-condo-in-woodland-creek-complex/
 http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=317916&vid=4
 http://mommything.com/haunting-photos-before-tragedy/20/
@@ -1850,6 +1852,7 @@ http://www.express.co.uk/pictures/sport/5686/Footballers-bankrupt-riches-rags-sp
 http://www.express.co.uk/sport/football/733489/Safe-standing-explained-Premier-League-stadiums-terraces
 http://www.f4wonline.com/wwe-news/looking-effects-brand-exclusive-ppvs-wwe-ratings-230246
 http://www.failchips.com/
+http://www.fame10.com/entertainment/8-things-you-didnt-know-about-diffrent-strokes/?streamview=all
 http://www.faqs.org/docs/artu/ch01s06.html
 http://www.faqs.org/docs/artu/ch10s05.html
 http://www.financialsamurai.com/how-europeans-see-money-differently-from-americans/
@@ -2863,6 +2866,7 @@ https://askubuntu.com/questions/668088/remove-leading-or-trailing-spaces-in-file
 https://askubuntu.com/questions/764158/how-to-enable-wake-on-lan-wol-in-ubuntu-16-04
 https://askubuntu.com/questions/777005/working-14-04-ubuntu-to-error-no-such-device-grub-rescue/906045#906045
 https://askubuntu.com/questions/851749/error-no-such-device-grub-rescue/851771
+https://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart
 https://assetbuilder.com/knowledge-center/articles/competition-has-eliminated-brokerage-commissions
 https://audioboom.com/channel/jim-cornette-s-drive-thru
 https://audioboom.com/channels/4859238.rss
@@ -3041,6 +3045,7 @@ https://distrowatch.com/dwres-mobile.php?resource=major
 https://distrowatch.com/dwres-mobile.php?resource=ranking
 https://docs.google.com/document/d/1RZx0l7up-sg61FNqVb1_NG8-wPN0_JKkNiKjEici7Oc/edit
 https://docs.google.com/document/d/1pf4NzIvhtVaF6t-sK8yCvoR8RFNy3THAcoPCesFoYzs/edit
+https://docs.google.com/document/d/1wVgnvrVhCNx2yOMLoEVHE9ALMNIOeF4mRTijeXyZgeQ/edit
 https://docs.google.com/spreadsheets/d/1N0sA5bfGZASpbeLug-WTdSMd2ogXdM2rdpBOyJv4UBA/edit#gid=1004998360
 https://docs.google.com/spreadsheets/d/1QdTzHk2vstQ1KEvwcu6TN9GbVyxGF1M2q41MKCHQkn8/edit#gid=0
 https://docs.google.com/spreadsheets/d/1Yv_9nDl4ocIZR0GXU3OZuBaXxER1blfwR_XHvklPpEM/edit?hl=en&hl=en#gid=0
@@ -3757,6 +3762,7 @@ https://s3.amazonaws.com/na-ops-ltd/olo_shared_docs_external_f1/sd/Amazon+Leader
 https://sandbox.qbo.intuit.com/app/banking?accountId=35
 https://savedeo.com/download?url=https%3A%2F%2Ftwitter.com%2FBayleysAss%2Fstatus%2F818904756261416960
 https://scholar.google.com/scholar?hl=en&q=visual+auditory+vestibular&btnG=&as_sdt=1%2C5&as_sdtp=
+https://scifi.stackexchange.com/questions/55401/why-can-only-decepticons-fly-in-robot-mode?newreg=ab7a14a552d24748bd05af860596008d
 https://search.alexanderstreet.com/preview/work/1195032?ssotoken=anonymous
 https://searchworks.stanford.edu/view/10007040
 https://searchworks.stanford.edu/view/9627325
@@ -3819,6 +3825,8 @@ https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-a
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/29728151/how-to-listen-for-multiple-tcp-connection-using-nc
+https://stackoverflow.com/questions/30101555/how-to-restart-remote-mysql-server-running-on-ubuntu-linux
+https://stackoverflow.com/questions/30899828/bad-configuration-option-in-git
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
 https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
@@ -3835,6 +3843,7 @@ https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
+https://stackoverflow.com/questions/4932503/how-to-kill-mysql-connections
 https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get-arg-numeric-what-is-that
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
@@ -3998,6 +4007,7 @@ https://unix.stackexchange.com/questions/18360/how-can-i-relink-a-lot-of-broken-
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac
+https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac/73922?noredirect=1#comment675861_73922
 https://unix.stackexchange.com/questions/37773/recover-many-files-using-ntfsundelete
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
@@ -4330,6 +4340,7 @@ https://www.forbes.com/sites/lorikozlowski/2012/03/26/how-to-land-a-tech-job-in-
 https://www.forbes.com/sites/michaelbernick/2016/12/13/where-is-autism-employment-heading-in-2017/#504c7c8e1e35
 https://www.forbes.com/sites/michaelbernick/2017/05/09/the-anthropologist-of-autism-employment/print/
 https://www.forbes.com/sites/mikeozanian/2015/04/07/the-business-of-the-fifa-world-cup/#559d568352b3
+https://www.forbes.com/sites/petercohan/2017/04/28/4-reasons-amazon-stock-will-keep-doubling-every-3-years/#28b344a9321b
 https://www.forbes.com/sites/stevendennis/2017/02/13/sears-is-the-end-finally-in-sight-for-the-worlds-slowest-liquidation-sale/#29a279db1a3d
 https://www.forbes.com/sites/tobyshapshak/2015/09/04/why-whatsapp-is-south-africas-favourite-app/#763d0c32e2be
 https://www.forrent.com/apartment-community-profile/1000532155
@@ -5006,6 +5017,7 @@ https://www.google.com/search?q=synergy+driven+by+science&oq=synergy+driven+by+s
 https://www.google.com/search?q=systems+economic+engineering+social&oq=systems+economic+engineering+social&aqs=chrome..69i57.13648j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=teeth+bonding&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjuudK-_uLSAhUiS2MKHWVICOsQ_AUIBygA&biw=2148&bih=904&dpr=1
 https://www.google.com/search?q=television+eras&oq=television+eras&aqs=chrome..69i57j0l5.2727j0j9&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=temporary+print+statements+debugging&oq=temporary+print+statements+debugging&aqs=chrome..69i57.5271j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=terms+and+conditions+meme&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPy5bo2__QAhVorlQKHTSXA8sQ_AUICCgB&biw=1342&bih=600
 https://www.google.com/search?q=the+future+is+female&rlz=1CDGOYI_enUS590US590&oq=the+future+&aqs=chrome.2.69i57j0l3.5569j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+uber+economy&rlz=1CDGOYI_enUS750US750&oq=the+uber+economy&aqs=chrome..69i57j0l3.3696j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5718,6 +5730,7 @@ https://www.quora.com/Why-does-it-always-seem-that-everyone-elses-life-is-so-muc
 https://www.quora.com/Why-hasnt-East-Palo-Alto-gentrified-yet
 https://www.quora.com/Why-is-competitive-eating-a-sport
 https://www.quora.com/Why-is-it-that-most-women-get-offended-when-they-find-out-a-guy-is-having-a-good-time-by-looking-at-their-pics-or-fantasizing-about-them-eventhough-it-causes-them-no-harm
+https://www.quora.com/Why-is-the-world-full-of-mean-people
 https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/

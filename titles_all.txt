@@ -7097,3 +7097,17 @@ https://www.yelp.ca/biz/new-india-chaat-cafe-san-jose-2 :: New India Chaat Cafe 
 http://slabscapedia.com/Ego_Massage_Parlour :: Ego Massage Parlour - Slabscapedia
 https://www.intothecalderon.com/2017/7/18/15668030/atletico-madrid-lost-the-battle-but-are-positioning-themselves-to-win-the-war :: Atl?tico Madrid losing battles, but positioning themselves to win the war - Into the Calderon
 http://www.nbcnews.com/id/7149127/ns/business-answer_desk/t/fixed-or-variable-rate-mortgage-better/ :: Is a fixed or variable rate mortgage better? - Business - Answer Desk | NBC News
+https://www.forbes.com/sites/petercohan/2017/04/28/4-reasons-amazon-stock-will-keep-doubling-every-3-years/#28b344a9321b :: Forbes Welcome
+https://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart :: How do I change the hostname without a restart? - Ask Ubuntu
+http://www.fame10.com/entertainment/8-things-you-didnt-know-about-diffrent-strokes/?streamview=all :: 8 Things You Didn?t Know About Diff?rent Strokes ? Fame10
+http://boards.straightdope.com/sdmb/showthread.php?t=392427 :: (timeout)
+https://docs.google.com/document/d/1wVgnvrVhCNx2yOMLoEVHE9ALMNIOeF4mRTijeXyZgeQ/edit :: (timeout)
+https://stackoverflow.com/questions/30899828/bad-configuration-option-in-git :: (timeout)
+https://www.google.com/search?q=temporary+print+statements+debugging&oq=temporary+print+statements+debugging&aqs=chrome..69i57.5271j0j7&sourceid=chrome&ie=UTF-8 :: (timeout)
+https://www.quora.com/Why-is-the-world-full-of-mean-people :: (timeout)
+http://metro.co.uk/2016/08/07/liverpool-fans-confused-after-4-0-defeat-to-mainz-day-after-barcelona-battering-6053550/ :: Liverpool news: Fans confused after Mainz mauling | Metro News
+https://www.quora.com/Why-is-the-world-full-of-mean-people :: Why is the world full of mean people? - Quora
+https://stackoverflow.com/questions/30101555/how-to-restart-remote-mysql-server-running-on-ubuntu-linux :: How to restart remote MySQL server running on Ubuntu linux? - Stack Overflow
+https://stackoverflow.com/questions/4932503/how-to-kill-mysql-connections :: How to kill MySQL connections - Stack Overflow
+https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac/73922?noredirect=1#comment675861_73922 :: ssh - What options `ServerAliveInterval` and `ClientAliveInterval` in sshd_config exactly do? - Unix &amp; Linux Stack Exchange
+https://scifi.stackexchange.com/questions/55401/why-can-only-decepticons-fly-in-robot-mode?newreg=ab7a14a552d24748bd05af860596008d :: transformers - Why can only Decepticons fly in robot mode? - Science Fiction &amp; Fantasy Stack Exchange
