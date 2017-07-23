@@ -544,11 +544,17 @@ http://media.gettyimages.com/photos/an-aerial-image-of-estadio-riazor-a-corua-pi
 http://media.gettyimages.com/photos/apr-2000-carlos-aguilera-of-atletico-madrid-in-action-during-the-picture-id1558090
 http://media.gettyimages.com/photos/closer-view-of-a-girl-sitting-down-picture-id144449501
 http://media.gettyimages.com/photos/club-atletico-de-madrid-fans-cheer-on-their-team-ahead-of-the-jesus-picture-id481919860
+http://media.gettyimages.com/photos/davorka-tovilo-bei-der-deutschlandpremiere-von-die-hard-40-im-in-picture-id180022712
 http://media.gettyimages.com/photos/girl-sitting-down-in-grass-and-holding-a-book-picture-id509122137?s=170667a
 http://media.gettyimages.com/photos/girl-sitting-on-a-cliff-by-the-sea-picture-id74167055?s=170667a
+http://media.gettyimages.com/photos/it-girl-davorka-tovilo-with-cigar-in-the-arrival-to-german-film-ball-picture-id170012843
+http://media.gettyimages.com/photos/it-girl-davorka-tovilo-with-cigar-in-the-arrival-to-german-film-ball-picture-id170012846
+http://media.gettyimages.com/photos/italian-soccer-player-walter-samano-of-roma-fight-for-the-ball-with-picture-id2378835
 http://media.gettyimages.com/photos/mar-1998-christian-vieri-of-atletico-madrid-in-action-during-a-match-picture-id1635728
 http://media.gettyimages.com/photos/miss-america-2014-nina-davuluri-attends-the-2016-miss-america-at-picture-id488123912
+http://media.gettyimages.com/photos/model-micaela-schaefer-attends-the-citroen-c4-cactus-munich-preview-picture-id452985762
 http://media.gettyimages.com/photos/nell-mcandrew-kelly-dalglish-karen-brady-and-diana-stewart-picture-id117946746?s=594x594
+http://media.gettyimages.com/photos/playmate-mia-gray-and-her-boyfriend-oliver-kobs-attend-the-citroen-c4-picture-id452984994
 http://media.gettyimages.com/photos/preteen-girl-picture-id139655960?s=170667a
 http://media.gettyimages.com/photos/preteen-girl-running-picture-id156201540?s=170667a
 http://media.gettyimages.com/photos/september-1995-photo-of-yugoslav-radomir-antic-who-has-agreed-to-picture-id52017107
@@ -1682,6 +1688,7 @@ http://www.cowpalace.com/events/2017/all-pro-wrestling
 http://www.cowpalace.com/events/2017/all-pro-wrestling
 http://www.crestmontresearch.com/interest-rates/#10-interest-rate-history
 http://www.crisissupport.org/programs/crisis-line/
+http://www.cronica.com.mx/notas/2008/374660.html
 http://www.crtvg.es/informativos/gameiro-non-conseguiu-superar-o-hat-trick-de-bebeto-o-mais-rapido-da-historia-da-liga
 http://www.cs.umss.edu.bo/doc/material/mat_gral_137/Addison.Wesley.Growing.Object.Oriented.Software.Guided.by.Tests.Oct.2009%20(1).pdf
 http://www.cssmatic.com/contact
@@ -1801,9 +1808,11 @@ http://www.elitebabes.com/cute-and-wacky-milla-stips-down-her-sexy-one-piece-and
 http://www.elitebabes.com/mesmerizing-milla-stipped-down-her-night-dress-to-show-her-perfectly-shaped-breasts-and-her-sexy-muff/
 http://www.elitebabes.com/milla-steps-in-the-nude-and-spreads-her-legs-outdoors/
 http://www.elitebabes.com/nika-stretch/
+http://www.elmundo.es/elmundodeporte/2003/08/08/futbol/1060331320.html
 http://www.elmundo.es/elmundodeporte/2005/01/13/liga/1105629916.html
 http://www.elmundo.es/elmundodeporte/2005/05/24/liga/1116968213.html
 http://www.elmundo.es/f5/comparte/2016/11/29/583d6b19e5fdeadc1d8b456d.html
+http://www.eluniverso.com/2003/08/08/0001/15/87A445E4AB8548B49D96F533502BB95B.html
 http://www.eluniverso.com/2006/06/01/0001/15/33718C158B4F4941B11EDDDCA9366A16.html
 http://www.emaxhealth.com/11406/34-best-and-10-worst-jobs-adults-autism
 http://www.empireofthekop.com/2017/02/01/adam-lallana-with-some-valuable-advice-for-liverpools-youth-stars-to-consider/
@@ -2851,6 +2860,7 @@ https://arialdomartini.wordpress.com/2011/10/10/event-sourcing-and-git/
 https://arstechnica.com/information-technology/2016/07/stack-overflow-brings-its-gamified-peer-support-to-documentation/
 https://article.wn.com/view/2016/07/23/We_start_the_friendly_games_with_the_Jesus_Gil_y_Gil_Memoria/
 https://as.com/videos/2014/10/28/portada/1414499468_076840.html
+https://as.com/videos/2017/05/23/chile/1495545719_059583.html
 https://as02.epimg.net/videos/videos/2014/10/28/portada/1414499468_076840_1414499497.mp4
 https://askjan.org/
 https://askjan.org/media/ASD.html
@@ -3772,6 +3782,7 @@ https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-lan
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
 https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server
+https://serverfault.com/questions/433275/lvm-logical-volume-partition-corrupted-after-lvreduce
 https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
 https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770
 https://shapeshed.com/unix-join/
@@ -4933,6 +4944,7 @@ https://www.google.com/search?q=olap+cube+visualization&num=40&source=lnms&tbm=i
 https://www.google.com/search?q=one+year+interest+rate+history+annual+usa+stock&espv=2&biw=1396&bih=670&source=lnms&sa=X&ved=0ahUKEwjVjeO1st7QAhVK52MKHXCWCtYQ_AUIBygA&dpr=2
 https://www.google.com/search?q=online+banking+meme&safe=off&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiokP3GrerQAhVO6WMKHQBLC-AQ_AUICCgB&biw=2203&bih=1195
 https://www.google.com/search?q=opposite+of+a+superconsumer&oq=opposite+of+a+superconsumer&aqs=chrome..69i57.4084j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=overseas+footage+shipping+before+internet&oq=overseas+footage+shipping+before+internet&aqs=chrome..69i57.7437j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=pacing++video+editing&num=40&biw=1288&bih=723&tbm=bks&ei=IGuEWPbnOsKN0wL80pOAAQ&start=160&sa=N&dpr=1
 https://www.google.com/search?q=pacing+problems+in+video+editing&oq=pacing+problems+in+video+editing&aqs=chrome..69i57.4163j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=paid+open+source+jobs&oq=paid+open+source+jobs&aqs=chrome..69i57.3821j0j7&sourceid=chrome&ie=UTF-8
@@ -5806,6 +5818,7 @@ https://www.slant.co/versus/1427/1608/~itunes_vs_vlc
 https://www.southbankcentre.co.uk/whats-on/119616-stories-through-sound-2017
 https://www.sportsjoe.ie/sports/juanfran
 https://www.sportskeeda.com/football/serie-a-could-seereturn-glory-days-after-revamp-planned
+https://www.sportskeeda.com/wwe/wwe-news-bret-hart-reacts-to-the-passing-of-his-brother-smith-hart
 https://www.sportskeeda.com/wwe/wwe-rumors-why-bret-hart-and-wwe-are-back-on-bad-terms-again
 https://www.spreeder.com/macversion
 https://www.startech.com/AboutUs
