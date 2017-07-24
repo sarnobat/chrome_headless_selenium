@@ -2208,6 +2208,7 @@ http://www.midfielddynamo.com/stadia/stadia_britain_closest.htm
 http://www.migrationpolicy.org/article/indian-immigrants-united-states
 http://www.mindpub.com/art194.htm
 http://www.minterest.org/adblock-vs-adblock-plus/
+http://www.mirror.co.uk/news/uk-news/mum-sarah-burge-is-buying-daughter-743670
 http://www.mirror.co.uk/news/uk-news/queen-vs-kim-kardashian-who-7981473
 http://www.mirror.co.uk/news/world-news/kendra-sunderland-uni-library-sex-5116519
 http://www.mirror.co.uk/news/world-news/pop-star-suffers-embarrassing-wardrobe-9142757
@@ -2559,6 +2560,7 @@ http://www.telegraph.co.uk/motoring/5042640/Women-more-attracted-to-men-in-expen
 http://www.telegraph.co.uk/news/1475574/Wrestling-star-in-court-over-snakes-death.html
 http://www.telegraph.co.uk/news/2016/11/01/cleavage-goes-bust-vogue-declares-the-dcolletage-over/
 http://www.telegraph.co.uk/news/2016/11/29/colombia-plane-carrying-brazil-football-team-crashes-latest/
+http://www.telegraph.co.uk/news/newstopics/howaboutthat/4378948/Men-smell-of-cheese-women-smell-of-onion.html
 http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7918699/Women-view-modesty-as-sign-of-weakness.html
 http://www.telegraph.co.uk/sport/3017778/We-didnt-want-Robbie-to-go-for-free-says-Parry.html
 http://www.telegraph.co.uk/sport/8462312/How-Sky-Sports-dragged-football-back-from-the-dark-days-of-the-Eighties.html
@@ -4016,6 +4018,7 @@ https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ss
 https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/18360/how-can-i-relink-a-lot-of-broken-symlinks
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
+https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac
 https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac/73922?noredirect=1#comment675861_73922
