@@ -7127,3 +7127,43 @@ http://media.gettyimages.com/photos/playmate-mia-gray-and-her-boyfriend-oliver-k
 http://www.telegraph.co.uk/news/newstopics/howaboutthat/4378948/Men-smell-of-cheese-women-smell-of-onion.html :: Men smell of cheese; women smell of onion  - Telegraph
 http://www.mirror.co.uk/news/uk-news/mum-sarah-burge-is-buying-daughter-743670 :: Mum Sarah Burge is buying daughter, eight, ?8,000 of cosmetic surgery vouchers for birthday - Mirror Online
 https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding :: linux - Using netcat for port forwarding - Unix &amp; Linux Stack Exchange
+http://www.marca.com/en/football/spanish-football/2017/07/23/5973a8a322601dad468b4567.html :: (Could not determine)
+https://news.ycombinator.com/item?id=8864737 :: Don't think that "data science" is a solid career trajectory for the next 20-40 ... | Hacker News
+https://www.forbes.com/sites/metabrown/2016/07/29/4-reasons-not-to-get-that-masters-in-data-science/2/#6839901d3e30 :: Forbes Welcome
+https://www.quora.com/Is-data-science-a-fad :: Is data science a fad? - Quora
+https://www.quora.com/Which-career-is-more-promising-data-scientist-or-software-developer-1 :: Which career is more promising: data scientist or software developer? - Quora
+http://www.espnfc.com/indian-super-league/story/3162527/indian-super-league-champions-atletico-de-kolkata-to-end-association-with-spanish-club-atletico-madrid :: ISL champions Atletico de Kolkata cut off Spanish ties to begin English adventure with Westwood and Sheringham - ESPN FC
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying :: The Log: What every software engineer should know about real-time data's unifying abstraction | LinkedIn Engineering
+https://www.cyberciti.biz/faq/rhel-centos-debian-fedora-mount-partition-label/ :: Linux: Mount Disk Partition Using LABEL ? nixCraft
+https://www.google.com/search?q=why+do+banks+sell+loans+to+freddie+mac&oq=why+to+banks+sell+their+loans+to+freddie+mac&aqs=chrome.1.69i57j0.9551j0j7&sourceid=chrome&ie=UTF-8 :: why do banks sell loans to freddie mac - Google Search
+http://blog.takipi.com/java-9-early-access-a-hands-on-session-with-jshell-the-java-repl/ :: Java 9 Early Access: A Hands-on Session with JShell - The Java REPL | Takipi Blog
+http://cr.openjdk.java.net/~rfield/tutorial/JShellTutorial.html#jshell-scripts :: JShell Tutorial
+http://www.espnfc.com/atletico-madrid/story/3155955/atletico-madrid-stadium-move-could-be-delayed-by-fans-group-protest :: Atletico Madrid stadium move could be delayed by fans' group protest - ESPN FC
+https://www.si.com/soccer/2017/07/24/atletico-set-start-new-season-three-away-fixtures-due-final-construction-new-stadium :: (timeout)
+http://www.dailymail.co.uk/sport/football/article-4664408/Atletico-Madrid-new-stadium-ahead-opening.html :: Atletico Madrid show off new stadium ahead of opening | Daily Mail Online
+https://www.google.com/search?num=40&q=job+protection+law+if+actresses+get+pregnant+while+shooting&oq=job+protection+law+if+actresses+get+pregnant+while+shooting&gs_l=serp.3..30i10k1.36573.38356.0.38524.4.4.0.0.0.0.92.297.4.4.0....0...1.1.64.serp..0.3.237.7U7oyDkcClQ :: job protection law if actresses get pregnant while shooting - Google Search
+https://www.quora.com/What-does-the-screenwriter-do-if-the-main-actress-gets-pregnant :: What does the screenwriter do if the main actress gets pregnant? - Quora
+http://bishoplawfirm.org/2009/12/30-year-fixed-rate-overrated/ ::   30 Year Fixed Rate ? Overrated? - Bishop Law Firm
+http://boost.2283326.n4.nabble.com/regex-Static-linking-woes-with-gcc-4-0x-on-Fedora-Core-td2557979.html :: Boost - Users - [regex] Static linking woes with gcc 4.0x on Fedora Core
+http://theconversation.com/mondays-medical-myth-men-are-hotter-than-women-6738 :: Monday's medical myth: men are hotter than women
+http://www.dailymail.co.uk/femail/article-3581728/Why-m-happy-daughters-wear-revealing-dresses.html :: Why I?m happy for my daughters to wear revealing dresses | Daily Mail Online
+http://www.manrepeller.com/2016/08/how-to-wear-a-see-through-dress.html :: The Thought Process of Wearing A See-Through Dress - Man Repeller
+http://www.marketwatch.com/story/why-one-economist-says-buying-a-home-is-overrated-2016-02-02 :: Why one economist says buying a home is overrated - MarketWatch
+http://www.slate.com/blogs/moneybox/2013/08/07/_30_year_fixed_rate_mortgage.html :: 30-year fixed rate mortgage. 
+https://english.stackexchange.com/questions/400530/what-is-the-opposite-of-fad :: antonyms - What is the opposite of fad? - English Language &amp; Usage Stack Exchange
+https://lists.fedoraproject.org/pipermail/devel/2006-November/092275.html :: (Could not determine)
+https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more :: linux - Why isn't static linking used more? - Stack Overflow
+https://superuser.com/questions/402193/why-is-base64-needed-aka-why-cant-i-just-email-a-binary-file :: Why is base64 needed (aka why can't I just email a binary file)? - Super User
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&q=view+current+property+values+java+webapp&spell=1&sa=X&ved=0ahUKEwj8otfvhaPVAhXqzlQKHVsTAA0QvwUIJSgA&biw=1371&bih=868 :: view current property values java webapp - Google Search
+https://www.google.com/search?q=fixed+rate+mortgage+overrated&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=nisv&ei=FY9xWbWXJ6iX0gKiu7rgDQ&start=10&sa=N&biw=375&bih=647 :: fixed rate mortgage overrated - Google Search
+https://www.google.com/search?q=transfer+your+shares+to+another+institution&rlz=1CDGOYI_enUS750US750&oq=transfer+your+shares+to+another+institution&aqs=chrome..69i57.6397j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: transfer your shares to another institution - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+base64&spell=1&sa=X&ved=0ahUKEwj9ldGz1ZnVAhVBwFQKHeCyDToQBQgZKAA&biw=375&bih=591 :: why base64 - Google Search
+https://www.wired.com/2015/02/redbook :: The Rise and Fall of RedBook, the Site That Sex Workers Couldn't Live Without | WIRED
+https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20 :: URL encoding the space character: + or %20? - Stack Overflow
+http://forums.moneysavingexpert.com/showthread.php?t=2976484 ::  Selling house during a fixed term mortgage - MoneySavingExpert.com Forums
+https://en.wikipedia.org/wiki/1993_Zambia_national_football_team_plane_crash :: 1993 Zambia national football team plane crash - Wikipedia
+https://www.google.com/search?q=selling+a+home+that+has+a+fixed+rate+mortgage&oq=selling+a+home+that+has+a+fixed+rate+mortgage&aqs=chrome..69i57.8012j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: selling a home that has a fixed rate mortgage - Google Search
+https://www.google.com/search?q=top-up+mortgage&oq=top-up+mort&aqs=chrome.0.0j69i57j0l4.3367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: top-up mortgage - Google Search
+https://drscdn.500px.org/photo/102962929/q%3D80_m%3D2000/a8123ca1ca412b767ea68ec463b5649d :: a8123ca1ca412b767ea68ec463b5649d (2000?1333)
+https://superuser.com/questions/510337/cant-rename-a-file-the-name-of-which-starts-with-a-hyphen :: linux - Can't rename a file the name of which starts with a hyphen - Super User
+http://www.carbonated.tv/viral/these-two-girls-look-exactly-alike-but-arent-even-related :: There Are 7 People In The World Who Look Exactly Like You - Carbonated.TV
