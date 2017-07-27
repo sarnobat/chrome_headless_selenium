@@ -527,6 +527,7 @@ http://manpages.ubuntu.com/manpages/precise/man5/mailname.5.html
 http://manpages.ubuntu.com/manpages/wily/man1/grc.1.html
 http://manpages.ubuntu.com/manpages/wily/man1/powerwake.1.html
 http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
+http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
 http://manpages.ubuntu.com/manpages/yakkety/man1/csv2rec.1.html
 http://mantalks.com/masculine-men-protect-womens-feminine-energy/
 http://marmaro.de/docs/studium/unix-phil/unix-phil.pdf
@@ -640,6 +641,7 @@ http://nuevoestadioatleti.blogspot.com/search?updated-max=2012-08-01T15:15:00%2B
 http://nymag.com/scienceofus/2016/08/how-cat-people-differ-from-dog-people-on-facebook.html
 http://nypost.com/2015/10/26/trying-butt-pads-was-the-most-humiliating-experience-of-my-life/
 http://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html
+http://odroid.com/dokuwiki/doku.php?id=en:odroid_linux_watchdog#start_watchdog_service_and_verify
 http://oerpub.github.io/epubjs-demo-book/content/m46060.xhtml
 http://officialfan.proboards.com/thread/398146
 http://officialfan.proboards.com/thread/470058/single-wrestlemania-stage-entryway?page=1
@@ -2884,9 +2886,11 @@ https://askjan.org/media/ASD.html
 https://askjan.org/media/ASD.html
 https://askubuntu.com/questions/215505/how-do-you-monitor-the-progress-of-dd/215590#215590
 https://askubuntu.com/questions/243435/not-able-to-understand-and-map-output-of-proc-net-tcp
+https://askubuntu.com/questions/251577/how-to-supervise-and-automatically-restart-a-process
 https://askubuntu.com/questions/276911/how-to-rename-partitions
 https://askubuntu.com/questions/276911/how-to-rename-partitions/276928#276928
 https://askubuntu.com/questions/2799/how-to-merge-several-pdf-files
+https://askubuntu.com/questions/34308/where-is-inittab-file
 https://askubuntu.com/questions/55352/convert-library-of-wma-tracks-to-mp3s
 https://askubuntu.com/questions/568277/how-do-i-get-past-the-libc-dependency-issues-on-12-04
 https://askubuntu.com/questions/668088/remove-leading-or-trailing-spaces-in-file-or-folder-names
@@ -3599,6 +3603,7 @@ https://imbuzu.wordpress.com/2012/04/19/set-up-postfix-to-solve-blocked-port-25-
 https://img.clipartfox.com/64cc4382b09f9eff50da23ab1056090b_picture-woman-portrait-field-happy-girl-sitting-down-clipart_327-470.jpeg
 https://img.yt/img-57eab7426f251.html
 https://imgur.com/BuLuquu
+https://immortal.run/post/immortal/
 https://in.answers.yahoo.com/question/index?qid=20130921011558AATGuu3
 https://int.eucerin.com/about-skin/basic-skin-knowledge/male-and-female-skin
 https://internal.nfp.com/webfiles/public/insurance/prodexpert/Historical_Whole_Life_Dividends.pdf
@@ -3860,6 +3865,7 @@ https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-a
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/29728151/how-to-listen-for-multiple-tcp-connection-using-nc
+https://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux
 https://stackoverflow.com/questions/30101555/how-to-restart-remote-mysql-server-running-on-ubuntu-linux
 https://stackoverflow.com/questions/30899828/bad-configuration-option-in-git
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
@@ -3890,6 +3896,7 @@ https://stackoverflow.com/questions/7967918/illegal-string-body-character-after-
 https://stackoverflow.com/questions/8049132/how-can-i-detect-whether-a-symlink-is-broken-in-bash
 https://stackoverflow.com/questions/820888/java-rtsp-client-server-library
 https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java#
+https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
 https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/
@@ -3909,6 +3916,7 @@ https://superuser.com/questions/450148/how-to-identify-replacement-for-power-sup
 https://superuser.com/questions/450148/how-to-identify-replacement-for-power-supplies-used-in-small-form-factor-pcs#
 https://superuser.com/questions/503784/loading-local-shell-aliases-to-ssh-session-dynamicaly/1078431#1078431
 https://superuser.com/questions/503784/loading-local-shell-aliases-to-ssh-session-dynamicaly/1078431#1078431
+https://superuser.com/questions/507576/how-to-automatically-restart-a-linux-background-process-if-it-fails
 https://superuser.com/questions/510337/cant-rename-a-file-the-name-of-which-starts-with-a-hyphen
 https://superuser.com/questions/527495/how-to-mount-partition-with-spaces-in-path
 https://superuser.com/questions/552445/formatting-of-the-diff-output
@@ -4042,6 +4050,7 @@ https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii/12777
 https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ssh-on-local-machine-and-save-to-a-local-disk
 https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/18360/how-can-i-relink-a-lot-of-broken-symlinks
+https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
 https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
@@ -4052,6 +4061,8 @@ https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile?noredirect=1#comment673130_378552
 https://unix.stackexchange.com/questions/378604/bind-to-string-with-escaped-double-quotes
+https://unix.stackexchange.com/questions/55318/watchdog-script-to-keep-an-application-running
+https://unix.stackexchange.com/questions/881/ensure-a-process-is-always-running
 https://unsolved.com/?season=season-5-amazon-Dennis%20Farina
 https://upload.wikimedia.org/wikipedia/commons/f/f2/Stocks_and_Flows.svg
 https://upload.wikimedia.org/wikipedia/it/f/fe/Stadio-santelia.jpeg

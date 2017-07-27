@@ -7167,3 +7167,13 @@ https://www.google.com/search?q=top-up+mortgage&oq=top-up+mort&aqs=chrome.0.0j69
 https://drscdn.500px.org/photo/102962929/q%3D80_m%3D2000/a8123ca1ca412b767ea68ec463b5649d :: a8123ca1ca412b767ea68ec463b5649d (2000?1333)
 https://superuser.com/questions/510337/cant-rename-a-file-the-name-of-which-starts-with-a-hyphen :: linux - Can't rename a file the name of which starts with a hyphen - Super User
 http://www.carbonated.tv/viral/these-two-girls-look-exactly-alike-but-arent-even-related :: There Are 7 People In The World Who Look Exactly Like You - Carbonated.TV
+http://odroid.com/dokuwiki/doku.php?id=en:odroid_linux_watchdog#start_watchdog_service_and_verify :: (Could not determine)
+https://askubuntu.com/questions/251577/how-to-supervise-and-automatically-restart-a-process :: services - How to supervise and automatically restart a process? - Ask Ubuntu
+https://askubuntu.com/questions/34308/where-is-inittab-file :: init - where is inittab file? - Ask Ubuntu
+https://immortal.run/post/immortal/ :: immortal ? immortal
+https://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux :: How to make sure an application keeps running on Linux - Stack Overflow
+https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846 :: how to use linux software watchdog - Stack Overflow
+https://superuser.com/questions/507576/how-to-automatically-restart-a-linux-background-process-if-it-fails :: bash - How to automatically restart a linux background process if it fails? - Super User
+https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem :: linux - How to find out if a system uses SysV, Upstart or Systemd initsystem - Unix &amp; Linux Stack Exchange
+https://unix.stackexchange.com/questions/55318/watchdog-script-to-keep-an-application-running :: linux - Watchdog script to keep an application running - Unix &amp; Linux Stack Exchange
+https://unix.stackexchange.com/questions/881/ensure-a-process-is-always-running :: monitoring - Ensure a process is always running - Unix &amp; Linux Stack Exchange

@@ -7167,3 +7167,13 @@ https://www.google.com/search?q=top-up+mortgage&oq=top-up+mort&aqs=chrome.0.0j69
 https://drscdn.500px.org/photo/102962929/q%3D80_m%3D2000/a8123ca1ca412b767ea68ec463b5649d
 https://superuser.com/questions/510337/cant-rename-a-file-the-name-of-which-starts-with-a-hyphen
 http://www.carbonated.tv/viral/these-two-girls-look-exactly-alike-but-arent-even-related
+http://odroid.com/dokuwiki/doku.php?id=en:odroid_linux_watchdog#start_watchdog_service_and_verify
+https://askubuntu.com/questions/251577/how-to-supervise-and-automatically-restart-a-process
+https://askubuntu.com/questions/34308/where-is-inittab-file
+https://immortal.run/post/immortal/
+https://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux
+https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846
+https://superuser.com/questions/507576/how-to-automatically-restart-a-linux-background-process-if-it-fails
+https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem
+https://unix.stackexchange.com/questions/55318/watchdog-script-to-keep-an-application-running
+https://unix.stackexchange.com/questions/881/ensure-a-process-is-always-running
