@@ -7177,3 +7177,88 @@ https://superuser.com/questions/507576/how-to-automatically-restart-a-linux-back
 https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem :: linux - How to find out if a system uses SysV, Upstart or Systemd initsystem - Unix &amp; Linux Stack Exchange
 https://unix.stackexchange.com/questions/55318/watchdog-script-to-keep-an-application-running :: linux - Watchdog script to keep an application running - Unix &amp; Linux Stack Exchange
 https://unix.stackexchange.com/questions/881/ensure-a-process-is-always-running :: monitoring - Ensure a process is always running - Unix &amp; Linux Stack Exchange
+https://en.wikipedia.org/wiki/Celtic_nations :: Celtic nations - Wikipedia
+https://github.com/beders/Resty/blob/resty-0.3.2-SNAPSHOT/src/main/java/us/monoid/web/JSONPathQuery.java :: Resty/JSONPathQuery.java at resty-0.3.2-SNAPSHOT ? beders/Resty ? GitHub
+https://www.google.com/search?q=why+is+winnie+the+pooh+popular&oq=why+winnie+the+poo+is+popular&aqs=chrome.1.69i57j0.5436j0j7&sourceid=chrome&ie=UTF-8 :: why is winnie the pooh popular - Google Search
+https://www.forbes.com/sites/johntharvey/2011/05/30/what-actually-causes-inflation/#49c0d87df9a9 :: Forbes Welcome
+https://www.google.com/search?q=%22humping+on+your+stereo%22&oq=%22humping+on+your+stereo%22&aqs=chrome..69i57.5701j0j7&sourceid=chrome&ie=UTF-8 :: "humping on your stereo" - Google Search
+https://www.youtube.com/results?q=caniggia+documentary&sp=SBRQFOoDAA%253D%253D :: caniggia documentary - YouTube
+http://bj2design.com/content-management-systems-that-dont-use-a-database/ :: 3 Content Management Systems (CMS) That Don't Use a Database - BJ2DESIGN Batemans Bay | Narooma | Nowra | Canberra - South Coast
+http://harmful.cat-v.org/software/dynamic-linking/ :: Dynamic Linking
+http://simongrondin.name/?p=394 :: Things I?ve learned about making portable binaries | Simon Grondin
+http://stevehanov.ca/blog/index.php?id=97 :: Creating portable binaries on Linux
+http://www.thedailybeast.com/couple-murdered-for-unfriending-woman-on-facebook :: Couple Murdered for ?Unfriending? Woman On Facebook
+http://betterbuttchallenge.com/what-is-hip-dip-and-why-having-this-feature-doesnt-mean-youre-a-freak/ :: What Is Hip Dip? And Why Having This Feature Doesn?t Mean You?re A Freak - The Better Butt Challenge
+http://manpages.ubuntu.com/manpages/yakkety/man8/watchdog.8.html :: (Could not determine)
+http://thesefootballtimes.co/2017/07/24/how-ze-roberto-defied-time-to-remain-a-star-at-43/ :: How Z? Roberto defied time to remain a star at 43
+http://whatis.techtarget.com/definition/moonshot :: What is moonshot? - Definition from WhatIs.com
+http://www.bbc.com/sport/live/football/40699194 :: Man Utd beat Real on penalties in pre-season game - Live - BBC Sport
+http://wrongplanet.net/forums/viewtopic.php?t=335812 :: Do you hate feeling inferior to women? | Wrong Planet Autism Community Forum
+http://www.cosmopolitan.com/style-beauty/fashion/advice/a41688/9-shorts-problems-solved/ :: 9 Annoying Things About Shorts and How to Fix Them
+http://www.espnfc.com/club/atletico-madrid/1068/blog/post/3164314/atletico-madrid-head-to-mexico-amid-a-successful-summer-so-far :: Atletico Madrid head to Mexico amid a successful summer so far - ESPN FC
+http://www.goal.com/en-us/news/55/main/2017/07/26/37341052/simeone-open-to-coaching-in-liga-mx :: (timeout)
+http://www.hollywoodreporter.com/news/jennifer-lopez-kim-kardashian-how-780108 :: (timeout)
+http://www.neogaf.com/forum/showthread.php?t=426539 ::  (Hyper)lordosis, APT, or "monkey butt"; some of you have it, here's how to fix it - NeoGAF
+http://www.phrases.org.uk/meanings/so-sue-me.html :: 'So sue me' - the meaning and origin of this phrase
+https://apple.stackexchange.com/questions/182871/i-want-to-make-vlc-my-default-player-on-mac-os-x-10-10-3 :: yosemite - I want to make VLC my default player on Mac OS X 10.10.3 - Ask Different
+https://askubuntu.com/questions/222512/cron-info-no-mta-installed-discarding-output-error-in-the-syslog :: "(CRON) info (No MTA installed, discarding output)" error in the syslog - Ask Ubuntu
+https://askubuntu.com/questions/93226/ubuntu-freezes-which-logs-can-i-check-out :: Ubuntu freezes. Which logs can I check out? - Ask Ubuntu
+https://books.google.com/books?id=SdClDgAAQBAJ&pg=PT12&lpg=PT12&dq=%22digitize+and+dispose%22&source=bl&ots=cRDIx_nveK&sig=u623GYhBgpJnZGtXJWLfjw6SfGE&hl=en&sa=X&ved=0ahUKEwiB_fjjrKXVAhXCi1QKHWqeDsgQ6AEIODAE#v=onepage&q=%22digitize%20and%20dispose%22&f=false :: Take Control of Your Paperless Office - Joe Kissell - Google Books
+https://discussions.apple.com/message/15076045#15076045 :: (Could not determine)
+https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/packager.html :: The Java Packager Tool
+https://en.m.wikipedia.org/wiki/Static_library#Advantages_and_disadvantages :: Static library - Wikipedia
+https://galoremag.com/things-girls-wear-guys-hate/ :: 8 Things Girls Wear That 99.9% Of Guys Hate
+https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d :: Mental Models I Find Repeatedly Useful ? Gabriel Weinberg ? Medium
+https://platform.sh/blog/containers-are-the-new-static-binaries :: Containers are the new static binaries | Platform.sh
+https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions :: functional programming - How is dependency inversion related to higher-order functions? - Software Engineering Stack Exchange
+https://softwareengineering.stackexchange.com/questions/254735/are-c-static-libraries-frowned-upon :: compiler - Are C static libraries frowned upon? - Software Engineering Stack Exchange
+https://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms :: Why don't Windows/Linux use relational Databases (RDBMS)? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io :: java - Compress directory into a zipfile with Commons IO - Stack Overflow
+https://stackoverflow.com/questions/27871530/how-do-you-get-logging-from-the-cxf-rest-client :: How do you get logging from the CXF Rest Client? - Stack Overflow
+https://stackoverflow.com/questions/312406/static-linking-advantages :: c# - Static linking advantages - Stack Overflow
+https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-mediumtest-and-largetest-annotations-in-an :: java - What is the purpose of @SmallTest, @MediumTest, and @LargeTest annotations in Android? - Stack Overflow
+https://stackoverflow.com/questions/782178/how-do-i-convert-a-string-to-an-inputstream-in-java :: How do I convert a String to an InputStream in Java? - Stack Overflow
+https://superuser.com/questions/319859/remotely-turning-on-or-rebooting-a-frozen-computer :: reboot - Remotely turning on or rebooting a frozen computer - Super User
+https://svelte.technology/blog/frameworks-without-the-framework :: Svelte ? The magical disappearing UI framework
+https://utcc.utoronto.ca/~cks/space/blog/programming/StaticLinkingAndPopularity?showcomments ::  Chris's Wiki :: blog/programming/StaticLinkingAndPopularity 
+https://www.entrepreneur.com/article/280013 :: The Importance Of Offline Retail Presence In An Online World
+https://www.entrepreneur.com/article/290605 :: Why Retail Businesses Need A Brick And Mortar Presence (Even In The E-Commerce Era)
+https://www.google.com/search?num=40&q=%22digitize+and+dispose%22&oq=%22digitize+and+dispose%22&gs_l=serp.3...2102.2736.0.3183.2.2.0.0.0.0.0.0..0.0....0...1.1.64.serp..2.0.0.5misWEISFKc :: "digitize and dispose" - Google Search
+https://www.google.com/search?q=%22static+linking%22+%22just+works%22&oq=%22static+linking%22+%22just+works%22&aqs=chrome..69i57.6407j0j7&sourceid=chrome&ie=UTF-8 :: "static linking" "just works" - Google Search
+https://www.google.com/search?q=brand+value+vs+stock+price&rlz=1CDGOYI_enUS750US750&oq=brand+value+vs+stock+price&aqs=chrome..69i57j0l2.12450j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: brand value vs stock price - Google Search
+https://www.google.com/search?q=cheapest+real+estate+investment+in+usa&rlz=1CDGOYI_enUS750US750&oq=cheapest+real+estate+investment+in+usa&aqs=chrome..69i57.8571j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: cheapest real estate investment in usa - Google Search
+https://www.google.com/search?q=dynamic+linking+dependency+hell&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=vin&ei=8A11Wbn3L8PCjwOE8JXQCg&start=20&sa=N&biw=375&bih=647 :: dynamic linking dependency hell - Google Search
+https://www.google.com/search?q=ford+gobike&rlz=1CDGOYI_enUS750US750&oq=ford+gobike&aqs=chrome..69i57j0l3.2813j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: ford gobike - Google Search
+https://www.google.com/search?q=frameworks+subvert+the+compiler&rlz=1CDGOYI_enUS750US750&oq=frameworks+subvert+the+compiler+&aqs=chrome..69i57.7991j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: frameworks subvert the compiler - Google Search
+https://www.google.com/search?q=history+of+affiliate+networks&rlz=1CDGOYI_enUS750US750&oq=history+of+affiliate+networks&aqs=chrome..69i57.9092j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: history of affiliate networks - Google Search
+https://www.google.com/search?q=is+it+wrong+to+take+photos+of+women&oq=is+it+wrong+to+take+photos+of+women+&aqs=chrome..69i57j69i64.10257j0j7&sourceid=chrome&ie=UTF-8 :: is it wrong to take photos of women - Google Search
+https://www.google.com/search?q=static+linking+uber+jar&rlz=1CDGOYI_enUS750US750&oq=static+linking+uber+jar&aqs=chrome..69i57j69i65l3j69i60j0.8002j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: static linking uber jar - Google Search
+https://www.google.com/search?q=why+linux+doesn%27t+use+a+database&rlz=1CDGOYI_enUS750US750&oq=why+linux+doesn%27t+use+a+database&aqs=chrome..69i57.5677j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: why linux doesn't use a database - Google Search
+https://www.google.com/search?q=why+use+soft+white+bulbs&rlz=1CDGOYI_enUS750US750&oq=why+use+soft+white+bulbs&aqs=chrome..69i57.34988j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: why use soft white bulbs - Google Search
+https://www.islam21c.com/islamic-thought/propagation/women/why-do-western-women-feel-inferior-to-men/ :: Why do western women feel inferior to men? - Islam21c
+https://www.maketecheasier.com/moonshot-technology/ :: What Is a "Moonshot" Technology?
+https://www.quora.com/Do-most-women-feel-inferior-to-men :: Do most women feel inferior to men? - Quora
+https://www.quora.com/Why-do-I-feel-inferior-to-females :: Why do I feel inferior to females? - Quora
+https://www.reddit.com/r/offmychest/comments/3esxcp/i_feel_inferior_to_women/?st=j5mq03r0&sh=519a235f :: I feel inferior to women : offmychest
+https://www.theguardian.com/media-network/2017/jan/25/what-store-future-look-like-retail-technology :: What does the store of the future look like? | Media Network | The Guardian
+https://www.thesun.co.uk/sport/2560305/man-city-ace-sergio-aguero-faced-family-feud-after-new-girls-daughter-called-his-son-a-sissy-and-his-ex-called-in-the-lawyers/ :: Man City ace Sergio Aguero faced family feud after new girl's daughter called his son a 'sissy'... and his ex called in the lawyers
+https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming :: Why the C Programming Language Still Runs the World | Toptal
+https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/full_papers/collberg/collberg_html/main.html :: SLINKY: Static Linking Reloaded
+http://www.catster.com/lifestyle/cat-behavior-humor-funny-pictures-photos-cats-favorite-sleeping-position :: (Could not determine)
+http://bradycap.com/conscious-capitalism-thriving-not-just-surviving/ :: Conscious Capitalism: Thriving Not Just Surviving | BradyCap
+https://www.boundless.com/business/textbooks/boundless-business-textbook/introduction-to-business-1/what-is-a-business-22/the-goals-of-a-business-129-10246/ :: The Goals of a Business
+http://theagiledirector.com/article/2017/05/25/domains-of-business-agility-v2/ :: Domains of Business Agility ? The Agile Director
+https://gradha.github.io/articles/2016/12/static-vs-dynamic-linking-is-the-wrong-discussion.html :: Static vs dynamic linking is the wrong discussion - Rants from the Ballmer Peak
+https://camlistore.org/ :: Camlistore
+https://camlistore.org/doc/overview :: Camlistore
+https://camlistore.org/doc/schema/permanode :: Camlistore
+https://camlistore.org/download :: Camlistore
+https://stackoverflow.com/questions/33431754/include-dependencies-in-groovy-application-without-repository-access :: grape - Include dependencies in Groovy application without repository access - Stack Overflow
+https://stackoverflow.com/questions/8660532/avoiding-ssh-timeouts-on-mac-os# :: osx - Avoiding SSH timeouts on Mac OS? - Stack Overflow
+https://www.packtpub.com/books/content/how-keep-simple-django-app-and-running :: How to Keep a Simple Django App Up and Running | PACKT Books
+https://newcome.wordpress.com/2012/02/26/running-programs-as-linux-daemons-using-upstart/ :: Running programs as Linux daemons using Upstart | Dan Newcome, blog
+http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/ :: How to run a script as a service in Raspberry Pi ? Raspbian Jessie ? Food Concerns
+http://buddylindsey.com/getting-started-with-and-understanding-upstart-scripts-on-ubuntu/ :: Getting Started With and Understanding Upstart Scripts on Ubuntu
+https://unix.stackexchange.com/questions/10362/why-does-htop-show-more-process-than-ps :: Why does `htop` show more process than `ps` - Unix &amp; Linux Stack Exchange
+http://developmentalmadness.com/2016/04/20/docker-open-a-bash-shell-in-a-docker-container-without-ssh/ :: developMENTALmadness: Docker: Open a Bash Shell in a Docker Container Without SSH
+https://stackoverflow.com/questions/35891193/union-mounts-into-docker-containers :: unionfs - Union mounts into Docker containers - Stack Overflow
