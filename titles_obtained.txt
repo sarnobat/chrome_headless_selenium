@@ -7262,3 +7262,8 @@ http://buddylindsey.com/getting-started-with-and-understanding-upstart-scripts-o
 https://unix.stackexchange.com/questions/10362/why-does-htop-show-more-process-than-ps
 http://developmentalmadness.com/2016/04/20/docker-open-a-bash-shell-in-a-docker-container-without-ssh/
 https://stackoverflow.com/questions/35891193/union-mounts-into-docker-containers
+https://stackoverflow.com/questions/1726525/is-there-a-way-to-collapse-all-code-blocks-in-eclipse
+http://www.techrepublic.com/article/report-the-8-biggest-tech-hubs-in-the-us/
+http://www.wsj.com/podcasts/8-biggest-tech-hubs-for-100000-tech-jobs/880D939C-88D4-4E9A-AF94-9CDBFF7C5008.html
+https://stackoverflow.com/questions/36627980/how-to-execute-commands-in-docker-container-as-part-of-bash-shell-script
+https://unix.stackexchange.com/questions/366973/restart-system-if-it-runs-out-of-memory

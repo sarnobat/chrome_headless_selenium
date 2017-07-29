@@ -2586,6 +2586,7 @@ http://www.tbo.com/events/writer-athlete-give-glimpse-inside-the-ring-20140502/
 http://www.techradar.com/how-to/computing/apple/terminal-101-running-applescripts-from-the-terminal-1305736
 http://www.techradar.com/news/phone-and-communications/mobile-phones/iphone-8-1329124
 http://www.techrepublic.com/article/keyboard-shortcuts-in-bash-and-zsh/
+http://www.techrepublic.com/article/report-the-8-biggest-tech-hubs-in-the-us/
 http://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/
 http://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/
 http://www.teehanlax.com/blog/the-science-of-nightclubs/
@@ -2815,6 +2816,7 @@ http://www.wrestlingnewssource.com/news/44524/Jerry-Lawler-Reveals-Reason-for-Be
 http://www.wrestlingnewsworld.com/paige-issues-first-public-statement-regarding-cyber-hack/
 http://www.wsc.co.uk/the-archive/37-As-good-as-it-got/4995-leicester-city-1997
 http://www.wsj.com/articles/SB121380099670884545
+http://www.wsj.com/podcasts/8-biggest-tech-hubs-for-100000-tech-jobs/880D939C-88D4-4E9A-AF94-9CDBFF7C5008.html
 http://www.wsj.com/podcasts/programs
 http://www.wsj.com/public/page/etf-mutual-funds.html
 http://www.wwe.com/classics/classic-lists/father-son-team-ups
@@ -3902,6 +3904,7 @@ https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-windo
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20
+https://stackoverflow.com/questions/1726525/is-there-a-way-to-collapse-all-code-blocks-in-eclipse
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
@@ -3930,6 +3933,7 @@ https://stackoverflow.com/questions/3538021/why-do-we-use-base64
 https://stackoverflow.com/questions/35891193/union-mounts-into-docker-containers
 https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081
 https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview
+https://stackoverflow.com/questions/36627980/how-to-execute-commands-in-docker-container-as-part-of-bash-shell-script
 https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library#
 https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
 https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
@@ -4114,6 +4118,7 @@ https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding
 https://unix.stackexchange.com/questions/29697/does-sort-support-sorting-a-file-in-place-like-sed-in-place
 https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac
 https://unix.stackexchange.com/questions/3026/what-options-serveraliveinterval-and-clientaliveinterval-in-sshd-config-exac/73922?noredirect=1#comment675861_73922
+https://unix.stackexchange.com/questions/366973/restart-system-if-it-runs-out-of-memory
 https://unix.stackexchange.com/questions/37773/recover-many-files-using-ntfsundelete
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile

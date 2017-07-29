@@ -7262,3 +7262,8 @@ http://buddylindsey.com/getting-started-with-and-understanding-upstart-scripts-o
 https://unix.stackexchange.com/questions/10362/why-does-htop-show-more-process-than-ps :: Why does `htop` show more process than `ps` - Unix &amp; Linux Stack Exchange
 http://developmentalmadness.com/2016/04/20/docker-open-a-bash-shell-in-a-docker-container-without-ssh/ :: developMENTALmadness: Docker: Open a Bash Shell in a Docker Container Without SSH
 https://stackoverflow.com/questions/35891193/union-mounts-into-docker-containers :: unionfs - Union mounts into Docker containers - Stack Overflow
+https://stackoverflow.com/questions/1726525/is-there-a-way-to-collapse-all-code-blocks-in-eclipse :: ide - Is there a way to collapse all code blocks in Eclipse? - Stack Overflow
+http://www.techrepublic.com/article/report-the-8-biggest-tech-hubs-in-the-us/ :: Report: The 8 biggest tech hubs in the US - TechRepublic
+http://www.wsj.com/podcasts/8-biggest-tech-hubs-for-100000-tech-jobs/880D939C-88D4-4E9A-AF94-9CDBFF7C5008.html :: 8 Biggest Tech Hubs for $100,000+ Tech Jobs
+https://stackoverflow.com/questions/36627980/how-to-execute-commands-in-docker-container-as-part-of-bash-shell-script :: How to execute commands in docker container as part of bash shell script - Stack Overflow
+https://unix.stackexchange.com/questions/366973/restart-system-if-it-runs-out-of-memory :: linux - Restart system if it runs out of memory? - Unix &amp; Linux Stack Exchange
