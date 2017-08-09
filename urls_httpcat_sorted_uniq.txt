@@ -159,6 +159,7 @@ http://boards.straightdope.com/sdmb/showthread.php?t=392427
 http://boards.straightdope.com/sdmb/showthread.php?t=40764
 http://boards.straightdope.com/sdmb/showthread.php?t=510936
 http://boards.straightdope.com/sdmb/showthread.php?t=599258
+http://boards.weddingbee.com/topic/what-is-with-cats-and-christmas-trees/
 http://bonanza.wikia.com/wiki/Bank_Run
 http://books.infotoday.com/books/Accidental-Taxonomist-2nd-Edition/Accidental-Taxonomist-2nd-Edition-Sample.pdf
 http://books.lihui.org/cs/Writing%20Apache%20Modules%20with%20Perl%20and%20C.pdf
@@ -470,6 +471,7 @@ http://jezebel.com/behind-the-cultural-imperative-for-women-to-be-sexy-and-10694
 http://jezebel.com/can-someone-explain-this-new-teen-photo-pose-to-me-1792455050
 http://joda-time.sourceforge.net/timezones.html
 http://jokes-app.com/joke/2pkinm4g99w
+http://jonsimpson.co.uk/papers/2012/high-level-paradigms-structuring-concurrent-systems.pdf
 http://journal.oraltradition.org/files/articles/29i/07_29.1.pdf
 http://jsfiddle.net/MaY5A/1/
 http://jsfiddle.net/ZFvDV/
@@ -582,6 +584,7 @@ http://metro.co.uk/2007/08/16/revealed-how-to-get-plump-and-round-breasts-23965/
 http://metro.co.uk/2010/02/04/top-20-things-men-and-women-find-irresistible-77602/
 http://metro.co.uk/2016/05/30/atletico-madrids-juanfran-pens-emotional-open-letter-to-fans-after-champions-league-final-loss-5913630/
 http://metro.co.uk/2016/08/07/liverpool-fans-confused-after-4-0-defeat-to-mainz-day-after-barcelona-battering-6053550/
+http://mfishbein.com/avoid-building-something-no-one-wants-by-solving-known-problems/
 http://midtownpaloalto.com/rent/spacious-1-bedroom-condo-in-woodland-creek-complex/
 http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=317916&vid=4
 http://mommything.com/haunting-photos-before-tragedy/20/
@@ -2214,6 +2217,7 @@ http://www.newegg.com/Product/Product.aspx?Item=N82E16820231704&cm_re=gskill_8gb
 http://www.newnormalwork.com/
 http://www.news.cornell.edu/stories/2007/03/temple-grandin-discusses-autism
 http://www.newsmax.com/Newsmax/files/b1/b1a11ba8-02e2-4492-97e5-5f1287111693.jpeg
+http://www.newsweek.com/silicon-valley-keeps-solving-problems-just-not-big-ones-254963
 http://www.noip.com/blog/2012/02/07/port-forwarding-tip-how-to-check-if-your-routerfirewall-ports-are-open-correctly/
 http://www.nolo.com/legal-encyclopedia/how-the-foreign-born-children-american-citizens-can-prove-obtain-us-nationality.html
 http://www.norcalanxietyocd.com/
@@ -2874,6 +2878,7 @@ https://blog.filestage.io/storytelling-techniques-for-brands-ad-campaigns/
 https://blog.gotocon.com/category/blog/
 https://blog.nari.org/2013/12/16/why-your-lack-of-branding-is-costing-you-business/
 https://blog.oup.com/2007/08/adverb/
+https://blog.varonis.com/introduction-to-oauth/
 https://blog.wealthfront.com/commission-free-etfs-arent-seem/
 https://blogs.microsoft.com/on-the-issues/2015/04/03/microsoft-announces-pilot-program-to-hire-people-with-autism/#sm.00001wsmgd4fl5f9uzdot76pqy8iy
 https://blogs.wsj.com/venturecapital/2009/03/23/the-return-of-equity-for-rent/
@@ -3673,6 +3678,7 @@ https://news.ycombinator.com/item?id=13777077
 https://news.ycombinator.com/item?id=1782791
 https://news.ycombinator.com/item?id=2567186
 https://news.ycombinator.com/item?id=2932620
+https://news.ycombinator.com/item?id=4549544
 https://news.ycombinator.com/item?id=859468
 https://news.ycombinator.com/item?id=8864737
 https://news.ycombinator.com/item?id=9120564
@@ -3702,6 +3708,7 @@ https://photography.tutsplus.com/courses/producing-great-video/lessons/music-spo
 https://pitacodogringo.wordpress.com/2008/01/30/viola-i-dont-like-gringos-allegedly/
 https://platform.sh/blog/containers-are-the-new-static-binaries
 https://player.fm/series/the-bbc-academy-podcast/how-to-create-stories-with-sound
+https://plus.google.com/+aerotwist/posts/1QhcnQizuPc
 https://plus.google.com/u/0/101477447531067789130
 https://podcasts.ox.ac.uk/autism-and-moral-responsibility-executive-function-and-reactive-attitudes
 https://podcasts.ox.ac.uk/series/department-computer-science
@@ -3818,6 +3825,7 @@ https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
+https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
 https://stackoverflow.com/questions/246801/how-can-you-encode-a-string-to-base64-in-javascript
 https://stackoverflow.com/questions/25084288/keep-ssh-session-alive
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
@@ -3832,6 +3840,7 @@ https://stackoverflow.com/questions/30101555/how-to-restart-remote-mysql-server-
 https://stackoverflow.com/questions/30899828/bad-configuration-option-in-git
 https://stackoverflow.com/questions/312406/static-linking-advantages
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
+https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-container
 https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline
 https://stackoverflow.com/questions/33431754/include-dependencies-in-groovy-application-without-repository-access
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
@@ -3845,6 +3854,7 @@ https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incom
 https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview
 https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library#
 https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
+https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
 https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
@@ -3894,6 +3904,7 @@ https://superuser.com/questions/968928/problems-renaming-file-with-a-exclamation
 https://superuser.com/questions/98562/way-to-avoid-ssh-connection-timeout-freezing-of-gnome-terminal
 https://support.apple.com/en-us/HT202549
 https://support.apple.com/en-us/HT203511
+https://support.apple.com/en-us/HT204592
 https://support.google.com/adsense/answer/32712?hl=en
 https://support.google.com/adsense/answer/6002585?hl=en&ref_topic=6002592
 https://support.google.com/adsense/answer/9724?hl=en&ref_topic=1319756
@@ -4055,6 +4066,7 @@ https://wiki.eclipse.org/EASE/Scripts
 https://wiki.eclipse.org/Eclipse_Monkey/Overview
 https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty#Setting_a_Web_Application_Context
 https://willowtreeapps.com/ideas/the-end-of-apps-multimodal-ui-and-the-future-of-mobile
+https://women2.com/stories/2012/06/22/why-there-are-no-women-on-stack-overflow-or-are-there
 https://workaround.org/
 https://workaround.org/article/whitelisting-complements-blacklisting/
 https://workaround.org/linuxtip/pipes
@@ -5305,7 +5317,9 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=william+and+ma
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=wireless+electricity+documentary&spell=1&sa=X&ved=0ahUKEwjQrcvzssrTAhVI1WMKHVWgBIwQvwUIGCgA&biw=320&bih=492#spf=1
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=women+correcting+your+pronunciation&spell=1&sa=X&ved=0ahUKEwjTrLmelY3RAhVhqlQKHa5jCCIQvwUIFigA&biw=320&bih=492
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=AEFTWfT2G8Ks0gKmhJygAw&q=social+security+residency+qualification&oq=social+security+residency+qualification&gs_l=mobile-gws-serp.3...17350.23021.0.23859.11.11.0.0.0.0.217.1091.8j1j1.10.0....0...1.1.64.mobile-gws-serp..1.8.930...35i39k1j0i13k1j30i10k1.73Vh7gzwDi8
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=dreaming+sleeping+in+mother%27s+bed&spell=1&sa=X&ved=0ahUKEwicidumgcjVAhWCxVQKHR3mA34QvwUIISgA&biw=375&bih=571
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=jshell+competitor+for+python&nirf=shell+competitor+for+python&sa=X&ved=0ahUKEwjatpnuzoDVAhVK7WMKHYlsCyoQ8BYIGigB&biw=375&bih=591
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+problems+no+one+has&spell=1&sa=X&ved=0ahUKEwjf-6bLv8jVAhUF8mMKHdJkBTQQvwUIISgA&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+base64&spell=1&sa=X&ved=0ahUKEwj9ldGz1ZnVAhVBwFQKHeCyDToQBQgZKAA&biw=375&bih=591
 https://www.google.com/search?safe=off&biw=1288&bih=679&q=largest+cities+in+antarctica&oq=antarctica+biggescities&gs_l=serp.3.0.0i8i7i10i30k1.3229.4467.0.5396.6.6.0.0.0.0.101.512.5j1.6.0....0...1c.1.64.serp..0.6.510...0i8i7i30k1.qaYIDOpZ4xE
 https://www.google.com/search?safe=off&q=admiration+vs+objectification&oq=admiration+vs+objectification&gs_l=serp.3...29113.33333.0.33606.29.15.0.0.0.0.520.869.3-1j0j1.2.0....0...1.1.64.serp..27.2.868...0j0i20k1j0i22i10i30k1j0i22i30k1.VU9YyIQMP68
@@ -5503,6 +5517,7 @@ https://www.infoq.com/news/2016/04/event-sourcing-anti-pattern
 https://www.instacart.com/
 https://www.instagram.com/p/BOYjmHIFfQN/
 https://www.integrateadvisors.org/services/
+https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/nuc-kit-nuc7i7bnh-brief.pdf
 https://www.internetretailer.com/2017/01/16/betting-technology
 https://www.interviewcake.com/amazon-interview-questions
 https://www.interviewcake.com/question/python/balanced-binary-tree

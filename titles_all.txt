@@ -7354,3 +7354,18 @@ https://www.quora.com/Where-can-I-download-an-SQL-database-with-football-league-
 https://www.quora.com/Why-does-Docker-ToolBox-use-the-Oracle-VirtualBox :: Why does Docker ToolBox use the Oracle VirtualBox? - Quora
 https://www.w3schools.com/jsref/jsref_tostring_date.asp :: JavaScript Date toString() Method
 https://www.youtube.com/user/UEFA/playlists :: (Could not determine)
+https://blog.varonis.com/introduction-to-oauth/ :: Introduction to OAuth (in Plain English)
+https://news.ycombinator.com/item?id=4549544 :: Everything that's wrong with Java in a single class | Hacker News
+https://plus.google.com/+aerotwist/posts/1QhcnQizuPc :: (timeout)
+https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1 :: (timeout)
+https://support.apple.com/en-us/HT204592 :: (timeout)
+http://jonsimpson.co.uk/papers/2012/high-level-paradigms-structuring-concurrent-systems.pdf :: (Could not determine)
+https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098 :: Docker image vs container - Stack Overflow
+https://women2.com/stories/2012/06/22/why-there-are-no-women-on-stack-overflow-or-are-there :: Why There Are No Women On Stack Overflow? Or Are There? ? Women 2.0
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=dreaming+sleeping+in+mother%27s+bed&spell=1&sa=X&ved=0ahUKEwicidumgcjVAhWCxVQKHR3mA34QvwUIISgA&biw=375&bih=571 :: dreaming sleeping in mother's bed - Google Search
+http://mfishbein.com/avoid-building-something-no-one-wants-by-solving-known-problems/ :: How to Avoid Building Something No One Wants By Solving Known Problems
+http://www.newsweek.com/silicon-valley-keeps-solving-problems-just-not-big-ones-254963 :: Silicon Valley Keeps Solving Problems?Just Not the Big Ones
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+problems+no+one+has&spell=1&sa=X&ved=0ahUKEwjf-6bLv8jVAhUF8mMKHdJkBTQQvwUIISgA&biw=375&bih=591 :: solving problems no one has - Google Search
+https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-container :: Run Different Linux OS in Docker Container? - Stack Overflow
+https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/nuc-kit-nuc7i7bnh-brief.pdf :: (Could not determine)
+http://boards.weddingbee.com/topic/what-is-with-cats-and-christmas-trees/ :: (Could not determine)

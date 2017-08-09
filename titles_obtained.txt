@@ -7354,3 +7354,17 @@ https://www.quora.com/Where-can-I-download-an-SQL-database-with-football-league-
 https://www.quora.com/Why-does-Docker-ToolBox-use-the-Oracle-VirtualBox
 https://www.w3schools.com/jsref/jsref_tostring_date.asp
 https://www.youtube.com/user/UEFA/playlists
+https://blog.varonis.com/introduction-to-oauth/
+https://news.ycombinator.com/item?id=4549544
+https://plus.google.com/+aerotwist/posts/1QhcnQizuPc
+https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
+https://support.apple.com/en-us/HT204592
+http://jonsimpson.co.uk/papers/2012/high-level-paradigms-structuring-concurrent-systems.pdf
+https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
+https://women2.com/stories/2012/06/22/why-there-are-no-women-on-stack-overflow-or-are-there
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=dreaming+sleeping+in+mother%27s+bed&spell=1&sa=X&ved=0ahUKEwicidumgcjVAhWCxVQKHR3mA34QvwUIISgA&biw=375&bih=571
+http://mfishbein.com/avoid-building-something-no-one-wants-by-solving-known-problems/
+http://www.newsweek.com/silicon-valley-keeps-solving-problems-just-not-big-ones-254963
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+problems+no+one+has&spell=1&sa=X&ved=0ahUKEwjf-6bLv8jVAhUF8mMKHdJkBTQQvwUIISgA&biw=375&bih=591
+https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-container
+https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/nuc-kit-nuc7i7bnh-brief.pdf
