@@ -7369,3 +7369,20 @@ https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+proble
 https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-container :: Run Different Linux OS in Docker Container? - Stack Overflow
 https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/nuc-kit-nuc7i7bnh-brief.pdf :: (Could not determine)
 http://boards.weddingbee.com/topic/what-is-with-cats-and-christmas-trees/ :: (Could not determine)
+https://en.wikipedia.org/wiki/Compile_time_function_execution :: Compile time function execution - Wikipedia
+https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions/355406#355406 :: functional programming - How is dependency inversion related to higher-order functions? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/2472376/how-do-i-execute-a-program-using-maven :: How do I execute a program using Maven? - Stack Overflow
+https://stackoverflow.com/questions/7844310/spring-jms-receive-topic-messages :: Spring JMS receive topic messages - Stack Overflow
+https://stackoverflow.com/questions/7335278/use-spring-integration-or-not-on-a-pure-java-distributed-system-that-is-connect :: Use Spring Integration or not? on a pure Java distributed System that is connected with JMS (ActiveMq) - Stack Overflow
+https://stackoverflow.com/questions/9015882/activemq-publisher-subscriber-hello-world-example :: java - ACTIVEMQ- publisher subscriber hello world example - Stack Overflow
+https://dzone.com/articles/spring-jms-activemq :: (Could not determine)
+https://www.theguardian.com/books/2014/nov/25/readers-prefer-authors-own-sex-goodreads-survey :: Readers prefer authors of their own sex, survey finds | Books | The Guardian
+https://www.themediabriefing.com/article/the-gender-split-in-news-consumption-a-case-of-discovery :: The gender split in news consumption: A case of discovery?
+https://www.quora.com/Will-current-day-pop-music-ever-be-considered-classical :: Will current day pop music ever be considered 'classical'? - Quora
+http://manpages.ubuntu.com/manpages/xenial/man1/jq.1.html :: (Could not determine)
+https://www.google.com/search?q=crowdsourcing+law+enforcement&oq=crowdsourcing+law+en&aqs=chrome.0.0j69i57.3364j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: crowdsourcing law enforcement - Google Search
+http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/ :: Running GUI apps with Docker ? F?bio Rehm
+https://stackoverflow.com/questions/26287130/converting-lines-to-json-in-bash/45603242#45603242 :: jq - converting lines to json in bash - Stack Overflow
+http://www.urbandictionary.com/define.php?term=swearing :: Urban Dictionary: swearing
+https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc :: Running GUI?s with Docker on Mac OS X ? Containerizers
+https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version :: regex implementation to replace group with its lowercase version - Stack Overflow

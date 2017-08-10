@@ -305,6 +305,7 @@ http://evonomics.com/why-capitalism-creates-pointless-jobs-david-graeber/
 http://executive.mit.edu/openenrollment/program/platform-strategy-building-and-thriving-in-a-vibrant-ecosystem/#.WIJp27YrLOR
 http://experienceunlimitedsanfrancisco.weebly.com/
 http://f22.videoup.net/vfile/39/4/9gxggjgr4/video240.mp4?hash=svp1P_F-63DN3wUQCNydRA
+http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
 http://faculty.marianopolis.edu/c.belanger/quebechistory/Historicalcontext.html
 http://familycommunity.church/event/divorcecare-group/2017-06-29/
 http://fanworld.co/wp-content/uploads/2015/12/Santino_Marella.jpeg
@@ -527,6 +528,7 @@ http://mahatma-t-rex.blogspot.com/2015_07_01_archive.html
 http://manpages.ubuntu.com/manpages/precise/man5/mailname.5.html
 http://manpages.ubuntu.com/manpages/wily/man1/grc.1.html
 http://manpages.ubuntu.com/manpages/wily/man1/powerwake.1.html
+http://manpages.ubuntu.com/manpages/xenial/man1/jq.1.html
 http://manpages.ubuntu.com/manpages/xenial/man8/watchdog.8.html
 http://manpages.ubuntu.com/manpages/yakkety/man1/csv2rec.1.html
 http://manpages.ubuntu.com/manpages/yakkety/man8/watchdog.8.html
@@ -2671,6 +2673,7 @@ http://www.urbandictionary.com/define.php?term=smelfie
 http://www.urbandictionary.com/define.php?term=soccer&defid=1232057
 http://www.urbandictionary.com/define.php?term=socialist
 http://www.urbandictionary.com/define.php?term=southerner
+http://www.urbandictionary.com/define.php?term=swearing
 http://www.urbandictionary.com/define.php?term=sweet+16
 http://www.urbandictionary.com/define.php?term=tab%20dump
 http://www.urbandictionary.com/define.php?term=video%20selfie
@@ -2975,6 +2978,7 @@ https://chromedriver.storage.googleapis.com/index.html?path=2.25/
 https://chromium.googlesource.com/chromium/src/
 https://cirw.in/blog/time-to-move-on
 https://clips.news.co.uk/thesun/psYnd4OTE6SXbtyoC3B1r9bnWAfdEta2/DOcJ-FxaFrRg4gtDEwOmk2OjBrO6qGv_?_=vnadbvb1emi
+https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc
 https://codemirror.net/doc/manual.html
 https://coderbyte.com/algorithm/find-duplicates-in-array-linear-time-v1
 https://coderbyte.com/algorithm/find-duplicates-in-array-linear-time-v2
@@ -3060,6 +3064,7 @@ https://dzone.com/articles/javautilconcurrentfuture
 https://dzone.com/articles/lesser-known-git-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://dzone.com/articles/maven-vs-gradle-one-year-later
 https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
+https://dzone.com/articles/spring-jms-activemq
 https://dzone.com/articles/unix-commands-dealing
 https://dzone.com/refcardz/jetty
 https://earth.stanford.edu/sites/default/files/San_Andreas_Fault_Trail.pdf
@@ -3169,6 +3174,7 @@ https://en.wikipedia.org/wiki/Cognitive_distortion
 https://en.wikipedia.org/wiki/Come_on_Down!_The_Game_Show_Story
 https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English#Vocabulary
 https://en.wikipedia.org/wiki/Comparison_of_UPnP_AV_media_servers
+https://en.wikipedia.org/wiki/Compile_time_function_execution
 https://en.wikipedia.org/wiki/Computer_form_factor
 https://en.wikipedia.org/wiki/Cookie_jar_accounting
 https://en.wikipedia.org/wiki/Coolie
@@ -3784,6 +3790,7 @@ https://slackhq.com/give-opportunity-not-charity-the-case-for-neurodiversity-in-
 https://sleep.org/articles/man-vs-woman-sleep/
 https://softsolder.com/2009/03/08/extracting-digital-camera-multi-burst-images/
 https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions
+https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions/355406#355406
 https://softwareengineering.stackexchange.com/questions/124233/why-is-it-impossible-to-produce-truly-random-numbers
 https://softwareengineering.stackexchange.com/questions/194340/why-are-nosql-databases-more-scalable-than-sql
 https://softwareengineering.stackexchange.com/questions/254735/are-c-static-libraries-frowned-upon
@@ -3827,9 +3834,11 @@ https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
 https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
 https://stackoverflow.com/questions/246801/how-can-you-encode-a-string-to-base64-in-javascript
+https://stackoverflow.com/questions/2472376/how-do-i-execute-a-program-using-maven
 https://stackoverflow.com/questions/25084288/keep-ssh-session-alive
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
+https://stackoverflow.com/questions/26287130/converting-lines-to-json-in-bash/45603242#45603242
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
 https://stackoverflow.com/questions/27871530/how-do-you-get-logging-from-the-cxf-rest-client
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
@@ -3857,6 +3866,7 @@ https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
 https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
 https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
+https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
 https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-mediumtest-and-largetest-annotations-in-an
@@ -3868,13 +3878,16 @@ https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/6161823/dd-how-to-calculate-optimal-blocksize
 https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more
+https://stackoverflow.com/questions/7335278/use-spring-integration-or-not-on-a-pure-java-distributed-system-that-is-connect
 https://stackoverflow.com/questions/782178/how-do-i-convert-a-string-to-an-inputstream-in-java
+https://stackoverflow.com/questions/7844310/spring-jms-receive-topic-messages
 https://stackoverflow.com/questions/796319/strengths-of-shell-scripting-compared-to-python
 https://stackoverflow.com/questions/7967918/illegal-string-body-character-after-dollar-sign
 https://stackoverflow.com/questions/8049132/how-can-i-detect-whether-a-symlink-is-broken-in-bash
 https://stackoverflow.com/questions/820888/java-rtsp-client-server-library
 https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java#
 https://stackoverflow.com/questions/8660532/avoiding-ssh-timeouts-on-mac-os#
+https://stackoverflow.com/questions/9015882/activemq-publisher-subscriber-hello-world-example
 https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
@@ -4749,6 +4762,7 @@ https://www.google.com/search?q=court+order+india+passport&rlz=1CDGOYI_enUS590US
 https://www.google.com/search?q=creole+condiment&rlz=1CDGOYI_enUS590US590&oq=creole+condiment&aqs=chrome..69i57j0l3.10326j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=crossover+marketing&oq=crossover+marketing&aqs=chrome..69i57j0l5.6735j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=crouton+package+manager&rlz=1CAASUA_enUS721US723&oq=crouton+package&aqs=chrome.0.0j69i57j0l2.8163j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=crowdsourcing+law+enforcement&oq=crowdsourcing+law+en&aqs=chrome.0.0j69i57.3364j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=cruiseliner&oq=cruiseliner&aqs=chrome..69i57j0l5.3402j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=crying+indian&oq=crying+indian&aqs=chrome..69i57j0l5.4875j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=cscope+batch+mode&rlz=1CDGOYI_enUS590US590&oq=cscopr+batch&aqs=chrome.1.69i57j0.4281j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5794,6 +5808,7 @@ https://www.quora.com/Why-hasnt-East-Palo-Alto-gentrified-yet
 https://www.quora.com/Why-is-competitive-eating-a-sport
 https://www.quora.com/Why-is-it-that-most-women-get-offended-when-they-find-out-a-guy-is-having-a-good-time-by-looking-at-their-pics-or-fantasizing-about-them-eventhough-it-causes-them-no-harm
 https://www.quora.com/Why-is-the-world-full-of-mean-people
+https://www.quora.com/Will-current-day-pop-music-ever-be-considered-classical
 https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/
@@ -5885,6 +5900,7 @@ https://www.theatlantic.com/magazine/archive/2016/09/how-british-soccer-became-m
 https://www.theblizzard.co.uk/articles/
 https://www.theblizzard.co.uk/podcasts/
 https://www.thefastmode.com/what-is-policy-and-charging-control
+https://www.theguardian.com/books/2014/nov/25/readers-prefer-authors-own-sex-goodreads-survey
 https://www.theguardian.com/business/2001/sep/04/11
 https://www.theguardian.com/business/2015/apr/19/the-innovators-matching-autistic-people-with-jobs-needing-special-skills
 https://www.theguardian.com/environment/earth-insight/2014/mar/20/iraq-war-oil-resources-energy-peak-scarcity-economy
@@ -5915,6 +5931,7 @@ https://www.theguardian.com/technology/2009/oct/23/mysterious-cable-uk-us
 https://www.theguardian.com/us-news/2016/feb/04/san-francisco-then-and-now-super-bowl-50
 https://www.theguardian.com/world/2015/oct/15/sudan-whatsapp-sharing-revolution
 https://www.themarysue.com/guy-gamers-hate-losing-to-women/
+https://www.themediabriefing.com/article/the-gender-split-in-news-consumption-a-case-of-discovery
 https://www.theodysseyonline.com/an-open-letter-to-the-girl-who-always-has-smile-on-her-face
 https://www.theodysseyonline.com/masculinity-femininity-appearance
 https://www.theodysseyonline.com/reasons-why-being-girl-sucks
