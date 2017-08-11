@@ -460,6 +460,7 @@ http://indiangirlsclub.com/indian-babe-shanaya-sex-red-erotic-top-showing-boobs/
 http://info.cern.ch/hypertext/WWW/TheProject.html
 http://info.philsystems.com/blog/reclaiming-a-mine
 http://ingridsundberg.com/2013/06/05/what-is-arch-plot-and-classic-design/
+http://insights.dice.com/2013/05/17/which-programming-languages-should-you-skip/
 http://investorplace.com/2014/02/mall-food-courts-lose-155-sbarro-pizza-restaurants/#.WRAPIrRVikp
 http://investorplace.com/2015/02/best-vanguard-balanced-funds-vbinx-vtmfx-vwinx/#.WFm4jbYrLOQ
 http://invisibleinkblog.blogspot.com/2013/08/yes-documentaries-also-use-story.html
@@ -1445,6 +1446,7 @@ http://www.bbc.co.uk/programmes/w0006q4f/episodes/guide
 http://www.bbc.com/capital/story/20160106-model-employee-are-autistic-individuals-the-best-workers-around
 http://www.bbc.com/culture/story/20151109-english-speakers-or-not-brits-and-americans-swear-in-different-languages
 http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-us-forget
+http://www.bbc.com/news/av/magazine-40861878/woman-s-hour-looks-at-the-increase-of-upskirt-photography-without-consent
 http://www.bbc.com/news/blogs-ouch-28746359
 http://www.bbc.com/news/business-30532463
 http://www.bbc.com/news/entertainment-arts-29205286
@@ -2144,6 +2146,7 @@ http://www.marca.com/en/football/spanish-football/2017/06/01/59300f24468aeb916f8
 http://www.marca.com/en/football/spanish-football/2017/07/09/59613fa922601de26f8b45d3.html
 http://www.marca.com/en/football/spanish-football/2017/07/23/5973a8a322601dad468b4567.html
 http://www.marca.com/en/football/spanish-football/2017/08/06/59875047268e3e02128b4622.html
+http://www.marca.com/en/football/spanish-football/2017/08/09/598b4c05e2704eef3e8b45f2.html
 http://www.marca.com/en/more-sports/2017/02/10/589e1eaa22601d5e138b46db.html
 http://www.marca.com/futbol/america/2016/11/29/583d27ad46163f214a8b4629.html
 http://www.marca.com/futbol/atletico/2016/10/01/57ed636a268e3efe698b463c.html
@@ -2524,6 +2527,7 @@ http://www.telegraph.co.uk/news/1475574/Wrestling-star-in-court-over-snakes-deat
 http://www.telegraph.co.uk/news/2016/11/01/cleavage-goes-bust-vogue-declares-the-dcolletage-over/
 http://www.telegraph.co.uk/news/2016/11/29/colombia-plane-carrying-brazil-football-team-crashes-latest/
 http://www.telegraph.co.uk/news/newstopics/howaboutthat/4378948/Men-smell-of-cheese-women-smell-of-onion.html
+http://www.telegraph.co.uk/news/shopping-and-consumer-news/12147503/Trio-chocolate-bars-set-for-a-comeback-after-13-years.html
 http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7918699/Women-view-modesty-as-sign-of-weakness.html
 http://www.telegraph.co.uk/sport/3017778/We-didnt-want-Robbie-to-go-for-free-says-Parry.html
 http://www.telegraph.co.uk/sport/8462312/How-Sky-Sports-dragged-football-back-from-the-dark-days-of-the-Eighties.html
@@ -3822,6 +3826,7 @@ https://stackoverflow.com/questions/12222607/how-to-do-a-soap-wsdl-web-services-
 https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-services
 https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
+https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
 https://stackoverflow.com/questions/15091148/hashmaps-and-null-values
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
@@ -3847,6 +3852,7 @@ https://stackoverflow.com/questions/29728151/how-to-listen-for-multiple-tcp-conn
 https://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux
 https://stackoverflow.com/questions/30101555/how-to-restart-remote-mysql-server-running-on-ubuntu-linux
 https://stackoverflow.com/questions/30899828/bad-configuration-option-in-git
+https://stackoverflow.com/questions/310720/get-source-jar-files-attached-to-eclipse-for-maven-managed-dependencies
 https://stackoverflow.com/questions/312406/static-linking-advantages
 https://stackoverflow.com/questions/3211801/graphviz-and-ascii-output
 https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-container

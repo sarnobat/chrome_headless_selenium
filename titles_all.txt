@@ -7386,3 +7386,9 @@ https://stackoverflow.com/questions/26287130/converting-lines-to-json-in-bash/45
 http://www.urbandictionary.com/define.php?term=swearing :: Urban Dictionary: swearing
 https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc :: Running GUI?s with Docker on Mac OS X ? Containerizers
 https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version :: regex implementation to replace group with its lowercase version - Stack Overflow
+http://www.telegraph.co.uk/news/shopping-and-consumer-news/12147503/Trio-chocolate-bars-set-for-a-comeback-after-13-years.html :: Trio chocolate bars set for a comeback after 13 years - Telegraph
+http://www.marca.com/en/football/spanish-football/2017/08/09/598b4c05e2704eef3e8b45f2.html :: (timeout)
+https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757 :: maven 2 - m2eclipse won't download sources from local repository - Stack Overflow
+https://stackoverflow.com/questions/310720/get-source-jar-files-attached-to-eclipse-for-maven-managed-dependencies :: Get source jar files attached to Eclipse for Maven-managed dependencies - Stack Overflow
+http://www.bbc.com/news/av/magazine-40861878/woman-s-hour-looks-at-the-increase-of-upskirt-photography-without-consent :: Woman's Hour looks at the increase of upskirt photography without consent - BBC News
+http://insights.dice.com/2013/05/17/which-programming-languages-should-you-skip/ :: Programming Languages That Aren't Worth Your Time - Dice Insights
