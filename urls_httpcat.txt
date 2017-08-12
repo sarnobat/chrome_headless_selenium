@@ -641,6 +641,7 @@ http://news.nationalgeographic.com/news/2004/01/0107_040107_violin.html
 http://news.nationalpost.com/sports/tennis/it-was-flying-everywhere-women-players-hate-wearing-nikes-revealing-tennis-dress-at-wimbledon
 http://news.yale.edu/2003/03/18/women-smile-more-men-differences-disappear-when-they-are-same-role-yale-researcher-finds
 http://nofilmschool.com/2014/10/if-you-want-learn-how-tell-story-edit-documentary
+http://noop.nl/2017/08/what-comes-after-scrum.html
 http://nudewwedivas.forumcommunity.net/?t=57489343
 http://nudewwedivas.forumcommunity.net/?t=57620851
 http://nudewwedivas.forumcommunity.net/?t=57695392
@@ -741,6 +742,7 @@ http://rocketit.com/what-the-difference-between-an-update-and-an-upgrade-means/
 http://rss.acast.com/makingtheirwaytothering
 http://rss.art19.com/jim-cornette-experience
 http://rss.art19.com/jim-cornette-s-drive-thru
+http://samatkinson.com/why-i-hate-spring/
 http://samatkinson.com/why-i-hate-spring/
 http://santaclaraca.gov/government/departments/parks-recreation/parks-recreation-special-events/4th-of-july
 http://sbarro.is/files/Sbarro_Nutritional_Information.pdf
@@ -1180,12 +1182,18 @@ http://theinsidechannel.com/understanding-antoine-griezmanns-role-atletico-madri
 http://theleakyboob.com/tag/how-we-view-breasts-shapes-us/
 http://thelinuxworks.blogspot.com/2017/03/how-things-work-today-or-joys-of.html
 http://thesefootballtimes.co/2015/01/11/remembering-sampdorias-glory-years/
+http://thesefootballtimes.co/2015/01/15/football-against-the-tide-italys-island-mainland-divide/
 http://thesefootballtimes.co/2015/01/15/parma-and-the-parmalat-scandal/
+http://thesefootballtimes.co/2015/01/15/the-great-rivaldo-hat-trick-of-2001/
 http://thesefootballtimes.co/2015/05/19/rise-and-fall-of-ipswich-premier-league/
 http://thesefootballtimes.co/2015/05/20/a-tale-of-one-city-rome/
+http://thesefootballtimes.co/2015/08/04/juan-roman-riquelme-the-dream-comes-first/
+http://thesefootballtimes.co/2015/09/08/in-celebration-of-rafa-benitezs-valencia/
 http://thesefootballtimes.co/2015/10/08/wimbledon-the-final-premier-league-season/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
 http://thesefootballtimes.co/2016/05/30/yugoslavia-in-the-1990s-the-wonder-team-that-never-was/
+http://thesefootballtimes.co/2016/06/12/gaizka-mendieta-the-midfield-master-who-worked-his-way-to-the-top/
+http://thesefootballtimes.co/2016/06/29/the-nearly-men-valencia-and-the-champions-league/
 http://thesefootballtimes.co/2016/07/04/investigating-the-origins-of-cholismo/
 http://thesefootballtimes.co/2016/07/19/torino-the-resurgence-of-footballs-most-tragic-club/
 http://thesefootballtimes.co/2016/08/25/fc-fidel-when-cuba-joined-the-german-fourth-tier/
@@ -1338,6 +1346,7 @@ http://webmasters.stackexchange.com/questions/102113/open-standard-for-forum-con
 http://webmasters.stackexchange.com/questions/102113/open-standard-for-forum-content-storage
 http://webmasters.stackexchange.com/questions/43211/what-are-the-minimum-content-and-traffic-requirements-for-google-adsense
 http://webservices.amazon.com/scratchpad/index.html#http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&Operation=ItemLookup&SubscriptionId=AKIAJ2IPYCFBZOFTOLJA&AssociateTag=rohidekar-20&ItemId=B00JWV56BQ&IdType=ASIN&ResponseGroup=Images,ItemAttributes,Offers
+http://websystique.com/spring/spring-4-jms-activemq-example-with-annotations/
 http://westphoria.sunset.com/2015/06/15/6-best-places-to-experience-the-real-san-andreas/
 http://whatculture.com/wwe/10-fascinating-wwe-wrestlemania-6-facts?page=11
 http://whatculture.com/wwe/12-incredible-behind-the-scenes-wrestlemania-photos?page=2
@@ -1989,6 +1998,7 @@ http://www.goal.com/en/news/12/spanish-football/2015/05/20/11904832/ronaldo-is-n
 http://www.goal.com/en/news/1717/editorial/2014/11/21/5658431/debt-is-power-how-real-madrid-can-get-away-with-being-600m
 http://www.goal.com/en/news/722/la-liga/2017/03/02/33243792/gabi-bitten-by-torres-as-deportivo-doctor-praises-atletico
 http://www.goal.com/en/news/furious-atletico-fans-mistakenly-bombard-japanese-journalist/19xv0rfgrhbo813sytotp55p8x
+http://www.goaldentimes.org/life-from-12-yards-palermo-misses/
 http://www.goaldentimes.org/spanish-corner-the-story-of-the-mattress-makers/
 http://www.goaldentimes.org/spanish-corner-the-story-of-the-mattress-makers/
 http://www.gold.ac.uk/news/comment-autism-spectrum-disorder-and-employment/
@@ -2052,6 +2062,7 @@ http://www.imdb.com/title/tt1593289/
 http://www.imdb.com/title/tt1632708/
 http://www.imdb.com/title/tt2072045/reviews
 http://www.imdb.com/title/tt2337576/
+http://www.imdb.com/title/tt2380331/
 http://www.imdb.com/title/tt3470600/
 http://www.imdb.com/title/tt4424318/
 http://www.imdb.com/title/tt4898282/
@@ -2210,6 +2221,8 @@ http://www.livestrong.com/article/312150-the-all-bran-diet/
 http://www.livetennisguide.com/2013/11/25/rafael-nadal-novak-djokovic-stars-in-soccer-match/
 http://www.londonfilmacademy.com/courses/documentary-certificate.asp
 http://www.londonfilmacademy.com/courses/documentary-certificate.asp
+http://www.loqutus.com/content/oauth2-human-terms
+http://www.loqutus.com/content/oauth2-human-terms
 http://www.lteandbeyond.com/2012/01/gx-interface-sitting-between-pcrf-and.html#PCC
 http://www.lteandbeyond.com/2012/01/gy-interface-sitting-between-ocs-and.html
 http://www.macmillanreaders.com/level-test/
@@ -2859,6 +2872,7 @@ http://www.xtratime.org/forum/156-world-football/222848-autistic-players.html
 http://www.xtratime.org/forum/266-atletico-madrid/
 http://www.xvideos.com/video23557170/poonam_pandey_playing_rock_paper_scissor_got_high
 http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/
+http://www.yegor256.com/2016/04/12/java-annotations-are-evil.html
 http://www.yolinux.com/TUTORIALS/BashShellCgi.html
 http://www.yorkshirepost.co.uk/sport/football/leeds-united/sheffield-wednesday-6-leeds-united-0-wednesday-wipe-out-22-years-of-hurt-with-destruction-of-leeds-1-6368579
 http://www.youbeauty.com/fitness/ask-a-scientist-men-and-butts/
@@ -3145,6 +3159,7 @@ https://discussions.apple.com/message/15076045#15076045
 https://discussions.apple.com/thread/5065222?start=0&tstart=0
 https://discussions.apple.com/thread/6988530?start=15&tstart=0
 https://discussions.apple.com/thread/7705504?start=0&tstart=0
+https://disqus.com/home/discussion/sambastuff/why_i_hate_spring/
 https://distrowatch.com/dwres-mobile.php?resource=major
 https://distrowatch.com/dwres-mobile.php?resource=ranking
 https://docs.google.com/document/d/1RZx0l7up-sg61FNqVb1_NG8-wPN0_JKkNiKjEici7Oc/edit
@@ -3184,6 +3199,7 @@ https://dzone.com/articles/maven-vs-gradle-one-year-later
 https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://dzone.com/articles/spring-jms-activemq
 https://dzone.com/articles/unix-commands-dealing
+https://dzone.com/articles/why-i-stopped-using-spring
 https://dzone.com/refcardz/jetty
 https://earth.stanford.edu/sites/default/files/San_Andreas_Fault_Trail.pdf
 https://eden.dei.uc.pt/~amilcar/pdf/CompilerInJava.pdf
@@ -3258,6 +3274,7 @@ https://en.wikipedia.org/wiki/Academic_regalia_in_the_United_States
 https://en.wikipedia.org/wiki/Actuality_film
 https://en.wikipedia.org/wiki/Actuator
 https://en.wikipedia.org/wiki/Administration_(British_football)#List_of_clubs_that_have_entered_administration
+https://en.wikipedia.org/wiki/Adult_Swim
 https://en.wikipedia.org/wiki/African_American_Vernacular_English
 https://en.wikipedia.org/wiki/Agalmatophilia
 https://en.wikipedia.org/wiki/Age_disparity_in_sexual_relationships#Male_preference_for_younger_females
@@ -3331,6 +3348,7 @@ https://en.wikipedia.org/wiki/Eclipse_Foundation
 https://en.wikipedia.org/wiki/Eco-terrorism
 https://en.wikipedia.org/wiki/Economic_history_of_Spain#The_Franco_Era.2C_1939.E2.80.9375
 https://en.wikipedia.org/wiki/Economic_system
+https://en.wikipedia.org/wiki/Edit_Music_for_a_Film:_Original_Motion_Picture_Soundtrack_Reconstruction
 https://en.wikipedia.org/wiki/Empty_calorie
 https://en.wikipedia.org/wiki/English_football_on_television#Rise_of_live_League_coverage
 https://en.wikipedia.org/wiki/Ephebophilia
@@ -3793,6 +3811,7 @@ https://medium.com/true-investing/no-risk-no-reward-d84f370f6572#.7dn21076l
 https://meta.discourse.org/t/is-forum-migration-really-worth-it/7644
 https://mint.lc.intuit.com/questions/1041265-now-that-mint-intuit-has-acquired-check-pageonce-and-turned-it-into-mint-bills-will-the-accounts-link-together
 https://mktstk.com/2015/03/10/correlation-filtering-on-the-sp-500/
+https://mmikowski.github.io/no-frameworks/
 https://mobile.twitter.com/AtleticoFans/status/842658403281461248?s=08
 https://mobile.twitter.com/aepodcast/status/549506905287454720
 https://mobile.twitter.com/footy40yearsago
@@ -4418,6 +4437,7 @@ https://www.coedcherry.com/models/kamilla-18/galleries/3910
 https://www.coedcherry.com/models/kamilla-18?page=2
 https://www.coldwellbankerhomes.com/ca/east-palo-alto/condos-townhomes/?groupId=-1&sortId=2&offset=0&z=20&c=37.460961%2C-122.1352
 https://www.control4.com/blog/2016/05/control4-named-top-home-automation-provider-for-2016
+https://www.creditsesame.com/blog/credit/is-700-a-good-credit-score/
 https://www.cs.swarthmore.edu/help/vim/variables.html
 https://www.curejoy.com/
 https://www.cyberciti.biz/faq/how-to-find-all-hard-links-in-a-directory-on-linux/
@@ -4790,6 +4810,7 @@ https://www.google.com/search?q=%22install+ease+components%22&oq=%22install+ease
 https://www.google.com/search?q=%22leads+to+piracy%22&rlz=1CDGOYI_enUS590US590&oq=%22leads+to+piracy%22&aqs=chrome..69i57j0l3.14024j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=%22round+up%22+scrum+estimate&oq=%22round+up%22+scrum+estimate&aqs=chrome..69i57.7081j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22sexy+harassment%22&oq=%22sexy+harassment%22&aqs=chrome..69i57.2843j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=%22spring+framework%22+%22can%27t+make+heads+or+tails%22&oq=%22spring+framework%22+%22can%27t+make+heads+or+tails%22&aqs=chrome..69i57.8679j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22static+linking%22+%22just+works%22&oq=%22static+linking%22+%22just+works%22&aqs=chrome..69i57.6407j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22will+only%22+%22if+they+feel%22+piracy&rlz=1CDGOYI_enUS590US590&oq=%22will+only%22+%22if+they+feel%22+piracy&aqs=chrome..69i57.22210j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=%27multiple+best+friends%22+contradictory&oq=%27multiple+best+friends%22+contradictory&aqs=chrome..69i57.6815j0j7&sourceid=chrome&ie=UTF-8
@@ -5003,6 +5024,7 @@ https://www.google.com/search?q=form+3516+ftb.ca.gov&oq=form+3516+ftb.ca.gov&aqs
 https://www.google.com/search?q=forum+markup+language&rlz=1CDGOYI_enUS590US590&oq=forum+markup+la&aqs=chrome.1.69i57j0.11417j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=forumscraping&rlz=1CDGOYI_enUS590US590&oq=forumscraping&aqs=chrome..69i57j0l3.6854j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=frameworks+subvert+the+compiler&rlz=1CDGOYI_enUS750US750&oq=frameworks+subvert+the+compiler+&aqs=chrome..69i57.7991j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=franchise+fair&oq=franchise+fair&aqs=chrome..69i57j0l5.4120j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=frank+lampard+harry+redknapp+related&rlz=1CDGOYI_enUS590US590&oq=frank+lampard+harry+redknapp+related&aqs=chrome..69i57.5239j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=friendship+geographical+convenience&oq=friendship+geographical+convenience&aqs=chrome..69i57.5999j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=gaviscon&oq=gabiscon&aqs=chrome.1.69i57j0l5.4464j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -5072,6 +5094,7 @@ https://www.google.com/search?q=is+a+pizza+a+pie&rlz=1CDGOYI_enUS590US590&oq=is+
 https://www.google.com/search?q=is+berkeley+db+free&oq=is+berkeley+db+&aqs=chrome.0.0j69i57j0l4.4141j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+closed+circuit+still+in+business&rlz=1CDGOYI_enUS590US590&oq=is+closed+circuit+still+in+business&aqs=chrome..69i57.24507j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=is+east+palo+alto+a+good+investment&rlz=1CDGOYI_enUS590US590&oq=is+east+palo+alto+a+good+investment&aqs=chrome..69i57j0.10846j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=is+franchising+a+raw+deal&oq=is+franchising+a+raw+deal&aqs=chrome..69i57j69i64.3974j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+gambling+good+for+the+economy&oq=is+gambling+good+for+the+eco&aqs=chrome.0.0j69i57j0l3j69i64.3560j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+gold+liquid+in+a+bear+market&oq=is+gold+liquid+in+a+bear+market&aqs=chrome..69i57j69i64.5619j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+html+a+protocol&oq=is+html+a+protocol&aqs=chrome..69i57j0l2j69i64.5901j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -5260,6 +5283,7 @@ https://www.google.com/search?q=terms+and+conditions+meme&num=40&source=lnms&tbm
 https://www.google.com/search?q=the+future+is+female&rlz=1CDGOYI_enUS590US590&oq=the+future+&aqs=chrome.2.69i57j0l3.5569j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+uber+economy&rlz=1CDGOYI_enUS750US750&oq=the+uber+economy&aqs=chrome..69i57j0l3.3696j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=thinking+fast+and+slow&rlz=1CDGOYI_enUS590US590&oq=thinking+faat+abd&aqs=chrome.1.69i57j0l3.5286j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=third+wave+nationalism&rlz=1CDGOYI_enUS750US750&oq=third+wave+nationalism&aqs=chrome..69i57.10092j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=tindergarden&oq=tindergarden&aqs=chrome..69i57j0l3.2987j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tldr+%22executive+summary%22&oq=tldr+%22executive+summary%22&aqs=chrome..69i57.9775j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tofu+done+right&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=isvn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIzJbH17_QAhVG7mMKHTlqDlMQ_AUIBygB
@@ -5296,6 +5320,7 @@ https://www.google.com/search?q=what+came+before+cable+tv&rlz=1CDGOYI_enUS590US5
 https://www.google.com/search?q=what+is+celery+high+in&rlz=1CDGOYI_enUS590US590&oq=what+is+crlery+high+&aqs=chrome.1.69i57j0.39381j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=what+is+celery+high+in&rlz=1CDGOYI_enUS590US590&oq=what+is+crlery+high+&aqs=chrome.1.69i57j0.39381j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=what+is+corn+high+in&rlz=1CDGOYI_enUS590US590&oq=what+is+corn+hi&aqs=chrome.1.69i57j0l3.9298j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=what+is+the+point+of+beans+java&oq=what+is+the+point+of+beans+java&aqs=chrome..69i57j0l5.6089j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=what+is+the+point+of+life+without+children&oq=what+is+the+point+of+life+without+children&aqs=chrome..69i57.6851j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=what+makes+a+market+grow&rlz=1CDGOYI_enUS590US590&oq=what+makes+the+market+gr&aqs=chrome.1.69i57j0l3.12943j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=what+makes+an+elderly+person+happy&rlz=1CDGOYI_enUS590US590&oq=what+makes+elderly+people+happ&aqs=chrome.1.69i57j0.35267j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5493,6 +5518,7 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=william+and+ma
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=wireless+electricity+documentary&spell=1&sa=X&ved=0ahUKEwjQrcvzssrTAhVI1WMKHVWgBIwQvwUIGCgA&biw=320&bih=492#spf=1
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=women+correcting+your+pronunciation&spell=1&sa=X&ved=0ahUKEwjTrLmelY3RAhVhqlQKHa5jCCIQvwUIFigA&biw=320&bih=492
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=AEFTWfT2G8Ks0gKmhJygAw&q=social+security+residency+qualification&oq=social+security+residency+qualification&gs_l=mobile-gws-serp.3...17350.23021.0.23859.11.11.0.0.0.0.217.1091.8j1j1.10.0....0...1.1.64.mobile-gws-serp..1.8.930...35i39k1j0i13k1j30i10k1.73Vh7gzwDi8
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=do+normal+people+make+eye+contact&spell=1&sa=X&ved=0ahUKEwi8wtHwhs7VAhVfHGMKHT7ZBnAQvwUIISgA&biw=375&bih=591&dpr=2
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=dreaming+sleeping+in+mother%27s+bed&spell=1&sa=X&ved=0ahUKEwicidumgcjVAhWCxVQKHR3mA34QvwUIISgA&biw=375&bih=571
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=jshell+competitor+for+python&nirf=shell+competitor+for+python&sa=X&ved=0ahUKEwjatpnuzoDVAhVK7WMKHYlsCyoQ8BYIGigB&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+problems+no+one+has&spell=1&sa=X&ved=0ahUKEwjf-6bLv8jVAhUF8mMKHdJkBTQQvwUIISgA&biw=375&bih=591
@@ -5940,6 +5966,7 @@ https://www.quora.com/Should-I-buy-a-property-in-East-Palo-Alto-CA-in-2015
 https://www.quora.com/The-Twitter-stock-is-at-a-record-low-level-Is-this-a-good-time-to-invest/answer/Luca-Falda
 https://www.quora.com/The-Twitter-stock-is-at-a-record-low-level-Is-this-a-good-time-to-invest/answer/Luca-Falda/comment/28677083
 https://www.quora.com/Was-it-dangerous-to-eat-lunch-sitting-on-a-beam-hundreds-of-feet-above-New-York
+https://www.quora.com/What-are-Java-beans-and-why-they-are-used
 https://www.quora.com/What-are-some-good-documentary-films-about-the-history-of-San-Francisco
 https://www.quora.com/What-are-some-good-ways-for-an-Indian-guy-to-meet-Indian-girls-in-the-Bay-Area
 https://www.quora.com/What-are-some-secrets-girls-rarely-share-with-any-boy
@@ -5957,6 +5984,7 @@ https://www.quora.com/What-is-alternate-of-torrentz-eu/answer/Vivek-Ramaswamy-12
 https://www.quora.com/What-is-it-like-for-a-woman-to-have-a-platonic-male-friend-see-her-breasts
 https://www.quora.com/What-is-the-best-programming-language-for-automating-repetitive-workflows-in-a-browser
 https://www.quora.com/What-is-the-difference-between-Spring-Boot-and-the-Spring-framework
+https://www.quora.com/What-is-the-difference-between-arbitrary-and-random
 https://www.quora.com/What-is-the-difference-between-cognitive-bias-and-cognitive-distortion
 https://www.quora.com/What-is-the-future-of-final-cut-pro-x-Is-it-worth-buying-and-learning
 https://www.quora.com/What-is-the-major-difference-in-men-being-called-cute-handsome-or-hot-Whom-will-women-choose-for-dating-marriage-or-one-night-stand
