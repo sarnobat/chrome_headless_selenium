@@ -7418,3 +7418,4 @@ https://www.quora.com/What-are-Java-beans-and-why-they-are-used
 http://www.yegor256.com/2016/04/12/java-annotations-are-evil.html
 https://www.google.com/search?q=franchise+fair&oq=franchise+fair&aqs=chrome..69i57j0l5.4120j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+franchising+a+raw+deal&oq=is+franchising+a+raw+deal&aqs=chrome..69i57j69i64.3974j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf
