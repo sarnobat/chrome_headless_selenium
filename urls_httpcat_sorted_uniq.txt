@@ -21,6 +21,7 @@ http://alandove.com/static/2007/09/the-joy-of-text/
 http://allnurses.com/general-nursing-student/what-determines-the-214609.html
 http://alternativeto.net/software/diffen/
 http://alternativeto.net/software/firepad/
+http://alternativeto.net/software/taskwarrior/
 http://amazingribs.com/recipes/pizza_and_flatbreads_on_the_grill/different_pizza_styles.html
 http://aminoapps.com/page/wrestling/3087811/5-embarrassing-wrestling-champions
 http://andrzejonsoftware.blogspot.com/2014/12/ill-refactor-this-later.html
@@ -490,6 +491,7 @@ http://korishev.com/blog/2014/02/28/iterm2-broadcast-input/
 http://lab.hakim.se/reveal-js/#/
 http://laborenglishzone.blogspot.com/2011/11/balaidos-stadium.html
 http://labs.openviewpartners.com/having-delusions-of-grandeur-is-an-advantage-for-small-businesses/#.WFMvpaIrLOQ
+http://labs.time.com/story/see-the-ratio-of-single-men-to-women-where-you-live/
 http://laffgaff.com/funny-comebacks-and-insults/
 http://latimesblogs.latimes.com/sports_blog/2011/07/did-india-withdraw-from-the-1950-world-cup-because-they-were-not-allowed-to-play-barefoot.html
 http://latingirlsnaked.com/
@@ -1167,6 +1169,7 @@ http://thesefootballtimes.co/2017/06/18/diego-ribas-the-other-half-of-a-double-a
 http://thesefootballtimes.co/2017/07/24/how-ze-roberto-defied-time-to-remain-a-star-at-43/
 http://thesnugglebuddies.com/female-snugglers-6/#ca
 http://thespanishfootballpodcast.libsyn.com/rss
+http://theunraveler.com/taskwarrior-web/
 http://thewellnessdigest.com/flexor-digitorum-longus-muscle-foot-and-toe-pain/
 http://thewellnessdigest.com/quadratus-plantae-muscle-heel-pain/
 http://thewhyaxis.info/hairball/
@@ -1457,6 +1460,7 @@ http://www.bbc.com/future/story/20160307-why-does-walking-through-doorways-make-
 http://www.bbc.com/news/av/magazine-40861878/woman-s-hour-looks-at-the-increase-of-upskirt-photography-without-consent
 http://www.bbc.com/news/blogs-ouch-28746359
 http://www.bbc.com/news/business-30532463
+http://www.bbc.com/news/business-40894089
 http://www.bbc.com/news/entertainment-arts-29205286
 http://www.bbc.com/news/entertainment-arts-39149127
 http://www.bbc.com/news/magazine-35993633
@@ -2272,6 +2276,7 @@ http://www.nyhistory.org/community/when-did-the-statue-of-liberty-turn-green
 http://www.nytimes.com/1999/02/16/world/how-us-wooed-asia-to-let-cash-flow-in.html
 http://www.nytimes.com/2000/04/26/sports/barcelona-lines-up-on-sidelines-but-refuses-to-take-part-in-cup-match.html
 http://www.nytimes.com/2004/06/25/movies/has-dance-evolved-into-a-man-s-world.html?_r=0
+http://www.nytimes.com/2007/01/21/weekinreview/21zernike.html
 http://www.nytimes.com/2012/07/07/technology/tech-companies-leave-phone-calls-behind.html?_r=1&
 http://www.nytimes.com/2016/11/11/world/asia/india-rupee-ban-narendra-modi.html?_r=0
 http://www.oaklabs.is/
@@ -2466,6 +2471,7 @@ http://www.socaltech.com/mapx/
 http://www.socaltech.com/news/news.rss
 http://www.soccerbase.com/teams/team.sd?team_id=163&teamTabs=stats
 http://www.socialanxietysupport.com/forum/f24/do-guys-like-a-girl-with-a-firm-or-a-200912/#/topics/200912?page=2
+http://www.socialanxietysupport.com/forum/f35/do-you-feel-inferior-to-married-people-147479/
 http://www.socialtechnologyreview.com/articles/oauth-pros-and-cons-oauth
 http://www.sofeminine.co.uk/skin-care/how-to-get-gorgeous-breasts-s563691.html
 http://www.sofeminine.co.uk/wellbeing/10-things-you-should-know-about-your-butt-s1598968.html
@@ -2798,6 +2804,7 @@ https://adminimages.muhandes.net/content/library/a0483ee7cc1f484fa225db578006f95
 https://airwaysmag.com/airlines/united-airlines-push-boeing-747-retirement-2017/
 https://ajayfromiiit.wordpress.com/2009/10/21/server-and-client-mode-in-vim/
 https://analytics.google.com/analytics/web/#report/visitors-geo/a86681824w128939428p132710433/%3F_r.tabId%3Dgeo/
+https://answers.microsoft.com/en-us/windows/forum/windows_xp-windows_programs/i-need-a-command-line-analog-of-mklink-for-windows/45242c3c-1935-4967-8172-a9b403d86ab1?auth=1
 https://answers.yahoo.com/question/index?qid=20070509120657AAethCM
 https://answers.yahoo.com/question/index?qid=20070803082203AApj4Pg
 https://answers.yahoo.com/question/index?qid=20080309221851AAB1iYX
@@ -3537,6 +3544,7 @@ https://github.com/stedolan/jq/issues/206
 https://github.com/stedolan/jq/issues/42
 https://github.com/stoicflame/ofx4j
 https://github.com/substack/stream-handbook
+https://github.com/theunraveler/taskwarrior-web
 https://github.com/tmrts/boilr
 https://github.com/tools4j/unix4j
 https://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md
@@ -3601,6 +3609,7 @@ https://itunes.apple.com/do/album/vaya-cristo!/id1066898411
 https://itunes.apple.com/gb/podcast/desert-island-discs/id342735925?mt=2
 https://itunes.apple.com/gb/podcast/the-blizzard/id968673096?mt=2
 https://itunes.apple.com/ie/podcast/the-stand/id1178026212?mt=2
+https://itunes.apple.com/us/app/sleep-cycle-alarm-clock/id320606217?mt=8
 https://itunes.apple.com/us/podcast/a-converstation-with-gangaji/id569185235
 https://itunes.apple.com/us/podcast/espn-fc/id849326609?mt=2
 https://itunes.apple.com/us/podcast/from-parts-unknown-podcast/id979075484?mt=2
@@ -3800,6 +3809,7 @@ https://serverfault.com/questions/363670/rsync-avzhp-follows-hardlinks-instead-o
 https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server
 https://serverfault.com/questions/433275/lvm-logical-volume-partition-corrupted-after-lvreduce
 https://serverfault.com/questions/56691/whats-the-maximum-url-length-in-tomcat
+https://serverfault.com/questions/7109/how-do-i-create-a-symbolic-link-in-windows
 https://serverfault.com/questions/731769/apache-server-on-ec2-responds-on-localhost-but-not-public-ip/731770#731770
 https://shapeshed.com/unix-join/
 https://simpleprogrammer.com/2017/02/20/jobs-job-titles/
@@ -3862,6 +3872,7 @@ https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
 https://stackoverflow.com/questions/26287130/converting-lines-to-json-in-bash/45603242#45603242
 https://stackoverflow.com/questions/2644179/accenture-interview-question-find-the-only-unpaired-element-in-the-array
+https://stackoverflow.com/questions/26595620/how-to-install-ruby-2-1-4-on-ubuntu-14-04
 https://stackoverflow.com/questions/27871530/how-do-you-get-logging-from-the-cxf-rest-client
 https://stackoverflow.com/questions/27965207/creating-a-resourceconfig-that-behaves-the-same-way-as-default-jettys-jersey-re
 https://stackoverflow.com/questions/29060064/sun-security-x509-certandkeygen-and-sun-security-pkcs-pkcs10-missing-in-jdk8
@@ -3890,6 +3901,7 @@ https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-
 https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version
+https://stackoverflow.com/questions/4304438/gem-install-failed-to-build-gem-native-extension-cant-find-header-files
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
 https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-mediumtest-and-largetest-annotations-in-an
@@ -3916,6 +3928,7 @@ https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
 https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/
 https://storageservers.wordpress.com/2015/12/14/the-rise-of-scale-out-network-attached-storage/
+https://store.docker.com/community/images/hav0k/taskwarrior-web
 https://stv.tv/sport/football/clubs/celtic/283862-atletico-v-celtic-1974-why-theres-history/
 https://superuser.com/questions/1003788/reboot-linux-via-netcat
 https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell
@@ -4058,6 +4071,7 @@ https://unix.stackexchange.com/questions/113544/interpret-the-output-of-lstopo/1
 https://unix.stackexchange.com/questions/12532/dd-vs-cat-is-dd-still-relevant-these-days
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii
 https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii/127775#127775
+https://unix.stackexchange.com/questions/129249/how-can-i-access-a-linux-box-at-home-in-my-browser-at-work
 https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ssh-on-local-machine-and-save-to-a-local-disk
 https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
 https://unix.stackexchange.com/questions/18360/how-can-i-relink-a-lot-of-broken-symlinks
@@ -4256,6 +4270,7 @@ https://www.cagreatamerica.com/
 https://www.carautismroadmap.org/the-role-of-a-job-coach/
 https://www.careercup.com/forumpost?id=6220310781100032
 https://www.carpoolworld.com/carpool_.html
+https://www.catholicmatch.com/institute/2013/01/are-you-defined-by-your-marital-status/
 https://www.celebjihad.com/kaitlyn/wwe-diva-kaitlyn-nude-photos-leaked
 https://www.celebjihad.com/sarah-hyland/sarah-hyland-boob-slips-out
 https://www.celebslike.me/
@@ -4285,6 +4300,7 @@ https://www.coedcherry.com/models/kamilla-18/galleries/3838
 https://www.coedcherry.com/models/kamilla-18/galleries/3910
 https://www.coedcherry.com/models/kamilla-18?page=2
 https://www.coldwellbankerhomes.com/ca/east-palo-alto/condos-townhomes/?groupId=-1&sortId=2&offset=0&z=20&c=37.460961%2C-122.1352
+https://www.collegetimes.com/news/educated-women-more-likely-to-die-alone-142246
 https://www.control4.com/blog/2016/05/control4-named-top-home-automation-provider-for-2016
 https://www.creditsesame.com/blog/credit/is-700-a-good-credit-score/
 https://www.cs.swarthmore.edu/help/vim/variables.html
@@ -4592,6 +4608,7 @@ https://www.google.com/search?num=40&q=iterm+copy+previous+output+line&oq=iterm+
 https://www.google.com/search?num=40&q=job+protection+law+if+actresses+get+pregnant+while+shooting&oq=job+protection+law+if+actresses+get+pregnant+while+shooting&gs_l=serp.3..30i10k1.36573.38356.0.38524.4.4.0.0.0.0.92.297.4.4.0....0...1.1.64.serp..0.3.237.7U7oyDkcClQ
 https://www.google.com/search?num=40&q=keith+curle+andy+sinton&oq=keith+curle+andy+sinton&gs_l=serp.3..33i160k1l2.9328.11028.0.13630.12.12.0.0.0.0.158.1201.4j7.11.0....0...1c.1.64.serp..1.7.752...0j33i21k1.LPQeI_PbRqI
 https://www.google.com/search?num=40&q=kutty+cutie+girls&oq=kutty+cutie+girls&gs_l=serp.3...2656.3353.0.3491.6.6.0.0.0.0.112.485.2j3.5.0....0...1c.1.64.serp..1.3.321...33i160k1.l2AMqg99iWI
+https://www.google.com/search?num=40&q=less+single+women+than+men&oq=less+single+women+than+men&gs_l=psy-ab.3...41024.44058.0.44258.26.23.0.0.0.0.340.2756.8j11j1j1.21.0....0...1.1.64.psy-ab..5.12.1869...0j35i39k1j0i131k1j0i67k1j0i20k1j0i10k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1j33i21k1.lrW4x89jwss
 https://www.google.com/search?num=40&q=life+insurance+dividends&oq=life+insurance+divide&gs_l=serp.3.0.0i20k1l2j0l8.10905.11847.0.12635.6.4.0.2.2.0.87.303.4.4.0....0...1c.1.64.serp..0.6.306.ZV6Teq5QyzA
 https://www.google.com/search?num=40&q=linkedin+uk+aspergers+employment&oq=linkedin+uk+aspergers+employment&gs_l=serp.3...72437.73784.0.73964.9.9.0.0.0.0.161.849.2j5.7.0....0...1c.1.64.serp..3.0.0.18_K9hanNTk
 https://www.google.com/search?num=40&q=list+of+cognitive+distortions&oq=list+of+cognitive+distortions&gs_l=serp.3...33416.37008.0.37217.15.10.0.0.0.0.0.0..0.0....0...1c.1.64.serp..15.0.0.lugR1BhsOsE
@@ -4744,6 +4761,7 @@ https://www.google.com/search?q=bugzilla+subtasks&oq=bugzilla+subtasks&aqs=chrom
 https://www.google.com/search?q=bullet+journal&rlz=1CDGOYI_enUS590US590&oq=bullet+journal&aqs=chrome..69i57j0l3.25864j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=bullion&oq=bullion&aqs=chrome..69i57j69i60j69i65j69i59j69i60j69i61.1558j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=bully+mentality&oq=bully+mentality&aqs=chrome..69i57j0l3.4455j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=business+books+blog&oq=business+books+blog&aqs=chrome..69i57j0j5.3393j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=buying+syndicated+programming&oq=buying+syndicated&aqs=chrome.1.69i57j0l2.33640j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=cablelabs+autism&oq=cablelabs+autism&aqs=chrome..69i57.10210j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=california+occupational+guides&rlz=1CDGOYI_enUS590US590&oq=california+occupational+gui&aqs=chrome.1.69i57j0l2.19277j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -4991,6 +5009,8 @@ https://www.google.com/search?q=meeting+of+the+minds&oq=meeting+of+the+m&aqs=chr
 https://www.google.com/search?q=melatonin+uk+law&oq=melatonin+uk+law&aqs=chrome..69i57.3566j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=metastudy&rlz=1CDGOYI_enUS590US590&oq=metastudy&aqs=chrome..69i57j0l3.5830j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=microaggression&oq=microaggression&aqs=chrome..69i57j0l5.3410j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=mklink+windows+xp&oq=mklink+windows+xp&aqs=chrome..69i57j0l5.4489j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=mklink+xp&oq=mklink+xp&aqs=chrome..69i57j0l5.2263j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=modeling+an+economic+system&num=40&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiA1d-3sfXRAhUhr1QKHRspDpgQ_AUICigD&biw=1285&bih=703#imgrc=_
 https://www.google.com/search?q=monetary+easing&oq=monetary+easing&aqs=chrome..69i57j0l5.1049j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=moneteyes&rlz=1CDGOYI_enUS590US590&oq=moneteyes&aqs=chrome..69i57j0l3.5501j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5677,6 +5697,9 @@ https://www.microsoft.com/en-us/mtc/locations/siliconvalley.aspx
 https://www.mmu.ac.uk/equality-and-diversity/disability/the_undiscovered_workforce.pdf
 https://www.motifinvesting.com/motifs/san-francisco-bay-area-reit-G7vfjdpu
 https://www.mrc-cbu.cam.ac.uk/wp-content/uploads/2013/01/WM-classroom-guide.pdf
+https://www.mybusinessbookclub.com/blog/
+https://www.mybusinessbookclub.com/book-review-machines-everything/
+https://www.mybusinessbookclub.com/book-review/
 https://www.myheritage.com/names/anu_dhutia
 https://www.mytrade.com/thinkshare/statuses/6809069
 https://www.ncbi.nlm.nih.gov/m/pubmed/9368835/
@@ -5727,6 +5750,8 @@ https://www.psychologytoday.com/basics/low-sexual-desire/sexual-desire-in-women
 https://www.psychologytoday.com/blog/fulfillment-any-age/201206/unfriended-five-ways-manage-online-rejection
 https://www.psychologytoday.com/blog/homo-consumericus/200902/why-are-high-heels-so-enticing
 https://www.psychologytoday.com/blog/in-practice/201301/50-common-cognitive-distortions
+https://www.psychologytoday.com/blog/living-single/201102/10-myths-about-single-people-here-are-the-first-4
+https://www.psychologytoday.com/blog/living-single/201102/10-myths-about-single-people-here-are-the-last-3
 https://www.psychologytoday.com/blog/out-the-darkness/201402/why-men-dont-shopping-and-most-women-do
 https://www.psychologytoday.com/blog/slightly-blighty/201508/why-high-heels-make-women-more-attractive
 https://www.psychologytoday.com/blog/spectrum-solutions/201006/what-everybody-ought-know-about-aspergers-and-marriage
