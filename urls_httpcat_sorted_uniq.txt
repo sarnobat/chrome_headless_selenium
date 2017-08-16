@@ -1219,6 +1219,7 @@ http://tvtropes.org/pmwiki/pmwiki.php/Main/UnsettlingGenderReveal
 http://tvtropes.org/pmwiki/pmwiki.php/Main/WomenAreDelicate
 http://twentyminutereads.com/2015/05/07/the-wizard/
 http://twocents.lifehacker.com/how-to-build-an-easy-beginner-set-and-forget-investm-1686878594
+http://twocents.lifehacker.com/use-a-goodwill-letter-to-remove-late-payments-from-your-1680276221
 http://tympanus.net/codrops/2013/08/09/building-a-circular-navigation-with-css-transforms/
 http://ubuntuguide.org/wiki/Mail_Server_setup
 http://uk.tempur.com/beds/bed-frames/
@@ -1311,13 +1312,16 @@ http://wiki.c2.com/?AttentionEconomy
 http://wiki.c2.com/?CategoryLowEnd
 http://wiki.c2.com/?ClasspathHell
 http://wiki.c2.com/?DependencyHell
+http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork
 http://wiki.c2.com/?DoesBeingStatelessImplyBeingIdempotent
 http://wiki.c2.com/?DougMcIlroy
 http://wiki.c2.com/?GrepVsDatabase
 http://wiki.c2.com/?HowSimpleComplexityIs
 http://wiki.c2.com/?NimbleDatabase
 http://wiki.c2.com/?PowerOfPlainText
+http://wiki.c2.com/?RavioliCode
 http://wiki.c2.com/?RollYourOwnDatabase
+http://wiki.c2.com/?TooMuchAbstraction
 http://wiki.c2.com/?WorseIsBetter
 http://wiki.tuhs.org/doku.php?id=features:pipes
 http://wikidiff.com/person/persona
@@ -3092,6 +3096,7 @@ https://drscdn.500px.org/photo/120955189/m%3D900/5847e96683c46e52506c16869e6ba63
 https://drscdn.500px.org/photo/49504796/q=80_m=2000/f28512eb79ce757879c4dd480e934b28
 https://duenablomstrom.com/2015/08/03/everythings-a-brand-everything-but-a-bank/
 https://dzone.com/articles/a-detailed-breakdown-of-the-jvm?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
+https://dzone.com/articles/avoid-reflection
 https://dzone.com/articles/creating-executable-uber-jar%E2%80%99s
 https://dzone.com/articles/csv-operations-using-opencsv
 https://dzone.com/articles/design-patterns-uncovered-0
@@ -3391,6 +3396,7 @@ https://en.wikipedia.org/wiki/Sexualization_in_child_beauty_pageants
 https://en.wikipedia.org/wiki/Silicon_Fen
 https://en.wikipedia.org/wiki/Silicon_Valley_BART_extension
 https://en.wikipedia.org/wiki/Software_agent
+https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code
 https://en.wikipedia.org/wiki/Stanford_Research_Park
 https://en.wikipedia.org/wiki/Steve_Shirley
 https://en.wikipedia.org/wiki/Stock_and_flow
@@ -3636,6 +3642,7 @@ https://itunes.apple.com/us/podcast/gorilla-position/id961131289?mt=2
 https://itunes.apple.com/us/podcast/madusas-full-throttle-podcast/id1214727595?mt=2
 https://itunes.apple.com/us/podcast/the-spanish-football-podcast/id687671367?mt=2
 https://jawbone.com/up
+https://jaysoo.ca/2015/11/21/avoid-unnecessary-indirection/
 https://jbodah.github.io/blog/2014/10/04/an-example-of-why-the-wrong-abstraction-is-worse-than-no-abstraction-at-all/
 https://jekyllrb.com/
 https://jobs.experian.com/location/united-states-california-los-angeles-jobs/439/6252001-5332921-5368381-5368361/4
@@ -3662,6 +3669,7 @@ https://library.stanford.edu/guides/documentary-films
 https://library.stanford.edu/guides/television-studies-television-news
 https://library.stanford.edu/libraries/green/about
 https://library.stanford.edu/subjects/film-and-media-studies
+https://lifehacks.stackexchange.com/questions/4327/how-to-fix-stuck-laptop-keys
 https://liliputing.com/2014/03/upgrade-asus-chromebox-memory-storage.html
 https://linux-tips.com/t/socat-port-forwarding/168
 https://linux.die.net/man/1/base64
@@ -3838,6 +3846,7 @@ https://skycocker.github.io/chromebrew/
 https://slackhq.com/give-opportunity-not-charity-the-case-for-neurodiversity-in-hiring-305e0bdf0a6
 https://sleep.org/articles/man-vs-woman-sleep/
 https://softsolder.com/2009/03/08/extracting-digital-camera-multi-burst-images/
+https://softwareengineering.meta.stackexchange.com/questions/8066/i-have-a-question-but-it-may-not-fit-best-on-software-engineering-where-else-c
 https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions
 https://softwareengineering.stackexchange.com/questions/103508/how-is-dependency-inversion-related-to-higher-order-functions/355406#355406
 https://softwareengineering.stackexchange.com/questions/124233/why-is-it-impossible-to-produce-truly-random-numbers
@@ -3845,6 +3854,7 @@ https://softwareengineering.stackexchange.com/questions/194340/why-are-nosql-dat
 https://softwareengineering.stackexchange.com/questions/254735/are-c-static-libraries-frowned-upon
 https://softwareengineering.stackexchange.com/questions/254947/difference-between-a-heap-and-a-priority-queue
 https://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms
+https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
 https://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/
 https://soundcloud.com/newgenpodcast
 https://soundcloud.com/theredmentv
@@ -3877,6 +3887,7 @@ https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-windo
 https://stackoverflow.com/questions/14411173/how-to-stop-reading-multiple-lines-from-stdin-using-scanner
 https://stackoverflow.com/questions/15091148/hashmaps-and-null-values
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
+https://stackoverflow.com/questions/1575762/orm-technologies-vs-jdbc
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
@@ -3923,6 +3934,8 @@ https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-
 https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version
 https://stackoverflow.com/questions/4304438/gem-install-failed-to-build-gem-native-extension-cant-find-header-files
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
+https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45700299#45700299
+https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45703315#45703315
 https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-mediumtest-and-largetest-annotations-in-an
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
@@ -4370,6 +4383,7 @@ https://www.disabilityrightsuk.org/careers-and-work-disabled-people
 https://www.dissentmagazine.org/online_articles/blaming-women-for-the-infantilization-of-men
 https://www.divorcecare.org/countries/us/states/ca/cities/san_jose
 https://www.divorcecare.org/groups/82864
+https://www.docsity.com/en/news/programming-2/programming-pasta-spaghetti-lasagna-ravioli-macaroni-code/
 https://www.doordash.com/store/anjappar-chettinad-milpitas-13161/
 https://www.dreamsongs.com/WorseIsBetter.html
 https://www.drugs.com/answers/why-do-u-have-to-take-effexor-with-food-477071.html
@@ -4824,6 +4838,7 @@ https://www.google.com/search?q=construction+of+an+economy&rlz=1CDGOYI_enUS590US
 https://www.google.com/search?q=consumer+economy&oq=consumer+economy&aqs=chrome..69i57j69i60l5.2270j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=container+on+a+mobile+os&rlz=1CDGOYI_enUS590US590&oq=container+on+a+mobile+os&aqs=chrome..69i57.8590j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=cooler+than+thou+mentality&rlz=1CDGOYI_enUS590US590&oq=cooler+than+thou+mentality&aqs=chrome..69i57.4902j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=cord+vs+chord&oq=cord+vs+chord&aqs=chrome.0.0l4.1971j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=cornell+open+source+autism&rlz=1CDGOYI_enUS590US590&oq=cornell+open+source+autism&aqs=chrome..69i57.9798j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=cost+control+strategy&rlz=1CDGOYI_enUS590US590&oq=cost+control+strategy&aqs=chrome..69i57j0l3.10846j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=court+order+india+passport&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nisv&ei=9eTuWKDJIeqN0gLd_ImQAg&start=10&sa=N&biw=320&bih=548
@@ -5147,6 +5162,7 @@ https://www.google.com/search?q=soccer+power+index&rlz=1CDGOYI_enUS590US590&oq=s
 https://www.google.com/search?q=social+metaphysics&oq=social+metaph&aqs=chrome.0.0j69i57j0l4.1968j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=software+engineers+control+the+world&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=548&prmd=inv&ei=CFuKWPyKL4PijwO-pqPICg&start=10&sa=N
 https://www.google.com/search?q=source+code+fix+generics&rlz=1CDGOYI_enUS590US590&oq=source+code+fix+generics&aqs=chrome..69i57.17511j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=spaghetti+code+lasagna+code+ravioli+code&oq=spaghetti+code+lasagna+code+ravioli+code&aqs=chrome..69i57.6903j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=spotting+session+video+editing&rlz=1CDGOYI_enUS590US590&oq=spotting+session+video+editing&aqs=chrome..69i57.19203j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=spring+automagic&rlz=1CDGOYI_enUS750US750&oq=spring+automagic&aqs=chrome..69i57.12196j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=ssh+browser&rlz=1CDGOYI_enUS590US590&oq=ssh+browder&aqs=chrome.1.69i57j0l3.5218j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5633,6 +5649,7 @@ https://www.jobtrain.co.uk/nas/vacancies.aspx
 https://www.joe.co.uk/sport/atletico-fans-show-their-support-for-player-who-missed-decisive-champions-league-penalty-63188
 https://www.joe.co.uk/sport/opinion-simeones-genius-remarkable-given-atletico-madrids-history-lunacy-63100
 https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/
+https://www.johndcook.com/blog/2010/06/30/where-the-unix-philosophy-breaks-down/
 https://www.johndcook.com/blog/2012/05/25/unix-doesnt-follow-the-unix-philosophy/
 https://www.johndcook.com/blog/2016/06/14/ascii-art-diagrams/
 https://www.journalism.cuny.edu/academics/media-specialties/visual-journalism/
@@ -6257,3 +6274,5 @@ https://xapian.org/docs/
 https://xhamster.com/movies/1068402/kamilla_18_in_bed.html
 https://xhamster.com/movies/967483/kamilla_18_-_good_morning.html
 https://ycharts.com/store/professional_tour/section/charting
+https://zedshaw.com/archive/indirection-is-not-abstraction/
+https://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/

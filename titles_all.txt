@@ -7476,3 +7476,22 @@ http://www.huffingtonpost.com/2014/02/05/perfect-body-change-beauty-ideals_n_473
 https://en.wikipedia.org/wiki/Silicon_Valley_BART_extension :: Silicon Valley BART extension - Wikipedia
 https://www.f6s.com/st.isidorenetworkinggroupsing :: St. Isidore Networking Group (SING) | F6S
 https://stackoverflow.com/questions/14411173/how-to-stop-reading-multiple-lines-from-stdin-using-scanner :: java - How to stop reading multiple lines from stdin using Scanner? - Stack Overflow
+http://twocents.lifehacker.com/use-a-goodwill-letter-to-remove-late-payments-from-your-1680276221 :: (timeout)
+https://softwareengineering.meta.stackexchange.com/questions/8066/i-have-a-question-but-it-may-not-fit-best-on-software-engineering-where-else-c :: (timeout)
+https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented :: What Spring projects are libraries (not framework-oriented)? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45700299#45700299 :: What Spring projects are libraries (not framework-oriented)? - Stack Overflow
+https://www.google.com/search?q=cord+vs+chord&oq=cord+vs+chord&aqs=chrome.0.0l4.1971j0j7&sourceid=chrome&ie=UTF-8 :: cord vs chord - Google Search
+https://www.johndcook.com/blog/2010/06/30/where-the-unix-philosophy-breaks-down/ :: Where the Unix philosophy breaks down
+https://dzone.com/articles/avoid-reflection :: (Could not determine)
+https://lifehacks.stackexchange.com/questions/4327/how-to-fix-stuck-laptop-keys :: cleaning - How to fix stuck laptop keys? - Lifehacks Stack Exchange
+https://stackoverflow.com/questions/1575762/orm-technologies-vs-jdbc :: java - ORM Technologies vs JDBC? - Stack Overflow
+https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45703315#45703315 :: What Spring projects are libraries (not framework-oriented)? - Stack Overflow
+https://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/ :: 10 pitfalls of experienced Java devs zeroturnaround.com 
+https://zedshaw.com/archive/indirection-is-not-abstraction/ :: Indirection Is Not Abstraction ? Zed A. Shaw
+https://jaysoo.ca/2015/11/21/avoid-unnecessary-indirection/ :: Avoid Unnecessary Indirection ? Jack Hsu
+http://wiki.c2.com/?TooMuchAbstraction :: Too Much Abstraction
+http://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork :: Do The Simplest Thing That Could Possibly Work
+https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code :: Spaghetti code - Wikipedia
+https://www.docsity.com/en/news/programming-2/programming-pasta-spaghetti-lasagna-ravioli-macaroni-code/ :: Programming Pasta - Spaghetti, Lasagna, Ravioli and Macaroni Code - Docsity
+https://www.google.com/search?q=spaghetti+code+lasagna+code+ravioli+code&oq=spaghetti+code+lasagna+code+ravioli+code&aqs=chrome..69i57.6903j0j7&sourceid=chrome&ie=UTF-8 :: spaghetti code lasagna code ravioli code - Google Search
+http://wiki.c2.com/?RavioliCode :: Ravioli Code
