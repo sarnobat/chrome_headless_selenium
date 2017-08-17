@@ -665,6 +665,7 @@ http://nuevoestadioatleti.blogspot.com/search?updated-max=2012-08-01T15:15:00%2B
 http://nymag.com/scienceofus/2016/08/how-cat-people-differ-from-dog-people-on-facebook.html
 http://nypost.com/2015/10/26/trying-butt-pads-was-the-most-humiliating-experience-of-my-life/
 http://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html
+http://observer.com/2006/07/how-the-internet-is-replacing-the-book/
 http://odroid.com/dokuwiki/doku.php?id=en:odroid_linux_watchdog#start_watchdog_service_and_verify
 http://oerpub.github.io/epubjs-demo-book/content/m46060.xhtml
 http://officialfan.proboards.com/thread/398146
@@ -835,6 +836,7 @@ http://spoonuniversity.com/lifestyle/orange-juice-isnt-going-to-prevent-your-col
 http://sport360.com/article/football/arabian-gulf-league/200882/interview-javier-aguirre-the-man-who-helped-to-paint-madrid-in-the-red-of-atletico/
 http://sridattalabs.com/2012/02/06/rabbit-holes-being-smart-hurts-prod/
 http://srobbin.com/blog/3d-css-book-covers/
+http://ssi.armywarcollege.edu/pdffiles/pub633.pdf
 http://st-eutychus.com/tag/preaching-as-storytelling/
 http://st.suckless.org/
 http://st1.bollywoodlife.com/wp-content/uploads/2015/10/priyanka-chopra-quantico-bollyone.jpeg
@@ -1174,6 +1176,8 @@ http://tex.stackexchange.com/questions/3079/how-do-i-convert-html-to-latex/36130
 http://tex.stackexchange.com/questions/33628/how-to-use-spanish-accents
 http://tex.stackexchange.com/questions/44581/creating-keyboard-layout-diagrams
 http://tex.stackexchange.com/questions/7355/how-to-suppress-page-number
+http://tfwiki.net/wiki/Decepticon_Planes
+http://tfwiki.net/wiki/Seeker_(body-type)
 http://tfwm.com/mp3s-the-swiss-army-knife-of-audio/
 http://thatswhatshesaid.jezebel.com/why-are-men-always-so-much-hotter-than-women-1675331131
 http://theagiledirector.com/article/2017/05/25/domains-of-business-agility-v2/
@@ -1256,6 +1260,7 @@ http://transom.org/2014/brief-history-of-documentary-forms/#nanook
 http://trendingearth.com/gadgets/install-whatsapp-without-number-verification-no-sim-internet-android-iphone/
 http://trendwatching.com/trends/HYPERTASKING.htm
 http://trentm.com/json/
+http://trillian.mit.edu/~jc/;-)/Why_I_Hate_Frameworks.html
 http://tse3.explicit.bing.net/th?id=OIP.Mef16b70136462ed264aa71591d02edb1H0
 http://tubularinsights.com/l-cut/
 http://turtlepedia.wikia.com/wiki/Plan_Six_From_Outer_Space
@@ -1376,11 +1381,18 @@ http://wiki.c2.com/?DoesBeingStatelessImplyBeingIdempotent
 http://wiki.c2.com/?DougMcIlroy
 http://wiki.c2.com/?GrepVsDatabase
 http://wiki.c2.com/?HowSimpleComplexityIs
+http://wiki.c2.com/?LasagnaCode
 http://wiki.c2.com/?NimbleDatabase
+http://wiki.c2.com/?PastaCode
 http://wiki.c2.com/?PowerOfPlainText
 http://wiki.c2.com/?RavioliCode
+http://wiki.c2.com/?ReadingRavioli
 http://wiki.c2.com/?RollYourOwnDatabase
+http://wiki.c2.com/?ThreeDimensionalWiki
+http://wiki.c2.com/?TipsForReadingCode
 http://wiki.c2.com/?TooMuchAbstraction
+http://wiki.c2.com/?UnifiedDataModel
+http://wiki.c2.com/?WikiMess
 http://wiki.c2.com/?WorseIsBetter
 http://wiki.tuhs.org/doku.php?id=features:pipes
 http://wikidiff.com/person/persona
@@ -2656,7 +2668,9 @@ http://www.teehanlax.com/blog/the-science-of-nightclubs/
 http://www.telegraph.co.uk/comedy/comedians/homer---the-simpsons-40-best-quotations/
 http://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/11018841/Why-the-game-show-is-the-TV-format-with-staying-power.html
 http://www.telegraph.co.uk/finance/property/11649555/Soho-is-the-new-Shoreditch-this-map-shows-where-startups-are-looking-for-workspace.html
+http://www.telegraph.co.uk/football/0/footballs-greatest-one-club-men/
 http://www.telegraph.co.uk/football/2016/10/20/the-rise-and-fall-of-ac-milan-and-inter---why-both-clubs-must-di/
+http://www.telegraph.co.uk/football/2017/05/26/koke-breaks-tears-signing-atletico-madrid-contract-2024/
 http://www.telegraph.co.uk/lifestyle/wellbeing/7918685/Treating-anxiety-the-Alpha-Stim.html
 http://www.telegraph.co.uk/men/active/11028666/What-do-footballers-do-when-they-retire.html
 http://www.telegraph.co.uk/men/relationships/10955708/Men-become-invisible-at-39-now-they-know-how-women-feel.html
@@ -2676,6 +2690,7 @@ http://www.telegraph.co.uk/technology/bill-gates/9812672/Bill-Gates-interview-I-
 http://www.telegraph.co.uk/technology/facebook/10637968/Facebook-sex-changes-which-one-of-50-genders-are-you.html
 http://www.telegraph.co.uk/technology/facebook/10930654/Facebooks-71-gender-options-come-to-UK-users.html
 http://www.telegraph.co.uk/technology/news/10083879/Hao2-the-British-startup-built-by-an-autistic-workforce.html
+http://www.telegraph.co.uk/tennis/2017/06/26/john-mcenroe-courts-controversy-saying-serena-williams-would/
 http://www.telegraph.co.uk/women/life/wimbledon-2017-sexism-tracker-every-incident-one-place/
 http://www.telegraph.co.uk/women/mother-tongue/10231010/Why-my-life-will-be-more-fulfilling-without-children.html
 http://www.telegraph.co.uk/women/mother-tongue/8251076/Is-the-fourth-child-a-status-symbol.html
@@ -3507,6 +3522,7 @@ https://en.wikipedia.org/wiki/Reverse_discrimination
 https://en.wikipedia.org/wiki/River_Thames_frost_fairs
 https://en.wikipedia.org/wiki/SRI_International
 https://en.wikipedia.org/wiki/Salt_(cryptography)
+https://en.wikipedia.org/wiki/Scarcity_heuristic
 https://en.wikipedia.org/wiki/Schadenfreude
 https://en.wikipedia.org/wiki/Scottish_Canadians#Large-scale_migration
 https://en.wikipedia.org/wiki/Scripting_language
@@ -4198,6 +4214,7 @@ https://twitter.com/English_AS/status/837420681142861824/photo/1
 https://twitter.com/FOTOSATLETI
 https://twitter.com/FansDelAtletico/media
 https://twitter.com/FinallyPablo/status/896856667765305346
+https://twitter.com/Koke6/status/867469032496279553/photo/1
 https://twitter.com/MikeLoBurgio/status/862868407724773380
 https://twitter.com/Renton_6
 https://twitter.com/Renton_6/status/591898239693107200/photo/1
@@ -4801,6 +4818,7 @@ https://www.google.com/search?num=40&q=harvard+business+school+case+office+depot
 https://www.google.com/search?num=40&q=homer%27s+odyssey+documentary&oq=homer%27s+odyssey+documentary&gs_l=serp.3..0i22i30k1.5433.6868.0.7123.12.11.0.0.0.0.157.1128.6j5.11.0....0...1.1.64.serp..1.11.1126...0j0i20k1j0i67k1.Dd9E2-So8Rg
 https://www.google.com/search?num=40&q=infantilization+of+women&spell=1&sa=X&ved=0ahUKEwjQ9834l4rUAhWphlQKHWjtBUsQvwUIJSgA&biw=1289&bih=655
 https://www.google.com/search?num=40&q=is+applescript+a+programming+language&oq=is+applescript+a+programmin&gs_l=serp.3.0.0i22i30k1.3103.4162.0.4859.10.4.0.6.6.0.191.191.0j1.1.0....0...1c.1.64.serp..3.7.200.YD9SCtml4_g
+https://www.google.com/search?num=40&q=is+dysthymia+permanent&oq=is+dysthymia+permanent&gs_l=psy-ab.3..0i22i30k1.66525499.66529249.0.66529369.22.22.0.0.0.0.120.1562.17j3.20.0....0...1.1.64.psy-ab..2.20.1556...0j0i131k1j0i67k1j0i22i10i30k1.8dv8UMGWMdM
 https://www.google.com/search?num=40&q=iterm+copy+previous+output+line&oq=iterm+copy+previous+output+line&gs_l=serp.3...22167609.22168327.0.22168543.7.7.0.0.0.0.91.498.7.7.0....0...1.1.64.serp..1.1.91...33i21k1.lD3xfdv4-sI
 https://www.google.com/search?num=40&q=job+protection+law+if+actresses+get+pregnant+while+shooting&oq=job+protection+law+if+actresses+get+pregnant+while+shooting&gs_l=serp.3..30i10k1.36573.38356.0.38524.4.4.0.0.0.0.92.297.4.4.0....0...1.1.64.serp..0.3.237.7U7oyDkcClQ
 https://www.google.com/search?num=40&q=keith+curle+andy+sinton&oq=keith+curle+andy+sinton&gs_l=serp.3..33i160k1l2.9328.11028.0.13630.12.12.0.0.0.0.158.1201.4j7.11.0....0...1c.1.64.serp..1.7.752...0j33i21k1.LPQeI_PbRqI
@@ -5294,6 +5312,7 @@ https://www.google.com/search?q=salad+is+not+a+meal&oq=salad+is+not+a+meal&aqs=c
 https://www.google.com/search?q=satirepedia&rlz=1CDGOYI_enUS590US590&oq=satirepedia&aqs=chrome..69i57.5919j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=sawtooth+stock+pattern&rlz=1CDGOYI_enUS590US590&oq=sawtooth+stock&aqs=chrome.1.69i57j0l3.13682j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=scala+everything%27s+an+object&rlz=1CDGOYI_enUS590US590&oq=scala+is+everythi&aqs=chrome.2.69i57j0l3.8009j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=scarcity+causes+unhappiness&oq=scarcity+causes+unhappiness&aqs=chrome..69i57.5155j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=sciatic+nerve&oq=sciatic+nerve&aqs=chrome..69i57j0l5.5542j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=seattle+girls&rlz=1CDGOYI_enUS590US590&oq=seattle+girls&aqs=chrome..69i57j0j5j0.9116j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=seattle+to+india+non+stop&rlz=1CDGOYI_enUS590US590&oq=seattle+to+india+non&aqs=chrome.1.69i57j0.9183j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#flt=SEA.r/m/03rk0.2017-05-09*r/m/03rk0.SEA.2017-05-13;c:USD;s:0*0;sd:1;t:e&spf=95
@@ -5924,6 +5943,7 @@ https://www.mybusinessbookclub.com/book-review-machines-everything/
 https://www.mybusinessbookclub.com/book-review/
 https://www.myheritage.com/names/anu_dhutia
 https://www.mytrade.com/thinkshare/statuses/6809069
+https://www.nateliason.com/imagined-scarcity/
 https://www.ncbi.nlm.nih.gov/m/pubmed/9368835/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204264/pdf/ukmss-36575.pdf
 https://www.ncbi.nlm.nih.gov/pubmed/17622289
@@ -6189,6 +6209,7 @@ https://www.techdirt.com/articles/20120604/04210719187/duh-tv-business-is-verge-
 https://www.techdirt.com/articles/20120604/04210719187/duh-tv-business-is-verge-collapse.shtml
 https://www.telegraphindia.com/1140508/jsp/sports/story_18319916.jsp#.WLztFbRViko
 https://www.theatlantic.com/business/archive/2015/01/is-uber-a-middle-class-job-creator-or-not/384763/
+https://www.theatlantic.com/business/archive/2016/04/why-so-many-smart-people-arent-happy/479832/
 https://www.theatlantic.com/health/archive/2017/05/autism-parenting/526989/
 https://www.theatlantic.com/magazine/archive/2016/09/how-british-soccer-became-must-see-tv/492734/
 https://www.theblizzard.co.uk/articles/
