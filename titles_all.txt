@@ -7516,3 +7516,13 @@ http://trillian.mit.edu/~jc/;-)/Why_I_Hate_Frameworks.html :: (Could not determi
 http://tfwiki.net/wiki/Decepticon_Planes :: Decepticon Planes - Transformers Wiki
 http://tfwiki.net/wiki/Seeker_(body-type) :: Seeker (body-type) - Transformers Wiki
 http://www.telegraph.co.uk/tennis/2017/06/26/john-mcenroe-courts-controversy-saying-serena-williams-would/ :: Serena Williams tells John McEnroe to respect her after he claimed she would rank 'like 700' on men's tour
+http://www.dailymail.co.uk/news/article-394608/Childrens-drinks-sugar-timebomb-experts-warn.html :: Children's drinks a sugar timebomb, experts warn | Daily Mail Online
+http://www.eatthis.com/best-worst-water-enhancers :: The Best &amp; Worst Water Enhancers | Eat This Not That
+http://www.goaskalice.columbia.edu/answered-questions/flavored-water-enhancers-%E2%80%94-bad-you :: Flavored water enhancers ? Bad for you? | Go Ask Alice!
+http://feeds2.feedburner.com/freakonomicsradio :: Freakonomics Radio - powered by FeedBurner
+https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented?noredirect=1#comment768757_355722 :: What Spring projects are libraries (not framework-oriented)? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/1823264/quickest-way-to-convert-xml-to-json-in-java :: Quickest way to convert XML to JSON in Java - Stack Overflow
+http://www.imdb.com/title/tt6315640/ :: Atypical (TV Series 2017? ) - IMDb
+http://osxdaily.com/2016/03/20/photo-booth-image-file-location-mac-os-x/ ::    Where Photo Booth Image Files are Located in Mac OS X   
+https://en.wikipedia.org/wiki/Managed_services :: Managed services - Wikipedia
+http://www.terminally-incoherent.com/blog/2013/10/23/programmers-keyboard/ :: Programmer?s Keyboard | Terminally Incoherent

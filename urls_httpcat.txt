@@ -332,6 +332,8 @@ http://feeds.soundcloud.com/users/soundcloud:users:189697975/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:40717662/sounds.rss
 http://feeds.soundcloud.com/users/soundcloud:users:49143815/sounds.rss
 http://feeds.wnyc.org/deathsexmoney
+http://feeds2.feedburner.com/freakonomicsradio
+http://feeds2.feedburner.com/freakonomicsradio
 http://feminizationsecrets.com/move-hips-booty/
 http://fernannn1.blogspot.com/2007/12/19801981-la-liga-perdida.html
 http://fibrevillage.com/sysadmin/34-dmidecode-examples-to-get-hardware-infomation
@@ -682,6 +684,7 @@ http://onubuntu.blogspot.com/2016/01/rsync-is-awesome.html
 http://orgmode.org/
 http://orzzzz.com/12-reasons-tell-you-why-guys-like-short-girls.html
 http://osxdaily.com/2007/04/23/get-system-information-from-the-command-line/
+http://osxdaily.com/2016/03/20/photo-booth-image-file-location-mac-os-x/
 http://ourpeacefulfamily.com/how-to-say-sorry-to-your-wife-husband/
 http://p1.pstatp.com/large/ba3000281af0449ffd9
 http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html
@@ -1792,6 +1795,7 @@ http://www.dailymail.co.uk/health/article-3766837/Why-men-hot-women-cold-body-fa
 http://www.dailymail.co.uk/news/article-2037582/The-copper-Statue-Liberty-appeared-New-York-1880s.html
 http://www.dailymail.co.uk/news/article-2958860/From-luxury-flats-branch-Ikea-former-football-stadiums-transformed-hallowed-grounds-day-buildings-long-fans-left.html
 http://www.dailymail.co.uk/news/article-392837/Young-people-immature-university.html
+http://www.dailymail.co.uk/news/article-394608/Childrens-drinks-sugar-timebomb-experts-warn.html
 http://www.dailymail.co.uk/news/article-3982052/Heartbreak-locker-room-Anguished-Chapecoense-players-not-board-doomed-flight-Brazilian-team-mates-react-shock-learn-Colombian-plane-tragedy.html
 http://www.dailymail.co.uk/news/article-3982844/Son-Chapecoense-manager-reveals-missed-doomed-flight-Colombia-FORGOT-passport.html
 http://www.dailymail.co.uk/sciencetech/article-1390319/Scientists-happy-men-significantly-attractive-ladies.html
@@ -1870,6 +1874,7 @@ http://www.dossier-andreas.net/software_architecture/pipe_and_filter.html
 http://www.dpaki.com/stories/remember-michael-jacksons-daughter-she-has-completely-transformed-now/
 http://www.drdobbs.com/rdb-a-unix-command-line-database/199101326
 http://www.dreyfussir.com/eng/sales/palo-alto-ca-usa/price-low-sort/0-2000000-price
+http://www.eatthis.com/best-worst-water-enhancers
 http://www.ebay.co.uk/itm/ATLETICO-MADRID-SPAIN-COSMOS-NUEVA-YORK-HOMENAJE-TRIBUTE-LUIS-ARAGONES-1978-/252750355804
 http://www.ebay.com/itm/162016867552
 http://www.ebay.com/itm/AZ3-VHS-PAL-VIDEO-MOVIE-NOT-DVD-THE-ROAD-TO-AMERICA-SOCCER-FOOTBALL-IRELAND/112267342462
@@ -2030,6 +2035,7 @@ http://www.goal.com/en/news/furious-atletico-fans-mistakenly-bombard-japanese-jo
 http://www.goaldentimes.org/life-from-12-yards-palermo-misses/
 http://www.goaldentimes.org/spanish-corner-the-story-of-the-mattress-makers/
 http://www.goaldentimes.org/spanish-corner-the-story-of-the-mattress-makers/
+http://www.goaskalice.columbia.edu/answered-questions/flavored-water-enhancers-%E2%80%94-bad-you
 http://www.gold.ac.uk/news/comment-autism-spectrum-disorder-and-employment/
 http://www.golinuxhub.com/2014/09/how-to-configure-autofs-in-linux-and.html
 http://www.goodegg.design/how-does-the-quintessentially-english-brand-wimbledon-retain-its-identity-and-unique-appeal/
@@ -2097,6 +2103,7 @@ http://www.imdb.com/title/tt3470600/
 http://www.imdb.com/title/tt4424318/
 http://www.imdb.com/title/tt4898282/
 http://www.imdb.com/title/tt4981636/
+http://www.imdb.com/title/tt6315640/
 http://www.imdb.com/title/tt6508408/
 http://www.imgdrive.net/img-584fd1b3d5b94.html
 http://www.immihelp.com/forum/archive/index.php/t-20754.html
@@ -2694,6 +2701,7 @@ http://www.telegraph.co.uk/tennis/2017/06/26/john-mcenroe-courts-controversy-say
 http://www.telegraph.co.uk/women/life/wimbledon-2017-sexism-tracker-every-incident-one-place/
 http://www.telegraph.co.uk/women/mother-tongue/10231010/Why-my-life-will-be-more-fulfilling-without-children.html
 http://www.telegraph.co.uk/women/mother-tongue/8251076/Is-the-fourth-child-a-status-symbol.html
+http://www.terminally-incoherent.com/blog/2013/10/23/programmers-keyboard/
 http://www.tert.am/en/news/2013/09/10/messi3/861955
 http://www.texasstandard.org/stories/could-the-future-of-the-astrodome-look-like-the-coliseum/
 http://www.thatsembarrassing.com/embarrassing-1345-deskirted-at-friends-house.htm
@@ -3475,6 +3483,7 @@ https://en.wikipedia.org/wiki/Little_Ice_Age
 https://en.wikipedia.org/wiki/Long-form_journalism
 https://en.wikipedia.org/wiki/Longitudinal_study
 https://en.wikipedia.org/wiki/Lunch_atop_a_Skyscraper
+https://en.wikipedia.org/wiki/Managed_services
 https://en.wikipedia.org/wiki/Martial_law
 https://en.wikipedia.org/wiki/Maunder_Minimum
 https://en.wikipedia.org/wiki/Megastructures
@@ -4010,6 +4019,7 @@ https://softwareengineering.stackexchange.com/questions/254947/difference-betwee
 https://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
+https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented?noredirect=1#comment768757_355722
 https://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/
 https://soundcloud.com/newgenpodcast
 https://soundcloud.com/theredmentv
@@ -4046,6 +4056,7 @@ https://stackoverflow.com/questions/1575762/orm-technologies-vs-jdbc
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
+https://stackoverflow.com/questions/1823264/quickest-way-to-convert-xml-to-json-in-java
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
