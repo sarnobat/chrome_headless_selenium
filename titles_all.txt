@@ -7526,3 +7526,9 @@ http://www.imdb.com/title/tt6315640/ :: Atypical (TV Series 2017? ) - IMDb
 http://osxdaily.com/2016/03/20/photo-booth-image-file-location-mac-os-x/ ::    Where Photo Booth Image Files are Located in Mac OS X   
 https://en.wikipedia.org/wiki/Managed_services :: Managed services - Wikipedia
 http://www.terminally-incoherent.com/blog/2013/10/23/programmers-keyboard/ :: Programmer?s Keyboard | Terminally Incoherent
+https://lostechies.com/joeybeninghove/2009/09/02/smart-constructor-anti-pattern/ :: Smart Constructor Anti-Pattern | Joey Beninghove's Blog
+http://nypost.com/2017/08/18/the-details-behind-ric-flair-scare-alcohol-problems-bowel-removal/ :: The details behind Ric Flair scare: alcohol problems, bowel removal | New York Post
+http://www.telegraph.co.uk/men/thinking-man/seven-things-women-are-definitely-better-at-than-men/ :: Seven things women are definitely better at than men
+https://www.quora.com/Is-it-sexist-to-suggest-women-are-in-general-kinder-and-more-empathetic-than-men :: Is it sexist to suggest women are in general kinder and more empathetic than men? - Quora
+https://stackoverflow.com/questions/41783903/append-data-to-an-s3-object/45767026#45767026 :: amazon web services - Append data to an S3 object - Stack Overflow
+https://finance.yahoo.com/news/fired-google-engineer-tech-company-152827307.html :: Fired Google Engineer: Tech Company Is ?Like a Cult?
