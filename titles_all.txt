@@ -7666,3 +7666,39 @@ https://en.wikipedia.org/wiki/Fair_Credit_Billing_Act :: (timeout)
 https://www.google.com/search?num=40&q=software+architect+%22visual+learners%22&oq=software+architect+%22visual+learners%22&gs_l=psy-ab.3..33i160k1.73963.75858.0.76138.3.3.0.0.0.0.152.315.2j1.3.0....0...1.1.64.psy-ab..0.1.152.XcCJ1RyJJAg :: software architect "visual learners" - Google Search
 https://www.reddit.com/r/AskWomen/comments/2sazii/what_makes_a_guys_ass_attractive_to_women/?st=j6mhwpfe&sh=12cfa8ee :: What makes a guy's ass attractive to women? : AskWomen
 https://www.theatlantic.com/entertainment/archive/2016/12/the-50-best-podcasts-of-2016/510698/ :: 'Serial,' 'Lore,' 'Still Processing,' and More: The Atlantic's 50 Best Podcasts of 2016 - The Atlantic
+https://github.com/tartley/colorama :: GitHub - tartley/colorama: Simple cross-platform colored terminal text in Python
+https://www.majorleaguedating.com/traits-bad-boys-nice-guys/ :: (timeout)
+http://www.oreilly.com/openbook/mh/hanarg.htm :: MH &amp; xmh: Looping Through a List of Arguments
+https://stackoverflow.com/questions/255898/how-to-iterate-over-arguments-in-a-bash-script :: command line - How to iterate over arguments in a Bash script - Stack Overflow
+https://twitter.com/excitement/status/879095631431815171 :: ?? on Twitter: "guys who take their education and responsibilities seriously are just so much more attractive than guys who just don?t care"
+https://www.scrumalliance.org/community/articles/2012/august/story-points-versus-task-hours :: (Could not determine)
+https://www.python.org/doc/essays/omg-darpa-mcc-position/ :: Glue It All Together With Python | Python.org
+https://zachholman.com/posts/glue-languages/ :: Glue Languages Make You a Better Coder
+http://ruoyusun.com/2013/11/10/scala-is-not-java-glue.html :: Scala is Not Java Glue
+http://archive.oreilly.com/pub/a/oreilly/perl/news/importance_0498.html :: The Importance of Perl - O'Reilly Media
+http://code.runnable.com/U9F7H-XsKnMn72BY/sample-todo-web-service-for-node-js-hello-world-and-rest :: Sample todo web service for Node.js, Hello World and REST Code Example - Runnable
+https://examples.javacodegeeks.com/jvm-languages/scala/scala-rest-example/ :: Scala REST Example | Examples Java Code Geeks - 2017
+http://scalatra.org/ :: Scalatra
+https://en.wikipedia.org/wiki/Anonymous_pipe :: Anonymous pipe - Wikipedia
+https://en.wikipedia.org/wiki/Pipeline_(software) :: Pipeline (software) - Wikipedia
+https://en.wikipedia.org/wiki/Reference_implementation :: Reference implementation - Wikipedia
+https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby :: Calling shell commands from Ruby - Stack Overflow
+https://gist.github.com/seralf/f9c268dc7046ec436e29 :: Jetty9 / Jersey2 / minimal http server (with Java and Scala) ? GitHub
+https://www.sitepoint.com/uno-use-sinatra-implement-rest-api/ :: (timeout)
+http://rosettacode.org/wiki/Category:Programming_Tasks :: Category:Programming Tasks - Rosetta Code
+http://rosettacode.org/wiki/Here_document :: Here document - Rosetta Code
+https://alvinalexander.com/scala/how-to-build-pipeline-external-commands-in-scala :: How to build a pipeline of external commands in Scala | alvinalexander.com
+https://alvinalexander.com/scala/scala-execute-exec-external-system-commands-in-scala :: How to execute (exec) external system commands in Scala | alvinalexander.com
+https://dzone.com/articles/exposing-functionality-over :: (Could not determine)
+https://newfivefour.com/scala-jetty-jersey-jackson-simple.html :: (Could not determine)
+http://www.joergm.com/2010/09/executing-shell-commands-in-groovy/ ::  ? Executing shell commands in Groovy ? JoergM.com  
+https://coderanch.com/t/644398/java/pipe-processes :: How do I pipe I/O between two processes? (I/O and Streams forum at Coderanch)
+https://stackoverflow.com/questions/792632/secret-handshake-anti-pattern/45850844#45850844 :: java - Secret Handshake Anti-Pattern - Stack Overflow
+https://www.google.com/search?num=40&q=key+bindings+underutilized&oq=key+bindings+underutilized&gs_l=psy-ab.3..33i160k1.3425.6023.0.6271.3.3.0.0.0.0.137.278.2j1.3.0....0...1.1.64.psy-ab..0.1.83.pvm7wDxtSoc :: key bindings underutilized - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=bernhardt+desk+with+power+outlet&spell=1&sa=X&ved=0ahUKEwi115Ly8ePVAhUDymMKHRW9Df4QBQghKAA&biw=375&bih=591 :: bernhardt desk with power outlet - Google Search
+https://www.quora.com/Is-a-C-programmer-smarter-than-a-Java-programmer :: Is a C programmer smarter than a Java programmer? - Quora
+https://thinkarchitect.wordpress.com/2011/08/30/visual-learners/ :: visual learners ? think | architect
+http://www.creditcards.com/credit-card-news/podcast-charged-up-jenny-hoff.php :: Podcast: Charged Up! with Jenny Hoff 
+http://3.droppdf.com/files/8lVym/java-ee-7-essentials.pdf :: (Could not determine)
+https://discourse.codinghorror.com/t/programmers-dont-read-books-but-you-should/332 :: Programmers Don't Read Books -- But You Should - blog - Coding Horror Discussion
+https://softwareengineering.stackexchange.com/questions/36978/do-most-programmers-copy-and-paste-code :: programming practices - Do most programmers copy and paste code? - Software Engineering Stack Exchange
