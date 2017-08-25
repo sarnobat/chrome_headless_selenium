@@ -7702,3 +7702,64 @@ http://www.creditcards.com/credit-card-news/podcast-charged-up-jenny-hoff.php ::
 http://3.droppdf.com/files/8lVym/java-ee-7-essentials.pdf :: (Could not determine)
 https://discourse.codinghorror.com/t/programmers-dont-read-books-but-you-should/332 :: Programmers Don't Read Books -- But You Should - blog - Coding Horror Discussion
 https://softwareengineering.stackexchange.com/questions/36978/do-most-programmers-copy-and-paste-code :: programming practices - Do most programmers copy and paste code? - Software Engineering Stack Exchange
+https://martinfowler.com/bliki/BlueGreenDeployment.html :: BlueGreenDeployment
+https://ell.stackexchange.com/questions/24585/is-calling-someone-maam-offensive-does-it-make-any-difference-to-calling-som :: word choice - Is calling someone 'ma'am' offensive? Does it make any difference to calling someone 'madam'? - English Language Learners Stack Exchange
+https://en.wikipedia.org/wiki/Mercator_projection :: Mercator projection - Wikipedia
+https://www.buzzfeed.com/robinedds/maps-that-will-totally-change-the-way-you-look-at-the-world?bffbmain&ref=bffbmain&utm_term=.vev67oWZ#.hfR7gqnz :: 17 Maps That Will Change The Way You Look At The World Forever
+https://mapstor.com/news/digital-cartography-and-gps-navigation/05-02-2017-the-illusions-of-brain-map-projections.html :: The illusions of brain. Map projections - mapstor.com 
+https://www.economist.com/blogs/dailychart/2010/11/cartography :: (timeout)
+https://blog.jessfraz.com/post/docker-containers-on-the-desktop/ :: Jessie Frazelle's Blog: Docker Containers on the Desktop
+https://en.wikipedia.org/wiki/Vegetarianism_by_country#Demographics :: Vegetarianism by country - Wikipedia
+https://github.com/moby/moby/issues/8710 :: how to use -e DISPLAY flag on osx? ? Issue #8710 ? moby/moby ? GitHub
+https://nathanleclaire.com/blog/2014/07/12/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy/ :: (Could not determine)
+https://stackoverflow.com/questions/16296753/can-you-run-gui-apps-in-a-docker-container :: x11 - Can you run GUI apps in a docker container? - Stack Overflow
+https://unix.stackexchange.com/questions/196677/what-is-tmp-x11-unix :: What is `/tmp/.X11-unix/`? - Unix &amp; Linux Stack Exchange
+https://www.amazon.com/gp/aw/s/ref=is_s?k=boring+investing :: Amazon.com: boring investing
+https://www.google.com/search?q=congenial+vs+congenital&rlz=1CDGOYI_enUS750US750&oq=congenial+vs+congen&aqs=chrome.1.69i57j0.14231j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: congenial vs congenital - Google Search
+https://www.reddit.com/r/IAmA/comments/27bka1/i_am_kimber_biggs_my_sister_mikelle_biggs_was/?st=j6qqipug&sh=030f3ae4 :: I am Kimber Biggs, my sister Mikelle Biggs was kidnapped 15 years ago and nothing was ever found. Ask me anything! : IAmA
+https://medium.com/@garywiz/welcome-to-framework-hell-aa54a9b5d4fd :: Welcome to Framework Hell ? Gary Wisniewski ? Medium
+https://softwareengineering.stackexchange.com/questions/42817/why-not-spring-framework :: java - Why not Spring framework? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/1061717/what-exactly-is-spring-framework-for/1061775 :: java - What exactly is Spring Framework for? - Stack Overflow
+https://apple.stackexchange.com/questions/157260/notifications-on-dual-monitors-how-can-i-specify-which-monitor :: macos - Notifications on dual monitors: how can I specify which monitor? - Ask Different
+http://dynalon.github.io/mdwiki/#!index.md :: MDwiki - Markdown based wiki done 100% on the client via javascript
+http://search.cpan.org/~tels/Graph-Easy-0.64/lib/Graph/Easy/Parser.pm :: Graph::Easy::Parser - search.cpan.org
+https://books.google.com/books?id=1SOLBQAAQBAJ&pg=PA219&lpg=PA219&dq=women+roundness+appealing&source=bl&ots=gj28cRbLKo&sig=Z7QNOlOB5R4V3a9kqDFGkLg_e6o&hl=en&sa=X&ved=0ahUKEwi7p729ouXVAhWKqFQKHZp7DpQ4ChDoAQgrMAI#v=onepage&q=women%20roundness%20appealing&f=false :: The Encyclop?dia of Sexual Behaviour - Google Books
+https://books.google.com/books?id=fZM2AAAAQBAJ&pg=PA102&lpg=PA102&dq=women+roundness+appealing&source=bl&ots=Kw0qtYKdnC&sig=8bDtH4jSSrf4uImJ-YmWlCSp94A&hl=en&sa=X&ved=0ahUKEwi7p729ouXVAhWKqFQKHZp7DpQ4ChDoAQhBMAk#v=onepage&q=women%20roundness%20appealing&f=false :: (timeout)
+https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Adesk+table+with+power+grommet&page=2&keywords=desk+table+with+power+grommet&ie=UTF8&qid=1503531992&spIA=B06ZXZZHSB,B06Y1DVNQD,B01LX5LIIK,B01LZ3V8SH :: (timeout)
+https://community.atlassian.com/t5/Questions/Unformatted-raw-wiki-markup-editing/qaq-p/127110 :: Solved:  Unformatted raw wiki-markup editing 
+https://community.atlassian.com/t5/Confluence-questions/Wiki-Markup-in-Confluence-4-again/qaq-p/220665 :: Solved:  Wiki Markup in Confluence 4 (again) 
+http://www.desertsun.com/story/tech/science/2017/08/14/temperature-drop-during-solar-eclipse/557514001/?from=global&sessionKey=&autologin= :: (timeout)
+https://stackoverflow.com/questions/15333033/what-is-the-exact-meaning-of-invasive-and-what-makes-spring-non-invasive :: (timeout)
+https://www.meetup.com/Docker-Santa-Clara/events/242366403/ :: yahoo
+https://www.socketloop.com/blogs/guide-to-identify-the-types-of-software-developers :: Guide to identify the types of software developers
+https://www.socketloop.com/blogs/how-to-spot-fake-software-developers :: How to spot fake software developers
+https://www.socketloop.com/blogs/visualizing-fundamental-investing :: Visualizing fundamental investing
+https://books.google.com/books?id=8agaAwAAQBAJ&pg=PA13&lpg=PA13&dq=software+architect+%22visual+learners%22&source=bl&ots=rrYcL7SM06&sig=G8TB45xVdUQhHSmWnR5KGj2JKNQ&hl=en&sa=X&ved=0ahUKEwi6wLCekd_VAhWoqlQKHXZEAGgQ6AEIfzAU#v=onepage&q&f=false :: Colour Coding for Learners with Autism: A Resource Book for Creating Meaning ... - Adele Devine - Google Books
+https://dzone.com/articles/java-vs-other-programming :: (Could not determine)
+https://news.ycombinator.com/item?id=9833083 :: Ask HN: You can only be fluent in 3 programming languages. Which ones? | Hacker News
+https://stackoverflow.com/questions/4234119/ruby-pipes-how-do-i-tie-the-output-of-two-subprocesses-together :: Ruby pipes: How do I tie the output of two subprocesses together? - Stack Overflow
+https://stackoverflow.com/questions/7226538/how-to-use-pipe-symbol-through-exec-in-java :: How to use Pipe Symbol through exec in Java - Stack Overflow
+http://thesefootballtimes.co/2017/08/23/hugo-sanchez-the-goalscoring-sensation-who-broke-down-barrier-at-real-madrid/ :: Hugo S?nchez: the goalscoring sensation who broke down barrier at Real Madrid
+http://wiki.c2.com/?BigBallOfMud :: Big Ball Of Mud
+http://wiki.c2.com/?BigSoupOfClasses :: Big Soup Of Classes
+http://wiki.c2.com/?GlueLanguages :: Glue Languages
+http://www.catonmat.net/blog/frameworks-dont-make-sense/ :: Frameworks don't make any sense - good coders code, great coders reuse
+http://www.degraeve.com/reference/urlencoding.php :: URL Encoded Characters
+http://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html#comment-3142 ::   Why bad scientific code beats code following "best practices"
+https://blog.codinghorror.com/never-design-what-you-can-steal/ :: Never design what you can steal
+https://stackoverflow.com/questions/17836806/tomcat-websocket-servlet-listening-port :: java - tomcat websocket servlet listening port - Stack Overflow
+https://unix.stackexchange.com/questions/297792/how-complex-can-a-program-be-written-in-pure-bash :: shell - How complex can a program be written in pure Bash? - Unix &amp; Linux Stack Exchange
+http://www.ccs.neu.edu/home/lieber/courses/csg110/sp08/Pragmatic%20Quick%20Reference.htm :: The Pragmatic Programmer Quick Reference Guide
+https://gist.github.com/ohall/7735386 :: I keep this in my bash_profile to remind myself to be better. ? GitHub
+https://github.com/Dynalon/mdwiki/issues/88 :: Convert Markdown to PDF, Docx, RTF or ePub with Docverter API ? Issue #88 ? Dynalon/mdwiki ? GitHub
+http://www.warriorforum.com/programming/111079-ultimate-php-board-flatfile.html :: (timeout)
+https://sourceforge.net/projects/edgeboard/?source=recommended :: (timeout)
+https://sourceforge.net/projects/floobb/?source=recommended :: flooBB download | SourceForge.net
+https://sourceforge.net/projects/txtforum1/?source=recommended :: txtForum download | SourceForge.net
+https://github.com/PHP-Outburst/myUPB :: GitHub - PHP-Outburst/myUPB: Ultimate PHP Board is completely text based making it easy for anybody who has access to PHP can run a messageboard of their own without the need for MySQL.
+https://sourceforge.net/projects/flatfileforum/?source=recommended :: Flat-File Forum download | SourceForge.net
+https://sourceforge.net/projects/textmb/ :: Ultimate PHP Board (UPB) download | SourceForge.net
+http://www.findbestopensource.com/product/smartbb-forum :: Smartbb-forum - A tiny PHP flat file-based bulletin board forum.
+https://github.com/tslocum/TinyIB :: GitHub - tslocum/TinyIB: Lightweight PHP image board with MySQL, SQLite, or flat file database support
+https://sourceforge.net/projects/textmb/?source=typ_redirect :: Ultimate PHP Board (UPB) download | SourceForge.net
+https://github.com/PHP-Outburst/myUPB/issues/55 :: Allow anonymous posting ? Issue #55 ? PHP-Outburst/myUPB ? GitHub
