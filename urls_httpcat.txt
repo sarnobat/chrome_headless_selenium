@@ -264,6 +264,7 @@ http://directory.apache.org/apacheds/
 http://directory.apache.org/studio/
 http://dirkriehle.com/2009/05/28/is-it-use-or-reuse/
 http://discuss.fogcreek.com/joelonsoftware/?cmd=show&ixPost=99830
+http://discuss.fogcreek.com/joelonsoftware/?cmd=show&ixPost=99830
 http://discussion.femalefirst.co.uk/viewtopic.php?t=90273&start=345
 http://ditaa.sourceforge.net/
 http://divinehealthfromtheinsideout.com/2012/07/craving-salt-a-sign-of-adrenal-fatigue/
@@ -285,6 +286,7 @@ http://download.cnet.com/OBiON/3000-12941_4-75387542.html
 http://download.eclipse.org/jetty/stable-9/apidocs/org/eclipse/jetty/server/handler/ResourceHandler.html
 http://download.intel.com/support/motherboards/desktop/sb/biosglossary_nuc_v02.pdf
 http://dukrat.net/124/deluge-webui-1-3-6-autologin-disable-password
+http://dynalon.github.io/mdwiki/#!index.md
 http://dynalon.github.io/mdwiki/#!index.md
 http://eastmanreference.com/complete-list-of-applescript-key-codes/
 http://eatupnewyork.com/why-is-new-york-city-pizza-so-good/
@@ -543,6 +545,7 @@ http://lifehacker.com/202271/roll-your-own-servers-with-netcat
 http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake-on-lan
 http://lifehacker.com/349646/applying-unix-philosophy-to-personal-productivity
 http://lifehacker.com/399468/top-10-command-line-tools
+http://lifehacker.com/5134387/study-claims-women-multitask-tvinternet-twice-as-much-as-men
 http://lifehacker.com/5270634/move-files-without-breaking-stuff
 http://lifehacker.com/5713726/how-to-use-gmail-as-your-central-universal-communications-hub
 http://lifehacker.com/5812427/asciiflow-makes-flow-charts-in-ascii-text
@@ -626,6 +629,7 @@ http://metartjapan.com/sapphira-sapphira-peeing/?lang=en
 http://meticulon.com/
 http://metro.co.uk/2007/08/16/revealed-how-to-get-plump-and-round-breasts-23965/
 http://metro.co.uk/2010/02/04/top-20-things-men-and-women-find-irresistible-77602/
+http://metro.co.uk/2011/04/14/cat-gives-birth-to-dog-651411/
 http://metro.co.uk/2016/05/30/atletico-madrids-juanfran-pens-emotional-open-letter-to-fans-after-champions-league-final-loss-5913630/
 http://metro.co.uk/2016/08/07/liverpool-fans-confused-after-4-0-defeat-to-mainz-day-after-barcelona-battering-6053550/
 http://mfishbein.com/avoid-building-something-no-one-wants-by-solving-known-problems/
@@ -668,6 +672,7 @@ http://news.nationalpost.com/sports/tennis/it-was-flying-everywhere-women-player
 http://news.yale.edu/2003/03/18/women-smile-more-men-differences-disappear-when-they-are-same-role-yale-researcher-finds
 http://nofilmschool.com/2014/10/if-you-want-learn-how-tell-story-edit-documentary
 http://noop.nl/2017/08/what-comes-after-scrum.html
+http://nourish-nyc.blogspot.com/2009/11/education-in-pizzathat-wont-blow-your.html?m=1
 http://nudewwedivas.forumcommunity.net/?t=57489343
 http://nudewwedivas.forumcommunity.net/?t=57620851
 http://nudewwedivas.forumcommunity.net/?t=57695392
@@ -686,6 +691,7 @@ http://nudewwedivas.forumcommunity.net/?t=59643435
 http://nuevoestadioatleti.blogspot.com/search?updated-max=2012-08-01T15:15:00%2B02:00&max-results=200&start=4&by-date=false
 http://nymag.com/scienceofus/2016/08/how-cat-people-differ-from-dog-people-on-facebook.html
 http://nypost.com/2015/10/26/trying-butt-pads-was-the-most-humiliating-experience-of-my-life/
+http://nypost.com/2016/01/27/how-i-lost-nearly-100-pounds-eating-pizza/
 http://nypost.com/2017/08/18/the-details-behind-ric-flair-scare-alcohol-problems-bowel-removal/
 http://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html
 http://observer.com/2006/07/how-the-internet-is-replacing-the-book/
@@ -1474,6 +1480,7 @@ http://www.abc.net.au/news/2014-09-09/kirkland-the-lunacy-of-trying-to-stop-pira
 http://www.abeforum.com/showthread.php?28855-I-just-LOVE-men-so-much-they-deserve-a-thread-about-it!!!
 http://www.abels.co.uk/overseas-removals-overseas-moving-services/moving-back-to-the-uk/
 http://www.academia.edu/1111940/Fake_Rules_Real_Fiction_Professional_Wrestling_and_Videogames
+http://www.adam-bien.com/roller/abien/entry/sending_and_receiving_streams_with
 http://www.addictivetips.com/ubuntu-linux-tips/check-motherboard-bios-processor-cpu-id-from-command-line-in-ubuntu-linux/
 http://www.additudemag.com/adhd/article/729.html
 http://www.adelingasanafilms.com/documentary-filmmaking-vs-journalism/
@@ -1666,6 +1673,7 @@ http://www.castanet.net/news/Canada/174885/Ship-like-a-mini-city
 http://www.catb.org/esr/writings/taoup/html/ch10s05.html
 http://www.catonmat.net/blog/frameworks-dont-make-sense/
 http://www.catster.com/lifestyle/cat-behavior-humor-funny-pictures-photos-cats-favorite-sleeping-position
+http://www.catster.com/lifestyle/cat-behavior-sounds-cats-make-what-they-mean-talking
 http://www.cbc.ca/beta/news/canada/calgary/bret-hitman-hart-shares-health-battles-1.4114315
 http://www.cbsnews.com/news/big-van-vader-wwe-wreslting-legend-tells-fans-he-has-less-than-2-years-to-live/
 http://www.cbsnews.com/news/stop-lying-about-how-much-you-work/
@@ -2004,6 +2012,7 @@ http://www.explainxkcd.com/wiki/index.php?title=1343#Explanation
 http://www.express.co.uk/news/uk/265475/Inflation-makes-saving-pointless
 http://www.express.co.uk/pictures/sport/5686/Footballers-bankrupt-riches-rags-sportgalleries
 http://www.express.co.uk/sport/football/733489/Safe-standing-explained-Premier-League-stadiums-terraces
+http://www.express.co.uk/sport/football/845136/Liverpool-transfer-news-Naby-Keita-Virgil-van-Dijk
 http://www.f4wonline.com/wwe-news/looking-effects-brand-exclusive-ppvs-wwe-ratings-230246
 http://www.failchips.com/
 http://www.fame10.com/entertainment/8-things-you-didnt-know-about-diffrent-strokes/?streamview=all
@@ -2179,6 +2188,7 @@ http://www.independent.co.uk/sport/football-overseas-round-up-atletico-madrid-fi
 http://www.independent.co.uk/sport/football/european/atletico-vs-real-madrid-vicente-calderon-final-european-game-javier-irureta-a7725376.html
 http://www.independent.co.uk/sport/football/international/aragones-turns-racist-questions-back-on-england-533537.html
 http://www.independent.co.uk/sport/football/news-and-comment/graham-taylor-dead-flourish-watford-aston-villa-legacy-live-longest-england-manager-a7524671.html
+http://www.indiewire.com/2014/03/mpaa-data-shows-that-women-are-still-the-majority-of-moviegoers-207223/
 http://www.indiewire.com/2015/02/sundance-is-it-documentary-or-journalism-248215/
 http://www.indiosrojiblancos.net/t2436p375-atleti-al-dia
 http://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/practicals/EclipseCookbook_ch06.pdf
@@ -2287,6 +2297,7 @@ http://www.lfs.org.uk/workshops/lfs-workshops/264/music-licensing-film-tv
 http://www.lib.berkeley.edu/MRC/docexhibit/docuchron.htm
 http://www.life-with-confidence.com/life-change.html
 http://www.lifehack.org/articles/productivity/givers-have-set-limits-because-takers-rarely.html
+http://www.lifewithcats.tv/2016/03/29/your-cats-talking-to-you-how-should-you-answer/
 http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html
 http://www.liliangarcia.com/podcast
 http://www.linfo.org/filters.html
@@ -2901,6 +2912,7 @@ http://www.urbandictionary.com/define.php?term=popular
 http://www.urbandictionary.com/define.php?term=preachy
 http://www.urbandictionary.com/define.php?term=pub%20logic&defid=3176476
 http://www.urbandictionary.com/define.php?term=roll%20tide
+http://www.urbandictionary.com/define.php?term=smeg%20head
 http://www.urbandictionary.com/define.php?term=smelfie
 http://www.urbandictionary.com/define.php?term=soccer&defid=1232057
 http://www.urbandictionary.com/define.php?term=socialist
@@ -2924,6 +2936,7 @@ http://www.visitpalmsprings.com/page/getting-here-by-ground/185860
 http://www.vocativ.com/culture/fun/youtube-videos-without-titles/
 http://www.vogella.com/tutorials/EclipseTycho/article.html
 http://www.vox.com/2017/1/27/14370854/trump-refugee-ban-order-muslim
+http://www.vulture.com/2012/06/more-boys-watch-girls-than-girls.html
 http://www.w3schools.com/TAgs/att_img_align.asp
 http://www.w3schools.com/colors/colors_names.asp
 http://www.w3schools.com/cssref/css3_pr_filter.asp
@@ -3008,6 +3021,7 @@ http://www.zillow.com/east-palo-alto-ca/home-values/
 http://www.zillow.com/research/data/
 http://xmodulo.com/identify-cpu-processor-architecture-linux.html
 http://xmodulo.com/mail-server-ubuntu-debian.html
+http://yarchive.net/comp/linux/everything_is_file.html
 http://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html#comment-3142
 http://zoartphotography.zenfolio.com/p92818710/h2260785b#h3f939fa1
 http://zoartphotography.zenfolio.com/studentshow3
@@ -3241,6 +3255,7 @@ https://chromium.googlesource.com/chromium/src/
 https://cirw.in/blog/time-to-move-on
 https://clips.news.co.uk/thesun/psYnd4OTE6SXbtyoC3B1r9bnWAfdEta2/DOcJ-FxaFrRg4gtDEwOmk2OjBrO6qGv_?_=vnadbvb1emi
 https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc
+https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc
 https://codemirror.net/doc/manual.html
 https://coderanch.com/t/644398/java/pipe-processes
 https://coderbyte.com/algorithm/find-duplicates-in-array-linear-time-v1
@@ -3253,6 +3268,7 @@ https://coderwall.com/p/h-tzia/quickly-test-an-imap-server-with-telnet
 https://colab.coop/blog/how-to-start-flowing-with-flow-based-programming/
 https://commons.apache.org/proper/commons-collections/javadocs/api-3.2.2/org/apache/commons/collections/buffer/CircularFifoBuffer.html
 https://commons.apache.org/proper/commons-collections/javadocs/api-3.2.2/org/apache/commons/collections/buffer/CircularFifoBuffer.html
+https://commons.apache.org/proper/commons-exec/tutorial.html
 https://commons.apache.org/proper/commons-transaction/
 https://commons.apache.org/proper/commons-transaction/file/index.html
 https://communities.intel.com/thread/46549
@@ -3338,6 +3354,7 @@ https://dzone.com/articles/exposing-functionality-over
 https://dzone.com/articles/google-guava-concurrency-%E2%80%93
 https://dzone.com/articles/java-vs-other-programming
 https://dzone.com/articles/javautilconcurrentfuture
+https://dzone.com/articles/jax-rs-streaming-response
 https://dzone.com/articles/lesser-known-git-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://dzone.com/articles/maven-vs-gradle-one-year-later
 https://dzone.com/articles/rolling-your-own-dsl-in-scala?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
@@ -3758,6 +3775,7 @@ https://gist.github.com/RobSis/50af3d3ef8e747a0bd18
 https://gist.github.com/alonisser/11192482
 https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90
 https://gist.github.com/ncerny/b1b1a8ddde51d6e32576
+https://gist.github.com/netgusto/931085fc3673b69dd15a1763784307c5
 https://gist.github.com/ohall/7735386
 https://gist.github.com/runeb/c11f864cd7ead969a5f0
 https://gist.github.com/samyk/65c12468686707b388ec43710430a421#file-chrome_tabs-osa
@@ -3805,6 +3823,7 @@ https://github.com/fornwall/eclipsescript/
 https://github.com/freshshell/fresh
 https://github.com/garabik/grc/issues/53
 https://github.com/garabik/grc/issues/53
+https://github.com/garabik/grc/issues/73
 https://github.com/gephi/gephi/releases
 https://github.com/google/crush-tools
 https://github.com/google/google-api-java-client-samples/tree/master/calendar-cmdline-sample
@@ -3814,6 +3833,7 @@ https://github.com/huydx/facy
 https://github.com/imkrimerman/javascript-ebooks/blob/master/%5BFunctional%20JavaScript%20Introducing%20Functional%20Programming%20with%20UnderscoreJS%201st%20Edition%20by%20Michael%20Fogus%20-%202013%5D.pdf
 https://github.com/ironcamel/Graph-Easy
 https://github.com/ironcamel/Graph-Easy
+https://github.com/ironcamel/Graph-Easy/wiki
 https://github.com/jaxbot/browserlink.vim
 https://github.com/jgm/pandoc/issues/3541
 https://github.com/jgm/pandoc/issues/844
@@ -3822,6 +3842,7 @@ https://github.com/jlevy/the-art-of-command-line
 https://github.com/jturgasen/my-links
 https://github.com/kward/shflags/wiki/Documentation12x
 https://github.com/kward/shflags/wiki/Documentation12x
+https://github.com/lukasmartinelli/nigit/blob/master/README.md
 https://github.com/markkolich/blog/blob/master/content/entries/bundle-java-the-jre-and-launch-a-java-app-with-7zip-sfx.md
 https://github.com/mfichman/rvim/blob/master/README.md
 https://github.com/mitchellurgero/bootforums
@@ -3831,6 +3852,7 @@ https://github.com/mrooney/mintapi/issues/73
 https://github.com/neo4j/neo4j/issues/4581
 https://github.com/odb/shml
 https://github.com/ondrasej/CSVql
+https://github.com/phonkee/goexpose/blob/master/README.md
 https://github.com/pixeline/Yurl
 https://github.com/postmanlabs/postman-app-support/issues/1104
 https://github.com/rauchg/spot
@@ -3967,6 +3989,7 @@ https://linux.die.net/man/1/base64
 https://linux.die.net/man/7/hwloc
 https://linux.die.net/man/8/logrotate
 https://linux.die.net/man/8/ntfsundelete
+https://linux.slashdot.org/story/14/09/17/1258203/torvalds-no-opinion-on-systemd
 https://lists.fedoraproject.org/pipermail/devel/2006-November/092275.html
 https://lists.gnu.org/archive/html/coreutils/2012-11/msg00031.html
 https://livingautism.com/autism-placement-support-service/
@@ -4066,6 +4089,7 @@ https://perishablepress.com/the-5-minute-css-mobile-makeover/
 https://personal.vanguard.com/us/funds/snapshot?FundId=0854&FundIntExt=INT
 https://personal.vanguard.com/us/funds/snapshot?FundId=0854&FundIntExt=INT
 https://personal.vanguard.com/us/funds/snapshot?FundIntExt=INT&FundId=5861
+https://peter.sh/experiments/chromium-command-line-switches/
 https://ph.answers.yahoo.com/question/index?qid=20160411144148AAlHeeB
 https://photography.tutsplus.com/courses/producing-great-video/lessons/music-spotting-and-edits
 https://pitacodogringo.wordpress.com/2008/01/30/viola-i-dont-like-gringos-allegedly/
@@ -4087,6 +4111,7 @@ https://productforums.google.com/forum/#!msg/chrome/af0CrX_48pk/sDiMnGJ9U_MJ
 https://productforums.google.com/forum/#!topic/adsense/5VXIq4Aa9xs
 https://productforums.google.com/forum/#!topic/gmail/u-1vs2wgIP4
 https://projects.eclipse.org/list-of-projects
+https://publiclab.org/notes/rjstatic/04-08-2015/unix-philosophy-the-internet-of-things-best-friends
 https://pubs.usgs.gov/gip/2006/16/
 https://pubs.usgs.gov/gip/2006/16/gip-16.pdf
 https://pubs.usgs.gov/gip/2006/16/gip-16_hollister.pdf
@@ -4215,6 +4240,7 @@ https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/1823264/quickest-way-to-convert-xml-to-json-in-java
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
+https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
@@ -4293,6 +4319,7 @@ https://stackoverflow.com/questions/8660532/avoiding-ssh-timeouts-on-mac-os#
 https://stackoverflow.com/questions/9015882/activemq-publisher-subscriber-hello-world-example
 https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846
 https://stackoverflow.com/questions/9357032/question-mark-in-the-middle-of-a-url-variable
+https://standage.github.io/shell-pipelines-in-python.html
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
 https://static1.squarespace.com/static/55765ba3e4b0364a07110eba/t/55792af9e4b0df98f1bf68e1/1434004218154/
@@ -4306,6 +4333,7 @@ https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/14762/execute-applescript-without-open-the-editor
 https://superuser.com/questions/187106/extract-save-a-mail-attachment-using-bash
 https://superuser.com/questions/319859/remotely-turning-on-or-rebooting-a-frozen-computer
+https://superuser.com/questions/364152/why-is-everything-is-a-file-unique-to-the-unix-operating-systems
 https://superuser.com/questions/401926/how-to-get-shiftarrows-and-ctrlarrows-working-in-vim-in-tmux
 https://superuser.com/questions/402193/why-is-base64-needed-aka-why-cant-i-just-email-a-binary-file
 https://superuser.com/questions/442849/why-do-i-see-operation-was-denied-because-the-current-credentials-do-not-have-t
@@ -4460,6 +4488,7 @@ https://unix.stackexchange.com/questions/126630/creating-diagrams-in-ascii/12777
 https://unix.stackexchange.com/questions/129249/how-can-i-access-a-linux-box-at-home-in-my-browser-at-work
 https://unix.stackexchange.com/questions/132797/how-to-dd-a-remote-disk-using-ssh-on-local-machine-and-save-to-a-local-disk
 https://unix.stackexchange.com/questions/1716/any-funny-nix-one-liners/1739
+https://unix.stackexchange.com/questions/180780/why-is-linux-unix-like-if-its-kernel-is-monolithic
 https://unix.stackexchange.com/questions/18360/how-can-i-relink-a-lot-of-broken-symlinks
 https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem
 https://unix.stackexchange.com/questions/196677/what-is-tmp-x11-unix
@@ -4659,6 +4688,7 @@ https://www.broadviewnet.com/blog/2015/06/largest-companies-by-revenue-in-each-s
 https://www.bustle.com/articles/177855-is-the-focus-on-body-baring-sports-at-the-olympics-sexist
 https://www.bustle.com/articles/178180-why-do-female-gymnasts-dance-during-floor-routines-men-dont-the-olympics-rule-has-old-timey
 https://www.bustle.com/articles/80733-8-things-people-on-antidepressants-are-seriously-tired-of-hearing
+https://www.buzzfeed.com/javim2/21-signs-your-cat-is-actually-your-child-bw9q?utm_term=.mn6b241V#.gaPwrG1Q
 https://www.buzzfeed.com/joannaborns/men-telling-women-to-smile?utm_term=.ajKk1VJv4#.qvqxD58rv
 https://www.buzzfeed.com/juliareinstein/science-is-green?utm_term=.ya0Go1VZ3#.rrEOo2xzG
 https://www.buzzfeed.com/juliegerstein/holding-your-own-boobs-is-the-best-damn-feeling-in?utm_term=.rhr5Aywe#.ls8wAj49
@@ -4845,6 +4875,7 @@ https://www.freebsd.org/doc/handbook/sendmail.html
 https://www.ft.com/content/6dd7c9ec-a71f-11e6-8b69-02899e8bd9d1
 https://www.funadvice.com/q/i_want_my_bf_to_suck_my_boobs
 https://www.funadvice.com/q/what_should_i_do_when_my_boyfriend
+https://www.futbolentubar.es/blue/jugador/felix-260270/1999
 https://www.g-loaded.eu/2006/11/06/netcat-a-couple-of-useful-examples/
 https://www.geekwire.com/2013/mapping-san-francisco-seattle-guide/
 https://www.geekwire.com/2015/a-silicon-valley-exodus-redfin-analysis-finds-that-bay-area-residents-increasingly-looking-for-homes-in-seattle-and-portland/
@@ -5052,6 +5083,7 @@ https://www.google.com/search?num=40&q=why+arcade+fight+games+aren%27t+popular+a
 https://www.google.com/search?num=40&q=why+british+english+and+american+english+vocabulary+diverged&oq=why+british+english+and+american+english+vocabulary+diverged&gs_l=serp.3...16346.17740.0.18014.11.11.0.0.0.0.117.885.7j3.10.0....0...1c.1.64.serp..4.0.0.URR8apkI-t4
 https://www.google.com/search?num=40&q=why+customers+defected+from+microsoft+windows&oq=why+customers+defected+from+microsoft+windows&gs_l=serp.3...5994.9693.0.10447.15.14.1.0.0.0.111.1218.11j3.14.0....0...1.1.64.serp..1.9.748...30i10k1.t3eriOXrJM4
 https://www.google.com/search?num=40&q=why+did+apple+darken+grey+metallic+look&oq=why+did+apple+darken+grey+metallic+look&gs_l=serp.3...1379.2146.0.4690.6.6.0.0.0.0.85.393.6.6.0....0...1.1.64.serp..0.2.147...30i10k1.x95BtO_gJmc
+https://www.google.com/search?num=40&q=why+don%27t+women+watch+tv+as+much+as+men+-sports&oq=why+don%27t+women+watch+tv+as+much+as+men+-sports&gs_l=psy-ab.3...5008.6480.0.6576.8.8.0.0.0.0.158.670.0j6.6.0....0...1.1.64.psy-ab..2.0.0.ljtl5YMsIK0
 https://www.google.com/search?num=40&q=why+is+competitive+eating+a+sport&oq=why+is+competitive+eating&gs_l=serp.3.0.0l2j0i22i30k1l4.9467.12291.0.20714.25.21.0.4.4.0.165.2215.10j10.20.0....0...1c.1.64.serp..1.24.2218...35i39k1j0i20k1j0i131k1j0i67k1j0i3k1.RyAQHLIgyX0
 https://www.google.com/search?num=40&q=xarelto+blood+thinner+death&oq=xarelto+blood+thinner+death&gs_l=serp.3..33i21k1.3270.4112.0.4391.6.6.0.0.0.0.136.567.4j2.6.0....0...1.1.64.serp..0.6.565...0j0i22i30k1j33i160k1.gE1f-C3liOI
 https://www.google.com/search?num=40&q=youtube+start+video+manually&oq=youtube+start+video+manually&gs_l=serp.3...6849.15125.0.15392.39.33.2.0.0.0.262.3926.6j12j8.26.0....0...1.1.64.serp..11.26.3705...0j35i39k1j0i22i30k1j0i22i10i30k1j0i20k1j33i21k1j33i160k1.zfHpnCOSrrE
@@ -5194,6 +5226,7 @@ https://www.google.com/search?q=california+occupational+guides&rlz=1CDGOYI_enUS5
 https://www.google.com/search?q=calms+medicine&rlz=1CDGOYI_enUS590US590&oq=calms+medicine&aqs=chrome..69i57.7608j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8&dlnr=1&sei=7YAXWYvTG8_ajwPxoK2IAQ
 https://www.google.com/search?q=can+I+cancel+my+ho6+insurance&oq=can+I+cancel+my+ho6+insurance&aqs=chrome..69i57j69i64.4351j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=can+I+put+a+mobile+home+on+my+lot&oq=can+I+put+a+mobile+home+on+my+lot&aqs=chrome..69i57j69i64.5611j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=can+programs+run+without+a+shell&rlz=1CDGOYI_enUS750US750&oq=can+programs+run+without+a+shell&aqs=chrome..69i57.18981j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=can+women+sleep+face+down&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&ei=wtACWdXGHYeVjwTu-pOICQ&start=10&sa=N&biw=320&bih=548#spf=1
 https://www.google.com/search?q=can+you+sue+a+child+for+bullying&rlz=1CDGOYI_enUS590US590&oq=can+you+sue+a+child&aqs=chrome.2.69i57j0l3.12145j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=capitalism+drives+innovation&rlz=1CDGOYI_enUS590US590&oq=capitalism+innovation&aqs=chrome.1.69i57j0l3j69i60l2.3384j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
@@ -5399,6 +5432,7 @@ https://www.google.com/search?q=is+it+ok+to+eat+potato+chips+that+have+been+open
 https://www.google.com/search?q=is+it+wrong+to+take+photos+of+women&oq=is+it+wrong+to+take+photos+of+women+&aqs=chrome..69i57j69i64.10257j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+leeds+a+student+city&rlz=1CDGOYI_enUS590US590&oq=is+leeds+a+stude&aqs=chrome.1.69i57j0.6848j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=is+mp4+encoding+one+pass&rlz=1CDGOYI_enUS590US590&oq=is+mp4+encoding+one+pass&aqs=chrome..69i57.22322j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=is+neapolitan+pizza++healthy&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=inv&ei=XLqgWZPBGomwjwPembmoBw&start=50&sa=N&biw=375&bih=647&dpr=2
 https://www.google.com/search?q=is+seaweed+vegetarian&oq=is+seaweed+vege&aqs=chrome.0.0j69i57j0l4.3739j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+text+1+dimensional+graphics&oq=is+text+1+dimensional+graphics&aqs=chrome..69i57j69i64.5237j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+the+shell+a+full+operating+system&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=nvsi&ei=VFkDWdmoM6zgjwSRzIuADQ&start=10&sa=N&biw=320&bih=548#spf=1
@@ -5591,6 +5625,7 @@ https://www.google.com/search?q=tindergarden&oq=tindergarden&aqs=chrome..69i57j0
 https://www.google.com/search?q=tldr+%22executive+summary%22&oq=tldr+%22executive+summary%22&aqs=chrome..69i57.9775j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tofu+done+right&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=isvn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIzJbH17_QAhVG7mMKHTlqDlMQ_AUIBygB
 https://www.google.com/search?q=top-up+mortgage&oq=top-up+mort&aqs=chrome.0.0j69i57j0l4.3367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=torvalds+unix+philosophy&oq=torvalds+unix+philosophy&aqs=chrome..69i57.5725j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=transfer+your+shares+to+another+institution&rlz=1CDGOYI_enUS750US750&oq=transfer+your+shares+to+another+institution&aqs=chrome..69i57.6397j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=twitter+south+bay+office&rlz=1CDGOYI_enUS590US590&oq=teitter+south+bay&aqs=chrome.2.69i57j0l3.7667j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=ubuntu+single+system+image&rlz=1CDGOYI_enUS590US590&oq=ubuntu+single+syste&aqs=chrome.1.69i57j0l3.16768j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5618,6 +5653,7 @@ https://www.google.com/search?q=visualize+higher+dimensional+space&rlz=1CDGOYI_e
 https://www.google.com/search?q=vlc+better+than+itunes&oq=vlc+better+than+itunes&aqs=chrome..69i57j0.4191j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=warren+buffett+asperger%27s+syndrome&oq=warrent+buffet+aspergers+s&aqs=chrome.1.69i57j0.8063j1j9&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=we+are+all+given+challenges+in+life&oq=we+are+all+given+challenges+in+life&aqs=chrome..69i57j69i64l3.3519j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=web+applications+unix+philosophy&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=inv&ei=OciXWf7uH868jwPf9rCYDg&start=210&sa=N&biw=375&bih=647
 https://www.google.com/search?q=web+server+text+editor&rlz=1CDGOYI_enUS590US590&oq=tect+editir+web+ser&aqs=chrome.1.69i57j0.8520j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=welfare+capitalism+vs+shareholder+capitalism&oq=welfare+capitalism+vs+shareholder+capitalism&aqs=chrome..69i57.5982j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=what+came+before+cable+tv&rlz=1CDGOYI_enUS590US590&oq=what+came+before+cabl&aqs=chrome.1.69i57j0.8430j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5833,6 +5869,7 @@ https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=hockey+app+net
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=jshell+competitor+for+python&nirf=shell+competitor+for+python&sa=X&ved=0ahUKEwjatpnuzoDVAhVK7WMKHYlsCyoQ8BYIGigB&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=solving+problems+no+one+has&spell=1&sa=X&ved=0ahUKEwjf-6bLv8jVAhUF8mMKHdJkBTQQvwUIISgA&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+base64&spell=1&sa=X&ved=0ahUKEwj9ldGz1ZnVAhVBwFQKHeCyDToQBQgZKAA&biw=375&bih=591
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+forums+are+still+useful&spell=1&sa=X&ved=0ahUKEwimlY2flfPVAhWqq1QKHQLWAXUQvwUIISgA&biw=375&bih=591
 https://www.google.com/search?safe=off&biw=1288&bih=679&q=largest+cities+in+antarctica&oq=antarctica+biggescities&gs_l=serp.3.0.0i8i7i10i30k1.3229.4467.0.5396.6.6.0.0.0.0.101.512.5j1.6.0....0...1c.1.64.serp..0.6.510...0i8i7i30k1.qaYIDOpZ4xE
 https://www.google.com/search?safe=off&q=admiration+vs+objectification&oq=admiration+vs+objectification&gs_l=serp.3...29113.33333.0.33606.29.15.0.0.0.0.520.869.3-1j0j1.2.0....0...1.1.64.serp..27.2.868...0j0i20k1j0i22i10i30k1j0i22i30k1.VU9YyIQMP68
 https://www.google.com/search?safe=off&q=female+friend+lifted+my+skirt&oq=female+friend+lifted+my+skirt&gs_l=serp.3...8716.9680.0.9816.7.7.0.0.0.0.118.470.3j2.5.0....0...1c.1.64.serp..3.2.221...30i10k1.OOoa0U_rd1g
@@ -6058,6 +6095,7 @@ https://www.isitnormal.com/post/is-it-normal-to-be-attracted-to-young-girls--239
 https://www.islam21c.com/islamic-thought/propagation/women/why-do-western-women-feel-inferior-to-men/
 https://www.ivacy.com/blog/top-torrentz-alternatives/
 https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server
+https://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong
 https://www.jobtrain.co.uk/nas/vacancies.aspx
 https://www.joe.co.uk/sport/atletico-fans-show-their-support-for-player-who-missed-decisive-champions-league-penalty-63188
 https://www.joe.co.uk/sport/opinion-simeones-genius-remarkable-given-atletico-madrids-history-lunacy-63100
@@ -6384,6 +6422,7 @@ https://www.reddit.com/r/TheSimpsons/comments/4fcfzq/old_gray_mare_she_aint_what
 https://www.reddit.com/r/TwoXChromosomes/comments/2qkvpp/anyone_else_feel_like_they_wont_ever_get_married/
 https://www.reddit.com/r/UnresolvedMysteries/comments/5nkwzj/new_dennis_farina_unsolved_mysteries_episodes_on/
 https://www.reddit.com/r/UnsolvedMysteries/comments/5yxycc/amazon_prime_torrent/
+https://www.reddit.com/r/apple/comments/5fvbz4/new_macbook_pro_is_it_just_me_do_the_keys_get/
 https://www.reddit.com/r/askscience/comments/mgj5p/do_mens_nipples_have_as_many_nerve_endings_as/
 https://www.reddit.com/r/aspergers/comments/1jh15t/i_hate_getting_wet_is_this_or_similar_common/
 https://www.reddit.com/r/atletico/comments/1n9jec/pe%C3%B1a_atl%C3%A9tica_de_california/
@@ -6405,6 +6444,7 @@ https://www.reddit.com/r/programming/comments/stz0n/my_satisfaction_with_git_no_
 https://www.reddit.com/r/shittyaskscience/comments/11xekg/is_asparagus_syndrome_genetic_or_herediatry/
 https://www.reddit.com/r/todayilearned/comments/1mdkxz/til_american_pronunciation_is_actually_closer_to/
 https://www.reddit.com/r/todayilearned/comments/4j9fj7/til_that_there_are_about_16_million_brazilians_of/
+https://www.reddit.com/r/wheredidthesodago/comments/26g7yd/concerned_your_breasts_dont_jiggle_enough_make/
 https://www.reddit.com/r/youtubetitties/
 https://www.reference.com/art-literature/fox-sports-2-available-comcast-4c599f052d7b378e
 https://www.reindex.io/blog/you-might-not-need-underscore/
@@ -6413,6 +6453,7 @@ https://www.researchgate.net/publication/233492497_The_relationship_between_list
 https://www.researchgate.net/publication/257980182_The_Seduction_of_Modern_Spain_The_Female_body_and_the_Francoist_body_Politics
 https://www.researchgate.net/publication/26248743_Effects_of_listening_ability_on_speaking_writing_and_reading_skills_of_children_who_were_suspected_of_auditory_processing_difficulty
 https://www.resolvedhypnotherapy.co.uk/specialism-1-aspergers-syndrome-and-hypnotherapy-in-berksire-and-oxfordshire/
+https://www.revolvy.com/topic/Uzbl&item_type=topic
 https://www.riteaid.com/shop/conair-gel-grips-hair-brush-paddle-1-brush-0363305
 https://www.roberthalf.com/technology/job/santa-monica-ca/senior-backend-java-developer-direct-hire/43939181?shwAppMsg=true&appMethod=linkedin
 https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/
@@ -6494,6 +6535,7 @@ https://www.theguardian.com/media/blog/2011/jul/07/news-of-the-world-closes-live
 https://www.theguardian.com/news/2005/aug/13/guardianobituaries.sport
 https://www.theguardian.com/news/datablog/2015/feb/18/england-and-wales-where-single-women-outnumber-men
 https://www.theguardian.com/notesandqueries/query/0,5753,-58824,00.html
+https://www.theguardian.com/science/2009/jul/13/cats-purr-food-research
 https://www.theguardian.com/technology/2009/oct/23/mysterious-cable-uk-us
 https://www.theguardian.com/us-news/2016/feb/04/san-francisco-then-and-now-super-bowl-50
 https://www.theguardian.com/world/2015/oct/15/sudan-whatsapp-sharing-revolution
@@ -6550,6 +6592,7 @@ https://www.uzbl.org/
 https://www.uzbl.org/
 https://www.vanguardcharitable.org/investments/multi_fund_options
 https://www.veda-edu.com/courses/certified-course/film-editing-pune/
+https://www.vice.com/en_us/article/3bj5yv/youre-single-because-there-arent-enough-men-253
 https://www.vice.com/en_us/article/explaining-british-nightlife-to-americans-416
 https://www.videomaker.com/article/13532-tricks-for-j-and-l-cuts
 https://www.videomaker.com/article/c06/18423-six-primary-styles-of-documentary-production
@@ -6741,6 +6784,7 @@ https://www.zillow.com/advice-thread/Refinance-my-condo-with-low-owner-occupancy
 https://www.zillow.com/homes/0_fs/0_mmm/1_fr/0_rs/1_z/any_days/1100-1400_mp/Bellevue-WA_rb/47.614459,-122.188021,47.607978,-122.194888_rect/3619_rid/apartment_duplex,condo_type/days_sort/?fromHomePage=true&isList=false
 https://www.zillow.com/homes/3619_rid/47.689197,-122.03167,47.51465,-122.251396_rect/0_fs/0_rs/1_fr/1_z/0_mmm/true_fro/-2000_mp/2-_beds/any_days/condo,apartment_duplex_type/days_sort/
 https://www2.deloitte.com/uk/en/pages/sports-business-group/topics/sports-business-group.html#
+https://wynnnetherland.com/journal/a-stylesheet-author-s-guide-to-terminal-colors/
 https://xapian.org/docs/
 https://xhamster.com/movies/1068402/kamilla_18_in_bed.html
 https://xhamster.com/movies/967483/kamilla_18_-_good_morning.html

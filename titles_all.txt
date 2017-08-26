@@ -7763,3 +7763,44 @@ http://www.findbestopensource.com/product/smartbb-forum :: Smartbb-forum - A tin
 https://github.com/tslocum/TinyIB :: GitHub - tslocum/TinyIB: Lightweight PHP image board with MySQL, SQLite, or flat file database support
 https://sourceforge.net/projects/textmb/?source=typ_redirect :: Ultimate PHP Board (UPB) download | SourceForge.net
 https://github.com/PHP-Outburst/myUPB/issues/55 :: Allow anonymous posting ? Issue #55 ? PHP-Outburst/myUPB ? GitHub
+http://www.adam-bien.com/roller/abien/entry/sending_and_receiving_streams_with :: Sending And Receiving Streams With JAX-RS : Adam Bien's Weblog
+https://commons.apache.org/proper/commons-exec/tutorial.html :: Commons Exec ? Apache Commons Exec Tutorial
+https://dzone.com/articles/jax-rs-streaming-response :: (Could not determine)
+https://github.com/lukasmartinelli/nigit/blob/master/README.md :: nigit/README.md at master ? lukasmartinelli/nigit ? GitHub
+https://github.com/phonkee/goexpose/blob/master/README.md :: goexpose/README.md at master ? phonkee/goexpose ? GitHub
+https://www.reddit.com/r/apple/comments/5fvbz4/new_macbook_pro_is_it_just_me_do_the_keys_get/ :: New Macbook Pro: Is it just me do the keys get stuck easily? : apple
+https://wynnnetherland.com/journal/a-stylesheet-author-s-guide-to-terminal-colors/ :: A stylesheet author's guide to terminal colors
+http://www.urbandictionary.com/define.php?term=smeg%20head :: Urban Dictionary: smeg head
+http://yarchive.net/comp/linux/everything_is_file.html ::  The everything-is-a-file principle (Linus Torvalds) 
+https://github.com/garabik/grc/issues/73 :: conf.sh / conf.bash - for shell scripts ? Issue #73 ? garabik/grc ? GitHub
+https://github.com/ironcamel/Graph-Easy/wiki :: Home ? ironcamel/Graph-Easy Wiki ? GitHub
+https://linux.slashdot.org/story/14/09/17/1258203/torvalds-no-opinion-on-systemd :: Torvalds: No Opinion On Systemd - Slashdot
+https://unix.stackexchange.com/questions/180780/why-is-linux-unix-like-if-its-kernel-is-monolithic :: Why is Linux "Unix-like" if its kernel is monolithic? - Unix &amp; Linux Stack Exchange
+http://metro.co.uk/2011/04/14/cat-gives-birth-to-dog-651411/ :: Cat gives birth to dog | Metro News
+http://nourish-nyc.blogspot.com/2009/11/education-in-pizzathat-wont-blow-your.html?m=1 :: DIET is a four letter word.: An education in pizza...that won't blow your waistline
+http://www.catster.com/lifestyle/cat-behavior-sounds-cats-make-what-they-mean-talking :: (Could not determine)
+https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class :: java - How to call a specific parent constructor from anonymous inner class? - Stack Overflow
+https://standage.github.io/shell-pipelines-in-python.html :: Daniel Standage
+http://nypost.com/2016/01/27/how-i-lost-nearly-100-pounds-eating-pizza/ :: How I lost nearly 100 pounds eating pizza | New York Post
+http://www.express.co.uk/sport/football/845136/Liverpool-transfer-news-Naby-Keita-Virgil-van-Dijk :: (timeout)
+http://www.lifewithcats.tv/2016/03/29/your-cats-talking-to-you-how-should-you-answer/ :: Do Cats Really Like Baby Talk? | Life With Cats
+https://www.buzzfeed.com/javim2/21-signs-your-cat-is-actually-your-child-bw9q?utm_term=.mn6b241V#.gaPwrG1Q :: 21 Signs Your Cat Is Actually Your Child
+https://www.futbolentubar.es/blue/jugador/felix-260270/1999 :: F?tbol :  telecable
+https://www.google.com/search?q=can+programs+run+without+a+shell&rlz=1CDGOYI_enUS750US750&oq=can+programs+run+without+a+shell&aqs=chrome..69i57.18981j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: can programs run without a shell - Google Search
+https://www.google.com/search?q=is+neapolitan+pizza++healthy&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=inv&ei=XLqgWZPBGomwjwPembmoBw&start=50&sa=N&biw=375&bih=647&dpr=2 :: is neapolitan pizza  healthy - Google Search
+https://www.google.com/search?q=torvalds+unix+philosophy&oq=torvalds+unix+philosophy&aqs=chrome..69i57.5725j0j7&sourceid=chrome&ie=UTF-8 :: torvalds unix philosophy - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+forums+are+still+useful&spell=1&sa=X&ved=0ahUKEwimlY2flfPVAhWqq1QKHQLWAXUQvwUIISgA&biw=375&bih=591 :: why forums are still useful - Google Search
+https://www.theguardian.com/science/2009/jul/13/cats-purr-food-research :: Sound effect: how cats exploit the human need to nurture | Science | The Guardian
+http://lifehacker.com/5134387/study-claims-women-multitask-tvinternet-twice-as-much-as-men :: Study Claims Women Multitask TV/Internet Twice as Much as Men
+http://www.indiewire.com/2014/03/mpaa-data-shows-that-women-are-still-the-majority-of-moviegoers-207223/ :: MPAA Data Shows That Women Are Still The Majority of Moviegoers | IndieWire
+http://www.vulture.com/2012/06/more-boys-watch-girls-than-girls.html :: More Boys Watch Girls Than Girls -- Vulture
+https://www.google.com/search?num=40&q=why+don%27t+women+watch+tv+as+much+as+men+-sports&oq=why+don%27t+women+watch+tv+as+much+as+men+-sports&gs_l=psy-ab.3...5008.6480.0.6576.8.8.0.0.0.0.158.670.0j6.6.0....0...1.1.64.psy-ab..2.0.0.ljtl5YMsIK0 :: why don't women watch tv as much as men -sports - Google Search
+https://www.reddit.com/r/wheredidthesodago/comments/26g7yd/concerned_your_breasts_dont_jiggle_enough_make/ :: (timeout)
+https://gist.github.com/netgusto/931085fc3673b69dd15a1763784307c5 :: Run a graphical app in docker on OSX ? GitHub
+https://peter.sh/experiments/chromium-command-line-switches/ :: List of Chromium Command Line Switches ?  Peter Beverloo
+https://publiclab.org/notes/rjstatic/04-08-2015/unix-philosophy-the-internet-of-things-best-friends :: ? Public Lab: Unix Philosophy + The Internet of Things = Best Friends ?
+https://superuser.com/questions/364152/why-is-everything-is-a-file-unique-to-the-unix-operating-systems :: Why is "Everything is a file" unique to the Unix operating systems? - Super User
+https://www.google.com/search?q=web+applications+unix+philosophy&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=inv&ei=OciXWf7uH868jwPf9rCYDg&start=210&sa=N&biw=375&bih=647 :: web applications unix philosophy - Google Search
+https://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong :: Java Doesn?t Suck ? You?re Just Using it Wrong ? James Ward
+https://www.revolvy.com/topic/Uzbl&item_type=topic :: Uzbl
+https://www.vice.com/en_us/article/3bj5yv/youre-single-because-there-arent-enough-men-253 :: (timeout)
