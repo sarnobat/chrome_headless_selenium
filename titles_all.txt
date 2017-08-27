@@ -7804,3 +7804,30 @@ https://www.google.com/search?q=web+applications+unix+philosophy&rlz=1CDGOYI_enU
 https://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong :: Java Doesn?t Suck ? You?re Just Using it Wrong ? James Ward
 https://www.revolvy.com/topic/Uzbl&item_type=topic :: Uzbl
 https://www.vice.com/en_us/article/3bj5yv/youre-single-because-there-arent-enough-men-253 :: (timeout)
+http://atlantic-cable.com/CableCos/Porthcurno/ :: (timeout)
+http://atlantic-cable.com/Cables/1870Falmouth-Malta/index.htm :: (timeout)
+http://www.telegraph.co.uk/finance/businessclub/12108314/Revealed-the-50-most-creative-companies-in-England.html :: (timeout)
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=WKyXWeyCH8qMjwPx1o-wBg&q=carcavelos+portugal+keck+mauro+schultz&oq=carcavelos+portugal+keck+mauro+schultz&gs_l=mobile-gws-serp.3...1606.10397.0.11121.20.20.0.0.0.0.265.2403.3j12j3.18.0....0...1.1.64.mobile-gws-serp..2.13.1809...0j0i22i30k1j33i160k1j30i10k1.sY_tlJoo-Z8 :: (timeout)
+http://redmonk.com/dberkholz/2014/05/20/microservices-and-the-migrating-unix-philosophy/ :: Microservices and the migrating Unix philosophy ? Donnie Berkholz's Story of Data
+http://sasamat.xen.prgmr.com/michaelochurch/wp/index.php/2013/01/09/ide-culture-vs-unix-philosophy/ :: IDE Culture vs. Unix philosophy | Michael O Church Archive
+http://www.bitflop.dk/articles/web-application-with-a-single-entry-point.html :: Web application with a single entry point
+http://www.dailymail.co.uk/femail/article-3398123/Why-breasts-bounce-pattern-jiggle-reveals-age-Extraordinary-scientific-secrets-bosoms.html :: Why your breasts bounce and how the pattern of the jiggle reveals your age | Daily Mail Online
+https://blog.appdynamics.com/engineering/java-vs-python-which-one-is-best-for-you/ :: Java vs. Python: Which One Is Best for You? | Blog | AppDynamics
+https://stackoverflow.com/questions/39812507/is-there-process-substitution-in-bourne-shell-like-that-in-bash :: unix - is there process substitution in Bourne Shell like that in Bash? - Stack Overflow
+https://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/ :: 15 Greatest Open Source Terminal Applications Of 2012 ? nixCraft
+https://www.google.com/search?num=40&q=can+women+sleep+face+down+-pregnancy&oq=can+women+sleep+face+down+-pregnancy&gs_l=psy-ab.3...3665.6892.0.7262.13.12.1.0.0.0.134.927.8j4.12.0....0...1.1.64.psy-ab..0.0.0.LO0rXTatr0o :: can women sleep face down -pregnancy - Google Search
+https://www.thesun.co.uk/news/4328883/mariah-carey-fat-jibes-photoshoot-pressure-karren-brady-opinion/ :: Mariah Carey's fat jibes after incredible photoshoot prove the pressure all women face
+http://2012.33degree.org/pdf/JamesLewisMicroServices.pdf :: (Could not determine)
+https://books.google.com/books?id=Ev2wDAAAQBAJ&pg=PA98&lpg=PA98&dq=web+applications+unix+philosophy&source=bl&ots=MacRmcrPhq&sig=yrTyIFTVLZrQ0-KfNmUdfau2iH4&hl=en&sa=X&ved=0ahUKEwivgIC3wOLVAhUV82MKHaJyDt04FBDoAQgkMAA#v=onepage&q=web%20applications%20unix%20philosophy&f=false :: Microservice Architecture: Aligning Principles, Practices, and Culture - Irakli Nadareishvili, Ronnie Mitra, Matt McLarty, Mike Amundsen - Google Books
+https://books.google.com/books?id=LyRNWPwxZpQC&pg=PA296&lpg=PA296&dq=primal+pleasure&source=bl&ots=PbimEvrkgh&sig=_lAwMGoaXAGhsiw9AibEri6r79w&hl=en&sa=X&ved=0ahUKEwjtq9i6_r3VAhWFr1QKHUrvBTAQ6AEIkQEwFg#v=onepage&q=primal%20pleasure&f=false :: The Pleasure Zone: Why We Resist Good Feelings and How to Let Go and Be Happy - Stella Resnick - Google Books
+https://en.m.wikipedia.org/wiki/Hybrid_Air_Vehicles :: Hybrid Air Vehicles - Wikipedia
+https://www.google.com/search?q=porthcurno+gateway&rlz=1CDGOYI_enUS750US750&oq=porthcurno+gateway&aqs=chrome..69i57.8580j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: porthcurno gateway - Google Search
+https://www.google.com/search?q=telegraph+companies+documentary&rlz=1CDGOYI_enUS750US750&oq=telegraph+companies+documentary&aqs=chrome..69i57.16435j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: telegraph companies documentary - Google Search
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=airlander+10+uses&spell=1&sa=X&ved=0ahUKEwjglZntpuLVAhVI62MKHfN7C5wQvwUIISgA&biw=375&bih=591 :: airlander 10 uses - Google Search
+https://www.sync.com/careers/ :: Careers | Sync
+http://flashthosetits.com/ :: flashthosetits.com - Girls flashing Tits in public places!
+http://iskconsiliconvalley.com/ :: 
+http://learnlayout.com/inline-block.html :: CSS - inline-block
+https://stackoverflow.com/questions/11931154/how-to-position-three-divs-in-html-horizontally :: css - How to position three divs in html horizontally? - Stack Overflow
+https://stackoverflow.com/questions/22092724/align-inline-block-divs-to-top-of-container-element :: css - Align inline-block DIV's to top of container element - Stack Overflow
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_horizontal :: Tryit Editor v3.5

@@ -6,6 +6,7 @@
 45::https://www.tumblr.com/search/i'm%20obsessed%20with%20boys%20by%20girls::1478582630638
 http://192.168.1.3/hello/
 http://2.bp.blogspot.com/-0wLoTQR21LM/UIpLM9q3WsI/AAAAAAAAACU/0I9AUEpnjkI/s1600/images13.jpeg
+http://2012.33degree.org/pdf/JamesLewisMicroServices.pdf
 http://2kindsofpeople.tumblr.com/book
 http://3.bp.blogspot.com/-Yu5Z8rwjBoA/UGgzkfA4mWI/AAAAAAAAHOc/OnZyUAorJfo/s1600/Serebro.jpeg
 http://3.bp.blogspot.com/-tcxvVXFlAQM/UHWo3NGZu9I/AAAAAAAAAYo/N7B00nnUb7o/s1600/a+child.jpeg
@@ -88,6 +89,8 @@ http://aspergerworks.org/frequently-asked-questions/
 http://aspiritech.org/
 http://astrorice.com/romanticization-of-depression/
 http://astyle.sourceforge.net/astyle.html
+http://atlantic-cable.com/CableCos/Porthcurno/
+http://atlantic-cable.com/Cables/1870Falmouth-Malta/index.htm
 http://atleticofans.com/forum/index.php?/topic/1012-share-the-story-of-your-atl%C3%A9tico-encounter/
 http://atleticofans.com/forum/index.php?/topic/1211-inspirationalinfamous-quotes-by-or-about-atletico/?hl=quotes
 http://atleticofans.com/forum/index.php?/topic/1301-javier-aguirre/
@@ -350,6 +353,7 @@ http://finance.yahoo.com/news/gold-become-worthless-145333773.html
 http://finance.yahoo.com/quote/%5Eirx?ltr=1
 http://finviz.com/map.ashx?t=etf
 http://fitness.stackexchange.com/questions/7905/if-you-consume-a-lot-of-protein-but-dont-exercise-does-it-go-to-waste?newreg=8f25e544de044d03ab4d6bd0cb843098
+http://flashthosetits.com/
 http://flashthosetits.com/your-daily-titty-flash-01132016
 http://flatboard.free.fr/index.php/forum
 http://fleshmap.com/touch/skintoskin.html
@@ -484,6 +488,7 @@ http://insights.dice.com/2013/05/17/which-programming-languages-should-you-skip/
 http://investorplace.com/2014/02/mall-food-courts-lose-155-sbarro-pizza-restaurants/#.WRAPIrRVikp
 http://investorplace.com/2015/02/best-vanguard-balanced-funds-vbinx-vtmfx-vwinx/#.WFm4jbYrLOQ
 http://invisibleinkblog.blogspot.com/2013/08/yes-documentaries-also-use-story.html
+http://iskconsiliconvalley.com/
 http://ithare.com/historical-data-in-databases-audit-tables/
 http://jakubdziworski.github.io/java/2016/07/31/jshell-getting-started-examples.html
 http://jbl.web.cern.ch/jbl/doc/plain/
@@ -520,6 +525,7 @@ http://ldt.stanford.edu/~yasukato/portfolio/class/cs147/as8/
 http://leafletjs.com/
 http://learn.onemonth.com/refactoring-stop-worrying-and-code-you-can-fix-it-later
 http://learngitbranching.js.org/
+http://learnlayout.com/inline-block.html
 http://library.stanford.edu/libraries/art/about
 http://lifehacker.com/127179/amazon-rss-feeds
 http://lifehacker.com/139274/sentence-software-to-death-row
@@ -744,6 +750,7 @@ http://rateyourmusic.com/release/comp/various-artists/american-dream-36-drivetim
 http://rea.tech/the-abject-failure-of-weak-typing/
 http://realestate.usnews.com/places/rankings/best-places-to-live
 http://realeyes.com/blog/2014/10/alternate-audio-streams-in-html-video-part-2/
+http://redmonk.com/dberkholz/2014/05/20/microservices-and-the-migrating-unix-philosophy/
 http://releases.ubuntu.com/12.04/
 http://releases.ubuntu.com/16.04/
 http://reports.uefa.org/chapter/financial-story#financial-fair-play
@@ -761,6 +768,7 @@ http://rss.art19.com/jim-cornette-s-drive-thru
 http://ruoyusun.com/2013/11/10/scala-is-not-java-glue.html
 http://samatkinson.com/why-i-hate-spring/
 http://santaclaraca.gov/government/departments/parks-recreation/parks-recreation-special-events/4th-of-july
+http://sasamat.xen.prgmr.com/michaelochurch/wp/index.php/2013/01/09/ide-culture-vs-unix-philosophy/
 http://sbarro.is/files/Sbarro_Nutritional_Information.pdf
 http://scalatra.org/
 http://scholar.harvard.edu/heiditworek/publications/telegraph-and-bank-interdependence-global-communications-and-capitalism
@@ -1554,6 +1562,7 @@ http://www.besoccer.com/new/the-best-moments-in-atletico-madrid-s-history
 http://www.bethesdamagazine.com/Bethesda-Magazine/November-December-2008/Why-Do-Teen-Girls-Dress-the-Way-They-Do/
 http://www.betternovelproject.com/blog/withhold-information/
 http://www.beurs.nl/treemap/dowjones
+http://www.bitflop.dk/articles/web-application-with-a-single-entry-point.html
 http://www.bizjournals.com/sanjose/news/2012/04/16/best-buy-to-close-east-palo-alto-store.html
 http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html
 http://www.bizjournals.com/sanjose/news/2016/04/12/greyhound-moving-san-jose-bus-terminal-to-diridon.html
@@ -1757,6 +1766,7 @@ http://www.d4dramas.com/watch-video-koffee-with-karan-13th-november-2016-full-ep
 http://www.dailydock.com/autism-helped-messi-become-worlds-best/
 http://www.dailymail.co.uk/femail/article-2128446/Has-fashion-hit-rock-Designers-unfortunate-derriere-baring-dress-make-butt-jokes.html
 http://www.dailymail.co.uk/femail/article-3243803/Research-shows-men-attracted-women-early-20s-no-matter-old-get.html
+http://www.dailymail.co.uk/femail/article-3398123/Why-breasts-bounce-pattern-jiggle-reveals-age-Extraordinary-scientific-secrets-bosoms.html
 http://www.dailymail.co.uk/femail/article-3474468/Is-way-sleep-giving-wrinkles-bed-position-aging-avoid-waking-fine-lines.html
 http://www.dailymail.co.uk/femail/article-3581728/Why-m-happy-daughters-wear-revealing-dresses.html
 http://www.dailymail.co.uk/femail/article-4032622/Women-reveal-prefer-man-touch-feminine-side.html
@@ -2639,6 +2649,7 @@ http://www.teehanlax.com/blog/the-science-of-nightclubs/
 http://www.telegraph.co.uk/comedy/comedians/homer---the-simpsons-40-best-quotations/
 http://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/11018841/Why-the-game-show-is-the-TV-format-with-staying-power.html
 http://www.telegraph.co.uk/film/concussion/is-rugby-or-american-football-more-dangerous/
+http://www.telegraph.co.uk/finance/businessclub/12108314/Revealed-the-50-most-creative-companies-in-England.html
 http://www.telegraph.co.uk/finance/property/11649555/Soho-is-the-new-Shoreditch-this-map-shows-where-startups-are-looking-for-workspace.html
 http://www.telegraph.co.uk/football/0/footballs-greatest-one-club-men/
 http://www.telegraph.co.uk/football/2016/10/20/the-rise-and-fall-of-ac-milan-and-inter---why-both-clubs-must-di/
@@ -3024,6 +3035,7 @@ https://bl.ocks.org/cjrd/6863459
 https://bl.ocks.org/emeeks/f2f6883ac7c965d09b90
 https://bl.ocks.org/mbostock/1212215
 https://bl.ocks.org/mbostock/7607535
+https://blog.appdynamics.com/engineering/java-vs-python-which-one-is-best-for-you/
 https://blog.bennycornelissen.nl/bwc-gui-apps-in-docker-on-osx/
 https://blog.bufferapp.com/the-science-of-smiling-a-guide-to-humans-most-powerful-gesture
 https://blog.codinghorror.com/never-design-what-you-can-steal/
@@ -3051,6 +3063,7 @@ https://books.google.com/books?id=A1QMAAAAYAAJ&q=juan+carlos+lorenzo+atletico+ma
 https://books.google.com/books?id=BlLi_9c12MwC&pg=PA77&lpg=PA77&dq=atletico+madrid+administration+2000&source=bl&ots=yDXY4E9Hkt&sig=ZC5nuhoqOH8VbB_D9c9xvNWJsrk&hl=en&sa=X&ved=0ahUKEwiByeHW4ITSAhWGjVQKHc_uAkkQ6AEIMzAD#v=onepage&q=atletico%20madrid%20administration%202000&f=false
 https://books.google.com/books?id=DPfdCwAAQBAJ&pg=PA30&lpg=PA30&dq=documentary+dramatic+structure&source=bl&ots=uVDtY43HhE&sig=XJvWBKud_oSundTrDtG2bCjtO6M&hl=en&sa=X&ved=0ahUKEwiq_cPBj6DTAhUIrVQKHVD5Cuc4ChDoAQgdMAE#v=onepage&q=documentary%20dramatic%20structure&f=false
 https://books.google.com/books?id=DpxGZignfkgC&pg=PA447&lpg=PA447&dq=dataflow+controlflow+vonneuman+lambdacalculus&source=bl&ots=8vrbibQqX_&sig=kRRtsI2JQt-EuMKAZ6tt00V-KhM&hl=en&sa=X&ved=0ahUKEwiU08Go9_7RAhWI0FQKHdGpCssQ6AEINTAD#v=onepage&q=dataflow%20controlflow%20vonneuman%20lambdacalculus&f=false
+https://books.google.com/books?id=Ev2wDAAAQBAJ&pg=PA98&lpg=PA98&dq=web+applications+unix+philosophy&source=bl&ots=MacRmcrPhq&sig=yrTyIFTVLZrQ0-KfNmUdfau2iH4&hl=en&sa=X&ved=0ahUKEwivgIC3wOLVAhUV82MKHaJyDt04FBDoAQgkMAA#v=onepage&q=web%20applications%20unix%20philosophy&f=false
 https://books.google.com/books?id=H4q1t-jAcBIC&pg=PA56&lpg=PA56&dq=monster+monoliths+programming&source=bl&ots=-e5CMnCk4t&sig=iZvwuvsZpTRJkAyxhYwEiNmYts0&hl=en&sa=X&ved=0ahUKEwjS2OyAobbQAhUrqVQKHT6BC34Q6AEIKjAB#v=onepage&q=monster%20monoliths%20programming&f=false
 https://books.google.com/books?id=HQANBAAAQBAJ&pg=PA295&dq=pacing++video+editing&hl=en&sa=X&ved=0ahUKEwj2957dqNXRAhXCxlQKHXzpBBA4eBDoAQj3ATAh#v=onepage&q=pacing%20%20video%20editing&f=false
 https://books.google.com/books?id=HTo_AmTpQPMC&pg=PA264&dq=mod_include&hl=en&sa=X&ved=0ahUKEwi06ZGtgrbSAhWrw1QKHcQJATUQ6AEIjwEwEQ#v=onepage&q=mod_include&f=false
@@ -3058,6 +3071,7 @@ https://books.google.com/books?id=Hnf7zkBP-7kC&pg=PA445&lpg=PA445&dq=jobsharing+
 https://books.google.com/books?id=JnO_VCuH7scC&pg=PA114&lpg=PA114&dq=gender+differences+before+puberty&source=bl&ots=LI2dRAeiNp&sig=K9TQzgbSnZzZiQZFF7zITaLBVus&hl=en&sa=X&ved=0ahUKEwiBxYSBm6rTAhUJxmMKHd9UANwQ6AEIOTAJ#v=onepage&q=gender%20differences%20before%20puberty&f=false
 https://books.google.com/books?id=K3YcBgAAQBAJ&printsec=frontcover&dq=Feature+and+Narrative+Storytelling+for+multimedia&hl=en&sa=X&ved=0ahUKEwjX9Oqt0uHSAhVE32MKHU_XB7MQ6wEIHTAA#v=onepage&q=Feature%20and%20Narrative%20Storytelling%20for%20multimedia&f=false
 https://books.google.com/books?id=K50SDAAAQBAJ&pg=PA336&lpg=PA336&dq=%22floodlights+were+an+important%22&source=bl&ots=cQohfbcQIv&sig=mIxmxxOYnXs9Iy930-Lm34Lxnco&hl=en&sa=X&ved=0ahUKEwiyiaXOoNzVAhWhjlQKHX37BvkQ6AEIKDAA#v=onepage&q=%22floodlights%20were%20an%20important%22&f=false
+https://books.google.com/books?id=LyRNWPwxZpQC&pg=PA296&lpg=PA296&dq=primal+pleasure&source=bl&ots=PbimEvrkgh&sig=_lAwMGoaXAGhsiw9AibEri6r79w&hl=en&sa=X&ved=0ahUKEwjtq9i6_r3VAhWFr1QKHUrvBTAQ6AEIkQEwFg#v=onepage&q=primal%20pleasure&f=false
 https://books.google.com/books?id=Mc_2_B4iNcUC&pg=PA73&lpg=PA73&dq=female+friend+lifted+my+skirt&source=bl&ots=9gPvWNPB2w&sig=HtiOVzTmBJZzG10UPJWMg5RHDZg&hl=en&sa=X&ved=0ahUKEwjgqOSG69TQAhVJyGMKHSsjCWYQ6AEIIzAD#v=onepage&q=female%20friend%20lifted%20my%20skirt&f=false
 https://books.google.com/books?id=NsajCwAAQBAJ&printsec=frontcover&dq=pacing++video+editing&hl=en&sa=X&ved=0ahUKEwiby4H-pNXRAhVJz1QKHQLkA2s4KBDoAQiLAjAl#v=onepage&q&f=false
 https://books.google.com/books?id=P6BlcWaizHUC&pg=PT312&dq=pal+ntsc&hl=en&sa=X&ved=0ahUKEwjLw7W-ktfQAhVQ72MKHZ4IB2gQ6AEIKjAA#v=onepage&q=pal%20ntsc&f=false
@@ -3265,6 +3279,7 @@ https://en.m.wikipedia.org/wiki/Girly_girl
 https://en.m.wikipedia.org/wiki/Google_Latitude
 https://en.m.wikipedia.org/wiki/Heysel_Stadium_disaster
 https://en.m.wikipedia.org/wiki/Human_female_sexuality
+https://en.m.wikipedia.org/wiki/Hybrid_Air_Vehicles
 https://en.m.wikipedia.org/wiki/HyperCard
 https://en.m.wikipedia.org/wiki/Indo-European_languages
 https://en.m.wikipedia.org/wiki/Investment_fund
@@ -4069,6 +4084,7 @@ https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-it
 https://stackoverflow.com/questions/1123836/can-i-get-a-jquery-object-from-an-existing-element
 https://stackoverflow.com/questions/11669240/how-to-print-java-bean-completely-using-reflection-or-any-other-utility
 https://stackoverflow.com/questions/1187518/javascript-array-difference
+https://stackoverflow.com/questions/11931154/how-to-position-three-divs-in-html-horizontally
 https://stackoverflow.com/questions/12222607/how-to-do-a-soap-wsdl-web-services-call-from-the-command-line
 https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-services
 https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
@@ -4090,6 +4106,7 @@ https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
 https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
+https://stackoverflow.com/questions/22092724/align-inline-block-divs-to-top-of-container-element
 https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
 https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
@@ -4131,6 +4148,7 @@ https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-de
 https://stackoverflow.com/questions/36921228/concatenate-s3-files-when-using-aws-firehose
 https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library#
 https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
+https://stackoverflow.com/questions/39812507/is-there-process-substitution-in-bourne-shell-like-that-in-bash
 https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
 https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/41783903/append-data-to-an-s3-object/45767026#45767026
@@ -4580,6 +4598,7 @@ https://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/
 https://www.cyberciti.biz/faq/mount-drive-from-command-line-ubuntu-linux/
 https://www.cyberciti.biz/faq/rhel-centos-debian-fedora-mount-partition-label/
 https://www.cyberciti.biz/faq/understanding-etcshadow-file/
+https://www.cyberciti.biz/open-source/best-terminal-applications-for-linux-unix-macosx/
 https://www.cyberciti.biz/tips/executing-linuxunix-commands-from-web-page-part-i.html
 https://www.cyberciti.biz/tips/linux-send-wake-on-lan-wol-magic-packets.html
 https://www.cyberciti.biz/tips/linux-set-io-scheduling-class-priority.html
@@ -4859,6 +4878,7 @@ https://www.google.com/search?num=40&q=apache+commons+scheduled+task&oq=apache+c
 https://www.google.com/search?num=40&q=beauty+pageants+reinforce+objectification&oq=beauty+pageants+reinforce+objectification&gs_l=serp.3..33i160k1.42205371.42211562.0.42211804.33.24.1.7.8.0.235.2216.0j17j1.18.0....0...1c.1.64.serp..7.26.2242...0j0i22i30k1j33i21k1.UUuzFlkEnC4
 https://www.google.com/search?num=40&q=business+strategy+cohesion&oq=business+strategy+cohesion&gs_l=serp.3...1241.2138.0.2319.9.7.0.0.0.0.153.295.0j2.2.0....0...1c.1.64.serp..8.1.153...0i8i7i30k1j0i8i13i30k1.NpdX2AjyWGo
 https://www.google.com/search?num=40&q=can+I+use+john+williams+music+royalty+free&oq=can+I+use+john+williams+music+royalty+free&gs_l=serp.3...2034.4374.0.4621.14.13.1.0.0.0.113.928.11j1.12.0....0...1c.1.64.serp..2.0.0.s1VPJnLstoE
+https://www.google.com/search?num=40&q=can+women+sleep+face+down+-pregnancy&oq=can+women+sleep+face+down+-pregnancy&gs_l=psy-ab.3...3665.6892.0.7262.13.12.1.0.0.0.134.927.8j4.12.0....0...1.1.64.psy-ab..0.0.0.LO0rXTatr0o
 https://www.google.com/search?num=40&q=central+locking+damage&oq=central+locking+damage&gs_l=serp.3..33i160k1l2.12294.14609.0.14824.12.12.0.0.0.0.120.1069.7j4.11.0....0...1c.1.64.serp..1.8.797...0j0i7i30k1j0i22i30k1.EOuCuuvrEXc
 https://www.google.com/search?num=40&q=chrome+os+bash+open+tab&oq=chrome+os+bash+open+tab&gs_l=serp.3...79413.79723.0.79993.3.3.0.0.0.0.0.0..0.0....0...1c.1.64.serp..3.0.0.qI2OFpy8vAY
 https://www.google.com/search?num=40&q=company+pension+vs+passive+investing&oq=company+pension+vs+passive+investing&gs_l=serp.3...5654.8363.0.8662.17.16.1.0.0.0.224.1492.9j4j1.14.0....0...1c.1.64.serp..3.5.522...0i8i7i30k1j30i10k1.rKUsGBKYBUA
@@ -5362,6 +5382,7 @@ https://www.google.com/search?q=plaintext+branding&rlz=1CDGOYI_enUS590US590&oq=p
 https://www.google.com/search?q=plot+vs+story&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=vni&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfxpX_9snRAhXBsFQKHfQ0DwIQ_AUICSgD&biw=320&bih=492#imgrc=tGm038gMbMelfM%3A
 https://www.google.com/search?q=police+insensitive+rape+victims&oq=police+insensitive+rape+victims&aqs=chrome..69i57.2242j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=politics+is+just+entertainment&oq=politics+is+just+entertainment&aqs=chrome..69i57.8014j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=porthcurno+gateway&rlz=1CDGOYI_enUS750US750&oq=porthcurno+gateway&aqs=chrome..69i57.8580j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=power+of+pussy&rlz=1CDGOYI_enUS590US590&oq=power+of+pussy&aqs=chrome..69i57.7292j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=preachy&oq=preachy&aqs=chrome..69i57j0l5.223j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=pretotype+dogfood&oq=pretotype+dogfood&aqs=chrome..69i57.2167j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -5441,6 +5462,7 @@ https://www.google.com/search?q=synergy+and+diversification&rlz=1CDGOYI_enUS590U
 https://www.google.com/search?q=synergy+driven+by+science&oq=synergy+driven+by+science&aqs=chrome..69i57.4694j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=systems+economic+engineering+social&oq=systems+economic+engineering+social&aqs=chrome..69i57.13648j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=teeth+bonding&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjuudK-_uLSAhUiS2MKHWVICOsQ_AUIBygA&biw=2148&bih=904&dpr=1
+https://www.google.com/search?q=telegraph+companies+documentary&rlz=1CDGOYI_enUS750US750&oq=telegraph+companies+documentary&aqs=chrome..69i57.16435j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=television+eras&oq=television+eras&aqs=chrome..69i57j0l5.2727j0j9&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=temporary+print+statements+debugging&oq=temporary+print+statements+debugging&aqs=chrome..69i57.5271j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=terms+and+conditions+meme&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPy5bo2__QAhVorlQKHTSXA8sQ_AUICCgB&biw=1342&bih=600
@@ -5685,8 +5707,10 @@ https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=william+and+ma
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=wireless+electricity+documentary&spell=1&sa=X&ved=0ahUKEwjQrcvzssrTAhVI1WMKHVWgBIwQvwUIGCgA&biw=320&bih=492#spf=1
 https://www.google.com/search?rlz=1CDGOYI_enUS590US590&hl=en-US&q=women+correcting+your+pronunciation&spell=1&sa=X&ved=0ahUKEwjTrLmelY3RAhVhqlQKHa5jCCIQvwUIFigA&biw=320&bih=492
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=AEFTWfT2G8Ks0gKmhJygAw&q=social+security+residency+qualification&oq=social+security+residency+qualification&gs_l=mobile-gws-serp.3...17350.23021.0.23859.11.11.0.0.0.0.217.1091.8j1j1.10.0....0...1.1.64.mobile-gws-serp..1.8.930...35i39k1j0i13k1j30i10k1.73Vh7gzwDi8
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=WKyXWeyCH8qMjwPx1o-wBg&q=carcavelos+portugal+keck+mauro+schultz&oq=carcavelos+portugal+keck+mauro+schultz&gs_l=mobile-gws-serp.3...1606.10397.0.11121.20.20.0.0.0.0.265.2403.3j12j3.18.0....0...1.1.64.mobile-gws-serp..2.13.1809...0j0i22i30k1j33i160k1j30i10k1.sY_tlJoo-Z8
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=uGOYWemKPMPRjAOhiJnABw&q=%22has+big+boobs+to+fill%22&oq=%22has+big+boobs+to+fill%22&gs_l=mobile-gws-serp.3...5025.7197.0.7366.7.7.0.0.0.0.274.973.0j3j2.5.0....0...1..64.mobile-gws-serp..5.0.0.tdspXIBmezA
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&ei=u_6NWd-MKeqV0gLDybuYCA&q=real+estate+investing+for+parents+of+aspergers+children&oq=real+estate+investing+for+parents+of+aspergers+children&gs_l=mobile-gws-serp.3...9045.10856.0.11039.13.11.0.0.0.0.230.1514.0j8j1.9.0....0...1..64.mobile-gws-serp..10.2.289...35i39k1.M1te9ZkQXQQ
+https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=airlander+10+uses&spell=1&sa=X&ved=0ahUKEwjglZntpuLVAhVI62MKHfN7C5wQvwUIISgA&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=bernhardt+desk+with+power+outlet&spell=1&sa=X&ved=0ahUKEwi115Ly8ePVAhUDymMKHRW9Df4QBQghKAA&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=betting+risk+%22winner%27s+curse%22&spell=1&sa=X&ved=0ahUKEwiJn5HRpebVAhWJgFQKHXLMCYwQBQghKAA&biw=375&bih=591
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&q=do+normal+people+make+eye+contact&spell=1&sa=X&ved=0ahUKEwi8wtHwhs7VAhVfHGMKHT7ZBnAQvwUIISgA&biw=375&bih=591&dpr=2
@@ -6293,6 +6317,7 @@ https://www.spreeder.com/macversion
 https://www.startech.com/AboutUs
 https://www.sweetwater.com/insync/spotting-session/
 https://www.symantec.com/connect/blogs/would-you-care-some-salt-your-password
+https://www.sync.com/careers/
 https://www.taskrabbit.com/
 https://www.techdirt.com/articles/20120604/04210719187/duh-tv-business-is-verge-collapse.shtml
 https://www.telegraphindia.com/1140508/jsp/sports/story_18319916.jsp#.WLztFbRViko
@@ -6350,6 +6375,7 @@ https://www.thestreet.com/story/12676653/1/tech-coast-map--plots-southern-califo
 https://www.thestudentroom.co.uk/showthread.php?t=2548596
 https://www.thesun.co.uk/archives/news/369767/a-car-on-the-wrong-side-of-the-road-hit-us-at-90mph-killing-four-i-still-dont-know-how-im-here/
 https://www.thesun.co.uk/living/1616034/woman-checks-in-at-the-airport-wearing-what-appears-to-be-her-underwear/
+https://www.thesun.co.uk/news/4328883/mariah-carey-fat-jibes-photoshoot-pressure-karren-brady-opinion/
 https://www.thesun.co.uk/sport/2560305/man-city-ace-sergio-aguero-faced-family-feud-after-new-girls-daughter-called-his-son-a-sissy-and-his-ex-called-in-the-lawyers/
 https://www.thesun.co.uk/sport/2935380/nikki-bella-wwe-wardrobe-malfunction-slip/
 https://www.thesun.co.uk/sport/football/2286573/colombia-plane-crash-former-champions-league-star-posted-final-haunting-picture-from-inside-doomed-flight/
@@ -6400,6 +6426,7 @@ https://www.w3.org/Talks/Tools/Slidy2/#(1)
 https://www.w3schools.com/css/css_rwd_viewport.asp
 https://www.w3schools.com/cssref/sel_attribute_value.asp
 https://www.w3schools.com/html/html5_draganddrop.asp
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_lists_horizontal
 https://www.w3schools.com/jsref/jsref_min.asp
 https://www.w3schools.com/jsref/jsref_tostring_date.asp
 https://www.w3schools.com/tags/ref_httpmethods.asp
