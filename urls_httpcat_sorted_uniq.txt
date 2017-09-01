@@ -28,6 +28,7 @@ http://alternativeto.net/software/taskwarrior/
 http://amazingribs.com/recipes/pizza_and_flatbreads_on_the_grill/different_pizza_styles.html
 http://aminoapps.com/page/wrestling/3087811/5-embarrassing-wrestling-champions
 http://andrzejonsoftware.blogspot.com/2014/12/ill-refactor-this-later.html
+http://api.ning.com/files/w-k4IC*v9Qk5ES9lqFtWS7PHO2v1fdokg6aioKm4Ot7TUC3H7koCx0Rw7q4kqTAS6xsb38G-jc*3r*HWpIIv0P36IQPzbYfW/FutureofDatabase.jpeg
 http://apple.stackexchange.com/questions/208205/file-open-dialog-is-missing-sidebar-items#
 http://apple.stackexchange.com/questions/222047/how-does-ios-photos-app-know-to-group-burst-photos
 http://apple.stackexchange.com/questions/263437/df-hide-ifree-iused-512-blocks-customize-column-format
@@ -2923,6 +2924,7 @@ http://www.yourlittleprofessor.com/the-benefits-of-aspergers-syndrome/
 http://www.yourrent2own.com/search.html?city=Bellevue&state=WA&adid=YRTO233000&PID=Geo&utm_source=google&utm_medium=cpc
 http://www.yourtango.com/200947694/men-love-natural-beauty
 http://www.zdnet.com/article/google-presents-its-open-source-goodies-to-the-world/#ftag=RSSbaffb68
+http://www.zdnet.com/article/ubuntu-linux-continues-to-rule-the-cloud/
 http://www.zeppfeed.com/story/999/11-hot-spots-to-turn-a-woman-on-completely-by-kissing-her
 http://www.zerohedge.com/news/2012-10-14/top-15-economic-truth-documentaries
 http://www.zillow.com/advice-thread/Are-Manufactured-Homes-A-Poor-Choice-in-Housing/506268/
@@ -2930,6 +2932,7 @@ http://www.zillow.com/advice-thread/Are-housing-price-trends-available-by-zip-co
 http://www.zillow.com/cupertino-ca/schools/#/cupertino-ca/schools/bb=-122.099219%2C37.272618%2C-121.970473%2C37.364086&regionId=4281&zoom=12&type=public&level=high
 http://www.zillow.com/east-palo-alto-ca/home-values/
 http://www.zillow.com/research/data/
+http://www2.warwick.ac.uk/fac/cross_fac/iatl/reinvention/issues/bcur2013specialissue/tuxen/
 http://xmodulo.com/identify-cpu-processor-architecture-linux.html
 http://xmodulo.com/mail-server-ubuntu-debian.html
 http://yarchive.net/comp/linux/everything_is_file.html
@@ -3198,6 +3201,7 @@ https://cooperator.com/article/more-than-just-a-family-vacation
 https://coursehorse.com/los-angeles/classes/tech/all-software/apple/final-cut-pro/final-cut-pro-x-training-level-2
 https://courseweb.pitt.edu/bbcswebdav/institution/Pitt%20Online/MLIS_Pitt_Online/LIS%202600/Intro%20Module/SSH_Second_Edition.pdf
 https://courseworks2.columbia.edu/courses/821/pages/narrative-writing-the-rise-and-fall-story
+https://cs.stackexchange.com/questions/65494/what-are-the-examples-of-scalable-and-non-scalable-data-structures
 https://css-tricks.com/snippets/css/css-box-shadow/
 https://cygwin.com/cygwin-ug-net/using-effectively.html
 https://danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands/
@@ -3546,6 +3550,7 @@ https://en.wikipedia.org/wiki/Policy_and_charging_rules_function
 https://en.wikipedia.org/wiki/Polyvagal_theory
 https://en.wikipedia.org/wiki/Post-network_era
 https://en.wikipedia.org/wiki/Programming_in_the_large_and_programming_in_the_small
+https://en.wikipedia.org/wiki/Project_management_triangle
 https://en.wikipedia.org/wiki/Protectionism
 https://en.wikipedia.org/wiki/Public_call_office
 https://en.wikipedia.org/wiki/Quantum_computing
@@ -3731,6 +3736,7 @@ https://github.com/google/crush-tools
 https://github.com/google/google-api-java-client-samples/tree/master/calendar-cmdline-sample
 https://github.com/google/protobuf/issues/1734
 https://github.com/gousiosg/java-callgraph/blob/master/pom.xml
+https://github.com/hemanth/unix-philosophy
 https://github.com/huydx/facy
 https://github.com/imkrimerman/javascript-ebooks/blob/master/%5BFunctional%20JavaScript%20Introducing%20Functional%20Programming%20with%20UnderscoreJS%201st%20Edition%20by%20Michael%20Fogus%20-%202013%5D.pdf
 https://github.com/ironcamel/Graph-Easy
@@ -3741,6 +3747,7 @@ https://github.com/jgm/pandoc/issues/3541
 https://github.com/jgm/pandoc/issues/844
 https://github.com/jlevy/procdog
 https://github.com/jlevy/the-art-of-command-line
+https://github.com/joaomsa/txtwiki.js
 https://github.com/jturgasen/my-links
 https://github.com/kward/shflags/wiki/Documentation12x
 https://github.com/lukasmartinelli/nigit/blob/master/README.md
@@ -3980,6 +3987,7 @@ https://paleoleap.com/an-egg-yolk-a-day-keeps-the-doctor-away/
 https://pandoc.org/README.pdf
 https://parade.com/23970/francinerusso/the-science-of-siblings/
 https://pbs.twimg.com/media/DIEl_-3XoAAX7o2?format=jpg
+https://pbs.twimg.com/profile_images/378800000640160895/5f45cfd06306e7b57c88a584b7b39d6d_400x400.jpeg
 https://pdfs.semanticscholar.org/d986/546bc3780db3a3c0f8d88b35e421ae4eec21.pdf
 https://perishablepress.com/the-5-minute-css-mobile-makeover/
 https://personal.vanguard.com/us/funds/snapshot?FundId=0854&FundIntExt=INT
@@ -4111,6 +4119,8 @@ https://stackoverflow.com/questions/1061717/what-exactly-is-spring-framework-for
 https://stackoverflow.com/questions/10742572/specify-lob-size-in-jpa-entity
 https://stackoverflow.com/questions/11139571/scope-of-a-spring-controller-and-its-instance-variables
 https://stackoverflow.com/questions/1123836/can-i-get-a-jquery-object-from-an-existing-element
+https://stackoverflow.com/questions/11276709/aws-append-only-mode-for-s3-bucket
+https://stackoverflow.com/questions/11278973/jquery-javascript-solution-for-converting-wiki-text-to-html-and-vice-versa
 https://stackoverflow.com/questions/11669240/how-to-print-java-bean-completely-using-reflection-or-any-other-utility
 https://stackoverflow.com/questions/1187518/javascript-array-difference
 https://stackoverflow.com/questions/11931154/how-to-position-three-divs-in-html-horizontally
@@ -4119,6 +4129,7 @@ https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-se
 https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757
+https://stackoverflow.com/questions/1370996/minus-operation-on-two-files-using-linux-commands
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
 https://stackoverflow.com/questions/14411173/how-to-stop-reading-multiple-lines-from-stdin-using-scanner
 https://stackoverflow.com/questions/15091148/hashmaps-and-null-values
@@ -4139,6 +4150,7 @@ https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-const
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/22092724/align-inline-block-divs-to-top-of-container-element
 https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby
+https://stackoverflow.com/questions/22544064/java-8-lambdas-dont-work-everything-else-from-java-8-works-though
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
 https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
 https://stackoverflow.com/questions/246801/how-can-you-encode-a-string-to-base64-in-javascript
@@ -4203,6 +4215,7 @@ https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-b
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/6161823/dd-how-to-calculate-optimal-blocksize
 https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
+https://stackoverflow.com/questions/6603015/check-whether-a-string-matches-a-regex
 https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more
 https://stackoverflow.com/questions/7226538/how-to-use-pipe-symbol-through-exec-in-java
 https://stackoverflow.com/questions/7335278/use-spring-integration-or-not-on-a-pure-java-distributed-system-that-is-connect
@@ -4281,6 +4294,7 @@ https://theartofcharm.com/flirting-and-attraction/smiling-really-make-less-attra
 https://thefinancebuff.com/borrow-30-year-and-invest-the-difference.html
 https://thefinancebuff.com/mortgage-refinance-closing-process.html
 https://thehappywomb.com/2013/08/01/the-power-of-breasts/
+https://theinfosphere.org/The_Simpsons#Futurama.2FThe_Simpsons_Crossovers
 https://themighty.com/2016/07/to-the-people-who-mistake-my-depression-as-laziness/
 https://thenewstack.io/docker-fuels-rethinking-operating-system/
 https://thepiratebay.org/torrent/5527161/Unsolved_Mysteries_Disc_9
@@ -4724,6 +4738,7 @@ https://www.fastcompany.com/3026446/the-fall-of-perl-the-webs-most-promising-lan
 https://www.fastcompany.com/3029084/4-storytelling-tips-from-ken-burns-and-his-latest-film-the-address
 https://www.fastcompany.com/3055388/these-brands-go-by-different-names-in-different-countries-and-its-jus
 https://www.fastcompany.com/3062835/microsoft-autism-hiring
+https://www.fastcompany.com/40460909/nests-new-169-thermostat-is-for-folks-who-want-to-save-money-not-gadget-nerds
 https://www.federalreserve.gov/faqs/currency_12770.htm
 https://www.fha.com/fha_article?id=371
 https://www.fidelity.com/viewpoints/active-trader/commission-free-ETFs
@@ -4771,6 +4786,7 @@ https://www.geekwire.com/2015/massive-map-shows-seattles-tech-ecosystem-evolved-
 https://www.getloans.com/ho6-insurance-policy/
 https://www.getpostman.com/docs/creating_curl
 https://www.glamour.com/story/secrets-of-really-photogenic-p
+https://www.glamour.com/story/the-12-types-of-crushes-every
 https://www.gnu.org/prep/standards/html_node/Command_002dLine-Interfaces.html#Command_002dLine-Interfaces
 https://www.gnu.org/prep/standards/html_node/Option-Table.html#Option-Table
 https://www.gnu.org/software/recutils/manual/recutils.html#Introduction
@@ -4914,7 +4930,9 @@ https://www.google.com/search?num=40&q=+adsense+minimal+website&oq=+adsense+mini
 https://www.google.com/search?num=40&q=Picture+superiority+effect+autism&oq=Picture+superiority+effect+autism&gs_l=psy-ab.3...8318.9644.0.9852.7.6.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..7.0.0.m4W6CJ3DWOo
 https://www.google.com/search?num=40&q=Uk+refinance+overseas+property&oq=Uk+refinance+overseas+property&gs_l=serp.3..33i160k1.6982.12064.0.12298.34.31.1.1.1.0.213.2978.17j11j1.29.0....0...1c.1.64.serp..3.28.2767...0j0i67k1j0i46i67k1j46i67k1j0i20k1j0i22i30k1j0i22i10i30k1j33i21k1.YD0ULlFrgwc
 https://www.google.com/search?num=40&q=albumen+vs+yolk+function&nfpr=1&sa=X&ved=0ahUKEwjNsI-T3_PVAhUE8GMKHVmhBuQQvgUIJigB&biw=1520&bih=762
+https://www.google.com/search?num=40&q=amazon+resource+name+for+products&oq=amazon+resource+name+for+products&gs_l=psy-ab.3..33i160k1l2.5922.12268.0.12384.19.17.1.0.0.0.181.1039.5j5.10.0....0...1.1.64.psy-ab..8.8.735...0j0i22i30k1.khJJxhei64g
 https://www.google.com/search?num=40&q=apache+commons+scheduled+task&oq=apache+commons+scheduled+task&gs_l=psy-ab.3...5718.6422.0.6547.7.6.0.0.0.0.135.381.0j3.3.0....0...1.1.64.psy-ab..5.0.0.reqKKr1bE0A
+https://www.google.com/search?num=40&q=append+only+data+store+%22best+kept+secret%22&oq=append+only+data+store+%22best+kept+secret%22&gs_l=psy-ab.3...5464.6024.0.6288.5.5.0.0.0.0.134.424.1j3.4.0....0...1.1.64.psy-ab..1.0.0.mMfsn1vcc_c
 https://www.google.com/search?num=40&q=beauty+pageants+reinforce+objectification&oq=beauty+pageants+reinforce+objectification&gs_l=serp.3..33i160k1.42205371.42211562.0.42211804.33.24.1.7.8.0.235.2216.0j17j1.18.0....0...1c.1.64.serp..7.26.2242...0j0i22i30k1j33i21k1.UUuzFlkEnC4
 https://www.google.com/search?num=40&q=business+strategy+cohesion&oq=business+strategy+cohesion&gs_l=serp.3...1241.2138.0.2319.9.7.0.0.0.0.153.295.0j2.2.0....0...1c.1.64.serp..8.1.153...0i8i7i30k1j0i8i13i30k1.NpdX2AjyWGo
 https://www.google.com/search?num=40&q=can+I+use+john+williams+music+royalty+free&oq=can+I+use+john+williams+music+royalty+free&gs_l=serp.3...2034.4374.0.4621.14.13.1.0.0.0.113.928.11j1.12.0....0...1c.1.64.serp..2.0.0.s1VPJnLstoE
@@ -4955,9 +4973,11 @@ https://www.google.com/search?num=40&q=narrative+plot+integrity&oq=narrative+plo
 https://www.google.com/search?num=40&q=netcat+receive+email+&oq=netcat+receive+email+&gs_l=serp.3..33i160k1.4055.7093.0.7390.15.15.0.0.0.0.118.1334.7j7.14.0.foo%2Ccfro%3D1%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-21%2Cnso-qnt-npdq%3D0-57%2Cnso-qnt-npt%3D0-16%2Cnso-qnt-ndc%3D400%2Ccspa-dspm-nm-mnp%3D0-08%2Ccspa-dspm-nm-mxp%3D0-2%2Cnso-unt-npqp%3D0-21%2Cnso-unt-npdq%3D0-35%2Cnso-unt-npt%3D0-1%2Cnso-unt-ndc%3D400%2Ccspa-uipm-nm-mnp%3D0-0125%2Ccspa-uipm-nm-mxp%3D0-0875...0...1.1.64.serp..2.5.468...30i10k1.VjiwvT2IE6A
 https://www.google.com/search?num=40&q=non+refundable+is+unethical&spell=1&sa=X&ved=0ahUKEwiO-qb2-K_UAhULS2MKHRp1BiYQvwUIJSgA&biw=1332&bih=703
 https://www.google.com/search?num=40&q=overpricing+gouging++causes+piracy&oq=overpricing+gouging++causes+piracy&gs_l=serp.3...16065.19326.0.19506.11.11.0.0.0.0.151.843.7j2.9.0....0...1.1.64.serp..2.0.0.K38J_c8WYWg
+https://www.google.com/search?num=40&q=pick+2+of+3&oq=pick+2+of+3&gs_l=psy-ab.3..0i22i30k1l4.2033.3130.0.3175.5.5.0.0.0.0.679.1310.0j2j0j1j0j1.4.0....0...1.1.64.psy-ab..1.4.1309...0j0i20k1.3vNZG-IjCLE
 https://www.google.com/search?num=40&q=powerwake+ERROR+%22Could+not+determine+the+MAC+address+of%22&oq=powerwake+ERROR+%22Could+not+determine+the+MAC+address+of%22&gs_l=serp.3..0i30k1.17840.20497.0.20801.6.6.0.0.0.0.175.719.0j5.5.0....0...1c.1.64.serp..1.4.596...0i22i30k1.ujqZGpXZuHM
 https://www.google.com/search?num=40&q=sexual+harassment+by+women+arousal&oq=sexual+harassment+by+women+arousal&gs_l=serp.3...33863.34876.0.35110.8.8.0.0.0.0.118.610.7j1.8.0....0...1.1.64.serp..0.0.0.4ozSCo0hdz4
 https://www.google.com/search?num=40&q=simpsons+narrative+techniques&oq=simpsons+narrative+techniques&gs_l=serp.3..33i21k1.6533.7617.0.7755.10.10.0.0.0.0.116.815.6j3.9.0....0...1.1.64.serp..1.9.814...0i22i30k1j33i160k1.e7H37nHyv8M
+https://www.google.com/search?num=40&q=software+Engineering+productivity+research+google&oq=software+Engineering+productivity+research+google&gs_l=psy-ab.3...2154.3299.0.7687.9.8.0.0.0.0.452.1314.2-2j1j1.4.0....0...1.1.64.psy-ab..6.0.0.Q3Y3RHXd0bI
 https://www.google.com/search?num=40&q=software+architect+%22visual+learners%22&oq=software+architect+%22visual+learners%22&gs_l=psy-ab.3..33i160k1.73963.75858.0.76138.3.3.0.0.0.0.152.315.2j1.3.0....0...1.1.64.psy-ab..0.1.152.XcCJ1RyJJAg
 https://www.google.com/search?num=40&q=spoilers+on+tv+screen+adhesive+putty+blutak&oq=spoilers+on+tv+screen+adhesive+putty+blutak&gs_l=serp.3...8217.9450.0.9673.9.9.0.0.0.0.85.706.9.9.0....0...1c.1.64.serp..0.1.79...30i10k1.wT-QQyXJgrs
 https://www.google.com/search?num=40&q=strategic+alliances+between+websites+link+exchange&oq=strategic+alliances+between+websites+link+exchange&gs_l=serp.3...12108.14755.0.14979.14.14.0.0.0.0.187.1356.3j9.12.0....0...1c.1.64.serp..2.8.815...33i21k1j33i160k1.yIaY8cCQ7wM
@@ -5012,6 +5032,7 @@ https://www.google.com/search?q=%22fool%27s+market%22+meaning&rlz=1CDGOYI_enUS75
 https://www.google.com/search?q=%22humping+on+your+stereo%22&oq=%22humping+on+your+stereo%22&aqs=chrome..69i57.5701j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22install+ease+components%22&oq=%22install+ease+components%22&aqs=chrome..69i57.3552j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22leads+to+piracy%22&rlz=1CDGOYI_enUS590US590&oq=%22leads+to+piracy%22&aqs=chrome..69i57j0l3.14024j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=%22need+something+to+feel+inferior%22&oq=%22need+something+to+feel+inferior%22&aqs=chrome..69i57.7676j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=%22round+up%22+scrum+estimate&oq=%22round+up%22+scrum+estimate&aqs=chrome..69i57.7081j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22sexy+harassment%22&oq=%22sexy+harassment%22&aqs=chrome..69i57.2843j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22spring+framework%22+%22can%27t+make+heads+or+tails%22&oq=%22spring+framework%22+%22can%27t+make+heads+or+tails%22&aqs=chrome..69i57.8679j0j7&sourceid=chrome&ie=UTF-8
@@ -5049,9 +5070,11 @@ https://www.google.com/search?q=answers.com+sucks&oq=answers.com+sucks&aqs=chrom
 https://www.google.com/search?q=antacid&oq=antacid&aqs=chrome..69i57.3425j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=anti+elitist&oq=anti+elitist&aqs=chrome..69i57j0l5.3757j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=apache+proxy+virtualhost&rlz=1CDGOYI_enUS590US590&oq=apache+proxy+virtua&aqs=chrome.1.69i57j0l3.7572j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=api+gateway+vs+route+53&oq=api+gateway+vs+route+53&aqs=chrome..69i57.4339j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=apologist&rlz=1CDGOYI_enUS590US590&oq=apologist&aqs=chrome..69i57j0j5j0.6652j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=appearance+bond&rlz=1CDGOYI_enUS590US590&oq=appearance+bond&aqs=chrome..69i57j0l3.12883j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=append+only+database&rlz=1CDGOYI_enUS590US590&oq=append+only+&aqs=chrome.1.69i57j0l3.4746j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=append+only+file+system&oq=append+only+file+system&aqs=chrome..69i57j0.792j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=apple+china+wto+2001&oq=apple+china+wto+2001&aqs=chrome..69i57j69i64.9763j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=are+c%23+executables+native&rlz=1CDGOYI_enUS590US590&oq=are+c%23+executables+native&aqs=chrome..69i57.16278j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=are+etfs+subject+to+inheritance+tax&rlz=1CDGOYI_enUS590US590&oq=are+etfs+subject+to+inheritance+tax&aqs=chrome..69i57.17336j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5075,6 +5098,8 @@ https://www.google.com/search?q=australia+documentary+bbc&rlz=1CDGOYI_enUS590US5
 https://www.google.com/search?q=autism+auditory+processing&rlz=1CDGOYI_enUS750US750&oq=autism+audi&aqs=chrome.1.69i57j0l3.6867j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=autism+mommys+boy&rlz=1CDGOYI_enUS590US590&oq=autism+mommys+boy&aqs=chrome..69i57.14737j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=automate+repetitive+workflows&oq=automate+repetitive+workflows&aqs=chrome..69i57j69i60j69i65l3j69i61.4326j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+%22unix+philosophy%22&oq=aws+%22unix+philosophy%22&aqs=chrome..69i57.4222j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+microservices&oq=aws+microserv&aqs=chrome.0.0j69i57j0l4.2399j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=aws+shared+dns+server&rlz=1CDGOYI_enUS590US590&oq=aws+shared+dns+server&aqs=chrome..69i57.16315j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=baby+left+on+doorstep&oq=babh+left+on+doo&aqs=chrome.1.69i57j0l5.4046j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=balaji+temple+matrimonial+services&oq=balaji+temple+matri&aqs=chrome.0.0j69i57.3968j0j7&sourceid=chrome&ie=UTF-8
@@ -5222,6 +5247,7 @@ https://www.google.com/search?q=face+morph+into+other+gender&rlz=1CDGOYI_enUS590
 https://www.google.com/search?q=facilitated+play+autism&rlz=1CDGOYI_enUS590US590&oq=facilitated+play&aqs=chrome.1.69i57j0l3.9371j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=family+members+who+don%27t+lock+the+bathroom+door&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=ivn&ei=jpQrWcKdB8aqjwP6nJ-AAg&start=10&sa=N&biw=320&bih=548
 https://www.google.com/search?q=fannie+mae+compliance+underwriting+building+occupancy&oq=fannie+mae+compliance+underwriting+building+occupancy+&aqs=chrome..69i57.12725j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=fearless+nudity&rlz=1CDGOYI_enUS750US750&oq=fearless+nudity&aqs=chrome..69i57.7654j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=felony+vs+misdemeanor&rlz=1CDGOYI_enUS590US590&oq=felony+vs+misde&aqs=chrome.1.69i57j0j5j0.6401j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=female+chin+pointed&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=sivn&ei=5UIWWbWNL4_AjwOs7oW4Dg&start=10&sa=N&biw=320&bih=548
 https://www.google.com/search?q=female+modesty+male+ego&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=548&prmd=isvn&ei=0--4WIefEuv_0gKTyZXYBQ&start=30&sa=N&dpr=2
@@ -5232,6 +5258,7 @@ https://www.google.com/search?q=femininity+vulnerable+delicate+weak&rlz=1CDGOYI_
 https://www.google.com/search?q=fidelity+commission+free+etfs&rlz=1CDGOYI_enUS590US590&oq=fidelity+comi&aqs=chrome.1.69i57j0l2j5.17753j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=final+cut+pro+course+los+angeles&rlz=1CDGOYI_enUS590US590&oq=final+cut+pro+course+los&aqs=chrome.1.69i57j0l3.9894j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=fixed+rate+mortgage+overrated&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=nisv&ei=FY9xWbWXJ6iX0gKiu7rgDQ&start=10&sa=N&biw=375&bih=647
+https://www.google.com/search?q=flight+simulator+iphone&oq=flight+simulator+iphone&aqs=chrome..69i57j0l5.8262j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=foldable+stool+with+wheels&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=sivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjf9LbkmcLQAhVK5mMKHTSHA9MQ_AUICCgC&biw=320&bih=492
 https://www.google.com/search?q=footballers+with+asperger%27s+syndrome&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=inv&ei=EafWWOW3NYOyjwOlxK1A&start=10&sa=N&biw=320&bih=548
 https://www.google.com/search?q=ford+gobike&rlz=1CDGOYI_enUS750US750&oq=ford+gobike&aqs=chrome..69i57j0l3.2813j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5271,6 +5298,7 @@ https://www.google.com/search?q=hilbert+curve&rlz=1CDGOYI_enUS590US590&oq=hilber
 https://www.google.com/search?q=history+of+affiliate+networks&rlz=1CDGOYI_enUS750US750&oq=history+of+affiliate+networks&aqs=chrome..69i57.9092j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=history+of+entertainment&rlz=1CDGOYI_enUS590US590&oq=history+of+enter&aqs=chrome.1.69i57j0l3.7674j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=history+of+mass+distribution&rlz=1CDGOYI_enUS750US750&oq=history+of+mass+distribution&aqs=chrome..69i57.4358j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=history+of+mass+production&oq=history+of+mass+production&aqs=chrome..69i57j69i60j69i65l2j69i59l2.3455j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=hornby+vs+lima&rlz=1CDGOYI_enUS590US590&oq=hornby+vs+lima&aqs=chrome..69i57j0l2.15098j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=how+do+monopolies+become+duopolies&rlz=1CDGOYI_enUS590US590&oq=how+do+monopolies+become+duopolies&aqs=chrome..69i57.13457j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=how+is+redbox+staying+in+business&rlz=1CDGOYI_enUS590US590&oq=how+is+redbox+staying+in+business&aqs=chrome..69i57.23570j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5359,6 +5387,7 @@ https://www.google.com/search?q=low+budget+lawyer&oq=low+budget+lawyer&aqs=chrom
 https://www.google.com/search?q=make+adsense+ads+smaller&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-n932sLnSAhVCyWMKHXElBocQ_AUICSgC&biw=1188&bih=706#imgrc=NHIXpE_y5ZWIsM:
 https://www.google.com/search?q=male+vs+female+cheeks+smoothness&rlz=1CDGOYI_enUS590US590&oq=male+vs+female+cheeks+smoothness&aqs=chrome..69i57.18812j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=managed+executable&rlz=1CDGOYI_enUS590US590&oq=managed+executab&aqs=chrome.1.69i57j0.13212j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
+https://www.google.com/search?q=mark+yourself+safe+%22delusions+of+grandeur%22&oq=mark+yourself+safe+%22delusions+of+grandeur%22&aqs=chrome..69i57.8219j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=market+economy&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&prmd=inbv&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiYlPysgvrQAhXJsVQKHeMIA4gQ_AUICigE
 https://www.google.com/search?q=martyrdom&oq=martyrdom&aqs=chrome..69i57j0l5.2070j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=masala+zone&rlz=1CDGOYI_enUS590US590&oq=masala+zone&aqs=chrome..69i57j0l3.6262j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5436,6 +5465,7 @@ https://www.google.com/search?q=racist+analytics&oq=racist+analytics&aqs=chrome.
 https://www.google.com/search?q=ranieri+resigns+antic+takes+over+again+2000&num=40&espv=2&biw=2203&bih=1030&ei=omCbWI_lHObl0gKqprPwCQ&start=80&sa=N
 https://www.google.com/search?q=rant+blog&oq=rant+blog&aqs=chrome..69i57j0l5.1281j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=ratatat+christmas+carol&rlz=1CDGOYI_enUS590US590&oq=christmas+carol+rata&aqs=chrome.1.69i57j0.9549j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#scso=uid_WCgw1gAMycQKVMPhYA6q_g_0:1072
+https://www.google.com/search?q=read+and+write+amplification&oq=read+and+write+amplification&aqs=chrome..69i57.513j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=recession+%22when+companies+stop+spending%22&rlz=1CDGOYI_enUS750US750&oq=recession+%22when+companies+stop+spending%22&aqs=chrome..69i57.64861j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=record+voicemail+message+from+text&rlz=1CDGOYI_enUS590US590&oq=record+voicemail+message+from+text&aqs=chrome..69i57.26626j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=recursive+regex&rlz=1CDGOYI_enUS590US590&oq=recursive+regex&aqs=chrome..69i57j0l3.5111j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5454,6 +5484,7 @@ https://www.google.com/search?q=salad+is+not+a+meal&oq=salad+is+not+a+meal&aqs=c
 https://www.google.com/search?q=satirepedia&rlz=1CDGOYI_enUS590US590&oq=satirepedia&aqs=chrome..69i57.5919j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=sawtooth+stock+pattern&rlz=1CDGOYI_enUS590US590&oq=sawtooth+stock&aqs=chrome.1.69i57j0l3.13682j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=scala+everything%27s+an+object&rlz=1CDGOYI_enUS590US590&oq=scala+is+everythi&aqs=chrome.2.69i57j0l3.8009j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=scalable+data+structures+heap&oq=scalable+data+structures+heap&aqs=chrome..69i57.5259j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=scarcity+causes+unhappiness&oq=scarcity+causes+unhappiness&aqs=chrome..69i57.5155j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=sciatic+nerve&oq=sciatic+nerve&aqs=chrome..69i57j0l5.5542j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=seattle+girls&rlz=1CDGOYI_enUS590US590&oq=seattle+girls&aqs=chrome..69i57j0j5j0.9116j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
@@ -5465,6 +5496,7 @@ https://www.google.com/search?q=self+blame+as+a+coping+mechanism&oq=self+blame+a
 https://www.google.com/search?q=self+contained+java+application&rlz=1CDGOYI_enUS590US590&oq=self+contained+ja&aqs=chrome.1.69i57j0l3j69i60.7264j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=selling+a+home+that+has+a+fixed+rate+mortgage&oq=selling+a+home+that+has+a+fixed+rate+mortgage&aqs=chrome..69i57.8012j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=sgi+headquarters&oq=sgi+head&aqs=chrome.1.69i57j0l5.5206j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=shaadi+refund&rlz=1CDGOYI_enUS750US750&oq=shaadi+refund&aqs=chrome..69i57.5647j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=shadow+economy&rlz=1CDGOYI_enUS590US590&oq=shadow+economy&aqs=chrome..69i57j0l3.7726j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=shared+aggregation+file+system&rlz=1CDGOYI_enUS750US750&oq=shared+aggregation+file+system&aqs=chrome..69i57.11957j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=short+lived+peaks+stock&rlz=1CDGOYI_enUS590US590&oq=short+lived+peaks+stock&aqs=chrome..69i57.14111j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -6039,6 +6071,7 @@ https://www.maketecheasier.com/portable-apps-for-linux/
 https://www.marketplace.org/2013/08/20/business/whatever-happened-good-old-fashioned-bank-robbery
 https://www.massmutual.com/dividends
 https://www.med.upenn.edu/pan/documents/Aspergerjobs.pdf
+https://www.mediawiki.org/wiki/Talk:Parsoid/Archive#In_Browser_MediaWiki_article_to_HTML_conversion
 https://www.meetup.com/AmericanAngels/events/238036956/
 https://www.meetup.com/Anxiety_Depression_Support_Group/
 https://www.meetup.com/Aptos-Manjushri-Lineage-Buddhist-Group/events/240751661/
@@ -6277,6 +6310,7 @@ https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federe
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/
 https://www.reddit.com/r/AskWomen/comments/17wg9a/when_hugging_a_regular_guy_or_guy_friend_do_you/
+https://www.reddit.com/r/AskWomen/comments/1omvhy/what_was_on_your_thoughts_the_first_time_you/
 https://www.reddit.com/r/AskWomen/comments/2sazii/what_makes_a_guys_ass_attractive_to_women/?st=j6mhwpfe&sh=12cfa8ee
 https://www.reddit.com/r/AskWomen/comments/3imc3r/whats_the_etiquette_for_platonic_cuddling_as_an/
 https://www.reddit.com/r/AskWomen/comments/3y34jz/has_anyone_ever_had_their_bum_pinched/
@@ -6334,6 +6368,7 @@ https://www.roberthalf.com/blog/salaries-and-skills/designing-software-architect
 https://www.roberthalf.com/technology/job/santa-monica-ca/senior-backend-java-developer-direct-hire/43939181?shwAppMsg=true&appMethod=linkedin
 https://www.rottentomatoes.com/top/bestofrt/top_100_romance_movies/
 https://www.rt.com/news/magadan-sorrow-at-world-s-end/
+https://www.safaribooksonline.com/library/view/aws-administration-cookbook/9781787127630/8460bd2a-134b-4555-95a3-df502bff3d09.xhtml
 https://www.safaribooksonline.com/library/view/documentary-storytelling-3rd/9780240812410/
 https://www.sandiegoreader.com/news/2011/jun/01/straight-why-women-scream/
 https://www.sap.com/corporate/en/company/diversity/differently-abled.html
