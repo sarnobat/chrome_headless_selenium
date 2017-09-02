@@ -7922,3 +7922,51 @@ https://theinfosphere.org/The_Simpsons#Futurama.2FThe_Simpsons_Crossovers :: The
 https://www.glamour.com/story/the-12-types-of-crushes-every :: The 12 Types of Crushes Every Guy Will Have | Glamour
 https://www.google.com/search?q=fearless+nudity&rlz=1CDGOYI_enUS750US750&oq=fearless+nudity&aqs=chrome..69i57.7654j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: fearless nudity - Google Search
 https://www.reddit.com/r/AskWomen/comments/1omvhy/what_was_on_your_thoughts_the_first_time_you/ :: What was on your thoughts the first time you showed your boobs to a guy? : AskWomen
+http://clevereconomy.com/ref/t.html :: Last Chance...
+http://qrman.github.io/posts/2017/02/09/pipeline-pattern-plumber-quest :: Pipeline pattern - Plumber quest
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsUs1qXCDvQ__lGbEdJO2Vv-Bp--CIqVPNq-vdCpxqVsLjYgZ :: images (205?246)
+https://www.ibm.com/developerworks/library/j-java8idioms6/index.html :: Java 8 idioms: Why the perfect lambda expression is just one line
+https://www.google.com/search?q=microservice+deployment+painless&rlz=1CDGOYI_enUS750US750&oq=microservice+deployment+painless&aqs=chrome..69i57.8764j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: microservice deployment painless - Google Search
+https://www.google.com/search?q=microservice+deployment+patterns&rlz=1CDGOYI_enUS750US750&oq=microservice+deployment&aqs=chrome.1.69i57j0l3.9846j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: microservice deployment patterns - Google Search
+http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf :: (Could not determine)
+https://github.com/jch/html-pipeline/blob/master/README.md#usage :: html-pipeline/README.md at master ? jch/html-pipeline ? GitHub
+https://stackoverflow.com/questions/40715378/sort-big-files-in-aws-s3 :: sorting - Sort big files in aws S3 - Stack Overflow
+https://www.google.com/search?q=java+sort+huge+file&rlz=1CDGOYI_enUS750US750&oq=java+sort+hige+&aqs=chrome.1.69i57j0.6525j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: java sort huge file - Google Search
+https://ux.stackexchange.com/questions/89049/what-makes-reverse-scrolling-a-sign-of-bad-ui/111420#111420 :: website design - What makes Reverse scrolling a sign of Bad UI? - User Experience Stack Exchange
+https://www.lifewire.com/how-to-change-scrolling-direction-on-mac-2260835 :: Choose the Scrolling on Your Mac: Natural or Unnatural?
+http://kottke.org/05/04/pick-two :: Pick two
+http://assoc.tumblr.com/post/84115533294/microservices-and-unix-philosophy :: Microservices and Unix Philosophy
+https://github.com/cscott/instaview :: GitHub - cscott/instaview: A Mediawiki to HTML converter in JavaScript; packaged for node and volo.
+https://github.com/tanin47/wiky.js :: GitHub - tanin47/wiky.js: Wiky.js - a simple Javascript library to convert Wiki MarkUp language to HTML
+https://serverless.zone/everything-is-an-https-interface-ead2e888b31 :: Everything is an HTTPS interface ? Serverless Zone
+https://www.google.com/search?num=40&q=convert+mediawiki+to+html+using+javascript&oq=convert+mediawiki+to+html+using+javascript&gs_l=psy-ab.3...7696.12146.0.12290.17.14.0.0.0.0.475.1555.2-1j1j2.4.0....0...1.1.64.psy-ab..15.0.0.8f9YH9OLHxE :: convert mediawiki to html using javascript - Google Search
+https://stackoverflow.com/questions/4950725/how-do-i-get-git-to-show-me-which-branches-are-tracking-what :: how do I get git to show me which branches are tracking what? - Stack Overflow
+https://stackoverflow.com/questions/520650/make-an-existing-git-branch-track-a-remote-branch :: Make an existing Git branch track a remote branch? - Stack Overflow
+https://www.google.com/search?q=merge+down+guesswork&oq=merge+down+guesswork&aqs=chrome..69i57.3437j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: merge down guesswork - Google Search
+https://www.google.com/search?q=why+the+market+falls+during+a+war&oq=why+the+market+falls+during+a+war&aqs=chrome..69i57.2527j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: why the market falls during a war - Google Search
+https://www.google.com/finance?q=CURRENCY%3ABTC&ei=obWlWbGQH8KI2Aadg73YBA :: Bitcoin: CURRENCY:BTC quotes &amp; news - Google Finance
+http://www.investopedia.com/news/could-litecoin-be-better-investment-bitcoin/ :: Could Litecoin Be a Better Investment Than Bitcoin? | Investopedia
+http://www.urbandictionary.com/define.php?term=popping%20pills :: (timeout)
+http://www.wikihow.com/Get-Rid-of-an-Inferiority-Complex :: How to Get Rid of an Inferiority Complex (with Pictures) - wikiHow
+https://en.wikipedia.org/wiki/Biological_functions_of_nitric_oxide#Penile_erection :: Biological functions of nitric oxide - Wikipedia
+https://forum.bodybuilding.com/showthread.php?t=120805081 ::  Nitric Oxide and erection problems - Bodybuilding.com Forums
+http://dictionary.cambridge.org/us/dictionary/english/shoot-the-breeze :: shoot the breeze Definition in the Cambridge English Dictionary
+http://markets.businessinsider.com/news/stocks/amazon-stock-price-falls-below-1000-2017-7-1002219551 :: Amazon falls below $1,000 (AMZN) | 07/31/17 | Markets Insider
+http://moneybadger.stocktwits.com/why-is-bitcoin-so-expensive/ :: Why is bitcoin so expensive right now? - Money Badger
+http://placetobenation.com/andre-the-giants-lost-1991-comeback/ :: Andre the Giant?s Lost 1991 Comeback | Place to Be Nation | The Only Place to Be in Your Pop Culture World
+http://wiki.c2.com/?CategorySimplification :: Category Simplification
+http://wiki.c2.com/?CollectionOrientedProgramming :: Collection Oriented Programming
+http://wiki.c2.com/?SimplicityFollowsComplexity :: Simplicity Follows Complexity
+http://www.aetna.com/cpb/medical/data/600_699/0604.html :: Infrared Therapy
+http://www.express.co.uk/life-style/health/847394/diabetes-news-chocolate-cocoa-compound-stave-off-disease :: Diabetes news: Could eating CHOCOLATE help stave off the condition? | Health | Life &amp; Style | Express.co.uk
+http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html?showComment=1504308859177 :: Lambdas are Glue Code | agiledeveloper
+http://www.bdfutbol.com/es/t/t1998-9967.html :: Plantilla del Atl?tico de Madrid B 1998-99
+http://www.urbandictionary.com/define.php?term=poo :: Urban Dictionary: poo
+http://www.safefunds.com/ :: Escrow Service Online, Internet Escrow Safe and Secure - Safefunds.com - Paymaster Service Worldwide.
+https://en.wikipedia.org/wiki/Digital_microfluidics :: Digital microfluidics - Wikipedia
+https://www.google.com/search?num=40&q=%22immune+to+praise%22&spell=1&sa=X&ved=0ahUKEwjdl7zcxv3VAhVR8mMKHYHICf0QvwUIJSgA&biw=1520&bih=611 :: "immune to praise" - Google Search
+https://www.google.com/search?num=40&q=inferiority+complex+towards+women&oq=inferiority+complex+towards+women&gs_l=psy-ab.3...15927.16329.0.16528.5.5.0.0.0.0.171.497.3j2.5.0....0...1.1.64.psy-ab..2.0.0.Ei-YSeWBv3M :: inferiority complex towards women - Google Search
+https://www.google.com/search?num=40&q=nitric+oxide+erection+supplement&oq=nitric+oxide+erection+supplement&gs_l=psy-ab.3..0i22i30k1l2.1762.3140.0.3312.10.8.0.0.0.0.164.426.0j3.3.0....0...1.1.64.psy-ab..7.3.426.lgrwXhkdKY0 :: nitric oxide erection supplement - Google Search
+https://www.google.com/search?q=are+nitric+oxide+supplements+safe&oq=are+nitric+o&aqs=chrome.0.0j69i57j0l4.3333j0j7&sourceid=chrome&ie=UTF-8 :: are nitric oxide supplements safe - Google Search
+https://www.google.com/search?q=nitric+oxide+tolerance+risk&oq=nitric+oxide+tolerance+risk&aqs=chrome..69i57.7152j1j7&sourceid=chrome&ie=UTF-8 :: nitric oxide tolerance risk - Google Search
+https://www.google.com/search?q=escrow+accounts+for+online+purchases&oq=escrow+online+purchases&aqs=chrome.2.69i57j0l2.4293j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 :: escrow accounts for online purchases - Google Search
