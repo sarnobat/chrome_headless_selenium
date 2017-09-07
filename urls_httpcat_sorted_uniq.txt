@@ -571,6 +571,7 @@ http://madeinhisimage.org/fashionandthefemininegenius/
 http://magazine.foxnews.com/love/7-traits-make-men-really-attracted-woman
 http://mahatma-t-rex.blogspot.com/2015_07_01_archive.html
 http://manpages.ubuntu.com/manpages/precise/man5/mailname.5.html
+http://manpages.ubuntu.com/manpages/trusty/man1/tcpcat.1.html
 http://manpages.ubuntu.com/manpages/wily/man1/grc.1.html
 http://manpages.ubuntu.com/manpages/wily/man1/powerwake.1.html
 http://manpages.ubuntu.com/manpages/xenial/man1/jq.1.html
@@ -807,6 +808,7 @@ http://sdehumo.net/blogs/historia/archive/2008/01/31/la-liga-perdida-de-alfonso-
 http://sdehumo.net/files/folders/cuentas/default.aspx?PageIndex=3
 http://sdehumo.net/files/folders/cuentas/rss.aspx
 http://sdtimes.com/coding-autism-creates-program-teach-adults-disorder-fundamentals-development/
+http://search.cpan.org/~reatmon/Net-HTTPServer-1.1.1/lib/Net/HTTPServer.pm
 http://search.cpan.org/~tels/Graph-Easy-0.64/lib/Graph/Easy/Parser.pm
 http://search.informit.com.au/documentSummary;dn=953566030047281;res=IELAPA
 http://searchenterpriselinux.techtarget.com/definition/shell
@@ -861,6 +863,7 @@ http://smedleyfinancial.com/wp/impact-of-war-on-stock-markets/
 http://smmry.com/
 http://snipplr.com/view/23131/
 http://soccer-rumours.com/
+http://socketo.me/docs/http
 http://softwareengineering.stackexchange.com/questions/100685/making-money-with-open-source-as-a-developer
 http://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms
 http://softwareengineering.stackexchange.com/questions/304878/what-is-the-exact-ingenuity-of-unix-pipe/304881
@@ -1276,6 +1279,7 @@ http://timesofindia.indiatimes.com/city/kochi/Court-order-must-for-correcting-DO
 http://timesofindia.indiatimes.com/life-style/relationships/love-sex/What-your-social-networking-photo-says-about-you/articleshow/15073979.cms?from=mdr
 http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html
 http://tldp.org/LDP/abs/abs-guide.pdf
+http://todoatleti.com/ampliado-los-16-parecidos-razonables-de-las-figuras-y-leyendas-del-atletico-de-madrid/
 http://toffeeweb.com/season/09-10/comment/fan/RedBlueGreenOrange.pdf
 http://torrentking.eu/movie-2004/new-york-minute-torrents/
 http://transom.org/2014/brief-history-of-documentary-forms/#nanook
@@ -1583,6 +1587,7 @@ http://www.bbc.com/sport/football/38142966
 http://www.bbc.com/sport/football/38599231
 http://www.bbc.com/sport/football/38707562
 http://www.bbc.com/sport/football/40809596
+http://www.bbc.com/sport/football/41167743
 http://www.bbc.com/sport/live/football/40699194
 http://www.bbc.com/sport/rugby-league/36109359
 http://www.bbcamerica.com/anglophenia/2011/09/frasers-phrases-british-nerd-slang-swots-and-boffins
@@ -2698,6 +2703,7 @@ http://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/11018841/Why-
 http://www.telegraph.co.uk/film/concussion/is-rugby-or-american-football-more-dangerous/
 http://www.telegraph.co.uk/finance/businessclub/12108314/Revealed-the-50-most-creative-companies-in-England.html
 http://www.telegraph.co.uk/finance/property/11649555/Soho-is-the-new-Shoreditch-this-map-shows-where-startups-are-looking-for-workspace.html
+http://www.telegraph.co.uk/foodanddrink/11118956/Surprising-food-thats-not-suitable-for-vegetarians.html
 http://www.telegraph.co.uk/football/0/footballs-greatest-one-club-men/
 http://www.telegraph.co.uk/football/2016/10/20/the-rise-and-fall-of-ac-milan-and-inter---why-both-clubs-must-di/
 http://www.telegraph.co.uk/football/2017/05/26/koke-breaks-tears-signing-atletico-madrid-contract-2024/
@@ -2824,6 +2830,7 @@ http://www.urbandictionary.com/define.php?term=Mainstream
 http://www.urbandictionary.com/define.php?term=Moral%20High%20Ground
 http://www.urbandictionary.com/define.php?term=Selfie
 http://www.urbandictionary.com/define.php?term=Shimmy
+http://www.urbandictionary.com/define.php?term=Smellebration
 http://www.urbandictionary.com/define.php?term=Toad%20Licking
 http://www.urbandictionary.com/define.php?term=Whale%20Tail
 http://www.urbandictionary.com/define.php?term=a%20coin%20purse
@@ -3490,6 +3497,7 @@ https://en.wikipedia.org/wiki/Friedman_doctrine
 https://en.wikipedia.org/wiki/Full-reserve_banking
 https://en.wikipedia.org/wiki/Function-level_programming
 https://en.wikipedia.org/wiki/Geek
+https://en.wikipedia.org/wiki/Gerald_of_Wales
 https://en.wikipedia.org/wiki/Getty_(Unix)
 https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California)
 https://en.wikipedia.org/wiki/Gold_standard
@@ -3682,6 +3690,8 @@ https://en.wikiversity.org/wiki/Video_journalism/Telling_Stories
 https://en.wiktionary.org/wiki/pygophilia
 https://en.wiktionary.org/wiki/turn_of_phrase
 https://en.wiktionary.org/wiki/unplayable
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8d6EgnOpWUDzfp-PkCnveVkkcppmglyQGF_We7czUhG_piObS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qKHJ756Z9mhr0Cslytq1GeX_AP7cdsr4CtyXzr_H--96Kjtz
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsUs1qXCDvQ__lGbEdJO2Vv-Bp--CIqVPNq-vdCpxqVsLjYgZ
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgCJzirRfZHHiDI0k_NVcxkD4vhAvJHwjHXbNiuWm8ypy19JzI
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHecARhE6z65hPo4rMTBKIakKeETJJDq0FZp5kCujgyLy6A-chrg
@@ -3732,6 +3742,7 @@ https://gangaji.org/radio/view/?id=32
 https://gethuman.com/phone-number/Google
 https://gist.github.com/RobSis/50af3d3ef8e747a0bd18
 https://gist.github.com/alonisser/11192482
+https://gist.github.com/bradmontgomery/2219997
 https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90
 https://gist.github.com/ncerny/b1b1a8ddde51d6e32576
 https://gist.github.com/netgusto/931085fc3673b69dd15a1763784307c5
@@ -3793,9 +3804,11 @@ https://github.com/gousiosg/java-callgraph/blob/master/pom.xml
 https://github.com/hemanth/unix-philosophy
 https://github.com/huydx/facy
 https://github.com/imkrimerman/javascript-ebooks/blob/master/%5BFunctional%20JavaScript%20Introducing%20Functional%20Programming%20with%20UnderscoreJS%201st%20Edition%20by%20Michael%20Fogus%20-%202013%5D.pdf
+https://github.com/indexzero/http-server/blob/master/README.md
 https://github.com/ironcamel/Graph-Easy
 https://github.com/ironcamel/Graph-Easy/tree/master/t/txt
 https://github.com/ironcamel/Graph-Easy/wiki
+https://github.com/jakubroztocil/httpcat/blob/master/README.md
 https://github.com/jareds/docker-taskd
 https://github.com/jaxbot/browserlink.vim
 https://github.com/jch/html-pipeline/blob/master/README.md#usage
@@ -3842,6 +3855,7 @@ https://github.com/tools4j/unix4j
 https://github.com/tslocum/TinyIB
 https://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md
 https://github.com/unlhcc/autofs
+https://github.com/ymattw/coderev
 https://github.com/yogthos/json-html
 https://gitlab.com/gnachman/iterm2/issues/1276
 https://google.github.io/guava/releases/19.0/api/docs/index.html?com/google/common/primitives/Booleans.html
@@ -4125,6 +4139,7 @@ https://seattle.craigslist.org/search/est/apa
 https://security.stackexchange.com/questions/30843/how-to-store-a-private-rsa-key-for-an-application
 https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-language-really
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
+https://serverfault.com/questions/24523/meaning-of-directories-on-unix-and-unix-like-systems
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
 https://serverfault.com/questions/363670/rsync-avzhp-follows-hardlinks-instead-of-copying-them-as-hardlinks
 https://serverfault.com/questions/386210/receive-emails-on-amazon-ec2-server
@@ -4204,6 +4219,7 @@ https://stackoverflow.com/questions/1575762/orm-technologies-vs-jdbc
 https://stackoverflow.com/questions/16296753/can-you-run-gui-apps-in-a-docker-container
 https://stackoverflow.com/questions/16299603/mysql-utilities-my-cnf-option-file
 https://stackoverflow.com/questions/1634271/url-encoding-the-space-character-or-20
+https://stackoverflow.com/questions/1765311/how-to-view-files-in-binary-in-the-terminal
 https://stackoverflow.com/questions/17836806/tomcat-websocket-servlet-listening-port
 https://stackoverflow.com/questions/17969436/java-regex-capturing-groups
 https://stackoverflow.com/questions/18183296/how-can-i-add-a-vertical-scrollbar-to-my-div-automatically
@@ -4219,6 +4235,8 @@ https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-w
 https://stackoverflow.com/questions/23735149/docker-image-vs-container/45598098#45598098
 https://stackoverflow.com/questions/246801/how-can-you-encode-a-string-to-base64-in-javascript
 https://stackoverflow.com/questions/2472376/how-do-i-execute-a-program-using-maven
+https://stackoverflow.com/questions/2490351/detecting-a-symlink-in-java
+https://stackoverflow.com/questions/2500436/how-does-cat-eof-work-in-bash
 https://stackoverflow.com/questions/25084288/keep-ssh-session-alive
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/255898/how-to-iterate-over-arguments-in-a-bash-script
@@ -4272,6 +4290,7 @@ https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-lo
 https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45700299#45700299
 https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45703315#45703315
 https://stackoverflow.com/questions/45928842/multiple-volumes-to-single-target-directory
+https://stackoverflow.com/questions/46082466/grep-f-with-a-here-document
 https://stackoverflow.com/questions/4642681/simple-way-to-display-data-in-a-txt-file-on-a-webpage
 https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-mediumtest-and-largetest-annotations-in-an
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
@@ -4282,6 +4301,7 @@ https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/6161823/dd-how-to-calculate-optimal-blocksize
+https://stackoverflow.com/questions/6185994/unix-find-list-of-files-from-stdin
 https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 https://stackoverflow.com/questions/6603015/check-whether-a-string-matches-a-regex
 https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more
@@ -4312,6 +4332,7 @@ https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/14762/execute-applescript-without-open-the-editor
 https://superuser.com/questions/187106/extract-save-a-mail-attachment-using-bash
 https://superuser.com/questions/194514/software-tools-for-cleaning-up-messy-data-flat-files-excel-etc-semi-automatic
+https://superuser.com/questions/248921/serving-http-requests-with-tcpserver
 https://superuser.com/questions/319859/remotely-turning-on-or-rebooting-a-frozen-computer
 https://superuser.com/questions/364152/why-is-everything-is-a-file-unique-to-the-unix-operating-systems
 https://superuser.com/questions/401926/how-to-get-shiftarrows-and-ctrlarrows-working-in-vim-in-tmux
@@ -4480,6 +4501,7 @@ https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile
 https://unix.stackexchange.com/questions/378552/bash-use-alternate-dotfile?noredirect=1#comment673130_378552
 https://unix.stackexchange.com/questions/378604/bind-to-string-with-escaped-double-quotes
 https://unix.stackexchange.com/questions/55318/watchdog-script-to-keep-an-application-running
+https://unix.stackexchange.com/questions/57938/generic-http-server-that-just-dumps-post-requests#
 https://unix.stackexchange.com/questions/65191/has-the-unix-philosophy-been-abandoned-in-web-application-design
 https://unix.stackexchange.com/questions/881/ensure-a-process-is-always-running
 https://unsolved.com/?season=season-5-amazon-Dennis%20Farina
@@ -4514,6 +4536,7 @@ https://wiki.debian.org/DebianRepository
 https://wiki.eclipse.org/EASE/Scripts
 https://wiki.eclipse.org/Eclipse_Monkey/Overview
 https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty#Setting_a_Web_Application_Context
+https://wiki.python.org/moin/BaseHttpServer
 https://willowtreeapps.com/ideas/the-end-of-apps-multimodal-ui-and-the-future-of-mobile
 https://women2.com/stories/2012/06/22/why-there-are-no-women-on-stack-overflow-or-are-there
 https://workaround.org/
@@ -6465,6 +6488,7 @@ https://www.reddit.com/r/shittyaskscience/comments/11xekg/is_asparagus_syndrome_
 https://www.reddit.com/r/television/comments/6m981d/cnns_series_the_nineties_starts_tonight_and_the/
 https://www.reddit.com/r/todayilearned/comments/1mdkxz/til_american_pronunciation_is_actually_closer_to/
 https://www.reddit.com/r/todayilearned/comments/4j9fj7/til_that_there_are_about_16_million_brazilians_of/
+https://www.reddit.com/r/vegetarian/comments/2kvepq/veggie_wine_gums/
 https://www.reddit.com/r/wheredidthesodago/comments/26g7yd/concerned_your_breasts_dont_jiggle_enough_make/
 https://www.reddit.com/r/youtubetitties/
 https://www.reference.com/art-literature/fox-sports-2-available-comcast-4c599f052d7b378e

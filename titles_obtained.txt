@@ -8038,3 +8038,68 @@ https://www.reddit.com/r/atletico/comments/6xhatu/ive_just_noticed_that_ratletic
 https://dzone.com/articles/jarchitect-a-review?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 https://imgtaxi.com/images/big/2016/10/05/57f4e8c471f98.jpeg
 https://forum.bodybuilding.com/showthread.php?t=165577971
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8d6EgnOpWUDzfp-PkCnveVkkcppmglyQGF_We7czUhG_piObS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qKHJ756Z9mhr0Cslytq1GeX_AP7cdsr4CtyXzr_H--96Kjtz
+http://www.urbandictionary.com/define.php?term=Smellebration
+http://todoatleti.com/ampliado-los-16-parecidos-razonables-de-las-figuras-y-leyendas-del-atletico-de-madrid/
+http://www.bbc.com/sport/football/41167743
+https://stackoverflow.com/questions/1765311/how-to-view-files-in-binary-in-the-terminal
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11984
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shhttp://manpages.ubuntu.com/manpages/trusty/man1/tcpcat.1.html
+http://search.cpan.org/~reatmon/Net-HTTPServer-1.1.1/lib/Net/HTTPServer.pm
+http://socketo.me/docs/http
+https://gist.github.com/bradmontgomery/2219997
+https://github.com/indexzero/http-server/blob/master/README.md
+http://manpages.ubuntu.com/manpages/trusty/man1/tcpcat.1.html
+https://github.com/jakubroztocil/httpcat/blob/master/README.md
+https://superuser.com/questions/248921/serving-http-requests-with-tcpserver
+https://unix.stackexchange.com/questions/57938/generic-http-server-that-just-dumps-post-requests#
+https://wiki.python.org/moin/BaseHttpServer
+https://serverfault.com/questions/24523/meaning-of-directories-on-unix-and-unix-like-systems
+https://github.com/ymattw/coderev
+https://stackoverflow.com/questions/2500436/how-does-cat-eof-work-in-bash
+https://stackoverflow.com/questions/46082466/grep-f-with-a-here-document
+https://stackoverflow.com/questions/6185994/unix-find-list-of-files-from-stdin
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   8666
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   14146
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   19911
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+http://www.telegraph.co.uk/foodanddrink/11118956/Surprising-food-thats-not-suitable-for-vegetarians.html
+https://en.wikipedia.org/wiki/Gerald_of_Wales
+https://www.reddit.com/r/vegetarian/comments/2kvepq/veggie_wine_gums/
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   4705
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   4969
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   5600
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   7020
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   8095
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   8774
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+https://stackoverflow.com/questions/2490351/detecting-a-symlink-in-java
