@@ -8103,3 +8103,12 @@ OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
 Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
 https://stackoverflow.com/questions/2490351/detecting-a-symlink-in-java :: unix - Detecting a symlink in Java - Stack Overflow
+http://www.investopedia.com/articles/investing/010416/amazons-big-branding-problem.asp :: Amazon's Big Branding Problem (AMZN) | Investopedia
+https://www.google.com/search?q=how+to+steal+market+share+from+a+giant&rlz=1CDGOYI_enUS750US750&oq=how+to+steal+market+share+from+a+giant&aqs=chrome..69i57.24358j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8 :: how to steal market share from a giant - Google Search
+https://en.wikipedia.org/wiki/Pad_thai :: Pad thai - Wikipedia
+https://www.google.com/search?q=convert+patch+file+to+side+by+side&oq=convert+patch+file+to+side+by+side&aqs=chrome..69i57.10878j0j7&sourceid=chrome&ie=UTF-8 :: convert patch file to side by side - Google Search
+https://www.reddit.com/r/AskUK/comments/3w86ce/have_you_guys_ever_heard_the_word_fluff_used/ :: Have you guys ever heard the word 'fluff' used instead of 'fart'? : AskUK
+http://www.zebr.co/ :: Reframe your thinking around autism, by Holly Bridges - Zebr - Official Site
+http://delivery.acm.org/10.1145/2860000/2854146/p78-potvin.pdf?ip=216.38.137.60&id=2854146&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=805918167&CFTOKEN=77126081&__acm__=1504650497_4bf4a7d1a65a07b38a9d98aeb4fc2e24 :: Error
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext :: Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
+https://stackoverflow.com/questions/46082466/grep-f-with-a-here-document?noredirect=1#46085048 :: heredoc - grep -f with a here document - Stack Overflow
