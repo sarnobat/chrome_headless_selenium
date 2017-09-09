@@ -8112,3 +8112,30 @@ http://www.zebr.co/ :: Reframe your thinking around autism, by Holly Bridges - Z
 http://delivery.acm.org/10.1145/2860000/2854146/p78-potvin.pdf?ip=216.38.137.60&id=2854146&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=805918167&CFTOKEN=77126081&__acm__=1504650497_4bf4a7d1a65a07b38a9d98aeb4fc2e24 :: Error
 https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext :: Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
 https://stackoverflow.com/questions/46082466/grep-f-with-a-here-document?noredirect=1#46085048 :: heredoc - grep -f with a here document - Stack Overflow
+http://www.dictionary.com/browse/every?r=75&src=ref&ch=dic :: Every | Define Every at Dictionary.com
+http://www.dictionary.com/browse/this?r=75&src=ref&ch=dic :: This | Define This at Dictionary.com
+https://stackoverflow.com/questions/5189914/setting-system-property :: java - setting system property - Stack Overflow
+https://stackoverflow.com/questions/22145590/underscore-in-package-name-in-java-is-it-bad :: naming conventions - Underscore in package name in Java - is it bad? - Stack Overflow
+https://en.wikipedia.org/wiki/8-bit_clean :: 8-bit clean - Wikipedia
+https://en.wikipedia.org/wiki/Graphic_character :: Graphic character - Wikipedia
+https://stackoverflow.com/questions/3538021/why-do-we-use-base64/46125341#46125341 :: algorithm - Why do we use Base64? - Stack Overflow
+https://en.wikipedia.org/wiki/UTF-7 :: UTF-7 - Wikipedia
+https://stackoverflow.com/questions/129207/getting-spring-application-context :: java - Getting Spring Application Context - Stack Overflow
+https://stackoverflow.com/questions/2513484/is-there-a-way-to-specify-a-default-property-value-in-spring-xml :: java - Is there a way to specify a default property value in Spring XML? - Stack Overflow
+https://stackoverflow.com/questions/33957758/maven-why-can-i-run-mvn-checkstylecheckstyle-without-pom-xml-config :: Maven: Why can I run mvn checkstyle:checkstyle without pom.xml config? - Stack Overflow
+https://stackoverflow.com/questions/36860927/run-a-custom-maven-goal-without-pom-xml :: Run a custom Maven goal without pom.xml - Stack Overflow
+https://stackoverflow.com/questions/38146703/use-rsync-for-backup-without-overwrite/46123631#46123631 :: versioning - Use rsync for backup without overwrite - Stack Overflow
+https://stackoverflow.com/questions/574594/how-can-i-create-an-executable-jar-with-dependencies-using-maven :: java - How can I create an executable JAR with dependencies using Maven? - Stack Overflow
+https://ux.stackexchange.com/questions/28810/are-inner-scrollbars-a-bad-ux :: website design - Are inner scrollbars a bad ux? - User Experience Stack Exchange
+https://ux.stackexchange.com/questions/28810/are-inner-scrollbars-a-bad-ux/111673#111673 :: website design - Are inner scrollbars a bad ux? - User Experience Stack Exchange
+https://ux.stackexchange.com/questions/16207/is-scrolling-in-reverse-a-horrible-idea/111674#111674 :: Is "scrolling in reverse" a horrible idea? - User Experience Stack Exchange
+https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/ :: HowTo Format Date For Display or Use In a Shell Script ? nixCraft
+https://stackoverflow.com/questions/43366254/invalid-end-header-bad-central-directory-size-zipexception :: java - invalid END header (bad central directory size) zipException - Stack Overflow
+http://blog.sfgate.com/pets/2009/03/25/science-says-its-so-we-really-do-look-like-our-pets/ :: CmfThirdPartyHeader - SFGate
+http://www.nbcnews.com/id/4639202/ :: Dog owners really do look like their pets - Health - Pet health | NBC News
+https://www.pinterest.com/pin/484137028675929401/ :: Science says it?s so: we really do look like our pets | Pet dogs, Dog and Animal
+http://www.businessinsider.com/steve-jobs-destroyed-the-follow-your-passion-myth-2015-3 ::  Steve Jobs destroyed the 'follow your passion' myth just before he died - Business Insider
+http://www.huffingtonpost.com/todd-kestin/the-passion-myth-why-teen_b_6503226.html :: The Passion Myth: Why Teens Struggle to Find Their Purpose in Life | HuffPost
+http://www.lifehack.org/articles/lifestyle/why-finding-your-passion-is-a-myth.html :: Why Finding Your Passion is a Myth
+https://www.google.com/search?q=the+passion+myth&oq=the+passion+myth&aqs=chrome..69i57j69i64l3.2939j0j7&sourceid=chrome&ie=UTF-8 :: the passion myth - Google Search
+https://answers.yahoo.com/question/index?qid=1006051630560 :: is labial hypertrophy common among us women ? | Yahoo Answers

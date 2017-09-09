@@ -153,6 +153,7 @@ http://blog.peerform.com/top-ten-most-socialist-countries-in-the-world/
 http://blog.rtve.es/.a/6a014e6089cbd5970c0162fbfbbabd970d-pi
 http://blog.sfgate.com/lshumaker/2011/09/07/where-can-adults-with-autism-and-aspergers-connect-aascend/
 http://blog.sfgate.com/lshumaker/2011/11/29/looking-for-work-join-the-job-club-for-adults-on-the-autistic-spectrum/
+http://blog.sfgate.com/pets/2009/03/25/science-says-its-so-we-really-do-look-like-our-pets/
 http://blog.shaadi.com/truths-about-men/?evt_ref=bWFpbGVyLW90aGVy
 http://blog.sleptons.com/2015/01/functional-programming-d3js-good-example.html
 http://blog.sleptons.com/2015/01/functional-programming-d3js-good-example.html?m=1
@@ -1626,6 +1627,7 @@ http://www.businessdictionary.com/definition/digital-storefront.html
 http://www.businessinsider.com/microsoft-updates-hotmail-but-why-2011-10
 http://www.businessinsider.com/podshare-is-like-a-hostel-and-hotel-combined-2016-5/#beck-and-her-team-of-residential-advisors-who-manage-each-location-call-their-guests-podestrians-4
 http://www.businessinsider.com/startup-hires-people-on-autism-spectrum-2014-7
+http://www.businessinsider.com/steve-jobs-destroyed-the-follow-your-passion-myth-2015-3
 http://www.businessinsider.com/this-heat-map-shows-a-fundamental-problem-of-working-at-google-2015-6
 http://www.businessinsider.com/twenty-two-spanish-soccer-clubs-have-entered-bankruptcy-protection-2011-7
 http://www.businessinsider.com/us-city-economies-ranking-mar-2015-3?op=1/#-seattle-tacoma-bellevue-washington-1
@@ -1868,6 +1870,7 @@ http://www.dictionary.com/browse/bigfoot
 http://www.dictionary.com/browse/curate
 http://www.dictionary.com/browse/didactic
 http://www.dictionary.com/browse/drivel
+http://www.dictionary.com/browse/every?r=75&src=ref&ch=dic
 http://www.dictionary.com/browse/extraneous
 http://www.dictionary.com/browse/facade
 http://www.dictionary.com/browse/fiefdom
@@ -1882,6 +1885,7 @@ http://www.dictionary.com/browse/rite-of-passage
 http://www.dictionary.com/browse/sadism
 http://www.dictionary.com/browse/schmuck
 http://www.dictionary.com/browse/solitary-confinement
+http://www.dictionary.com/browse/this?r=75&src=ref&ch=dic
 http://www.dictionary.com/browse/whorehouse
 http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/
 http://www.digitaldesire.com/?nats=ODQyMy4xMDA1MS4xLjEuMC4wLjAuMC4w
@@ -2111,6 +2115,7 @@ http://www.huffingtonpost.com/bob-miglani/making-your-own-luck_b_3988785.html
 http://www.huffingtonpost.com/harlan-green/the-bully-mentality_b_5147056.html
 http://www.huffingtonpost.com/kate-peterson/gender-reveals-stop-revea_b_8224554.html
 http://www.huffingtonpost.com/the-establishment/im-33-and-have-never-been-kissed_b_9492508.html
+http://www.huffingtonpost.com/todd-kestin/the-passion-myth-why-teen_b_6503226.html
 http://www.ibm.com/developerworks/library/j-noaccent/
 http://www.icare4autism.org/
 http://www.icto.info/laudon-management-information-systems-13th-global-edition-c2014-1.pdf
@@ -2260,6 +2265,7 @@ http://www.lfs.org.uk/workshops/lfs-workshops/248/z-documentary-producing
 http://www.lfs.org.uk/workshops/lfs-workshops/264/music-licensing-film-tv
 http://www.lib.berkeley.edu/MRC/docexhibit/docuchron.htm
 http://www.life-with-confidence.com/life-change.html
+http://www.lifehack.org/articles/lifestyle/why-finding-your-passion-is-a-myth.html
 http://www.lifehack.org/articles/productivity/givers-have-set-limits-because-takers-rarely.html
 http://www.lifewithcats.tv/2016/03/29/your-cats-talking-to-you-how-should-you-answer/
 http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html
@@ -2388,6 +2394,7 @@ http://www.nalinidance.com/bollywood_class.html
 http://www.nasdaq.com/article/visual-data-mlp-treemaps-20-cm779273
 http://www.naturegirls.com/natural-nude-girls/watch4beauty/nika-park/
 http://www.nbcbayarea.com/news/local/SAP-Hiring-Tech-Workers-with-Autism-252802471.html
+http://www.nbcnews.com/id/4639202/
 http://www.nbcnews.com/id/7149127/ns/business-answer_desk/t/fixed-or-variable-rate-mortgage-better/
 http://www.neogaf.com/forum/showthread.php?t=426539
 http://www.netapp.com/us/products/platform-os/ontap/index.aspx
@@ -3002,6 +3009,7 @@ https://alvinalexander.com/scala/scala-execute-exec-external-system-commands-in-
 https://analytics.google.com/analytics/web/#report/visitors-geo/a86681824w128939428p132710433/%3F_r.tabId%3Dgeo/
 https://answers.microsoft.com/en-us/windows/forum/windows_xp-windows_programs/i-need-a-command-line-analog-of-mklink-for-windows/45242c3c-1935-4967-8172-a9b403d86ab1?auth=1
 https://answers.tasktools.org/questions/4915525/how-can-i-mark-a-done-task-as-not-done
+https://answers.yahoo.com/question/index?qid=1006051630560
 https://answers.yahoo.com/question/index?qid=20070509120657AAethCM
 https://answers.yahoo.com/question/index?qid=20070803082203AApj4Pg
 https://answers.yahoo.com/question/index?qid=20080309221851AAB1iYX
@@ -3396,6 +3404,7 @@ https://en.wikibooks.org/wiki/Computer_Programming/Coding_Style
 https://en.wikibooks.org/wiki/Computer_Programming/Coding_Style/Minimize_nesting
 https://en.wikipedia.org/wiki/1993_Zambia_national_football_team_plane_crash
 https://en.wikipedia.org/wiki/2012_phenomenon
+https://en.wikipedia.org/wiki/8-bit_clean
 https://en.wikipedia.org/wiki/Academic_regalia_in_the_United_States
 https://en.wikipedia.org/wiki/Actuality_film
 https://en.wikipedia.org/wiki/Actuator
@@ -3507,6 +3516,7 @@ https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California)
 https://en.wikipedia.org/wiki/Gold_standard
 https://en.wikipedia.org/wiki/Golden_Age_of_Television
 https://en.wikipedia.org/wiki/Grammatical_mood
+https://en.wikipedia.org/wiki/Graphic_character
 https://en.wikipedia.org/wiki/Guest_ranch
 https://en.wikipedia.org/wiki/Happy_path
 https://en.wikipedia.org/wiki/Haptic_technology#Microsoft
@@ -3660,6 +3670,7 @@ https://en.wikipedia.org/wiki/The_Incredible_Human_Journey
 https://en.wikipedia.org/wiki/The_dog_ate_my_homework
 https://en.wikipedia.org/wiki/Theremin
 https://en.wikipedia.org/wiki/Tickler_file
+https://en.wikipedia.org/wiki/UTF-7
 https://en.wikipedia.org/wiki/Underground_Railroad
 https://en.wikipedia.org/wiki/Underscoring
 https://en.wikipedia.org/wiki/Unfriended
@@ -4211,6 +4222,7 @@ https://stackoverflow.com/questions/11931154/how-to-position-three-divs-in-html-
 https://stackoverflow.com/questions/12222607/how-to-do-a-soap-wsdl-web-services-call-from-the-command-line
 https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-services
 https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
+https://stackoverflow.com/questions/129207/getting-spring-application-context
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
 https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757
 https://stackoverflow.com/questions/1370996/minus-operation-on-two-files-using-linux-commands
@@ -4234,6 +4246,7 @@ https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
 https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/22092724/align-inline-block-divs-to-top-of-container-element
+https://stackoverflow.com/questions/22145590/underscore-in-package-name-in-java-is-it-bad
 https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby
 https://stackoverflow.com/questions/22544064/java-8-lambdas-dont-work-everything-else-from-java-8-works-though
 https://stackoverflow.com/questions/23318383/compress-directory-into-a-zipfile-with-commons-io
@@ -4243,6 +4256,7 @@ https://stackoverflow.com/questions/2472376/how-do-i-execute-a-program-using-mav
 https://stackoverflow.com/questions/2490351/detecting-a-symlink-in-java
 https://stackoverflow.com/questions/2500436/how-does-cat-eof-work-in-bash
 https://stackoverflow.com/questions/25084288/keep-ssh-session-alive
+https://stackoverflow.com/questions/2513484/is-there-a-way-to-specify-a-default-property-value-in-spring-xml
 https://stackoverflow.com/questions/25277866/maven-command-line-how-to-point-to-a-specific-settings-xml-for-a-single-command
 https://stackoverflow.com/questions/255898/how-to-iterate-over-arguments-in-a-bash-script
 https://stackoverflow.com/questions/2605766/how-to-find-a-duplicate-element-in-an-array-of-shuffled-consecutive-integers/2606065
@@ -4269,6 +4283,7 @@ https://stackoverflow.com/questions/33112137/run-different-linux-os-in-docker-co
 https://stackoverflow.com/questions/33247228/how-to-use-jq-in-a-shell-pipeline
 https://stackoverflow.com/questions/33431754/include-dependencies-in-groovy-application-without-repository-access
 https://stackoverflow.com/questions/338436/is-there-a-quick-git-command-to-see-an-old-version-of-a-file
+https://stackoverflow.com/questions/33957758/maven-why-can-i-run-mvn-checkstylecheckstyle-without-pom-xml-config
 https://stackoverflow.com/questions/3418105/real-world-programming-examples-of-the-unix-philosophy
 https://stackoverflow.com/questions/3418105/real-world-programming-examples-of-the-unix-philosophy/45988069#45988069
 https://stackoverflow.com/questions/3436118/is-java-regex-case-insensitive
@@ -4276,10 +4291,13 @@ https://stackoverflow.com/questions/3452/sql-client-for-mac-os-x-that-works-with
 https://stackoverflow.com/questions/3491925/looking-for-spring-hibernate3-2-0-8-sources
 https://stackoverflow.com/questions/35154684/use-jq-to-parse-a-json-string
 https://stackoverflow.com/questions/3538021/why-do-we-use-base64
+https://stackoverflow.com/questions/3538021/why-do-we-use-base64/46125341#46125341
 https://stackoverflow.com/questions/35891193/union-mounts-into-docker-containers
 https://stackoverflow.com/questions/36168224/extract-only-the-body-part-of-incoming-emails-using-bash/45125081#45125081
 https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview
+https://stackoverflow.com/questions/36860927/run-a-custom-maven-goal-without-pom-xml
 https://stackoverflow.com/questions/36921228/concatenate-s3-files-when-using-aws-firehose
+https://stackoverflow.com/questions/38146703/use-rsync-for-backup-without-overwrite/46123631#46123631
 https://stackoverflow.com/questions/39743492/ios-10-app-crashes-when-trying-to-save-image-to-photo-library#
 https://stackoverflow.com/questions/39758031/get-text-from-a-txt-file-in-the-url
 https://stackoverflow.com/questions/39812507/is-there-process-substitution-in-bourne-shell-like-that-in-bash
@@ -4291,6 +4309,7 @@ https://stackoverflow.com/questions/4234119/ruby-pipes-how-do-i-tie-the-output-o
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
 https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version
 https://stackoverflow.com/questions/4304438/gem-install-failed-to-build-gem-native-extension-cant-find-header-files
+https://stackoverflow.com/questions/43366254/invalid-end-header-bad-central-directory-size-zipexception
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
 https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45700299#45700299
 https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45703315#45703315
@@ -4302,8 +4321,10 @@ https://stackoverflow.com/questions/4671923/what-is-the-purpose-of-smalltest-med
 https://stackoverflow.com/questions/4682584/apache-transactionwrite-file-transactionally-how-to-use-resourceid
 https://stackoverflow.com/questions/4932503/how-to-kill-mysql-connections
 https://stackoverflow.com/questions/4950725/how-do-i-get-git-to-show-me-which-branches-are-tracking-what
+https://stackoverflow.com/questions/5189914/setting-system-property
 https://stackoverflow.com/questions/520650/make-an-existing-git-branch-track-a-remote-branch
 https://stackoverflow.com/questions/562115/press-alt-numeric-in-bash-and-you-get-arg-numeric-what-is-that
+https://stackoverflow.com/questions/574594/how-can-i-create-an-executable-jar-with-dependencies-using-maven
 https://stackoverflow.com/questions/5868369/how-to-read-a-large-text-file-line-by-line-using-java
 https://stackoverflow.com/questions/604424/lookup-enum-by-string-value
 https://stackoverflow.com/questions/6161823/dd-how-to-calculate-optimal-blocksize
@@ -4518,6 +4539,9 @@ https://us.etrade.com/e/t/estation/help?id=1204000003
 https://us.etrade.com/e/t/user/login;jsessionid=B60EAB3CB53E1C12D81937635966B045.tomcat2?TARGET=https%3A%2F%2Fus.etrade.com%2Fetx%2Fmm%2Fmovemoney%2Ftransfer-cash%2Fconfirm
 https://usatoday30.usatoday.com/weather/resources/askjack/archives-western-usa.htm
 https://utcc.utoronto.ca/~cks/space/blog/programming/StaticLinkingAndPopularity?showcomments
+https://ux.stackexchange.com/questions/16207/is-scrolling-in-reverse-a-horrible-idea/111674#111674
+https://ux.stackexchange.com/questions/28810/are-inner-scrollbars-a-bad-ux
+https://ux.stackexchange.com/questions/28810/are-inner-scrollbars-a-bad-ux/111673#111673
 https://ux.stackexchange.com/questions/89049/what-makes-reverse-scrolling-a-sign-of-bad-ui/111420#111420
 https://vcahospitals.com/know-your-pet/retained-deciduous-teeth-baby-teeth-in-cats
 https://venturebeat.com/2017/05/07/software-firms-are-actively-seeking-neurodiverse-employees/
@@ -4753,6 +4777,7 @@ https://www.cyberciti.biz/faq/linux-modify-partition-labels-command-to-change-di
 https://www.cyberciti.biz/faq/linux-partition-howto-set-labels/
 https://www.cyberciti.biz/faq/linux-port-scanning/
 https://www.cyberciti.biz/faq/linux-rsnapshot-backup-howto/
+https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/
 https://www.cyberciti.biz/faq/mount-drive-from-command-line-ubuntu-linux/
 https://www.cyberciti.biz/faq/rhel-centos-debian-fedora-mount-partition-label/
 https://www.cyberciti.biz/faq/understanding-etcshadow-file/
@@ -5670,6 +5695,7 @@ https://www.google.com/search?q=terms+and+conditions+meme&num=40&source=lnms&tbm
 https://www.google.com/search?q=testosterone+shorter+life+span&rlz=1CDGOYI_enUS750US750&oq=testosterone+reduces+life+&aqs=chrome.1.69i57j0.10916j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+decline+of+rich+text+editors&rlz=1CDGOYI_enUS750US750&oq=the+decline+of+rich+text+editors&aqs=chrome..69i57.6119j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+future+is+female&rlz=1CDGOYI_enUS590US590&oq=the+future+&aqs=chrome.2.69i57j0l3.5569j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=the+passion+myth&oq=the+passion+myth&aqs=chrome..69i57j69i64l3.2939j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=the+uber+economy&rlz=1CDGOYI_enUS750US750&oq=the+uber+economy&aqs=chrome..69i57j0l3.3696j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=thinking+fast+and+slow&rlz=1CDGOYI_enUS590US590&oq=thinking+faat+abd&aqs=chrome.1.69i57j0l3.5286j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=third+wave+nationalism&rlz=1CDGOYI_enUS750US750&oq=third+wave+nationalism&aqs=chrome..69i57.10092j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -6308,6 +6334,7 @@ https://www.pinterest.com/marekmalanka/atletico-madryt/
 https://www.pinterest.com/mazharcivitech/joanna-krupa/
 https://www.pinterest.com/pin/196821446189588901/?lp=true
 https://www.pinterest.com/pin/372109987940942239/
+https://www.pinterest.com/pin/484137028675929401/
 https://www.portablefreeware.com/forums/viewtopic.php?t=4925
 https://www.portfoliovisualizer.com/asset-correlations
 https://www.premiumbeat.com/blog/how-to-find-your-story-when-cutting-a-documentary/
