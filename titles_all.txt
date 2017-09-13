@@ -8180,3 +8180,20 @@ https://envato.com/blog/scroll-hijacking/ :: (timeout)
 https://productivityist.com/productivitybulletpoints/ :: (timeout)
 http://www.wrestlinginc.com/wi/news/2017/0325/624461/sasha-banks-on-difficult-upbringing/ :: Sasha Banks On Difficult Upbringing, Why She Was Drawn To Eddie Guerrero, Becoming A Wrestling Fan - WrestlingInc.com
 https://marriedbiography.com/sasha-banks-biography/#Sasha_Bankss_Early_Life_Childhood_and_Education :: Sasha Banks Biography - Affair, Married, Husband, Ethnicity, Nationality, Salary, Net Worth, Height
+https://stackoverflow.com/questions/19755793/list-bash-bind-x-bindings :: linux - List bash "bind -x" bindings - Stack Overflow
+https://superuser.com/questions/18498/last-parameter-of-last-command-in-bash-in-vi-mode :: Last parameter of last command in bash in vi-mode - Super User
+https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html :: Bash Reference Manual: Bash Builtins
+https://www.gnu.org/software/bash/manual/html_node/Commands-For-History.html#Commands-For-History :: Bash Reference Manual: Commands For History
+https://softwareengineering.stackexchange.com/questions/32425/i-still-cant-figure-out-how-to-program/32427 :: untagged - I still can't figure out how to program? - Software Engineering Stack Exchange
+http://economictimes.indiatimes.com/tech/ites/95-engineers-in-india-unfit-for-software-development-jobs-report/articleshow/58278004.cms :: (timeout)
+http://www.business-standard.com/article/companies/95-of-indian-engineers-can-t-code-veterans-mohandas-pai-shaw-slam-report-117042100593_1.html :: 95% of Indian engineers can't code? Veterans Mohandas Pai, Shaw slam report | Business Standard News
+https://hackernoon.com/if-you-cant-code-you-have-no-business-managing-engineers-5a2b81e40c56 :: If you can?t code, you have no business managing engineers
+https://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/ :: Why The New Guy Can?t Code  |  TechCrunch
+https://www.itwire.com/outsourcing/78004-only-36-of-indian-engineers-can-write-compilable-code-study.html :: iTWire - Only 36% of Indian engineers can write compilable code: study
+https://m.facebook.com/story.php?story_fbid=1495774030490237&id=392587127475605 :: (timeout)
+https://www.quora.com/Why-is-wireless-charging-not-popular#!n=18 :: Why is wireless charging not popular? - Quora
+http://www.express.co.uk/showbiz/tv-radio/738547/Strictly-Come-Dancing-Bruce-Forsyth-Christmas-Special-BBC-Tess-Daly :: Bruce Forsyth 'too ill' and WILL NOT appear on Strictly Come Dancing Christmas special | TV &amp; Radio | Showbiz &amp; TV | Express.co.uk
+http://www.mirror.co.uk/tv/tv-news/jimmy-tarbuck-opens-up-last-11154683 :: (timeout)
+http://www.dailymail.co.uk/news/article-4537836/Michael-Barrymore-s-guest-raped-murdered.html :: Michael Barrymore pool victim was 'raped and murdered' | Daily Mail Online
+http://www.huffingtonpost.com/quora/why-are-divorce-rates-so_b_2787068.html :: Why Are Divorce Rates So High Amongst Celebrities? | HuffPost
+https://stackoverflow.com/questions/13380012/tidy-html5-on-mac-os-how-to-install :: osx - Tidy-html5 on Mac OS: how to install - Stack Overflow

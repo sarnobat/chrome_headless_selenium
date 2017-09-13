@@ -307,6 +307,7 @@ http://eatupnewyork.com/why-is-new-york-city-pizza-so-good/
 http://eclipsescript.org/
 http://economics.stackexchange.com/questions/13312/when-a-stock-market-crashes-how-does-money-just-disappear/15702#15702
 http://economics.stackexchange.com/questions/15698/does-a-stock-market-crash-undo-the-multiplier-effects-money-creation
+http://economictimes.indiatimes.com/tech/ites/95-engineers-in-india-unfit-for-software-development-jobs-report/articleshow/58278004.cms
 http://electronics.stackexchange.com/questions/120983/what-happens-if-a-240v-appliance-is-connected-in-a-120v-ac-power-supply/120997#120997?newreg=7b4e0f2e1e83471c93806769c347b47f
 http://elementalselenium.com/tips/38-headless
 http://elitedaily.com/dating/short-vs-tall/1104880/
@@ -1707,6 +1708,7 @@ http://www.brittonmdg.com/the-britton-blog/co-brands-are-a-brands-best-friend
 http://www.building.co.uk/six-stadiums-that-tell-the-story-of-english-football/5061797.article
 http://www.builtinla.com/jobs#/jobs?f%5B%5D=im_job_categories%3A78&f%5B%5D=im_job_categories%3A5531&f%5B%5D=tags%3AJava%7Cim_job_categories%3A5531%3Aterm
 http://www.bundespremierleague.com/atletico-madrid/
+http://www.business-standard.com/article/companies/95-of-indian-engineers-can-t-code-veterans-mohandas-pai-shaw-slam-report-117042100593_1.html
 http://www.businessdictionary.com/definition/digital-storefront.html
 http://www.businessinsider.com/microsoft-updates-hotmail-but-why-2011-10
 http://www.businessinsider.com/podshare-is-like-a-hostel-and-hotel-combined-2016-5/#beck-and-her-team-of-residential-advisors-who-manage-each-location-call-their-guests-podestrians-4
@@ -1916,6 +1918,7 @@ http://www.dailymail.co.uk/news/article-392837/Young-people-immature-university.
 http://www.dailymail.co.uk/news/article-394608/Childrens-drinks-sugar-timebomb-experts-warn.html
 http://www.dailymail.co.uk/news/article-3982052/Heartbreak-locker-room-Anguished-Chapecoense-players-not-board-doomed-flight-Brazilian-team-mates-react-shock-learn-Colombian-plane-tragedy.html
 http://www.dailymail.co.uk/news/article-3982844/Son-Chapecoense-manager-reveals-missed-doomed-flight-Colombia-FORGOT-passport.html
+http://www.dailymail.co.uk/news/article-4537836/Michael-Barrymore-s-guest-raped-murdered.html
 http://www.dailymail.co.uk/sciencetech/article-1253439/Curvy-women-activate-reward-centre-mens-brains.html
 http://www.dailymail.co.uk/sciencetech/article-1390319/Scientists-happy-men-significantly-attractive-ladies.html
 http://www.dailymail.co.uk/sciencetech/article-2022385/Why-nipples-stimulate-area-female-brain-genitals-do.html
@@ -2081,6 +2084,7 @@ http://www.explainxkcd.com/wiki/index.php?title=1343#Explanation
 http://www.express.co.uk/life-style/health/847394/diabetes-news-chocolate-cocoa-compound-stave-off-disease
 http://www.express.co.uk/news/uk/265475/Inflation-makes-saving-pointless
 http://www.express.co.uk/pictures/sport/5686/Footballers-bankrupt-riches-rags-sportgalleries
+http://www.express.co.uk/showbiz/tv-radio/738547/Strictly-Come-Dancing-Bruce-Forsyth-Christmas-Special-BBC-Tess-Daly
 http://www.express.co.uk/sport/football/733489/Safe-standing-explained-Premier-League-stadiums-terraces
 http://www.express.co.uk/sport/football/845136/Liverpool-transfer-news-Naby-Keita-Virgil-van-Dijk
 http://www.f4wonline.com/wwe-news/looking-effects-brand-exclusive-ppvs-wwe-ratings-230246
@@ -2219,6 +2223,7 @@ http://www.huffingtonpost.com/bella-ellwoodclayton/10-things-you-need-to-kno_2_b
 http://www.huffingtonpost.com/bob-miglani/making-your-own-luck_b_3988785.html
 http://www.huffingtonpost.com/harlan-green/the-bully-mentality_b_5147056.html
 http://www.huffingtonpost.com/kate-peterson/gender-reveals-stop-revea_b_8224554.html
+http://www.huffingtonpost.com/quora/why-are-divorce-rates-so_b_2787068.html
 http://www.huffingtonpost.com/the-establishment/im-33-and-have-never-been-kissed_b_9492508.html
 http://www.huffingtonpost.com/todd-kestin/the-passion-myth-why-teen_b_6503226.html
 http://www.ibm.com/developerworks/library/j-noaccent/
@@ -2483,6 +2488,7 @@ http://www.mirror.co.uk/sport/football/news/hideous-liverpool-purple-and-yellow-
 http://www.mirror.co.uk/sport/football/news/juanfran-begs-atletico-madrids-fans-8082570
 http://www.mirror.co.uk/sport/football/news/juanfran-begs-atletico-madrids-fans-8082570
 http://www.mirror.co.uk/sport/row-zed/11-best-animal-pitch-invaders-9065828
+http://www.mirror.co.uk/tv/tv-news/jimmy-tarbuck-opens-up-last-11154683
 http://www.mlwradio.com/download-the-jim-cornette-experience.html
 http://www.mlwradio.com/tony-schiavone.html
 http://www.moah.org/
@@ -4052,6 +4058,7 @@ https://groups.google.com/forum/#!forum/atleticomadrid
 https://groups.google.com/forum/#!msg/rec.sport.soccer/7M8ctVziR6I/6ZqvuOaJDEAJ
 https://groups.google.com/forum/#!topic/iterm2-discuss/RslE-b7RlsI
 https://groups.google.com/forum/#!topic/pandoc-discuss/At_6Nov1jFA
+https://hackernoon.com/if-you-cant-code-you-have-no-business-managing-engineers-5a2b81e40c56
 https://hackernoon.com/operator-in-scala-cbca7b939fc0
 https://hackernoon.com/translating-unix-philosophy-into-modern-environments-80d7949834f3
 https://hbr.org/1989/01/collaborate-with-your-competitors-and-win
@@ -4172,6 +4179,7 @@ https://m.box.com/file/102805616166/https%3A%2F%2Fmonakhancompany.box.com%2Fs%2F
 https://m.facebook.com/When-it-Was-Big-Time-690862621005274/#!/When-it-Was-Big-Time-690862621005274/
 https://m.facebook.com/businessinsider/posts/10152129957849071
 https://m.facebook.com/hashtag/cowpalaceroyale
+https://m.facebook.com/story.php?story_fbid=1495774030490237&id=392587127475605
 https://magento.stackexchange.com/questions/125245/is-there-a-list-of-most-popular-cli-commands-for-magento-2
 https://mail.google.com/mail/u/0/?shva=1#search/is%3Astarred+OR+(is%3Aunread+-%22smarthamatrimony.com%22+-%22are+trending+on+facebook%22+-divorceematrimony+-%22PC+Connection+Talent%22+-hiera.CHQCVS.github.com+-%22people+are+looking+at+your+linkedin%22+-%22dave+johnson%22+-label%3A%5Bimap%5D-spam+-%22emails+from+Facebook+in+the%22+-%22CyberCoders+Team%22+-oracle%40jobs.net+-%22Tom+Khan%22+-hiera+-label%3A1---wrong-category%2C-update-filter++-from%3Asimplymarry++-%22recently+updated+their%22+-%22other+suitable+matches%22+-%22saved+search%22++-linkedin+-%22was+this+experience+helpful%22+-from%3Abhaktidhamwales%40gmail.com+-label%3A2---Spam-to-keep+-from%3Ashaadi+-subject%3A%22instant+job+match%22+-from%3Azillow)?compose=15b040dcdd9027aa
 https://mapstor.com/news/digital-cartography-and-gps-navigation/05-02-2017-the-illusions-of-brain-map-projections.html
@@ -4363,6 +4371,7 @@ https://softwareengineering.stackexchange.com/questions/194340/why-are-nosql-dat
 https://softwareengineering.stackexchange.com/questions/254735/are-c-static-libraries-frowned-upon
 https://softwareengineering.stackexchange.com/questions/254947/difference-between-a-heap-and-a-priority-queue
 https://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms
+https://softwareengineering.stackexchange.com/questions/32425/i-still-cant-figure-out-how-to-program/32427
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented?noredirect=1#comment768757_355722
@@ -4406,6 +4415,7 @@ https://stackoverflow.com/questions/12405911/how-can-i-generate-wadl-for-rest-se
 https://stackoverflow.com/questions/12598261/maven-build-debug-in-eclipse
 https://stackoverflow.com/questions/129207/getting-spring-application-context
 https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations-in-java
+https://stackoverflow.com/questions/13380012/tidy-html5-on-mac-os-how-to-install
 https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757
 https://stackoverflow.com/questions/1370996/minus-operation-on-two-files-using-linux-commands
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
@@ -4425,6 +4435,7 @@ https://stackoverflow.com/questions/18183296/how-can-i-add-a-vertical-scrollbar-
 https://stackoverflow.com/questions/1823264/quickest-way-to-convert-xml-to-json-in-java
 https://stackoverflow.com/questions/18915075/java-convert-string-to-timestamp
 https://stackoverflow.com/questions/19158810/docker-mount-volumes-as-readonly
+https://stackoverflow.com/questions/19755793/list-bash-bind-x-bindings
 https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/22092724/align-inline-block-divs-to-top-of-container-element
@@ -4545,6 +4556,7 @@ https://superuser.com/questions/1003788/reboot-linux-via-netcat
 https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell
 https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/14762/execute-applescript-without-open-the-editor
+https://superuser.com/questions/18498/last-parameter-of-last-command-in-bash-in-vi-mode
 https://superuser.com/questions/187106/extract-save-a-mail-attachment-using-bash
 https://superuser.com/questions/194514/software-tools-for-cleaning-up-messy-data-flat-files-excel-etc-semi-automatic
 https://superuser.com/questions/248921/serving-http-requests-with-tcpserver
@@ -4587,6 +4599,7 @@ https://svelte.technology/blog/frameworks-without-the-framework
 https://taskwarrior.org/download/
 https://teacherseducation.wordpress.com/2008/09/13/grammar-wednesday-81/
 https://techblog.bozho.net/do-it-either-way-well-refactor-it-later/
+https://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/
 https://techcrunch.com/2011/07/30/vanity-metrics/
 https://techcrunch.com/2014/05/27/intuit-adds-check-to-its-finance-stable-in-roughly-350m-deal/
 https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/
@@ -5129,6 +5142,8 @@ https://www.glamour.com/story/secrets-of-really-photogenic-p
 https://www.glamour.com/story/the-12-types-of-crushes-every
 https://www.gnu.org/prep/standards/html_node/Command_002dLine-Interfaces.html#Command_002dLine-Interfaces
 https://www.gnu.org/prep/standards/html_node/Option-Table.html#Option-Table
+https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+https://www.gnu.org/software/bash/manual/html_node/Commands-For-History.html#Commands-For-History
 https://www.gnu.org/software/recutils/manual/recutils.html#Introduction
 https://www.gnu.org/software/wget/manual/html_node/Download-Options.html
 https://www.good.is/infographics
@@ -6394,6 +6409,7 @@ https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf
 https://www.isitnormal.com/post/imagining-girls-naked-47438
 https://www.isitnormal.com/post/is-it-normal-to-be-attracted-to-young-girls--239769
 https://www.islam21c.com/islamic-thought/propagation/women/why-do-western-women-feel-inferior-to-men/
+https://www.itwire.com/outsourcing/78004-only-36-of-indian-engineers-can-write-compilable-code-study.html
 https://www.ivacy.com/blog/top-torrentz-alternatives/
 https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server
 https://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong
@@ -6716,6 +6732,7 @@ https://www.quora.com/Why-is-competitive-eating-a-sport
 https://www.quora.com/Why-is-it-that-most-women-get-offended-when-they-find-out-a-guy-is-having-a-good-time-by-looking-at-their-pics-or-fantasizing-about-them-eventhough-it-causes-them-no-harm
 https://www.quora.com/Why-is-life-so-difficult-for-some-people-but-easy-for-others-i-e-what-mistakes-did-some-people-make-that-makes-it-so-difficult-for-them-to-live
 https://www.quora.com/Why-is-the-world-full-of-mean-people
+https://www.quora.com/Why-is-wireless-charging-not-popular#!n=18
 https://www.quora.com/Will-current-day-pop-music-ever-be-considered-classical
 https://www.quora.com/unanswered/Could-we-possibly-draw-parallels-between-Federer-Nadal-and-Messi-Ronaldo
 https://www.quora.com/unanswered/Why-dont-web-browsers-support-Markdown-documents-natively
