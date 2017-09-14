@@ -8197,3 +8197,44 @@ http://www.mirror.co.uk/tv/tv-news/jimmy-tarbuck-opens-up-last-11154683 :: (time
 http://www.dailymail.co.uk/news/article-4537836/Michael-Barrymore-s-guest-raped-murdered.html :: Michael Barrymore pool victim was 'raped and murdered' | Daily Mail Online
 http://www.huffingtonpost.com/quora/why-are-divorce-rates-so_b_2787068.html :: Why Are Divorce Rates So High Amongst Celebrities? | HuffPost
 https://stackoverflow.com/questions/13380012/tidy-html5-on-mac-os-how-to-install :: osx - Tidy-html5 on Mac OS: how to install - Stack Overflow
+https://martinfowler.com/articles/microservices.html :: Microservices
+https://martinfowler.com/bliki/ImmutableServer.html :: ImmutableServer
+https://martinfowler.com/bliki/SnowflakeServer.html :: SnowflakeServer
+https://www.quora.com/Which-is-correct-I-wish-it-was-were-true :: Which is correct - I wish it was/were true?...9 answers - Quora
+https://serverfault.com/questions/659940/http-url-redirection-command-line-trace :: redirect - HTTP URL Redirection Command Line Trace - Server Fault
+https://books.google.com/books?id=BkOJCwAAQBAJ&pg=PT207&lpg=PT207&dq=%22zero+keystrokes%22&source=bl&ots=v54uMqhEnk&sig=GXP2bAa2ogL_kPhTiwSjoVlPQXQ&hl=en&sa=X&ved=0ahUKEwi9lZ7M-v_VAhXGrlQKHTIqDYMQ6AEIPjAG#v=onepage&q=%22zero%20keystrokes%22&f=false :: Take Control of Automating Your Mac - Joe Kissell - Google Books
+https://github.com/transcode-open/apt-cyg :: GitHub - transcode-open/apt-cyg: Apt-cyg, an apt-get like tool for Cygwin
+https://raw.githubusercontent.com/transcode-open/apt-cyg/master/apt-cyg :: (Could not determine)
+https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch :: git checkout - How do I check out a remote Git branch? - Stack Overflow
+https://www.google.com/search?q=%22mentally+run+code%22&rlz=1C1CHBF_enUS703US703&oq=%22mentally+run+code%22&aqs=chrome..69i57.4606j0j7&sourceid=chrome&ie=UTF-8 :: "mentally run code" - Google Search
+http://blog.agiledeveloper.com/2015/06/lambdas-are-glue-code.html?showComment=1504120677642 :: Lambdas are Glue Code | agiledeveloper
+http://www.businessinsider.com/concur-small-business-aims-for-zero-keystrokes-in-travel-expense-reports-2012-4 :: Concur Small Business Aims for Zero Keystrokes in Travel Expense Reports - Business Insider
+http://www.kayfabenews.com/mcmahon-furious-ppv-didnt-get-suggested-name-great-flaming-testes/ :: Leaked WWE documents reveal original name of Sunday's PPV: Enormous Flaming Testes - Kayfabe News
+https://douglascayers.com/2015/05/30/how-to-set-custom-java-path-after-installing-jdk-8/ :: How to set custom Java path after installing JDK 8 ? Douglas C. Ayers
+https://ewernli.wordpress.com/2013/07/22/simplicity-prevails/#comment-359 :: Simplicity Prevails ? Late Bound
+http://tidy.sourceforge.net/docs/quickref.html :: HTML Tidy Configuration Options Quick Reference
+http://www.html-tidy.org/documentation/ :: Tidy Documentation
+https://linux.die.net/man/1/autossh :: autossh(1): monitor/restart ssh sessions - Linux man page
+https://stackoverflow.com/questions/7151180/use-html-tidy-to-just-indent-html-code :: htmltidy - Use HTML Tidy to just indent HTML code? - Stack Overflow
+https://unix.stackexchange.com/questions/7425/is-there-a-robust-command-line-tool-for-processing-csv-files/7427?noredirect=1#comment698407_7427 :: software rec - Is there a robust command line tool for processing csv files? - Unix &amp; Linux Stack Exchange
+https://userify.com/blog/howto-autossh/ :: (Could not determine)
+https://www.everythingcli.org/ :: Everything CLI - It is all about the unix cli
+https://www.everythingcli.org/ssh-tunnelling-for-fun-and-profit-autossh/ :: SSH tunnelling for fun and profit: Autossh
+https://www.google.com/search?num=40&rlz=1C1CHBF_enUS703US703&q=data+vs+executable+%22last+for+years%22&oq=data+vs+executable+%22last+for+years%22&gs_l=psy-ab.3...10900.11330.0.11532.5.5.0.0.0.0.138.507.3j2.5.0....0...1.1.64.psy-ab..1.0.0.405VkZ0kMkU :: data vs executable "last for years" - Google Search
+https://www.google.com/search?q=%22zero+keystrokes%22&rlz=1C1CHBF_enUS703US703&oq=%22zero+keystrokes%22&aqs=chrome..69i57.4615j0j7&sourceid=chrome&ie=UTF-8 :: "zero keystrokes" - Google Search
+https://www.mkyong.com/maven/how-to-install-maven-in-windows/ :: (timeout)
+https://www.theregister.co.uk/2016/07/07/oracle_java_ee_8/ :: (timeout)
+https://dzone.com/articles/phoenix-servers-martin-fowler :: (Could not determine)
+https://news.ycombinator.com/item?id=10534503 :: I'd short it technically because Confluence is Satan's wiki, but corps eat it up... | Hacker News
+https://news.ycombinator.com/item?id=3929935 :: Why Atlassian is to Software as Apple is to Design | Hacker News
+https://twitter.com/jchensor/status/599404243905171456?lang=en :: James Chen on Twitter: "Good God I hate Confluence. Most user-unfriendly piece of garbage ever."
+https://martinfowler.com/bliki/PhoenixServer.html :: PhoenixServer
+https://www.thoughtworks.com/insights/blog/infrastructure-code-iron-age-cloud-age :: Infrastructure as Code: From the Iron Age to the Cloud Age   | ThoughtWorks
+https://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash :: loops - How to read from file or stdin in bash? - Stack Overflow
+https://stackoverflow.com/questions/2990414/echo-that-outputs-to-stderr :: bash - echo that outputs to stderr - Stack Overflow
+https://stackoverflow.com/questions/6084475/how-to-check-if-a-path-points-to-an-existing-file-with-java-7s-new-file-api :: How to check if a path points to an existing file with Java 7's new File API? - Stack Overflow
+https://stackoverflow.com/questions/6857885/how-to-create-a-synchronized-version-of-google-guavas-treemultimap :: java - How to create a synchronized version of Google Guava's TreeMultimap - Stack Overflow
+https://www.cyberciti.biz/faq/unix-linux-test-existence-of-file-in-bash/ :: Bash Shell: Check File Exists or Not ? nixCraft
+https://www.google.com/search?num=40&q=rugby+stupid+rules+%22forward+pass%22&oq=rugby+stupid+rules+%22forward+pass%22&gs_l=psy-ab.3...14511.16143.0.16254.12.12.0.0.0.0.102.922.9j1.10.0....0...1.1.64.psy-ab..4.0.0.fj3r6fAQRhc :: rugby stupid rules "forward pass" - Google Search
+http://www.urbandictionary.com/define.php?term=resting%20bitch%20face :: Urban Dictionary: resting bitch face
+https://twitter.com/i/web/status/907918932929064960 :: (Could not determine)
