@@ -3546,7 +3546,6 @@ https://en.wikipedia.org/wiki/Friedman_doctrine
 https://en.wikipedia.org/wiki/Full-reserve_banking
 https://en.wikipedia.org/wiki/Function-level_programming
 https://en.wikipedia.org/wiki/Geek
-https://en.wikipedia.org/wiki/Gender_differences_in_social_network_service_use
 https://en.wikipedia.org/wiki/Gerald_of_Wales
 https://en.wikipedia.org/wiki/Getty_(Unix)
 https://en.wikipedia.org/wiki/Glass_Beach_(Fort_Bragg,_California)
@@ -3803,7 +3802,6 @@ https://giphy.com/gifs/jennifer-lopez-ETIlUt8JrxaX6/
 https://giphy.com/gifs/jennifer-lopez-music-video-laughing-H9Ez2NHy9KFlC/
 https://gist.github.com/RobSis/50af3d3ef8e747a0bd18
 https://gist.github.com/alonisser/11192482
-https://gist.github.com/apbarrero/6338709
 https://gist.github.com/bradmontgomery/2219997
 https://gist.github.com/khajavi/24939ae634a7fb4e5efcbfed1a228e90
 https://gist.github.com/ncerny/b1b1a8ddde51d6e32576
@@ -4295,7 +4293,6 @@ https://stackoverflow.com/questions/1311050/transaction-mode-for-file-operations
 https://stackoverflow.com/questions/13380012/tidy-html5-on-mac-os-how-to-install
 https://stackoverflow.com/questions/1340012/m2eclipse-wont-download-sources-from-local-repository/45623757#45623757
 https://stackoverflow.com/questions/1370996/minus-operation-on-two-files-using-linux-commands
-https://stackoverflow.com/questions/1376218/is-there-a-way-to-retrieve-the-autoincrement-id-from-a-prepared-statement
 https://stackoverflow.com/questions/13786414/form-submission-opens-new-tab-window
 https://stackoverflow.com/questions/14411173/how-to-stop-reading-multiple-lines-from-stdin-using-scanner
 https://stackoverflow.com/questions/15091148/hashmaps-and-null-values
@@ -4431,8 +4428,6 @@ https://stackoverflow.com/questions/8660532/avoiding-ssh-timeouts-on-mac-os#
 https://stackoverflow.com/questions/9015882/activemq-publisher-subscriber-hello-world-example
 https://stackoverflow.com/questions/9072879/how-to-use-linux-software-watchdog/45317846#45317846
 https://stackoverflow.com/questions/9357032/question-mark-in-the-middle-of-a-url-variable
-https://stackoverflow.com/questions/9389777/how-to-detect-and-find-out-a-program-is-in-deadlock
-https://stackoverflow.com/questions/9601030/transaction-in-java-sqlite3
 https://standage.github.io/shell-pipelines-in-python.html
 https://stash.itsoninc.com/projects/SP/repos/saas-portal/browse
 https://static1.squarespace.com/static/50060e33c4aa3dba773634ec/t/57ac990ce3df28ba2ea2a0cb/1470929179086/?format=1500w
