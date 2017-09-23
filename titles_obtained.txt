@@ -8328,3 +8328,174 @@ https://stackoverflow.com/questions/4517301/difference-between-pid-and-tid
 http://onlineprograms.ollusa.edu/med-school-counseling/resources/learning-styles-of-introverts-and-extroverts
 https://www.forbes.com/2010/04/26/popular-social-networking-sites-forbes-woman-time-facebook-twitter.html
 https://www.theguardian.com/media-network/media-network-blog/2012/mar/02/female-species-more-digital-male
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid1568.log
+http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/
+http://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+https://hub.docker.com/r/chef/chef/
+https://stackoverflow.com/questions/27068596/how-to-include-files-outside-of-dockers-build-context
+https://store.docker.com/images/groovy
+https://askubuntu.com/questions/957198/locate-not-returning-files-residing-on-mounted-disks/957200#957200
+https://www.electrictoolbox.com/update-max-connections-mysql/
+https://www.facebook.com/alekyaa7
+https://www.google.com/search?q=%22aop%22+%22not+worth%22&oq=%22aop%22+%22not+worth%22&aqs=chrome..69i57.6769j0j7&sourceid=chrome&ie=UTF-8
+http://wiki.c2.com/?AspectOrientedProgramming
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid15182.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid23517.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid31559.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid10222.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid10913.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid11657.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid13024.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid13296.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid16201.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid17227.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid19575.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid20386.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid21421.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid21888.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid23638.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid24822.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid25261.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid27633.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid29933.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid31545.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid32098.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid2092.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid5498.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid8763.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid9806.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid10942.log
+http://grammarist.com/spelling/imposter-impostor/
+http://news.oreilly.com/2008/09/google-chrome-not-invented-her.html
+https://askubuntu.com/questions/17823/how-to-list-all-installed-packages
+https://aws.amazon.com/about-aws/whats-new/2017/02/aws-storage-gateway-supports-running-file-gateway-in-ec2-and-adds-file-share-security-options/
+https://blog.dominodatalab.com/reflections-on-buy-vs-build/
+https://coderwall.com/p/aohfrg/smux-ssh-with-auto-reconnect-tmux-a-mosh-replacement
+https://dzone.com/articles/java-8-automatic-memoization
+https://en.wikipedia.org/wiki/History_of_television
+https://en.wikipedia.org/wiki/Memoization#Functional_programming
+https://en.wikipedia.org/wiki/My_Cat_from_Hell
+https://eoshorizon.wordpress.com/2014/11/29/the-issue-of-identity-iii-civilization-as-a-meta-identity-consumeristic-individualism/
+http://800notes.com/Phone.aspx/1-202-991-4524#p1259625608372428061
+https://github.com/yukinying/chrome-headless-browser-docker
+http://sourabhbajaj.com/mac-setup/
+https://psychcentral.com/blog/archives/2012/09/20/what-drives-our-need-for-approval/
+https://ragsnair.com/2013/03/28/validation/
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid13155.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid17823.log
