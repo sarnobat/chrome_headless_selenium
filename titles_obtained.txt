@@ -8960,3 +8960,655 @@ https://askubuntu.com/questions/860831/error-for-dependency-and-unable-to-remove
 # /home/sarnobat/github/chrome_headless/titles/hs_err_pid29023.log
 Error occurred during initialization of VM
 java.lang.OutOfMemoryError: unable to create new native thread
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid31141.log
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Reference.<clinit>(Reference.java:162)
+
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Reference.<clinit>(Reference.java:162)
+
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid26426.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid29090.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid30663.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid30847.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid672.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid4141.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid4597.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid6064.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid9003.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid19301.log
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid26184.log
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Reference.<clinit>(Reference.java:162)
+
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Reference.<clinit>(Reference.java:162)
+
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:226)
+
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:714)
+	at java.lang.ref.Reference.<clinit>(Reference.java:162)
+
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid26162.log
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid1030.log
+http://blog.ploeh.dk/2015/11/16/code-coverage-is-a-useless-target-measure/
+http://idioms.thefreedictionary.com/crying+towel
+http://newlyweds.about.com/od/BetterSex/tp/How-To-Overcome-Sexual-Inhibitions.htm
+http://news.bbc.co.uk/sport2/hi/football/europe/8631333.stm
+http://reallifejava.com/cleaning-up-unused-dependencies-in-maven-projects/
+https://biology.stackexchange.com/questions/19448/why-are-men-stronger-than-women
+https://blogs.tribune.com.pk/story/23212/for-the-last-time-germany-did-not-rape-brazil/
+https://books.google.com/books?id=lC110oSbdKYC&pg=PA130&lpg=PA130&dq=blouse+unbutton+nipple&source=bl&ots=9wkYTtDi-9&sig=Lsws8Q8f4XmASIXaXiUwFApQ1yM&hl=en&sa=X&ved=0ahUKEwjRqezk7OfWAhUmslQKHUaKA3IQ6AEIJjAA#v=onepage&q=blouse%20unbutton%20nipple&f=false
+https://books.google.com/books?id=-LmkCQAAQBAJ&pg=PT127&lpg=PT127&dq=blouse+unbutton+nipple&source=bl&ots=bN6hlk_tgB&sig=fhFzGnyukZCqW6a6Ckg4JGpg94M&hl=en&sa=X&ved=0ahUKEwjRqezk7OfWAhUmslQKHUaKA3IQ6AEIMjAE#v=onepage&q=blouse%20unbutton%20nipple&f=false
+https://books.google.com/books?id=rgmICwAAQBAJ&pg=PT166&lpg=PT166&dq=blouse+unbutton+nipple&source=bl&ots=ky-tEGlY97&sig=gcm9j3XAuLqYC00ZCIfKYIthcdk&hl=en&sa=X&ved=0ahUKEwjRqezk7OfWAhUmslQKHUaKA3IQ6AEILzAD#v=onepage&q=blouse%20unbutton%20nipple&f=false
+https://books.google.com/books?id=xC-_BAAAQBAJ&pg=PA292&lpg=PA292&dq=why+are+human+buttocks+attractive&source=bl&ots=Uh-461H5KG&sig=S1H-2Gbj1lRk3lJj32H3kotUuzE&hl=en&sa=X&ved=0ahUKEwj7wJC-6ufWAhVIiVQKHTXqDzU4FBDoAQgoMAE#v=onepage&q=why%20are%20human%20buttocks%20attractive&f=false
+https://brightside.me/article/13-things-which-men-and-women-do-differently-6905/
+https://cdnjs.com/libraries/purl
+https://chrome.google.com/webstore/detail/jira-subtask-sortable/hcidkmckdnbkbjghgcgeikdoljdhlimb
+https://community.atlassian.com/t5/Jira-questions/Order-of-Subtasks-within-a-Parent-Task/qaq-p/366231#U648983
+https://dictionaryeyes.wordpress.com/2012/08/15/the-question-mark/
+https://docs.docker.com/v1.11/engine/reference/commandline/ps/
+https://dzone.com/articles/java-command-line-interfaces-part-14-google-option
+https://dzone.com/articles/writing-operating-system-has
+https://en.as.com/en/2017/10/04/football/1507128419_220535.html?autoplay=1
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdBmv3vptCoxi9ftHMtuAY1bNrJEb0yXvjSgdgl1ZH0Dhr4YL
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZJg1NL3obHTr48B78drlTXG3vAZUj9OdhD2I-8RBpUIpNpZK
+https://english.stackexchange.com/questions/31060/is-it-proper-to-use-a-colon-followed-immediately-by-a-hyphen
+https://en.m.wikipedia.org/wiki/Caitlyn_Jenner
+https://en.m.wikipedia.org/wiki/Inhalable_insulin
+https://en.m.wikipedia.org/wiki/Kris_Jenner
+https://en.m.wikipedia.org/wiki/POSIX
+https://en.m.wikipedia.org/wiki/Responses_to_sneezing
+https://en.m.wikipedia.org/wiki/Robert_Kardashian
+https://en.wikipedia.org/wiki/Argentina%E2%80%93Brazil_football_rivalry
+https://en.wikipedia.org/wiki/Asymmetric_payoff
+https://en.wikipedia.org/wiki/Autonomous_communities_of_Spain
+https://en.wikipedia.org/wiki/Black_Beauty
+https://en.wikipedia.org/wiki/Careca_Bianchezi
+https://en.wikipedia.org/wiki/CD_Castell%C3%B3n
+https://en.wikipedia.org/wiki/Dabeli
+https://en.wikipedia.org/wiki/Hobo%E2%80%93Dyer_projection
+https://en.wikipedia.org/wiki/KNX_(standard)
+https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory
+https://en.wikipedia.org/wiki/White_Music
+https://galoremag.com/guys-admit-they-only-do-these-things-to-impress-girls/
+https://gist.github.com/confucious/2996597
+https://gist.github.com/fractaledmind/6068109
+https://gist.github.com/maxivak/66b46f691e978ed4e4df7627287b667e
+https://github.com/apache/maven-surefire
+https://github.com/kstaken/dockerfile-examples/tree/master/apache-php
+https://github.com/pcj/google-options
+https://github.com/schnerd/chrome-headless-screenshots/issues/16#issuecomment-336731895
+https://jezebel.com/5896523/the-top-29-reasons-why-its-okay-to-creepily-stare-at-womens-butts
+https://martinfowler.com/articles/dipInTheWild.html
+https://medium.com/my-name-is-midori/software-development-is-fucked-up-a002b3435be8
+https://mobile.nytimes.com/blogs/well/2016/04/21/why-do-girls-have-more-anxiety-than-boys/?referer=
+https://newrepublic.com/article/112188/how-word-lady-has-evolved
+https://photo.stackexchange.com/questions/27772/how-to-change-camera-model-with-exiftool
+https://photo.stackexchange.com/questions/56677/how-can-i-extract-just-the-value-of-a-tag-without-the-name-using-exiftool
+https://pm.stackexchange.com/questions/4251/why-would-teams-use-the-fibonacci-sequence-for-story-points
+https://profile.kannadamatrimony.com/profiledetail/viewprofile.php?id=T4027800&&dt-vid=20171004@offer&utm_source=PersonalisedMessageSEN-Site-gmail.com&utm_medium=Mailer&utm_campaign=PersonalisedMessageMailer&utm_content=PMSENVP
+https://qph.ec.quoracdn.net/main-qimg-13e7292aa9ee0758b631d9be18bd8941-c
+https://s12.favim.com/610/161106/fashion-makeup-goals-gorgeous-beautiful-site-model-models-Favim.com-4851422.jpeg
+https://s14.favim.com/orig/160405/dangerous-woman-snl-ariana-grande-be-alright-Favim.com-4169354.jpeg
+https://serverfault.com/questions/634883/why-cant-i-cd-to-a-directory-with-docker-run
+https://serverfault.com/questions/666149/docker-copy-issue-no-such-file-or-directory
+https://softwareengineering.stackexchange.com/questions/277487/hidden-dependencies-why-not
+https://softwareengineering.stackexchange.com/questions/333755/should-microservices-talk-to-each-other
+https://spectrumdesigns.org/
+https://sports.vice.com/en_us/article/mgynq8/la-liga-steps-into-the-messy-world-of-spanish-regionalism
+https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history/20460121?noredirect=1#comment80079932_20460121
+https://stackoverflow.com/questions/10622179/how-to-find-identify-large-files-commits-in-git-history/42544963?noredirect=1#comment80144405_42544963
+https://stackoverflow.com/questions/10657687/open-stream-from-uri
+https://stackoverflow.com/questions/10686963/command-line-arguments-vs-file-properties-properties-vs-system-properties
+https://stackoverflow.com/questions/11501418/is-it-possible-to-create-a-file-object-from-inputstream
+https://stackoverflow.com/questions/12147007/how-can-i-dump-the-entire-web-dom-in-its-current-state-in-chrome/46310076#46310076
+https://stackoverflow.com/questions/1488441/documentation-and-version-control/46457690#46457690
+https://stackoverflow.com/questions/14947916/import-csv-to-sqlite
+https://stackoverflow.com/questions/15823126/weird-java-runtime-error
+https://stackoverflow.com/questions/15823126/weird-java-runtime-error-currency-data/33729443?noredirect=1#comment79839132_33729443
+https://stackoverflow.com/questions/16064513/git-fatal-unable-to-write-new-index-file
+https://stackoverflow.com/questions/17209260/converting-java-util-properties-to-hashmapstring-string
+https://stackoverflow.com/questions/1776496/a-simple-command-line-to-download-a-remote-maven2-artifact-to-the-local-reposito
+https://stackoverflow.com/questions/17877639/is-there-any-way-to-check-reachability-test-of-server-in-jquery
+https://stackoverflow.com/questions/18053059/getresourceasstream-is-returning-null-properties-file-is-not-loading
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid7444.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid20900.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid14244.log
+http://cloudexpo2014east.sys-con.com/?q=event/session/2363
+http://forums.liverpoolfc.com/threads/377053-What-s-the-easternmost-European-city-that-has-staged-a-European-game
+http://gource.io/#
+https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html
+https://docs.chef.io/resource_service.html
+https://drill.apache.org/docs/querying-plain-text-files/
+https://dzone.com/articles/mapdb-agile-java-data-engine
+https://en.wikipedia.org/wiki/Pericoronitis
+https://gist.github.com/digitaljhelms/1354003
+https://gist.github.com/qiaoxueshi/5910150
+https://dzone.com/articles/jdk9-execute-java-code-like-unix-shell-script
+https://github.com/acaudwell/Gource/wiki/Videos
+https://github.com/jankotek/mapdb
+https://github.com/OpenHFT/Chronicle-Map
+https://jankotek.gitbooks.io/mapdb/content/sortedtablemap/
+https://github.com/patric-r/jvmtop
+https://samypesse.gitbooks.io/how-to-create-an-operating-system/Chapter-8/
+https://stackoverflow.com/questions/14940130/guava-merge-two-multimaps
+https://stackoverflow.com/questions/18134718/java-quickest-way-to-check-if-url-exists
+https://stackoverflow.com/questions/18185617/do-i-need-a-framework-in-order-to-use-dependency-injection
+https://stackoverflow.com/questions/19234831/where-are-docker-images-stored-on-the-host-machine
+https://stackoverflow.com/questions/19928256/when-to-choose-multithreading-or-multiprocessing
+https://stackoverflow.com/questions/20310566/jms-durable-subscription
+https://stackoverflow.com/questions/215718/reset-or-revert-a-specific-file-to-a-specific-revision-using-git
+https://stackoverflow.com/questions/21885787/setting-logback-xml-path-programmatically
+https://stackoverflow.com/questions/22186175/java-embedded-library-on-disk-key-value-database
+https://stackoverflow.com/questions/22692097/what-is-the-result-of-making-log4j-additivity-equals-to-true-or-false
+https://stackoverflow.com/questions/22795459/is-servicelocator-an-anti-pattern
+https://stackoverflow.com/questions/24017856/join-two-maps-by-key
+https://stackoverflow.com/questions/2526804/how-is-perls-inc-constructed-aka-what-are-all-the-ways-of-affecting-where-pe
+https://stackoverflow.com/questions/25948000/how-to-convert-string-to-jsonobject
+https://stackoverflow.com/questions/26290716/map-based-memoized-in-java8
+https://stackoverflow.com/questions/26638862/how-to-list-missing-dependencies-of-maven-project
+https://stackoverflow.com/questions/268680/how-can-i-monitor-the-active-thread-count-of-a-process-jvm-on-linux
+https://stackoverflow.com/questions/28065963/how-to-handle-cors-using-jax-rs-with-jersey
+https://stackoverflow.com/questions/29212041/get-file-name-and-parent-folder-of-url
+https://stackoverflow.com/questions/304268/getting-a-files-md5-checksum-in-java
+https://stackoverflow.com/questions/30691569/checking-if-a-url-exists-or-not-using-javascript
+https://stackoverflow.com/questions/3242873/grep-for-literal-strings
+https://stackoverflow.com/questions/3252851/how-to-display-request-headers-with-command-line-curl
+https://stackoverflow.com/questions/3601515/how-to-check-if-a-variable-is-set-in-bash
+https://stackoverflow.com/questions/36180296/docker-lstat-no-such-file-or-directory-error-when-building-image-file-is-the/46640365#46640365
+https://stackoverflow.com/questions/3709597/wait-until-all-jquery-ajax-requests-are-done
+https://stackoverflow.com/questions/3722354/what-does-the-term-memoize-imply
+https://stackoverflow.com/questions/38435221/how-to-pass-parameter-to-maven-plugin-from-cli
+https://stackoverflow.com/questions/38986057/how-to-set-image-name-in-dockerfile
+https://stackoverflow.com/questions/40082346/how-to-check-if-a-file-exists-in-a-shell-script
+https://stackoverflow.com/questions/41487024/aws-mount-s3-bucket-to-an-ec2-instance-later-ftp-tunneling
+https://stackoverflow.com/questions/42989459/httpd-is-a-virtual-package-provided-by-multiple-packages-you-must-explicitly-se
+https://stackoverflow.com/questions/43296019/docker-build-gives-unable-to-prepare-context-context-must-be-a-directory-use
+https://stackoverflow.com/questions/4367539/what-is-the-difference-between-reader-and-inputstream
+https://stackoverflow.com/questions/44916618/how-to-execute-a-java-script-with-jshell
+https://stackoverflow.com/questions/455338/how-do-i-check-if-an-object-has-a-key-in-javascript
+https://stackoverflow.com/questions/46370286/jsc-invoke-non-javascript-program/46410729#46410729
+https://stackoverflow.com/questions/46426526/how-to-run-a-jshell-file
+https://stackoverflow.com/questions/4738162/java-writting-reading-a-map-from-disk
+https://stackoverflow.com/questions/484119/why-doesnt-more-java-code-use-pipedinputstream-pipedoutputstream
+https://stackoverflow.com/questions/5007530/how-do-i-scroll-to-an-element-using-javascript
+https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables
+https://stackoverflow.com/questions/5225597/set-timeout-for-ajax-jquery
+https://stackoverflow.com/questions/5731162/xml-schema-or-dtd-for-logback-xml
+https://stackoverflow.com/questions/6469437/what-is-the-difference-between-caching-and-memoization
+https://stackoverflow.com/questions/6704197/why-use-a-groovy-shell-script-over-bash-when-memory-footprint-is-important
+https://stackoverflow.com/questions/8061511/how-to-handle-overtime-crons
+https://stackoverflow.com/questions/8103860/move-uploaded-file-gives-failed-to-open-stream-permission-denied-error-after
+https://stackoverflow.com/questions/8243157/building-a-process-pipe-with-processbuilder-in-java-7
+https://stackoverflow.com/questions/8243157/building-a-process-pipe-with-processbuilder-in-java-7/8243282?noredirect=1#comment79675153_8243282
+https://stackoverflow.com/questions/8285595/reading-properties-file-in-java
+https://stackoverflow.com/questions/8532960/how-do-you-run-javascript-script-through-the-terminal
+https://stackoverflow.com/questions/8653224/java-using-system-parameters-vs-regular-command-line-options
+https://stackoverflow.com/questions/8653797/java-csv-parser-with-string-separator-multi-character
+https://stackoverflow.com/questions/8996963/how-to-perform-case-insensitive-sorting-in-javascript
+https://stackoverflow.com/questions/9380690/how-to-see-if-resource-file-exists-in-java
+https://support.google.com/chrome/answer/142893?co=GENIE.Platform%3DDesktop&hl=en
+https://sysadmin.libhunt.com/project/autossh/vs/mosh
+https://tech.knewton.com/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/
+https://thesefootballtimes.co/2015/08/19/the-spain-before-greatness-world-cup-1982/
+https://trac.webkit.org/wiki/JSC
+https://unix.stackexchange.com/questions/128414/how-to-turn-on-all-default-binding-keys-of-vi-editing-mode-on-bash
+https://unix.stackexchange.com/questions/162104/how-to-change-the-kernel-max-pid-number
+https://unix.stackexchange.com/questions/49144/the-most-universal-scripting-language-for-linux-is
+https://upload.wikimedia.org/wikipedia/commons/a/a0/Provincias_de_Castilla_y_Le%C3%B3n.svg
+https://womenwrestlinggifs.tumblr.com/post/130233299654
+https://worksthatwork.com/4/branding-south-sudan
+https://www.11v11.com/teams/wales/tab/opposingTeams/opposition/Netherlands/
+https://en.wikipedia.org/wiki/Escom_(computer_corp)
+https://en.wikipedia.org/wiki/LineOne#From_LineOne_to_Tiscali
+https://www.1mg.com/drugs/etilaam-pro-0.5mg-20mg-tablet-129723
+https://www.animalplanet.com/tv-shows/my-cat-from-hell/
+https://www.backblaze.com/blog/causes-of-data-loss-and-some-statistics/
+https://www.boredpanda.com/mom-creates-shorts-clothing-girls-will-be-sharon-choksi/
+https://www.buzzfeed.com/alpozcelik/gluteus-maximus-booty-is-fabulous?utm_term=.ov1Amxdmde#.ia86jZxjxX
+https://www.buzzfeed.com/jessicamisener/the-33-best-chandler-bing-one-liners?utm_term=.hnZD0RW4#.ugy3yL8N
+https://www.buzzfeed.com/krystieyandoli/i-got-off-the-plane?utm_term=.tkzWedyK#.wbdLZY2K
+https://www.coachingpositiveperformance.com/13-approval-seeking-behaviours-you-need-to-stop/
+https://www.codeproject.com/articles/1044637/hidden-dependencies-as-a-smell
+https://www.cyberciti.biz/faq/shell-how-to-determine-the-exit-status-of-linux-and-unix-command/
+https://www.cyberciti.biz/faq/what-is-posix-shell/
+https://www.entrustdatacard.com/pages/ssl
+https://www.flipkart.com/acer-aspire-pentium-quad-core-4-gb-1-tb-hdd-linux-es1-533-laptop/p/itmev2pr6rgardbf?pid=COMEV2PRTNDTZRB3&cmpid=product.share.pp
+https://www.flipkart.com/hp-15-core-i3-6th-gen-4-gb-1-tb-hdd-windows-10-home-15q-bu013tu-laptop/p/itmewz9jnxhchuc7?pid=COMEWZ9JF2UCQUWN&cmpid=product.share.pp
+https://www.flipkart.com/hp-core-i5-7th-gen-8-gb-1-tb-hdd-windows-10-home-4-gb-graphics-15-au623tx-laptop/p/itmerb83ttebwfyh?pid=COMERB83RCJ6PZXZ&cmpid=product.share.pp
+https://www.flipkart.com/hp-omen-core-i5-7th-gen-8-gb-1-tb-hdd-windows-10-home-2-gb-graphics-15-ax248tx-gaming-laptop/p/itmergrnenkyf3kk?pid=COMERGRN2QGF4UZC&cmpid=product.share.pp
+https://www.flipkart.com/lenovo-core-i5-7th-gen-8-gb-1-tb-hdd-dos-2-gb-graphics-ip-320e-laptop/p/itmewm7fpzhtuadz?pid=COMEWM7FYFGCCBBR&cmpid=product.share.pp
+https://www.forbes.com/sites/jacquelynsmith/2013/01/30/30-motivational-quotes-for-job-seekers/#68b103b51e7f
+https://www.girlsaskguys.com/entertainment-arts/q573663-why-do-people-like-to-watch-people-fight-as-form
+https://www.girlsaskguys.com/fashion-style/q1043990-why-do-women-tend-to-like-wearing-tighter-fitting-clothing-than-men
+https://www.girlsaskguys.com/sexual-health/q45829-do-girls-like-when-their-nipples-get
+https://www.gitbook.com/
+https://www.gitbook.com/book/jankotek/mapdb/details
+https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details
+https://www.gitbook.com/explore?page=8&lang=
+https://www.google.com/search?num=40&biw=1409&bih=677&q=why+do+some+people+have+attached+earlobes&oq=why+do+some+people+have+attached+earlobes&gs_l=psy-ab.3...10172.11130.0.11396.3.3.0.0.0.0.113.285.2j1.3.0....0...1.1.64.psy-ab..0.1.89...35i39k1.0.mEoT9i6Zt5c
+https://www.google.com/search?num=40&q=%22before+you+automate%22+software&spell=1&sa=X&ved=0ahUKEwiNmKnu-evWAhXhzlQKHQemAxkQvwUIJSgA&biw=1409&bih=677
+https://www.google.com/search?num=40&q=%22reality+TV%22+%22mind+numbing%22&oq=%22reality+TV%22+%22mind+numbing%22&gs_l=psy-ab.3..0i8i30k1.10858.10858.0.11214.1.1.0.0.0.0.86.86.1.1.0....0...1..64.psy-ab..0.1.84....0.o0Y-qleMMNU
+https://www.google.com/search?num=40&q=%22stubborn+when+you%27re+right%22&oq=%22stubborn+when+you%27re+right%22&gs_l=psy-ab.3...13192.13835.0.14106.4.4.0.0.0.0.142.142.0j1.1.0....0...1.1.64.psy-ab..3.0.0....0.Wzij7L-Fhvw
+https://www.google.com/search?num=40&q=cooler+header+volleys+football&oq=cooler+header+volleys+football&gs_l=psy-ab.3...7059.10401.0.10681.17.16.0.0.0.0.202.1580.4j7j2.13.0....0...1.1.64.psy-ab..8.1.200...33i21k1.0.Vl2XQ2vu4rc
+https://www.google.com/search?num=40&q=fail+fast+%22system.exit%22&oq=fail+fast+%22system.exit%22&gs_l=psy-ab.3...5522.6513.0.6792.2.2.0.0.0.0.116.202.1j1.2.0....0...1.1.64.psy-ab..0.1.116...33i22i29i30k1.0.gkWxL9sxmTg
+https://www.google.com/search?num=40&q=femininity+and+athleticism+vulnerable+revealing&oq=femininity+and+athleticism+vulnerable+revealing&gs_l=psy-ab.3...4573.8241.0.8730.10.10.0.0.0.0.253.1235.3j6j1.10.0....0...1.1.64.psy-ab..0.7.927...33i160k1j33i21k1.0.N2xWntrcYvY
+https://www.google.com/search?num=40&q=hidden+dependencies+in+software+systems+antipattern&oq=hidden+dependencies+in+software+systems+antipattern&gs_l=psy-ab.3..33i160k1.14819.18314.0.18538.12.12.0.0.0.0.139.1162.4j7.11.0....0...1.1.64.psy-ab..1.11.1160...0i22i30k1j33i21k1.0.tkB71Q58yW0
+https://www.google.com/search?num=40&q=hunter+gatherer+computer+games+in+boys+childhood&oq=hunter+gatherer+computer+games+in+boys+childhood&gs_l=psy-ab.3...9575.11758.0.12063.16.16.0.0.0.0.140.1559.10j6.16.0....0...1.1.64.psy-ab..5.0.0....0.wmph3a8nTkU
+https://www.google.com/search?num=40&q=regionalism+spanish+football&oq=regionalism+spanish+football&gs_l=psy-ab.3...29904.32886.0.33096.9.9.0.0.0.0.96.689.8.8.0....0...1.1.64.psy-ab..2.0.0....0.bkKZVK-TSms
+https://www.google.com/search?num=40&q=show+docker+aufs+tree&oq=show+docker+aufs+tree&gs_l=psy-ab.3...64315.64315.0.65033.1.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..1.0.0....0.1x9WRWlIkKQ
+https://www.google.com/search?num=40&q=webinars+are+pointless&oq=webinars+are+pointless&gs_l=psy-ab.3...6741.9643.0.9739.22.14.0.0.0.0.131.636.3j3.6.0....0...1.1.64.psy-ab..16.6.632...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i10k1.0.WqmYEap5TMQ
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid15529.log
+https://www.girlsaskguys.com/sexual-health/q296987-how-conscious-girls-of-showing-their-cleavage
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&biw=2082&bih=992&q=heenan+vs+fuji+1989&oq=heenan+vs+fuji+1989&gs_l=psy-ab.3...430835106.430838381.0.430838651.9.8.1.0.0.0.184.661.2j3.5.0....0...1.1.64.psy-ab..3.2.280...33i160k1.0.gfQqf8IzqyU
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&q=iot+world+conference&spell=1&sa=X&ved=0ahUKEwjVwoD48u7WAhWLxIMKHVmcCsQQvwUIJSgA&biw=2082&bih=1095
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&q=operating+system+written+in+java&spell=1&sa=X&ved=0ahUKEwiLsZuAs9fWAhXBj1QKHSNgDMMQvwUIJSgA&biw=2082&bih=992
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&q=ux+next+conference&oq=ux+next+c&gs_l=psy-ab.3.0.0.592135858.592136047.0.592137656.2.2.0.0.0.0.124.226.0j2.2.0....0...1.1.64.psy-ab..0.2.223...0i22i30k1.0.nqxmXo2YhS0
+https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&q=why+men+don%27t+ask+for+help&spell=1&sa=X&ved=0ahUKEwiMnKf86rrWAhWHwFQKHaLBCKYQvwUIJSgA&biw=2082&bih=904&dpr=1
+https://www.google.com/search?q=%22code+in+their+head%22&oq=%22code+in+their+head%22&aqs=chrome..69i57.5146j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=%22everything+causes+cancer%22&rlz=1CDGOYI_enUS750US750&oq=%22everything+causes+cancer%22&aqs=chrome..69i57j0l3.3859j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=%22hard+to+read%22+spring&rlz=1CDGOYI_enUS750US750&oq=%22hard+to+read%22+spring&aqs=chrome..69i57j0l3.3646j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=%22pain+is+finite%22&oq=%22pain+is+finite%22&aqs=chrome..69i57.6384j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=%22Why+Is+the+New+Google+V8+Engine+So+Fast%3F%22&oq=%22Why+Is+the+New+Google+V8+Engine+So+Fast%3F%22&aqs=chrome..69i57.1125j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=%22window+of+vulnerability%22+data+backup&rlz=1CDGOYI_enUS750US750&oq=%22window+of+vulnerability%22+data+backup&aqs=chrome..69i57.25054j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=airlander+impossible+engineering&rlz=1CDGOYI_enUS750US750&oq=airlander+impossible+engineering&aqs=chrome..69i57.10630j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=Anodyne+prevents+amputation+or+neuropathy+in+diabetics&rlz=1CDGOYI_enUS750US750&oq=Anodyne+prevents+amputation+or+neuropathy+in+diabetics&aqs=chrome..69i57.692j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=are+most+deaths+painless&oq=are+most+deaths+painless&aqs=chrome..69i57.5046j0j7&sourceid=chrome&ie=UTF-8
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid8014.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid4002.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid6225.log
+http://233livenews.com/2017/02/02/thomas-partey-tells-story-pictures/
+http://m.imdb.com/title/tt5308322/
+http://posidev.com/blog/2009/06/04/set-ulimit-parameters-on-ubuntu/
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Tuning_and_Optimizing_Red_Hat_Enterprise_Linux_for_Oracle_9i_and_10g_Databases/chap-Oracle_9i_and_10g_Tuning_Guide-Setting_Shell_Limits_for_the_Oracle_User.html
+https://answers.yahoo.com/question/index?qid=20110525171138AAGTU2f
+https://askubuntu.com/questions/966496/cannot-fork-for-cron-jobs-but-ulimit-and-ram-looks-fine
+https://blog.kissmetrics.com/share-on-social-media/
+https://books.google.com/books?id=snbuBwAAQBAJ&pg=PA121&lpg=PA121&dq=english+stadium+piecemeal&source=bl&ots=fsJUuZLB5U&sig=0eMI3lzR95eBaL2k_ZIlLt2UZtI&hl=en&sa=X&ved=0ahUKEwiC6OTnpPvWAhWqw1QKHXpXAUgQ6AEIPDAE#v=onepage&q=english%20stadium%20piecemeal&f=false
+https://dzone.com/articles/15-productivity-tips-for-eclipse-java-ide-users
+https://en.wikipedia.org/wiki/Age_fraud_in_association_football
+https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon_(book)
+https://github.com/jwtk/jjwt/tree/master/src/main/java/io/jsonwebtoken
+https://medical-dictionary.thefreedictionary.com/thorax
+https://phpsolved.com/ubuntu-16-increase-maximum-file-open-limit-ulimit-n/
+https://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl
+https://stackoverflow.com/questions/16045139/redirector-in-ubuntu#
+https://stackoverflow.com/questions/16045139/redirector-in-ubuntu/16045568?noredirect=1#comment80547700_16045568
+https://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-for-creating-an-isolated-environment
+https://stackoverflow.com/questions/30908492/error-exception-thrown-by-the-agent-java-lang-nullpointerexception-when-start
+https://stackoverflow.com/questions/344203/maximum-number-of-threads-per-process-in-linux
+https://superuser.com/questions/559709/how-to-change-the-maximum-number-of-fork-process-by-user-in-linux
+https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=W2TeZlvD6xAMnSerDZXqcwsQ4%2FU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrKhsgUbey0DhlI_IfnwEXO5H_DFYoylAZl27Z_kUPGTaB5DOzom10FA4okJAToB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvrdDO81kNs4_X45yQ_l-7XfBTdB37CcBUOaCldkGGrkD9Fylf631juiuX-IyhyCjaa8Mr2AGbMN03G97rLpUgXbrWlprksuyT44l5N-CEnRr9YbxUSZZv0-bTzauvTvR1r765VL
+https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
+https://thesefootballtimes.co/2017/05/03/how-surinamese-migrants-revolutionised-dutch-football/
+https://thesefootballtimes.co/2017/09/09/how-amsterdam-changed-the-world-of-football-forever/
+https://thesefootballtimes.co/2017/10/12/how-history-defeated-a-great-era-of-yugoslav-national-team-talent/
+https://serverfault.com/questions/48717/practical-maximum-open-file-descriptors-ulimit-n-for-a-high-volume-system
+https://thesefootballtimes.co/2017/10/17/the-gentle-spanish-mastermind-rafa-benitezs-eventful-journey-to-tyneside/
+https://twitter.com/atletienglish_
+https://twitter.com/martinfowler/status/591673105216581632?lang=en
+https://unix.stackexchange.com/questions/108603/do-changes-in-etc-security-limits-conf-require-a-reboot
+https://unix.stackexchange.com/questions/124040/how-to-determine-the-max-user-process-value
+https://unix.stackexchange.com/questions/136854/understanding-the-difference-between-pid-max-ulimit-u-and-thread-max
+https://weather.com/weather/monthly/l/USSD0283:1:US
+https://wrestlingrumors.net/cody-hall-turned-offers-wwe/
+https://www.colchonero.com/media/galeria/4/3/3/2/9/n_atletico_de_madrid_angel_correa-10489233.jpeg
+https://www.cyberciti.biz/faq/creating-a-bootable-ubuntu-usb-stick-on-a-debian-linux/
+https://www.google.com/search?q=are+pepperoncinis+the+same+as+banana+peppers&rlz=1CDGOYI_enUS750US750&oq=are+pepperocibis+the+&aqs=chrome.1.69i57j0l2.7128j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=art+therapy&rlz=1CDGOYI_enUS750US750&oq=art+thera&aqs=chrome.0.0j69i57j0j5.5845j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=aspergers+productivity&oq=aspergers+productivity&aqs=chrome..69i57j0.3032j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=can+chrome+extensions+access+the+file+system&rlz=1CDGOYI_enUS750US750&oq=can+chrome+extensions+access+the+file+system&aqs=chrome..69i57.8473j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid1439.log
+https://stackoverflow.com/questions/16789288/java-lang-outofmemoryerror-unable-to-create-new-native-thread
+https://www.google.com/search?q=cleavage+looks+like+vagina&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=ivsn&ei=36DXWc2QC8OSjwOf9KngAw&start=40&sa=N&biw=375&bih=647
+https://www.google.com/search?q=colon+colony+etymology&oq=colon+colony+etymology&aqs=chrome..69i57.5008j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=consumer+reports+podcast&rlz=1CDGOYI_enUS750US750&oq=consumer+reports+podc&aqs=chrome.1.69i57j0.8771j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=dependency+injection+without+a+framework&oq=dependency+injection+without+a+fra&aqs=chrome.0.0j69i57j0l2.4919j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=direct+to+consumer+model&rlz=1CDGOYI_enUS750US750&oq=direct+to+consumer+model&aqs=chrome..69i57j0l3.4963j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=docker+cocoa+app&oq=docker+cocoa+app&aqs=chrome..69i57.4294j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=do+men+feel+objectified&oq=do+men+feel+objectified&aqs=chrome..69i57j69i64l3.4023j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=do+software+architects+need+domain+knowledge&oq=do+software+architects+need+domain+knowledge&aqs=chrome..69i57j69i64l3.6984j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=feminized+society&rlz=1CDGOYI_enUS750US750&oq=feminized+society&aqs=chrome..69i57j0.4578j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=feminudity&rlz=1CDGOYI_enUS750US750&oq=feminudity&aqs=chrome..69i57j0l3.8224j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=focused+diffuse+thinking&rlz=1CDGOYI_enUS750US750&oq=focused+diffu&aqs=chrome.1.69i57j0l3.6956j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=grease+john+travolta+hair&rlz=1CDGOYI_enUS750US750&oq=greaser+john+travolta&aqs=chrome.3.69i57j0l3.9062j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=how+air+conditioning+changed+america&rlz=1CDGOYI_enUS750US750&oq=how+air+conditioning+changed+am&aqs=chrome.1.69i57j0l3.15951j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=how+much+overhead+is+a+docker+container&oq=how+much+overhead+is+a+docker+container&aqs=chrome..69i57.5466j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=i+find+oral+sex+disgusting&rlz=1CDGOYI_enUS750US750&oq=i+find+oral+sex+disgusting&aqs=chrome..69i57.5599j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=inhalable+lantus&rlz=1CDGOYI_enUS750US750&oq=inhalable+lantus&aqs=chrome..69i57.7039j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=inhaled+insulin&rlz=1CDGOYI_enUS750US750&oq=inhale+ins&aqs=chrome.1.69i57j0l3.6799j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=is+it+normal+to+look+at+girls+butts&rlz=1CDGOYI_enUS750US750&oq=is+it+normal+to+look+at+girls+butts&aqs=chrome..69i57.19108j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=is+node.js+based+on+v8&rlz=1CDGOYI_enUS750US750&oq=is+node.js+based+on+v8&aqs=chrome..69i57.16931j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=java+memoization&oq=java+memoiza&aqs=chrome.0.0j69i57j0l4.1858j1j9&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=jealous+of+girls+with+big+butts&rlz=1CDGOYI_enUS750US750&oq=jealous+of+girls+with+big+butts&aqs=chrome..69i57.4393j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=l+arginine&rlz=1CDGOYI_enUS750US750&oq=l+arge&aqs=chrome.2.69i57j69i60j0l3.4380j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=laser+focus+aspergers&rlz=1CDGOYI_enUS750US750&oq=laser+focus+aspergers&aqs=chrome..69i57.10000j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=left+join+vs+outer+join&rlz=1CDGOYI_enUS750US750&oq=left+join+vs+outer+join&aqs=chrome..69i57.7585j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=memoization+java+map&oq=memoization+java+map&aqs=chrome..69i57j0.2887j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=micro+planars+feet&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwj54aLm8u7WAhVi2IMKHRBiB_MQ_AUICSgA&biw=2082&bih=1095&dpr=1
+https://www.google.com/search?q=nitroglycerin
+https://www.google.com/search?q=nitroglycerin&rlz=1CDGOYI_enUS750US750&oq=nitroglyg&aqs=chrome.1.69i57j0l3.5565j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=nodejs+as+glue+code&oq=nodejs+as+glue+code&aqs=chrome..69i57.3150j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=prostate+enlargement&oq=prostate+en&aqs=chrome.0.0j69i57j0l4.3213j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=shell+scripting+course&oq=shell+scripting+course&aqs=chrome..69i57j0l5.5316j1j4&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=should+breast+implants+be+covered+by+health+insurance&rlz=1CDGOYI_enUS750US750&oq=should+breast+implants+be+covered+by+health+insurance&aqs=chrome..69i57.11510j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=simplicity+doesn%27t+sell&rlz=1CDGOYI_enUS750US750&oq=simplicity+doesn%27t+sell&aqs=chrome..69i57.3698j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=smell+a+guys+colon&oq=smell+a+guys+colon+&aqs=chrome..69i57j0l2.7368j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=the+passion+economy&rlz=1CDGOYI_enUS750US750&oq=the+passion+economy&aqs=chrome..69i57j0.11739j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=transverse+recorder&oq=transverse+recorder&aqs=chrome..69i57j0.5524j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=trolling+%22attention+seeking%22&oq=trolling+%22attention+seeking%22&aqs=chrome..69i57.4799j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=unlearnable+frameworks&oq=unlearnable+frameworks&aqs=chrome..69i57.3071j1j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=unsubstantiated+advice&oq=unsubstantiated+advice&aqs=chrome..69i57.3799j1j9&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=what+do+cats+dream+about&oq=what+do+cats+dream&aqs=chrome.0.0j69i57j0l4.2763j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=what+makes+a+brand+tired&oq=what+makes+a+brand+tired&aqs=chrome..69i57.3431j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=why+are+human+buttocks+attractive&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=inv&ei=MKvdWbyQEuHm0gKus4P4Dg&start=20&sa=N&biw=375&bih=647
+https://www.google.com/search?q=why+do+antidepressants+give+you+headaches&rlz=1CDGOYI_enUS750US750&oq=why+ssris+give+you+headac&aqs=chrome.1.69i57j0.14083j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=why+do+humans+seek+approval&oq=why+do+humans+seek+approva&aqs=chrome.0.0j69i57.4212j0j7&sourceid=chrome&ie=UTF-8
+http://cookerspot.tuxfamily.org/wikka.php?wakka=Blog20100329BootChart2
+http://europe.chinadaily.com.cn/china/2017-02/17/content_28244786.htm
+http://flowchart.bro-h.com/windows-boot-process-flowchart/
+http://hwinterview.com/index.php/2016/10/08/power-on-computer/
+http://news.bbc.co.uk/sport2/hi/football/europe/8027857.stm
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid257202.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid388813.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid392559.log
+http://archive.oreilly.com/bsd/2001/09/13/Big_Scary_Daemons.html
+http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
+http://blog.ackx.net/asm-hello-world-bootloader.html
+http://cinnabar.sosdg.org/~qiyong/qxr/minix3/ident?i=kinfo_proc2
+http://cinnabar.sosdg.org/~qiyong/qxr/minix3/source/include/kvm.h#L59
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid1407327.log
+http://arsenalist.com/2007/09/12/logging-abstraction-is-utterly-pointless/
+http://backreference.org/2010/04/17/csv-parsing-with-awk/
+http://cinnabar.sosdg.org/~qiyong/qxr/minix3/source/minix/include/minix/param.h#L14
+http://cinnabar.sosdg.org/~qiyong/qxr/minix3/source/sys/sys/sysctl.h#L477
+http://cinnabar.sosdg.org/~qiyong/qxr/minix3/source/usr.bin/w/extern.h#L34
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid22636.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid31417.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid334.log
+http://codemanship.co.uk/parlezuml/blog/?postid=1300
+http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/SA/v11/i01/a6.htm
+http://comp.os.linux.setup.narkive.com/rVq07gw6/head-s-is-part-of-bootloader
+http://cs.gmu.edu/~hfoxwell/EC511/superg2003.v.h.tja_whitepaper.pdf
+http://csvkit.readthedocs.io/en/1.0.2/scripts/csvcut.html
+http://duartes.org/gustavo/blog/post/kernel-boot-process/
+http://errorprone.info/docs/flags
+http://errorprone.info/docs/installation
+http://events.sulekha.com/diwali-celebrations-events-tickets-bay-area
+http://events.sulekha.com/saratoga-diwali-2017_event-in_saratoga-ca_319934
+http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
+http://forum.arcadecontrols.com/index.php?topic=140792.0
+http://forums.liverpoolfc.com/threads/393052-Managers-Sacked-After-Defeat-To-Liverpool?p=12901671&posted=1#post12901671
+http://gmane.org/
+http://goaskalice.columbia.edu/answered-questions/where-does-penis-go-during-intercourse
+http://homepages.cs.ncl.ac.uk/nick.cook/csc2025/minix/minor-mod.html
+http://home.scarlet.be/bernard.jorion5/it/books/activemq-in-action.pdf
+http://humanorigins.si.edu/evidence/human-family-tree
+http://i4.irishmirror.ie/incoming/article5216567.ece/ALTERNATES/s615/Elche-FC-v-Real-Madrid-CF-La-Liga
+http://img1.pornreactor.cc/pics/post/full/Kamilla-18-%D0%BF%D0%BE%D1%80%D0%BD%D0%BE-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B-photo-porn-1470751.jpeg
+http://jsbeautifier.org/
+http://kirux-bootloaderpart3.blogspot.com/2014/02/writing-bootloader-in-gnu-gas-assembler.html
+http://linuxfinances.info/info/rdbmsmisclinux.html
+http://lists.ceph.com/pipermail/ceph-users-ceph.com/2014-September/043252.html
+http://lists.ceph.com/pipermail/ceph-users-ceph.com/2014-September/thread.html#42982
+http://manpages.ubuntu.com/manpages/xenial/man1/undbx.1.html
+http://manpages.ubuntu.com/manpages/zesty/man1/csv2rec.1.html
+http://mashable.com/2015/08/02/google-plus-history/#aTgmZ54sfsqB
+http://matteo.vaccari.name/blog/archives/1019
+http://matthewmorek.com/blog/depth-perception-in-user-interface-design
+http://matt.might.net/articles/sql-in-the-shell/
+http://media.gettyimages.com/photos/former-brazilian-football-players-jose-ely-miranda-aka-zito-jose-aka-picture-id150275743
+http://media.gettyimages.com/photos/world-cup-final-stockholm-sweden-sweden-2-v-brazil-5-29th-june-the-picture-id79047613
+http://media.rallycrossrx.com/rxonline_uploads/Grid%20Girls%20Brief%202010.pdf
+http://mikeos.sourceforge.net/write-your-own-os.html
+http://minix1.woodhull.com/manpages/man9/mined.9.html
+http://nasmcodeasy.blogspot.com/2014/04/using-c-printf-in-nasm.html
+http://newandroidbook.com/Articles/aboot.html
+http://picocms.org/
+http://print-a-calendar.com/december-2017
+https://0xax.gitbooks.io/linux-insides/content/Misc/how_kernel_compiled.html
+https://answers.yahoo.com/question/index?qid=20080127011511AAsxCNe
+https://answers.yahoo.com/question/index?qid=20101113193317AASeYwo
+https://apple.stackexchange.com/questions/220007/what-is-com-apple-bird-why-does-it-grow-so-big
+https://apple.stackexchange.com/questions/277691/can-i-block-entire-area-codes-from-my-iphone
+https://arstechnica.com/civis/viewtopic.php?f=14&t=1262477
+https://askubuntu.com/questions/173248/where-is-the-bootloader-stored-in-rom-ram-or-elsewhere#
+https://askubuntu.com/questions/214000/does-linux-filesystem-support-fast-file-searching-indexing
+https://askubuntu.com/questions/571012/is-there-an-existing-web-gui-for-locate/579346
+https://askubuntu.com/questions/98164/how-to-reformat-reindent-all-the-source-files-in-a-given-directory/974801#974801
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid4629.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid10227.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid11374.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid12970.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid13474.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid14732.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid15310.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid28802.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid2050.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid7339.log
+https://audioboom.com/posts/6466416-anfield-extra-inside-jurgen-klopp-s-inner-circle-with-raphael-honigstein
+https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions
+https://baptiste-wicht.com/posts/2011/11/print-strings-integers-intel-assembly.html
+https://beej.us/guide/bggdb/
+https://bitbucket.org/nikratio/s3ql/
+https://blog.flameeyes.eu/2009/10/multicall-binaries/
+https://blog.philippklaus.de/2010/02/have-a-look-at-your-mbr-using-dd-and-hexdump
+https://blogs.wsj.com/moneybeat/2017/11/06/its-all-about-lack-of-supply-as-global-stocks-hit-records/
+https://bonytobombshell.com/bombshell-aesthetics-building-attractive-female-body-imaginable/
+https://books.google.com/books?id=Of8nDwAAQBAJ&pg=PT37&lpg=PT37&dq=how+breakaway+league+england+came+about+1992&source=bl&ots=dIXJwvJ2fO&sig=QGrF-IMLMslIYgLI8bZAiy5funA&hl=en&sa=X&ved=0ahUKEwjqytPTiv3WAhULjlQKHSYpA94Q6AEIVzAH#v=onepage&q=how%20breakaway%20league%20england%20came%20about%201992&f=false
+https://brightside.me/inspiration-psychology/19-superb-psychological-tips-that-will-change-your-life-373110/
+https://cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext#body-4
+https://cdn.newsapi.com.au/image/v1/0cef7b91eccfe0b7ec8111024dea4fb7
+https://cdn.newsapi.com.au/image/v1/0cef7b91eccfe0b7ec8111024dea4fb7?width=700
+http://scienceblogs.com/gnxp/2007/09/06/why-asians-are-so-short-perhap/
+https://compbio.soe.ucsc.edu/rdb/
+https://confluence.atlassian.com/bitbucketserverkb/bitbucket-server-does-not-start-after-upgrade-due-to-classnotfoundexception-org-apache-catalina-core-jasperlistener-779171460.html
+https://containerjournal.com/2017/02/03/docker-containers-much-older-think-kind/
+https://content.bestthinking.com/s/1/thinkers/5802/images/625c7ec8-f173-460c-bf6b-938944d93bb4_972.jpeg
+http://scottberkun.com/2007/asshole-driven-development/
+https://csvkit.readthedocs.io/en/1.0.2/tutorial/3_power_tools.html#csvjoin-merging-related-data
+https://d1v8u1ev1s9e4n.cloudfront.net/53c06c58082d776fb5c5a420
+https://dave.cheney.net/2016/02/06/unhelpful-abstractions
+https://developers.redhat.com/blog/2014/01/22/convergence-immutability-and-image-based-deployments/
+https://divu.in/reduce-abstractions-reduce-complexity-2f2555e1c68e
+http://sdlmame.lngn.net/
+https://docs.oracle.com/cd/E36784_01/html/E36873/libkvm-3lib.html
+https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr025.html
+https://docstore.mik.ua/orelly/unix/sedawk/ch07_08.htm
+https://dzone.com/articles/java-command-line-interfaces-part-29-do-it-yoursel
+https://dzone.com/articles/java-command-line-interfaces-part-30-finale-observations
+https://dzone.com/articles/java-string-format-examples
+https://dzone.com/articles/jcmd-one-jdk-command-line-tool-to-rule-them-all
+https://dzone.com/articles/tidy-config-with-owner
+https://elinux.org/Debugging_by_printing
+https://em.wattpad.com/1b01b243da2f57f164ce5ded961c2ed3bcbcb773/687474703a2f2f36362e6d656469612e74756d626c722e636f6d2f62623938366463393231623130373666663531393461363062386666336533632f74756d626c725f6e746a6b356254773469317474623575676f335f3235302e676966?s=fit&h=360&w=360&q=80
+https://em.wattpad.com/4d46857d510caacbb11fccba9c391a3278d0765e/687474703a2f2f33332e6d656469612e74756d626c722e636f6d2f63616633356630653639306564376464616463333030396531363034336334322f74756d626c725f6e6e3332307571515a68317532316936616f315f3530302e676966?s=fit&h=360&w=360&q=80
+https://em.wattpad.com/cbb76383cfd6b63e3ee93df33da8c3fd8eabe0ff/687474703a2f2f6d656469612e74756d626c722e636f6d2f38636535333932366465666137666537333538346131653331343132326530372f74756d626c725f696e6c696e655f6d676a676d336848356d317278313375662e676966?s=fit&h=360&w=360&q=80
