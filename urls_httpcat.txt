@@ -1707,6 +1707,7 @@ https://en.wikipedia.org/wiki/Golden_Age_of_Television
 https://en.wikipedia.org/wiki/Golden_generation
 https://en.wikipedia.org/wiki/Golden_generation#Football
 https://en.wikipedia.org/wiki/Gold_standard
+https://en.wikipedia.org/wiki/Google_Data_Liberation_Front
 https://en.wikipedia.org/wiki/Grammatical_mood
 https://en.wikipedia.org/wiki/Graphic_character
 https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina
@@ -1966,6 +1967,7 @@ http://serverfault.com/questions/700055/postfix-not-receiving-mail-for-virtual-d
 http://serverfault.com/questions/768313/postfix-mail-server-refuses-connections-from-outside-mail-servers
 http://serverfault.com/questions/776928/correct-dns-settings-for-postfix
 https://eservices.mu.edu.sa/public/uploads/1420830536.9863Management%20Information%20System.pdf
+https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjO3xWXD5JQIaiRBGJ4jN-P-2foJQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UhWP-P-2bKf3QF85GQEVgz081Ew-P-3d-P-3d
 https://es.wikipedia.org/wiki/Glutamato_Ye-Y%C3%A9
 https://etfguide.com/boring-sector-spectacular-results/
 https://ewernli.wordpress.com/2013/07/22/simplicity-prevails/#comment-359
@@ -3855,6 +3857,7 @@ https://www.bustle.com/articles/177855-is-the-focus-on-body-baring-sports-at-the
 https://www.bustle.com/articles/178180-why-do-female-gymnasts-dance-during-floor-routines-men-dont-the-olympics-rule-has-old-timey
 https://www.bustle.com/articles/80733-8-things-people-on-antidepressants-are-seriously-tired-of-hearing
 https://www.buzzfeed.com/alpozcelik/gluteus-maximus-booty-is-fabulous?utm_term=.ov1Amxdmde#.ia86jZxjxX
+https://www.buzzfeed.com/amyodell/bikinis-are-the-worlds-most-feared-item-of-clothing?utm_term=.sbE4VRlwAz#.hnbmALQyZ4
 https://www.buzzfeed.com/anjalipatel/reasons-why-only-men-should-wear-suits?utm_term=.rb0064XYd#.ex1mln2ev
 https://www.buzzfeed.com/javim2/21-signs-your-cat-is-actually-your-child-bw9q?utm_term=.mn6b241V#.gaPwrG1Q
 https://www.buzzfeed.com/jessicamisener/the-33-best-chandler-bing-one-liners?utm_term=.hnZD0RW4#.ugy3yL8N
@@ -6048,6 +6051,7 @@ https://www.reddit.com/r/soccer/comments/2tdmml/i_made_a_list_of_over_60_footbal
 https://www.reddit.com/r/soccer/comments/34y1mv/what_are_some_good_football_documentaries/
 https://www.reddit.com/r/soccer/comments/3ao5lh/best_soccer_documentariesmovies/
 https://www.reddit.com/r/soccer/comments/cpf6w/are_there_any_good_soccer_movies/
+https://www.reddit.com/r/soccerstreams/
 https://www.reddit.com/r/SquaredCircle/comments/3cr84h/does_a_photo_of_vince_mcmahons_brother_exist/
 https://www.reddit.com/r/SquaredCircle/comments/3das4f/prowrestling_in_seattle_just_moved_here/
 https://www.reddit.com/r/SquaredCircle/comments/48v26d/why_do_uk_crowds_yell_one_fall/
@@ -6110,6 +6114,7 @@ https://www.semanticscholar.org/paper/The-UNIX-Shell-As-a-Fourth-Generation-Lang
 https://www.serverstack.com/blog/2012/11/21/debugging-nfs-file-access-on-server-and-client-side/
 https://www.shaadi.com/profile?profileid=dSH95031519&ubt=L2luYm94L2FjY2VwdGVkL2ludGVyZXN0c3xpbmJveDo1ODg0MjUyMzhiZmE1YTViN2FhYzkzZjYzMWYwNzgyOXwxMjYxMzY3ZjczZGE4NDdjNmE1NTU3YWZhZjQ1ZWU4Nw%3D%3D&source=unified&evt_ref=aW5ib3gtYWNjZXB0ZWRfbWVtYmVycw%3D%3D&datasrc=api
 https://www.shaadi.com/profile?profileid=KSH00713756&source=my-shaadi-recently-joined&pg_show_from=1&pg_searchresults_id=search%3A90613a46b88cca757b4a399756db9182&evt_ref=d2lkZ2V0LW15c2hhYWRpX2Rpc2NvdmVyeV9uZXdseV9qb2luZWQ%3D&datasrc=api&pg_ubt=aHR0cHM6Ly93d3cuc2hhYWRpLmNvbS9zZWFyY2gvcGFydG5lci9yZWNlbnRseS1qb2luZWR8fDI0
+https://www.shaadi.com/profile?profileid=tSH75795073&pg_show_from=1&np=search-result&evt_ref=ZGlzY292ZXJ5X25ld2x5X2pvaW5lZF91bnZpZXdlZF9ncmlk&navigation=1&profileNumber=7&pg_searchresults_id=search:c66266c53fdc4e2df50ae60c7c1763b1&datasrc=api&pg_ubt=aHR0cHM6Ly9teS5zaGFhZGkuY29tL3NlYXJjaC9kaXNjb3ZlcnkvcmVjZW50bHktam9pbmVkfHwyMA==
 https://www.shipit.co.uk/Confirmation_Page.htm
 https://www.shubhsblog.com/downloads/data/books/%5BCS%5D%20Modern%20Compiler%20Implementation%20in%20Java,%202nd%20ed.(Andrew%20Appel_%20Cambrdige%20University%20Press)(2004).pdf
 https://www.si.com/soccer/2017/07/24/atletico-set-start-new-season-three-away-fixtures-due-final-construction-new-stadium
@@ -6642,6 +6647,7 @@ http://time.com/24300/behind-bestie-what-we-learn-about-gender-from-new-dictiona
 http://time.com/3087527/stop-telling-women-our-most-valuable-asset-is-our-youth/
 http://time.com/3660487/online-personality/
 http://time.com/3720218/difference-between-american-british-humour/
+http://time.com/4667462/simpsons-predictions-donald-trump-lady-gaga/
 http://time.com/money/3959425/boring-investors-rich/
 http://timesofindia.indiatimes.com/city/kochi/Court-order-must-for-correcting-DOB-on-passport-HC/articleshow/48063175.cms?from=mdr
 http://timesofindia.indiatimes.com/life-style/relationships/love-sex/What-your-social-networking-photo-says-about-you/articleshow/15073979.cms?from=mdr
