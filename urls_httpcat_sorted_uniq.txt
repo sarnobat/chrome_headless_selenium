@@ -155,6 +155,7 @@ http://blog.emojipedia.org/who-owns-emoji/?utm_campaign=Emoji%2BWrap&utm_medium=
 http://blog.extramaster.net/2013/01/views-on-stackoverflow.html
 http://blog.getpostman.com/2016/02/03/curl-and-postman-work-wonderfully-together/#comment-13156
 http://blog.habrador.com/2013/10/how-to-add-stock-charts-to-your-website.html
+http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands
 http://blog.jonathanoliver.com/cqrs-event-sourcing-and-immutable-data/
 http://blog.markshead.com/34/emailing-a-webpage-from-the-command-line/
 http://blog.meetedgar.com/branding-101-dont-waste-time-trying-to-be-better-than-your-competition/
@@ -1154,6 +1155,7 @@ https://books.google.com/books?id=X2YnDAAAQBAJ&pg=PT45&lpg=PT45&dq=celtic+atleti
 https://books.google.com/books?id=xC-_BAAAQBAJ&pg=PA292&lpg=PA292&dq=why+are+human+buttocks+attractive&source=bl&ots=Uh-461H5KG&sig=S1H-2Gbj1lRk3lJj32H3kotUuzE&hl=en&sa=X&ved=0ahUKEwj7wJC-6ufWAhVIiVQKHTXqDzU4FBDoAQgoMAE#v=onepage&q=why%20are%20human%20buttocks%20attractive&f=false
 https://books.google.com/books?id=XfPLVx6qS_cC&pg=PA73&lpg=PA73&dq=garden+hose+data+unix&source=bl&ots=U4hJv3nePG&sig=ZKeZ0Z6dptArPNxfbQdAS-eMl7A&hl=en&sa=X&ved=0ahUKEwiytcel3M_TAhVir1QKHdO4BQMQ6AEIPjAE#v=onepage&q=garden%20hose%20data%20unix&f=false
 https://books.google.com/books?id=xXQ5-UgfM_0C&pg=PA171&lpg=PA171&dq=aspergers+slow+worker&source=bl&ots=ykkDvqcJZJ&sig=TFdO9JLg4WkMGgEHfKRhL9EOqBs&hl=en&sa=X&ved=0ahUKEwjUneH__qHSAhXjrVQKHaNpDRMQ6AEIjwEwEw#v=onepage&q=aspergers%20slow%20worker&f=false
+https://books.google.com/books?id=yfkvBQAAQBAJ&pg=PA75&lpg=PA75&dq=your+education+doesn%27t+make+you+a+better+person+your+behavior+does&source=bl&ots=-Bz_c5sT2Q&sig=rNkA2T82ujkA8sFQGm7tCE27R7w&hl=en&sa=X&ved=0ahUKEwiQpInb0urXAhUph1QKHZtIDiIQ6AEIUzAK#v=onepage&q=your%20education%20doesn't%20make%20you%20a%20better%20person%20your%20behavior%20does&f=false
 https://books.google.com/books?id=y_JyCQAAQBAJ&pg=PA357&lpg=PA357&dq=feminine+non+threatening&source=bl&ots=7d7TQzAcw0&sig=5gyZGk3X2rYW-xJiM_O-0yIbTMA&hl=en&sa=X&ved=0ahUKEwixuJ-E___RAhUmllQKHa_YB_M4ChDoAQhKMAw#v=onepage&q=feminine%20non%20threatening&f=false
 https://books.google.com/books?id=yyVACwAAQBAJ&printsec=frontcover&dq=documentary+storytelling+bernard&hl=en&sa=X&ved=0ahUKEwik4tiLgsHSAhVJ_WMKHX5-BZEQ6AEIHDAA#v=onepage&q&f=false
 https://books.google.com/books?id=zkEYS9EKGN4C&printsec=frontcover#v=onepage&q&f=false
@@ -1289,6 +1291,8 @@ https://discussions.apple.com/thread/2386264?start=0&tstart=0
 https://discussions.apple.com/thread/5065222?start=0&tstart=0
 https://discussions.apple.com/thread/6988530?start=15&tstart=0
 https://discussions.apple.com/thread/7705504?start=0&tstart=0
+https://disqus.com/by/sarnobat/
+https://disqus.com/home/discussion/channel-gifs/so_comfy/
 https://disqus.com/home/discussion/sambastuff/why_i_hate_spring/
 https://distrowatch.com/dwres-mobile.php?resource=major
 https://distrowatch.com/dwres-mobile.php?resource=ranking
@@ -1922,6 +1926,7 @@ https://forums.aws.amazon.com/thread.jspa?threadID=240908
 https://forums.aws.amazon.com/thread.jspa?threadID=51225
 https://forums.cpanel.net/threads/how-to-check-motherboard-model-number-on-linux.106397/
 https://forums.cpanel.net/threads/why-didnt-my-email-get-delivered-or-where-did-my-email-go.387312/
+https://forums.digitalspy.com/discussion/1271685/do-they-have-terraced-houses-in-america/p2
 https://forums.digitalspy.com/discussion/818871/channel-5-will-not-be-showing-serie-a-next-season
 https://forums.imore.com/ask-question/379393-why-my-call-volume-low-iphone-7-plus.html
 https://forums.lime-technology.com/topic/14401-bug-spaces-in-share-names-not-being-fully-quotexportedquot-under-nfs/
@@ -2322,6 +2327,7 @@ https://media.giphy.com/media/sDMgn4AG2IPYI/giphy.aspx
 https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=W2TeZlvD6xAMnSerDZXqcwsQ4%2FU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrKhsgUbey0DhlI_IfnwEXO5H_DFYoylAZl27Z_kUPGTaB5DOzom10FA4okJAToB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvrdDO81kNs4_X45yQ_l-7XfBTdB37CcBUOaCldkGGrkD9Fylf631juiuX-IyhyCjaa8Mr2AGbMN03G97rLpUgXbrWlprksuyT44l5N-CEnRr9YbxUSZZv0-bTzauvTvR1r765VL
 https://medical-dictionary.thefreedictionary.com/thorax
 https://medium.com/ballerinalang/ballerina-the-best-an-integration-architect-can-get-4f78c4f79c56
+https://medium.com/@bjornmeansbear/some-vernacular-design-principles-their-application-today-241743c93b1d
 https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f
 https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
 https://medium.com/fwd-thoughts/the-future-is-without-apps-ddf43ec52aab#.oauxzp8y0
@@ -2811,6 +2817,7 @@ https://stackoverflow.com/questions/415602/set-value-of-textarea-in-jquery
 https://stackoverflow.com/questions/41783903/append-data-to-an-s3-object/45767026#45767026
 https://stackoverflow.com/questions/4234119/ruby-pipes-how-do-i-tie-the-output-of-two-subprocesses-together
 https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns
+https://stackoverflow.com/questions/42626068/how-do-i-list-all-remote-refs
 https://stackoverflow.com/questions/42748169/debian-cannot-fork-memory-issue
 https://stackoverflow.com/questions/427654/regex-implementation-to-replace-group-with-its-lowercase-version
 https://stackoverflow.com/questions/42989459/httpd-is-a-virtual-package-provided-by-multiple-packages-you-must-explicitly-se
@@ -2879,7 +2886,9 @@ https://stackoverflow.com/questions/8103860/move-uploaded-file-gives-failed-to-o
 https://stackoverflow.com/questions/820888/java-rtsp-client-server-library
 https://stackoverflow.com/questions/8243157/building-a-process-pipe-with-processbuilder-in-java-7
 https://stackoverflow.com/questions/8243157/building-a-process-pipe-with-processbuilder-in-java-7/8243282?noredirect=1#comment79675153_8243282
+https://stackoverflow.com/questions/8251933/how-can-i-log-the-stdout-of-a-process-started-by-start-stop-daemon
 https://stackoverflow.com/questions/8285595/reading-properties-file-in-java
+https://stackoverflow.com/questions/8323029/revert-back-changes-made-by-merge
 https://stackoverflow.com/questions/8532960/how-do-you-run-javascript-script-through-the-terminal
 https://stackoverflow.com/questions/8563294/modifying-existing-file-content-in-java#
 https://stackoverflow.com/questions/8653224/java-using-system-parameters-vs-regular-command-line-options
@@ -3244,11 +3253,13 @@ https://therapists.psychologytoday.com/rms/prof_detail.php?profid=121898&ref=12&
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=179517&ref=9&sid=1498496145.9651_8907&zipcode=95128&spec=251&tr=ResultsName
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=80545&ref=3&sid=1498496145.9651_8907&zipcode=95128&spec=251&tr=ResultsName
 https://therapists.psychologytoday.com/rms/prof_detail.php?profid=90476&ref=18&sid=1492631390.648_22468&city=San+Jose&county=Santa+Clara&state=CA&spec=251&tr=ResultsName
+https://thesefootballtimes.co/2014/07/30/a-potted-history-of-paris-saint-germain/
 https://thesefootballtimes.co/2015/08/19/the-spain-before-greatness-world-cup-1982/
 https://thesefootballtimes.co/2016/05/19/when-real-madrid-castilla-reached-the-copa-del-rey-final-and-played-in-europe/
 https://thesefootballtimes.co/2017/01/08/diego-godin-and-the-story-of-footballs-ultimate-survivor/
 https://thesefootballtimes.co/2017/05/03/how-surinamese-migrants-revolutionised-dutch-football/
 https://thesefootballtimes.co/2017/06/14/how-a-star-studded-argentina-lifted-the-under-20-world-cup-in-1997/
+https://thesefootballtimes.co/2017/08/24/the-magic-of-bosnia-and-psg-legend-safet-susic/
 https://thesefootballtimes.co/2017/09/09/how-amsterdam-changed-the-world-of-football-forever/
 https://thesefootballtimes.co/2017/10/12/how-history-defeated-a-great-era-of-yugoslav-national-team-talent/
 https://thesefootballtimes.co/2017/10/17/the-gentle-spanish-mastermind-rafa-benitezs-eventful-journey-to-tyneside/
@@ -3321,6 +3332,7 @@ https://twitter.com/hashtag/noframeworks?f=tweets&vertical=default
 https://twitter.com/hashtag/pointlessabstraction
 https://twitter.com/hashtag/purchasefunnel
 https://twitter.com/hashtag/riazor?f=images&vertical=default&lang=en
+https://twitter.com/hashtag/SafetSu%C5%A1i%C4%87?src=hash
 https://twitter.com/hashtag/skylargrey
 https://twitter.com/hashtag/thenandnow?f=images&vertical=default&lang=en
 https://twitter.com/hashtag/uselessabstraction
@@ -3340,6 +3352,7 @@ https://twitter.com/mick_birchall/status/499653415291858944
 https://twitter.com/MikeLoBurgio/status/862868407724773380
 https://twitter.com/nixcraft/status/854259070299021314?lang=en
 https://twitter.com/oddsbible/status/715189595655131137
+https://twitter.com/OldFootball11
 https://twitter.com/oldfootball11/status/712059525323423744
 https://twitter.com/patricoruna/status/738666446683799552
 https://twitter.com/patricoruna/status/782148159271297024
@@ -3940,6 +3953,7 @@ https://www.good.is/infographics/transparency-who-is-coming-to-america
 https://www.goodlookingloser.com/laid/index/hollywood-loves-your-inferiority-complex-part-2
 https://www.goodlookingloser.com/podcasts
 https://www.goodlookingloser.com/podcasts?format=feed&type=rss
+https://www.goodreads.com/quotes/719950-your-beliefs-don-t-make-you-a-better-person-your-behavior
 https://www.goodreads.com/work/quotes/102974-the-intelligent-investor?page=3
 https://www.google.co.in/search?q=do+women+enjoy+packing+suitcases&oq=do+women+enjoy+packing+suitcases&aqs=chrome..69i57j69i64l3.5277j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.co.in/search?q=e-hoarding&oq=e-hoarding&aqs=chrome..69i57j0l5.3373j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -3987,6 +4001,8 @@ https://www.google.com/search?num=40&ei=atQMWtDUBYa88QXnx4boDA&q=java+port+watch
 https://www.google.com/search?num=40&ei=C64UWsXtNcrT0gKm3oeYBw&q=%22unit+of+abstraction%22&oq=%22unit+of+abstraction%22&gs_l=psy-ab.3..0i7i30k1j0i30k1j0i8i30k1l2.4361.4977.0.5192.2.2.0.0.0.0.103.202.1j1.2.0....0...1.1.64.psy-ab..0.2.200...0i22i30k1.0.Xb-QwyCxm-U
 https://www.google.com/search?num=40&ei=d5H3WcCpOYySjwPw9I3oBw&q=CONFIG_DEBUGSYM+minix&oq=CONFIG_DEBUGSYM+minix&gs_l=psy-ab.3...3547.4441.0.4616.6.6.0.0.0.0.266.686.2j2j1.5.0....0...1.1.64.psy-ab..1.1.99...0i22i30k1.0.Gju5zrLC010
 https://www.google.com/search?num=40&ei=dHIPWpyfIsqjwASHxZjACg&q=%22input+form%22+cli&oq=%22input+form%22+cli&gs_l=psy-ab.3..0i10i30k1j0i13i5i30k1l2j0i8i30k1l6j0i8i10i30k1.6806.7318.0.7541.2.2.0.0.0.0.287.410.0j1j1.2.0....0...1.1.64.psy-ab..0.2.406....0.Z2QPeN1AeQQ
+https://www.google.com/search?num=40&ei=kqYhWuWCGsSA8wXz_Qc&q=vernacular+branding+-mexico&oq=vernacular+branding+-mexico&gs_l=psy-ab.3...38887.40230.0.40471.8.8.0.0.0.0.95.654.8.8.0....0...1.1.64.psy-ab..0.2.180...0i22i30k1.0.KZyo9ZM6Ydc
+https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabulary&oq=branding+vocabulary&gs_l=psy-ab.3..0j0i7i30k1l2j0i5i30k1j0i8i30k1j0i5i30k1.34783.34934.0.35165.3.3.0.0.0.0.157.369.0j3.3.0....0...1.1.64.psy-ab..2.1.156....0.-zb3vJbLATM
 https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstraction&oq=useless+abstraction&gs_l=psy-ab.3..0i22i30k1.500288.504254.0.504512.25.22.1.0.0.0.131.1923.17j4.21.0....0...1.1.64.psy-ab..3.22.1919...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i8i13i30k1j0i13i30k1.0.xv6_XXzvE6E
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
 https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+investing+become+affordable&oq=when+did+investing+become+affordable&gs_l=psy-ab.3..33i21k1.8901.12987.0.13172.36.30.0.0.0.0.252.3327.6j13j5.24.0....0...1.1.64.psy-ab..12.24.3319...0j35i39k1j0i131k1j0i20i264k1j0i67k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.0zLs2CzJiBE
@@ -4839,12 +4855,14 @@ https://www.google.com/search?q=the+decline+of+rich+text+editors&rlz=1CDGOYI_enU
 https://www.google.com/search?q=the+future+is+female&rlz=1CDGOYI_enUS590US590&oq=the+future+&aqs=chrome.2.69i57j0l3.5569j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+passion+economy&rlz=1CDGOYI_enUS750US750&oq=the+passion+economy&aqs=chrome..69i57j0.11739j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=the+passion+myth&oq=the+passion+myth&aqs=chrome..69i57j69i64l3.2939j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=the+projects&oq=the+projects&aqs=chrome..69i57j0l5.956j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=the+uber+economy&rlz=1CDGOYI_enUS750US750&oq=the+uber+economy&aqs=chrome..69i57j0l3.3696j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=thinking+fast+and+slow&rlz=1CDGOYI_enUS590US590&oq=thinking+faat+abd&aqs=chrome.1.69i57j0l3.5286j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=third+wave+nationalism&rlz=1CDGOYI_enUS750US750&oq=third+wave+nationalism&aqs=chrome..69i57.10092j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=tidy+indent-spaces&oq=tidy+indent-spaces&aqs=chrome..69i57.1948j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=tindergarden&oq=tindergarden&aqs=chrome..69i57j0l3.2987j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tldr+%22executive+summary%22&oq=tldr+%22executive+summary%22&aqs=chrome..69i57.9775j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=tmnt+episode+scripts&oq=tmnt+episode+scripts&aqs=chrome..69i57j0l2.5918j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=tofu+done+right&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=isvn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIzJbH17_QAhVG7mMKHTlqDlMQ_AUIBygB
 https://www.google.com/search?q=top-up+mortgage&oq=top-up+mort&aqs=chrome.0.0j69i57j0l4.3367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=torvalds+unix+philosophy&oq=torvalds+unix+philosophy&aqs=chrome..69i57.5725j0j7&sourceid=chrome&ie=UTF-8
@@ -5453,6 +5471,7 @@ https://www.maketecheasier.com/portable-apps-for-linux/
 https://www.marketplace.org/2013/08/20/business/whatever-happened-good-old-fashioned-bank-robbery
 https://www.massmutual.com/dividends
 https://www.maxim.com/women/shay-mitchell-likes-nip-slips-2017-4
+https://www.mayflowerlanguages.com/the-conflict-between-a-strong-brand-and-local-language/
 https://www.mediawiki.org/wiki/Talk:Parsoid/Archive#In_Browser_MediaWiki_article_to_HTML_conversion
 https://www.med.upenn.edu/pan/documents/Aspergerjobs.pdf
 https://www.meetup.com/AmericanAngels/events/238036956/
@@ -5567,6 +5586,7 @@ https://www.perl.com/pub/2004/08/09/commandline.html
 https://www.phonearena.com/news/Infographic-Who-loses-and-breaks-their-smartphones-most_id42185
 https://www.phpied.com/javascript-shell-scripting/
 https://www.piliapp.com/actual-size/inch-ruler/
+https://www.pinderful.net/uploads/pins/2015/07/big/aab4b0b81e321c9315054eb64b0b033d.jpeg
 https://www.pindrop.com/irs-phone-scam-live-call_analysis/
 https://www.pinterest.com/carlesmiche/metropolitano-atletico-madrid/
 https://www.pinterest.com/fernandolzarori/club-atl%C3%A9tico-de-madrid-sad-201011/
@@ -6254,6 +6274,8 @@ https://www.youtube.com/watch?v=rMVfwASeAMc
 https://www.youtube.com/watch?v=RP5_tucQCyM
 https://www.youtube.com/watch?v=rul_8oxQ8NI
 https://www.youtube.com/watch?v=RX8vSK7Kepc
+https://www.youtube.com/watch?v=s6jbqBZ8s6I
+https://www.youtube.com/watch?v=-SCB1t28nDU
 https://www.youtube.com/watch?v=sih6U5hsGhY
 https://www.youtube.com/watch?v=SKzMShLaB6w
 https://www.youtube.com/watch?v=S-l24VRklBQ&app=desktop
@@ -6725,6 +6747,7 @@ http://www.bbc.com/news/entertainment-arts-29205286
 http://www.bbc.com/news/entertainment-arts-39149127
 http://www.bbc.com/news/magazine-13863498
 http://www.bbc.com/news/magazine-18686742
+http://www.bbc.com/news/magazine-35913577
 http://www.bbc.com/news/magazine-35993633
 http://www.bbc.com/news/magazine-40861875
 http://www.bbc.com/news/uk-wales-35719731
@@ -6770,6 +6793,7 @@ http://www.besoccer.com/new/the-best-moments-in-atletico-madrid-s-history
 http://www.bethesdamagazine.com/Bethesda-Magazine/November-December-2008/Why-Do-Teen-Girls-Dress-the-Way-They-Do/
 http://www.betternovelproject.com/blog/withhold-information/
 http://www.beurs.nl/treemap/dowjones
+http://www.bigapplecurry.com/2013/05/06/karnataka-style-chutney-pudi/
 http://www.bitflop.dk/articles/web-application-with-a-single-entry-point.html
 http://www.bizjournals.com/sanjose/news/2012/04/16/best-buy-to-close-east-palo-alto-store.html
 http://www.bizjournals.com/sanjose/news/2014/10/03/google-to-buy-big-chunk-of-pacific-shores-iconic.html
@@ -7179,6 +7203,7 @@ http://www.etf.com/sections/blog/23097-youre-in-the-wrong-large-cap-etf.html?nop
 http://www.etf.com/sections/index-investor-corner/etfs-bigger-really-better
 http://www.etf.com/VOO
 http://www.etfscreen.com/correlation.php
+http://www.ethicsdaily.com/you-may-be-smart-but-that-doesnt-make-you-moral-cms-21096
 http://www.eurogamer.net/articles/2016-02-19-watch-are-fighting-games-losing-popularity
 http://www.eurograduate.com/article.asp?id=3970&pid=2
 http://www.eurosport.com/football/liga/2016-2017/atletico-madrid-shocked-by-death-of-former-midfielder-cleber-santana-in-crash_sto5965473/story.shtml
