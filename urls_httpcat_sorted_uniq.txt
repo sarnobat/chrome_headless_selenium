@@ -1774,6 +1774,7 @@ https://en.wikipedia.org/wiki/Ram%C3%B3n_de_Carranza_Trophy
 https://en.wikipedia.org/wiki/Ray_Kurzweil
 https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
 https://en.wikipedia.org/wiki/Reference_implementation
+https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
 https://en.wikipedia.org/wiki/Resting_bitch_face
 https://en.wikipedia.org/wiki/Reverse_discrimination
@@ -2654,6 +2655,7 @@ https://stackoverflow.com/questions/15091148/hashmaps-and-null-values
 https://stackoverflow.com/questions/15333033/what-is-the-exact-meaning-of-invasive-and-what-makes-spring-non-invasive
 https://stackoverflow.com/questions/15452884/single-column-data-to-multiple-columns
 https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device
+https://stackoverflow.com/questions/15597666/awk-to-print-field-2-first-then-field-1
 https://stackoverflow.com/questions/15600463/parse-mails-body-using-mailx-and-bash-scripting/45125116#45125116
 https://stackoverflow.com/questions/1575762/orm-technologies-vs-jdbc
 https://stackoverflow.com/questions/15823126/weird-java-runtime-error
@@ -3502,6 +3504,7 @@ http://sweetadorablegirls.tumblr.com/post/157286852875/jordyn-jones
 https://wiki.archlinux.org/index.php/Secure_Shell#Autossh_-_automatically_restarts_SSH_sessions_and_tunnels
 https://wiki.centos.org/TipsAndTricks/WindowsShares
 https://wiki.debian.org/DebianRepository
+https://wikidiff.com/stumbling/bumbling
 https://wiki.eclipse.org/EASE/Scripts
 https://wiki.eclipse.org/Eclipse_Monkey/Overview
 https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty#Setting_a_Web_Application_Context
@@ -8120,6 +8123,7 @@ http://www.thefreedictionary.com/Perogative
 http://www.thegeekstuff.com/2009/11/how-to-install-edit-or-remove-cron-jobs-in-batch-mode/
 http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/
 http://www.thegeekstuff.com/2010/07/logrotate-examples
+http://www.thegeekstuff.com/2012/03/lsbinit-script
 http://www.thegenesiscode.com/bio
 http://www.thehindu.com/news/cities/chennai/Public-Call-Offices-battling-declining-patronage/article14951009.ece
 http://www.thehistoryofwwe.com/97.htm

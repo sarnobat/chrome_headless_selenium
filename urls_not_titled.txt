@@ -60,6 +60,7 @@ https://en.wikipedia.org/wiki/Linux_startup_process
 https://en.wikipedia.org/wiki/Marseille_turn
 https://en.wikipedia.org/wiki/Nutmeg_(football)
 https://en.wikipedia.org/wiki/Rabona
+https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
 https://en.wikipedia.org/wiki/Simple_Sloppy_Semantic_Database
 https://en.wikipedia.org/wiki/Strozzi_NoSQL
@@ -179,6 +180,7 @@ https://stackoverflow.com/questions/11785309/linux-assembly-and-printf
 https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 https://stackoverflow.com/questions/124671/picking-a-random-element-from-a-set
 https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device
+https://stackoverflow.com/questions/15597666/awk-to-print-field-2-first-then-field-1
 https://stackoverflow.com/questions/1632113/what-is-the-difference-between-sed-and-awk
 https://stackoverflow.com/questions/16751274/is-awk-a-programming-language-or-just-a-tool
 https://stackoverflow.com/questions/1731357/multi-language-command-line-source-code-formatter
@@ -278,6 +280,7 @@ https://unix.stackexchange.com/questions/86955/does-the-kernel-have-a-main-funct
 https://us.spdrs.com/en/etf/spdr-portfolio-total-stock-market-ETF-SPTM
 https://virtualboxes.org/images/minix/
 https://webpass.net/metros
+https://wikidiff.com/stumbling/bumbling
 https://wiki.netbsd.org/how_netbsd_boots_on_x86/
 https://wiki.ubuntu.com/Tracker
 https://www.adwdiabetes.com/product/18713/agamatrix-jazz-wireless-2-meter-strips-lancets-100ct
@@ -830,6 +833,7 @@ http://www.telegraph.co.uk/news/2016/09/26/what-is-third-party-ownership-in-foot
 http://www.telegraph.co.uk/news/health/news/6702455/Smaller-crisp-packets-under-Government-plans.html
 http://www.thebrunettediaries.com/tbd-shows-you-how-to-cleverly-fake-a-bigger-butt/
 http://www.thefiscaltimes.com/Articles/2014/09/18/Men-Lose-Their-Electronics-More-Women-Do
+http://www.thegeekstuff.com/2012/03/lsbinit-script
 http://www.tldp.org/HOWTO/Assembly-HOWTO/hello.html
 http://www.tldp.org/HOWTO/Linux-i386-Boot-Code-HOWTO/kernel_head.html
 http://www.tldp.org/LDP/LG/issue34/ayers2.html
