@@ -14,10 +14,13 @@ http://lzimages.lazygirls.info/victoria_justice_deleted_victorious_scene_speak_t
 http://otherwords.org/safety_net/
 http://retromash.com/2017/11/16/if-you-love-panini-stickers-you-have-to-watch-this-documentary-stuck-on-you/
 https://answers.yahoo.com/question/index?qid=20111228105456AAKBozL
+https://apple.stackexchange.com/questions/16593/how-do-i-start-texteditor-from-the-command-line/308063#308063
+https://apple.stackexchange.com/questions/25844/can-i-open-files-in-textedit-from-the-terminal-in-mac-os-x
 https://apple.stackexchange.com/questions/42737/how-do-i-restore-a-previous-version-of-my-ssh-keypair-files
 https://askubuntu.com/questions/130574/ip-address-change-wont-take-effect
 https://askubuntu.com/questions/131823/cant-make-zsh-the-default-shell
 https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
+https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
 https://books.google.com/books?id=yfkvBQAAQBAJ&pg=PA75&lpg=PA75&dq=your+education+doesn%27t+make+you+a+better+person+your+behavior+does&source=bl&ots=-Bz_c5sT2Q&sig=rNkA2T82ujkA8sFQGm7tCE27R7w&hl=en&sa=X&ved=0ahUKEwiQpInb0urXAhUph1QKHZtIDiIQ6AEIUzAK#v=onepage&q=your%20education%20doesn't%20make%20you%20a%20better%20person%20your%20behavior%20does&f=false
 https://disqus.com/by/sarnobat/
 https://disqus.com/home/discussion/channel-gifs/so_comfy/
@@ -53,6 +56,7 @@ https://en.wikipedia.org/wiki/Golden_generation
 https://en.wikipedia.org/wiki/Golden_generation#Football
 https://en.wikipedia.org/wiki/Google_Data_Liberation_Front
 https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina
+https://en.wikipedia.org/wiki/Hampi
 https://en.wikipedia.org/wiki/High_rising_terminal
 https://en.wikipedia.org/wiki/Initial_ramdisk
 https://en.wikipedia.org/wiki/Keepie_uppie
@@ -62,6 +66,7 @@ https://en.wikipedia.org/wiki/Nutmeg_(football)
 https://en.wikipedia.org/wiki/Rabona
 https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
+https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 https://en.wikipedia.org/wiki/Simple_Sloppy_Semantic_Database
 https://en.wikipedia.org/wiki/Strozzi_NoSQL
 https://en.wikipedia.org/wiki/Terminate_and_stay_resident_program
@@ -217,6 +222,7 @@ https://stackoverflow.com/questions/4032209/is-md5-still-good-enough-to-uniquely
 https://stackoverflow.com/questions/42626068/how-do-i-list-all-remote-refs
 https://stackoverflow.com/questions/42748169/debian-cannot-fork-memory-issue
 https://stackoverflow.com/questions/43851456/how-to-comment-on-jenkins-build-failed-results
+https://stackoverflow.com/questions/45227380/convert-unix-epoch-time-to-date-in-google-sheets
 https://stackoverflow.com/questions/5399873/object-oriented-design-for-an-investment-stock-and-options-portfolio-in-python
 https://stackoverflow.com/questions/5467690/how-to-merge-two-files-using-awk
 https://stackoverflow.com/questions/6710555/how-to-use-qemu-to-run-a-non-gui-os-on-the-terminal
@@ -270,6 +276,7 @@ https://unix.stackexchange.com/questions/139297/what-are-the-two-head-s-files-in
 https://unix.stackexchange.com/questions/150767/qemu-cant-run-linux-kernel
 https://unix.stackexchange.com/questions/162104/how-to-change-the-kernel-max-pid-number/162105#162105
 https://unix.stackexchange.com/questions/192445/how-to-truncate-text-lines-to-n-characters-maximum
+https://unix.stackexchange.com/questions/265127/how-do-get-ls-to-list-directories-with-a-trailing-forward-slash/408841#408841
 https://unix.stackexchange.com/questions/274279/how-does-a-bootloader-actually-hand-off-to-a-kernel
 https://unix.stackexchange.com/questions/27794/running-python-script-from-terminal-without-py-extension
 https://unix.stackexchange.com/questions/3086/command-line-friendly-full-text-indexing
@@ -292,6 +299,7 @@ https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=da
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=hunter+gatherer+in+books
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=paper+roll+dispenser
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A5%2Ck%3Aevent+sourcing&keywords=event+sourcing&ie=UTF8&qid=1508517816&rnid=1000
+https://www.amazon.com/stores/node/13608909011?_encoding=UTF8&field-lbr_brands_browse-bin=Lamicall&ref_=w_bl_hsx_s_pc_web_13608909011
 https://www.amazon.com/Venkat-Subramaniam/e/B001JOS4R2/ref=dp_byline_cont_book_1
 https://www.bigbustours.com/en/san-francisco/find-a-bus-stop-san-francisco/
 https://www.bogleheads.org/forum/viewtopic.php?t=101369
@@ -328,6 +336,7 @@ https://www.fullmatchreplay.com/replay.php?match=307322&vid=238382
 https://www.gnu.org/software/nosql/4gl.txt
 https://www.goodreads.com/quotes/719950-your-beliefs-don-t-make-you-a-better-person-your-behavior
 https://www.google.com/search?num=40
+https://www.google.com/search?num=40&biw=1432&bih=798&ei=TCgnWv7xFMHxvgSCio3YDw&q=%22chest+pumping%22+meaning&oq=%22chest+pumping%22+meaning&gs_l=psy-ab.3..35i39k1.821829.822422.0.822669.2.2.0.0.0.0.153.279.0j2.2.0....0...1.1.64.psy-ab..0.2.278...0.0.iSV2Nah3cLQ
 https://www.google.com/search?num=40&ei=178MWvChE8fpvgTjzpCgDg&q=unix+data+entry+tool&oq=unix+data+entry+tool&gs_l=psy-ab.3..33i22i29i30k1l9.12880.14337.0.14568.6.6.0.0.0.0.99.540.6.6.0....0...1.1.64.psy-ab..0.6.538...0i8i30k1j33i160k1.0._AfMOAyBNTE
 https://www.google.com/search?num=40&ei=3mICWv-PF8GZ8wWU-L3YAw&q=markdown+file+database+-cms+-blog&oq=markdown+file+database+-cms+-blog&gs_l=psy-ab.3...31832.33168.0.33319.6.6.0.0.0.0.189.447.2j2.4.0....0...1.1.64.psy-ab..2.0.0....0.22NDCJFlTyk
 https://www.google.com/search?num=40&ei=atQMWtDUBYa88QXnx4boDA&q=java+port+watchdog&oq=java+port+watchdog&gs_l=psy-ab.3...4212.7171.0.7299.9.9.0.0.0.0.117.800.4j4.8.0....0...1.1.64.psy-ab..1.6.596...0j0i7i30k1j0i7i10i30k1j0i67k1j0i8i7i30k1.0.HMWeUig4YUk
@@ -340,6 +349,7 @@ https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstrac
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
 https://www.google.com/search?num=40&ei=tnokWtLWD5S0jAPKhIPYCQ&q=agamatrix+jazz+wireless+2+walgreens&oq=agamatrix+jazz+wireless+2+walgreens&gs_l=psy-ab.3...15369.16775.0.17087.10.9.0.0.0.0.186.849.0j6.6.0....0...1.1.64.psy-ab..4.5.687...33i22i29i30k1j33i21k1j33i160k1.0.IobcVESHR3I
 https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+investing+become+affordable&oq=when+did+investing+become+affordable&gs_l=psy-ab.3..33i21k1.8901.12987.0.13172.36.30.0.0.0.0.252.3327.6j13j5.24.0....0...1.1.64.psy-ab..12.24.3319...0j35i39k1j0i131k1j0i20i264k1j0i67k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.0zLs2CzJiBE
+https://www.google.com/search?num=40&q=some+usbc+ports+not+working+mackbook&nfpr=1&sa=X&ved=0ahUKEwjOreyCjPTXAhUClZAKHehwC9QQvgUIJygB&biw=1432&bih=798
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&ei=c7_7Wam8JtGMjwP1jLz4Cw&q=grownups+commercial+2017&oq=grownups+commercial+2017&gs_l=psy-ab.3...1644.3147.0.3443.5.5.0.0.0.0.345.806.2-2j1.3.0....0...1.1.64.psy-ab..2.2.599...0i13i30k1j0i22i30k1j0i8i13i30k1.0.86ufBRnaLZQ
 https://www.google.com/search?q=%22high+horse%22+diet&oq=%22high+horse%22+diet&aqs=chrome..69i57j0l5.7103j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22if+god+used+twitter%22&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjdjpbq-4fXAhVEi1QKHb9iD8UQ_AUICSgA&biw=1456&bih=721&dpr=2
@@ -348,6 +358,7 @@ https://www.google.com/search?q=%22security+updates%22+pointless&oq=%22security+
 https://www.google.com/search?q=art of passive aggressiveness
 https://www.google.com/search?q=black+friday+absurdity&rlz=1CDGOYI_enUS750US750&oq=black+friday+absurdity&aqs=chrome..69i57.11415j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=bootstrap+%22big+bang%22+boot&rlz=1CDGOYI_enUS750US750&oq=bootstrap+%22big+bang%22+boot&aqs=chrome..69i57.8498j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=buca+di+beppo&oq=bocca+de+beppo&aqs=chrome.1.69i57j0l5.5251j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=can+the+president+be+arrested&rlz=1CDGOYI_enUS750US750&oq=can+the+preside&aqs=chrome.1.69i57j0j5j0.5291j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=charisma+black+hole&oq=charisma+black+hole&aqs=chrome..69i57.3522j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=csvjoin&rlz=1CDGOYI_enUS750US750&oq=csvjoin&aqs=chrome..69i57j69i60j0l3.6661j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -440,6 +451,7 @@ https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.hal
 https://www.idiva.com/news-relationships/17-things-every-girl-who-went-to-a-co-ed-school-will-relate-to/15100669
 https://www.infoq.com/news/2008/02/realitydrivendevelopment
 https://www.instagram.com/justgirlyblog/?hl=en
+https://www.instagram.com/p/BcQM15uhwLE/
 https://www.instagram.com/p/BSyTVpVFAyX/?taken-by=oxymoron_ism
 https://www.intertech.com/Blog/whats-package-info-java-for/
 https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=SPMO&ticker=SPMO&title=powershares-s-p-500-momentum-portfolio
@@ -587,6 +599,7 @@ https://www.urbandictionary.com/define.php?term=Socially%20tone%20deaf
 https://www.urbandictionary.com/define.php?term=Uptalk
 https://www.urbandictionary.com/define.php?term=valley+girl
 https://www.urbandictionary.com/define.php?term=Whore%20Mouth
+https://www.urologyhealth.org/urologic-conditions/erectile-dysfunction/treatment
 https://www.usatoday.com/story/tech/news/2017/01/18/amazon-bookstores-brick-and-mortar/96667506/
 https://www-users.cs.york.ac.uk/susan/joke/foot.htm
 https://www.vagrantup.com/docs/cli/destroy.html

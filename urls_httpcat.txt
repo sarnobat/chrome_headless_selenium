@@ -1009,11 +1009,13 @@ https://appealtoauthority.wordpress.com/2009/08/06/the-great-bus-battle-greyhoun
 https://app.hiive.co.uk/courses/documentary-research/7942/#/
 https://apple.stackexchange.com/questions/139904/see-call-history-from-a-computer/139907#139907
 https://apple.stackexchange.com/questions/157260/notifications-on-dual-monitors-how-can-i-specify-which-monitor
+https://apple.stackexchange.com/questions/16593/how-do-i-start-texteditor-from-the-command-line/308063#308063
 https://apple.stackexchange.com/questions/182871/i-want-to-make-vlc-my-default-player-on-mac-os-x-10-10-3
 https://apple.stackexchange.com/questions/20050/how-to-reload-autofs-on-lion-without-restarting
 https://apple.stackexchange.com/questions/20050/how-to-reload-autofs-on-lion-without-restarting
 https://apple.stackexchange.com/questions/220007/what-is-com-apple-bird-why-does-it-grow-so-big
 https://apple.stackexchange.com/questions/254259/how-can-i-get-3-finger-gesture-drag-in-new-macos-sierra/254268#254268
+https://apple.stackexchange.com/questions/25844/can-i-open-files-in-textedit-from-the-terminal-in-mac-os-x
 https://apple.stackexchange.com/questions/272644/is-there-a-faster-way-to-insert-text-at-cursor-in-applescript-than-keystroke
 https://apple.stackexchange.com/questions/277691/can-i-block-entire-area-codes-from-my-iphone
 https://apple.stackexchange.com/questions/280203/install-old-version-of-homebrew-on-snow-leopard
@@ -1063,6 +1065,7 @@ https://askubuntu.com/questions/568277/how-do-i-get-past-the-libc-dependency-iss
 https://askubuntu.com/questions/571012/is-there-an-existing-web-gui-for-locate/579346
 https://askubuntu.com/questions/668088/remove-leading-or-trailing-spaces-in-file-or-folder-names
 https://askubuntu.com/questions/686239/how-do-i-check-the-version-of-ubuntu-i-am-running
+https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
 https://askubuntu.com/questions/764158/how-to-enable-wake-on-lan-wol-in-ubuntu-16-04
 https://askubuntu.com/questions/777005/working-14-04-ubuntu-to-error-no-such-device-grub-rescue/906045#906045
 https://askubuntu.com/questions/836048/ssh-returns-no-matching-host-key-type-found-their-offer-ssh-dss
@@ -1716,6 +1719,7 @@ https://en.wikipedia.org/wiki/Grammatical_mood
 https://en.wikipedia.org/wiki/Graphic_character
 https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina
 https://en.wikipedia.org/wiki/Guest_ranch
+https://en.wikipedia.org/wiki/Hampi
 https://en.wikipedia.org/wiki/Happy_path
 https://en.wikipedia.org/wiki/Haptic_technology#Microsoft
 https://en.wikipedia.org/wiki/Hebbian_theory#Hebbian_learning_account_of_mirror_neurons
@@ -1849,6 +1853,7 @@ https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
 https://en.wikipedia.org/wiki/Reference_implementation
 https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
+https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 https://en.wikipedia.org/wiki/Resting_bitch_face
 https://en.wikipedia.org/wiki/Reverse_discrimination
 https://en.wikipedia.org/wiki/River_Thames_frost_fairs
@@ -2963,6 +2968,7 @@ https://stackoverflow.com/questions/43851456/how-to-comment-on-jenkins-build-fai
 https://stackoverflow.com/questions/44084846/cannot-connect-to-the-docker-daemon-on-macos
 https://stackoverflow.com/questions/44916618/how-to-execute-a-java-script-with-jshell
 https://stackoverflow.com/questions/4517301/difference-between-pid-and-tid
+https://stackoverflow.com/questions/45227380/convert-unix-epoch-time-to-date-in-google-sheets
 https://stackoverflow.com/questions/45525485/reconstruct-neo4j-db-from-nioneo-logical-log
 https://stackoverflow.com/questions/455338/how-do-i-check-if-an-object-has-a-key-in-javascript
 https://stackoverflow.com/questions/45697609/what-spring-projects-are-libraries-not-framework-oriented/45700299#45700299
@@ -3589,6 +3595,7 @@ https://unix.stackexchange.com/questions/192445/how-to-truncate-text-lines-to-n-
 https://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem
 https://unix.stackexchange.com/questions/196677/what-is-tmp-x11-unix
 https://unix.stackexchange.com/questions/244983/using-dd-to-clone-a-disk-while-mounted-risks
+https://unix.stackexchange.com/questions/265127/how-do-get-ls-to-list-directories-with-a-trailing-forward-slash/408841#408841
 https://unix.stackexchange.com/questions/274279/how-does-a-bootloader-actually-hand-off-to-a-kernel
 https://unix.stackexchange.com/questions/27794/running-python-script-from-terminal-without-py-extension
 https://unix.stackexchange.com/questions/293304/using-netcat-for-port-forwarding
@@ -3814,6 +3821,7 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Abelt+badge+clip&page=2&key
 https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Abook+sleeves+transparent&page=2&keywords=book+sleeves+transparent&ie=UTF8&qid=1480736927&spIA=B01AXJ6VFU,B0151CUB9Q
 https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Aaps%2Ck%3Adesk+table+with+power+grommet&page=2&keywords=desk+table+with+power+grommet&ie=UTF8&qid=1503531992&spIA=B06ZXZZHSB,B06Y1DVNQD,B01LX5LIIK,B01LZ3V8SH
 https://www.amazon.com/s/ref=sr_pg_3?rh=i%3Aaps%2Ck%3Amodular+furniture&page=3&keywords=modular+furniture&ie=UTF8&qid=1483937010&spIA=B01GQ0VQWS,B01LH50TB6,B00OSB29DS,B00CCEVSNA,B002803XAO,B000YTNKK4
+https://www.amazon.com/stores/node/13608909011?_encoding=UTF8&field-lbr_brands_browse-bin=Lamicall&ref_=w_bl_hsx_s_pc_web_13608909011
 https://www.amazon.com/The-Container-Store/b/ref=bl_dp_s_web_3023037011?ie=UTF8&node=3023037011&field-lbr_brands_browse-bin=The+Container+Store
 https://www.amazon.com/Venkat-Subramaniam/e/B001JOS4R2/ref=dp_byline_cont_book_1
 https://www.amazon.co.uk/Atlas-Universe-Insiders-Garlick-Ph-D-x/dp/1416955585/ref=sr_1_4?ie=UTF8&qid=1487459165&sr=8-4&keywords=children%27s+atlas+of+the+universe
@@ -4196,6 +4204,7 @@ https://www.google.com/search?num=40
 https://www.google.com/search?num=40&biw=1131&bih=930&q=+event+sourcing+nondeterminism&oq=+event+sourcing+nondeterminism&gs_l=serp.3...20251.22196.0.22509.2.2.0.0.0.0.60.113.2.2.0....0...1.1.64.serp..0.0.0.aTh0XMBTu_k
 https://www.google.com/search?num=40&biw=1288&bih=679&q=muang+thong+thani+in+bangkok+planned+city+empty+buildings&oq=muang+thong+thani+in+bangkok+planned+city+empty+buildings&gs_l=serp.3...946.946.0.1155.1.1.0.0.0.0.160.160.0j1.1.0....0...1.1.64.serp..0.0.0.jLyy5Kjqg1k
 https://www.google.com/search?num=40&biw=1409&bih=677&q=why+do+some+people+have+attached+earlobes&oq=why+do+some+people+have+attached+earlobes&gs_l=psy-ab.3...10172.11130.0.11396.3.3.0.0.0.0.113.285.2j1.3.0....0...1.1.64.psy-ab..0.1.89...35i39k1.0.mEoT9i6Zt5c
+https://www.google.com/search?num=40&biw=1432&bih=798&ei=TCgnWv7xFMHxvgSCio3YDw&q=%22chest+pumping%22+meaning&oq=%22chest+pumping%22+meaning&gs_l=psy-ab.3..35i39k1.821829.822422.0.822669.2.2.0.0.0.0.153.279.0j2.2.0....0...1.1.64.psy-ab..0.2.278...0.0.iSV2Nah3cLQ
 https://www.google.com/search?num=40&ei=178MWvChE8fpvgTjzpCgDg&q=unix+data+entry+tool&oq=unix+data+entry+tool&gs_l=psy-ab.3..33i22i29i30k1l9.12880.14337.0.14568.6.6.0.0.0.0.99.540.6.6.0....0...1.1.64.psy-ab..0.6.538...0i8i30k1j33i160k1.0._AfMOAyBNTE
 https://www.google.com/search?num=40&ei=3mICWv-PF8GZ8wWU-L3YAw&q=markdown+file+database+-cms+-blog&oq=markdown+file+database+-cms+-blog&gs_l=psy-ab.3...31832.33168.0.33319.6.6.0.0.0.0.189.447.2j2.4.0....0...1.1.64.psy-ab..2.0.0....0.22NDCJFlTyk
 https://www.google.com/search?num=40&ei=atQMWtDUBYa88QXnx4boDA&q=java+port+watchdog&oq=java+port+watchdog&gs_l=psy-ab.3...4212.7171.0.7299.9.9.0.0.0.0.117.800.4j4.8.0....0...1.1.64.psy-ab..1.6.596...0j0i7i30k1j0i7i10i30k1j0i67k1j0i8i7i30k1.0.HMWeUig4YUk
@@ -4368,6 +4377,7 @@ https://www.google.com/search?num=40&q=show+docker+aufs+tree&oq=show+docker+aufs
 https://www.google.com/search?num=40&q=simpsons+narrative+techniques&oq=simpsons+narrative+techniques&gs_l=serp.3..33i21k1.6533.7617.0.7755.10.10.0.0.0.0.116.815.6j3.9.0....0...1.1.64.serp..1.9.814...0i22i30k1j33i160k1.e7H37nHyv8M
 https://www.google.com/search?num=40&q=software+architect+%22visual+learners%22&oq=software+architect+%22visual+learners%22&gs_l=psy-ab.3..33i160k1.73963.75858.0.76138.3.3.0.0.0.0.152.315.2j1.3.0....0...1.1.64.psy-ab..0.1.152.XcCJ1RyJJAg
 https://www.google.com/search?num=40&q=software+Engineering+productivity+research+google&oq=software+Engineering+productivity+research+google&gs_l=psy-ab.3...2154.3299.0.7687.9.8.0.0.0.0.452.1314.2-2j1j1.4.0....0...1.1.64.psy-ab..6.0.0.Q3Y3RHXd0bI
+https://www.google.com/search?num=40&q=some+usbc+ports+not+working+mackbook&nfpr=1&sa=X&ved=0ahUKEwjOreyCjPTXAhUClZAKHehwC9QQvgUIJygB&biw=1432&bih=798
 https://www.google.com/search?num=40&q=spike+scrum&oq=spike+scrum&gs_l=psy-ab.3..0i20k1j0l2j0i20k1.13100.14900.0.15202.7.7.0.0.0.0.104.480.6j1.7.0....0...1.1.64.psy-ab..0.7.476...0i67k1.VMqa8WOVL34
 https://www.google.com/search?num=40&q=spoilers+on+tv+screen+adhesive+putty+blutak&oq=spoilers+on+tv+screen+adhesive+putty+blutak&gs_l=serp.3...8217.9450.0.9673.9.9.0.0.0.0.85.706.9.9.0....0...1c.1.64.serp..0.1.79...30i10k1.wT-QQyXJgrs
 https://www.google.com/search?num=40&q=strategic+alliances+between+websites+link+exchange&oq=strategic+alliances+between+websites+link+exchange&gs_l=serp.3...12108.14755.0.14979.14.14.0.0.0.0.187.1356.3j9.12.0....0...1c.1.64.serp..2.8.815...33i21k1j33i160k1.yIaY8cCQ7wM
@@ -4551,6 +4561,7 @@ https://www.google.com/search?q=brand+value+vs+stock+price&rlz=1CDGOYI_enUS750US
 https://www.google.com/search?q=breasts+tv+tropes&oq=breasts+tv+tropes&aqs=chrome..69i57j0l2.3567j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=brick+means+dual+voltage&rlz=1CDGOYI_enUS590US590&oq=brick+means+dual+voltage&aqs=chrome..69i57.14701j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=bridge+router&oq=bridge+router&aqs=chrome..69i57j0l5.3510j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=buca+di+beppo&oq=bocca+de+beppo&aqs=chrome.1.69i57j0l5.5251j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=bugzilla+subtasks&oq=bugzilla+subtasks&aqs=chrome..69i57.3147j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=bullet+journal&rlz=1CDGOYI_enUS590US590&oq=bullet+journal&aqs=chrome..69i57j0l3.25864j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=bullion&oq=bullion&aqs=chrome..69i57j69i60j69i65j69i59j69i60j69i61.1558j0j4&sourceid=chrome&ie=UTF-8
@@ -5600,6 +5611,7 @@ https://www.infoq.com/news/2008/02/realitydrivendevelopment
 https://www.infoq.com/news/2016/04/event-sourcing-anti-pattern
 https://www.instacart.com/
 https://www.instagram.com/justgirlyblog/?hl=en
+https://www.instagram.com/p/BcQM15uhwLE/
 https://www.instagram.com/p/BOYjmHIFfQN/
 https://www.instagram.com/p/BSyTVpVFAyX/?taken-by=oxymoron_ism
 https://www.integrateadvisors.org/services/
@@ -6309,6 +6321,7 @@ https://www.urbandictionary.com/define.php?term=Uptalk
 https://www.urbandictionary.com/define.php?term=valley+girl
 https://www.urbandictionary.com/define.php?term=valley+girl
 https://www.urbandictionary.com/define.php?term=Whore%20Mouth
+https://www.urologyhealth.org/urologic-conditions/erectile-dysfunction/treatment
 https://www.usa.canon.com/internet/portal/us/home/support/details/printers/inkjet-multifunction/mx-series-inkjet/mx922?tab=drivers_downloads
 https://www.usajobs.gov/GetJob/ViewDetails/354140000
 https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/individuals-with-disabilities/
