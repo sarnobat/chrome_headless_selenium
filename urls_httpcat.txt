@@ -1239,6 +1239,7 @@ https://cdn-img.pressreader.com/pressdisplay/docserver/getimage.aspx?regionKey=a
 https://cdnjs.com/libraries/purl
 https://cdn.newsapi.com.au/image/v1/0cef7b91eccfe0b7ec8111024dea4fb7
 https://cdn.newsapi.com.au/image/v1/0cef7b91eccfe0b7ec8111024dea4fb7?width=700
+https://charuzu.wordpress.com/2012/06/02/ode-to-joy-rowan-atkinson/
 http://scholar.harvard.edu/heiditworek/publications/telegraph-and-bank-interdependence-global-communications-and-capitalism
 http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1299&context=etd_projects
 http://school-ratings.com/cities/San_Francisco_South_Bay_Area.html
@@ -1909,6 +1910,7 @@ https://en.wikipedia.org/wiki/TN_status
 https://en.wikipedia.org/wiki/Tree_of_life_(biology)
 https://en.wikipedia.org/wiki/Turret
 https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory
+https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory
 https://en.wikipedia.org/wiki/Underground_Railroad
 https://en.wikipedia.org/wiki/Underscoring
 https://en.wikipedia.org/wiki/Unfriended
@@ -2450,6 +2452,7 @@ https://medium.com/the-design-innovator/iteration-is-not-design-668695445f76
 https://medium.com/true-investing/no-risk-no-reward-d84f370f6572#.7dn21076l
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d
 http://smedleyfinancial.com/wp/impact-of-war-on-stock-markets/
+https://mega.nz/#!9cxXnR6D!z8E5lPFUAuXnFeYZa-e1oULjZ6Qipln_ngwF6sV-PVU
 https://meta.discourse.org/t/is-forum-migration-really-worth-it/7644
 https://m.facebook.com/businessinsider/posts/10152129957849071
 https://m.facebook.com/hashtag/cowpalaceroyale
@@ -2699,6 +2702,7 @@ https://softwareengineering.stackexchange.com/questions/254735/are-c-static-libr
 https://softwareengineering.stackexchange.com/questions/254947/difference-between-a-heap-and-a-priority-queue
 https://softwareengineering.stackexchange.com/questions/277487/hidden-dependencies-why-not
 https://softwareengineering.stackexchange.com/questions/285677/why-dont-windows-linux-use-relational-databases-rdbms
+https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
 https://softwareengineering.stackexchange.com/questions/32425/i-still-cant-figure-out-how-to-program/32427
 https://softwareengineering.stackexchange.com/questions/333755/should-microservices-talk-to-each-other
 https://softwareengineering.stackexchange.com/questions/355722/what-spring-projects-are-libraries-not-framework-oriented
@@ -3004,6 +3008,7 @@ https://stackoverflow.com/questions/6084475/how-to-check-if-a-path-points-to-an-
 https://stackoverflow.com/questions/6084475/how-to-check-if-a-path-points-to-an-existing-file-with-java-7s-new-file-api
 https://stackoverflow.com/questions/6161823/dd-how-to-calculate-optimal-blocksize
 https://stackoverflow.com/questions/6185994/unix-find-list-of-files-from-stdin
+https://stackoverflow.com/questions/6245570/how-to-get-the-current-branch-name-in-git
 https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 https://stackoverflow.com/questions/6469437/what-is-the-difference-between-caching-and-memoization
 https://stackoverflow.com/questions/6603015/check-whether-a-string-matches-a-regex
@@ -3506,6 +3511,7 @@ https://twitter.com/excitement/status/879095631431815171
 https://twitter.com/FansDelAtletico/media
 https://twitter.com/FinallyPablo/status/896856667765305346
 https://twitter.com/FOTOSATLETI
+https://twitter.com/hashtag/2kindsofpeople?lang=en
 https://twitter.com/hashtag/autismatwork
 https://twitter.com/hashtag/autismatwork
 https://twitter.com/hashtag/breastforbusiness?lang=en
@@ -4211,11 +4217,13 @@ https://www.google.com/search?num=40&ei=atQMWtDUBYa88QXnx4boDA&q=java+port+watch
 https://www.google.com/search?num=40&ei=C64UWsXtNcrT0gKm3oeYBw&q=%22unit+of+abstraction%22&oq=%22unit+of+abstraction%22&gs_l=psy-ab.3..0i7i30k1j0i30k1j0i8i30k1l2.4361.4977.0.5192.2.2.0.0.0.0.103.202.1j1.2.0....0...1.1.64.psy-ab..0.2.200...0i22i30k1.0.Xb-QwyCxm-U
 https://www.google.com/search?num=40&ei=d5H3WcCpOYySjwPw9I3oBw&q=CONFIG_DEBUGSYM+minix&oq=CONFIG_DEBUGSYM+minix&gs_l=psy-ab.3...3547.4441.0.4616.6.6.0.0.0.0.266.686.2j2j1.5.0....0...1.1.64.psy-ab..1.1.99...0i22i30k1.0.Gju5zrLC010
 https://www.google.com/search?num=40&ei=dHIPWpyfIsqjwASHxZjACg&q=%22input+form%22+cli&oq=%22input+form%22+cli&gs_l=psy-ab.3..0i10i30k1j0i13i5i30k1l2j0i8i30k1l6j0i8i10i30k1.6806.7318.0.7541.2.2.0.0.0.0.287.410.0j1j1.2.0....0...1.1.64.psy-ab..0.2.406....0.Z2QPeN1AeQQ
+https://www.google.com/search?num=40&ei=fYEoWrGBLonGjwPLkZrgDA&q=%22negative+PR+campaign%22&oq=%22negative+PR+campaign%22&gs_l=psy-ab.3..0i22i30k1.4793.6568.0.6863.3.3.0.0.0.0.83.241.3.3.0....0...1.1.64.psy-ab..0.3.240...0.0.3dfxKqeyLAk
 https://www.google.com/search?num=40&ei=kqYhWuWCGsSA8wXz_Qc&q=vernacular+branding+-mexico&oq=vernacular+branding+-mexico&gs_l=psy-ab.3...38887.40230.0.40471.8.8.0.0.0.0.95.654.8.8.0....0...1.1.64.psy-ab..0.2.180...0i22i30k1.0.KZyo9ZM6Ydc
 https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabulary&oq=branding+vocabulary&gs_l=psy-ab.3..0j0i7i30k1l2j0i5i30k1j0i8i30k1j0i5i30k1.34783.34934.0.35165.3.3.0.0.0.0.157.369.0j3.3.0....0...1.1.64.psy-ab..2.1.156....0.-zb3vJbLATM
 https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstraction&oq=useless+abstraction&gs_l=psy-ab.3..0i22i30k1.500288.504254.0.504512.25.22.1.0.0.0.131.1923.17j4.21.0....0...1.1.64.psy-ab..3.22.1919...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i8i13i30k1j0i13i30k1.0.xv6_XXzvE6E
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
 https://www.google.com/search?num=40&ei=tnokWtLWD5S0jAPKhIPYCQ&q=agamatrix+jazz+wireless+2+walgreens&oq=agamatrix+jazz+wireless+2+walgreens&gs_l=psy-ab.3...15369.16775.0.17087.10.9.0.0.0.0.186.849.0j6.6.0....0...1.1.64.psy-ab..4.5.687...33i22i29i30k1j33i21k1j33i160k1.0.IobcVESHR3I
+https://www.google.com/search?num=40&ei=YHQoWtmeH8OIjwOr4p_oDA&q=%22new+europe%22+anthem&oq=%22new+europe%22+anthem&gs_l=psy-ab.3...1533.2949.0.3148.9.7.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..9.0.0....0.hQDWDJYhjUs
 https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+investing+become+affordable&oq=when+did+investing+become+affordable&gs_l=psy-ab.3..33i21k1.8901.12987.0.13172.36.30.0.0.0.0.252.3327.6j13j5.24.0....0...1.1.64.psy-ab..12.24.3319...0j35i39k1j0i131k1j0i20i264k1j0i67k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.0zLs2CzJiBE
 https://www.google.com/search?num=40&espv=2&biw=1189&bih=736&q=treasury+bills+by+volume&oq=treasury+bills+by+volume&gs_l=serp.3..0i22i30k1.14105.19127.0.19680.24.23.0.0.0.0.226.2721.0j15j2.17.0....0...1c.1.64.serp..7.17.2717...0j35i39k1j0i67k1j0i20k1j0i131k1j0i22i10i30k1.plfeolQxn8E
 https://www.google.com/search?num=40&espv=2&biw=1284&bih=758&q=golf+gameshow+usa&oq=golf+gameshow+usa&gs_l=serp.3..35i39k1.4591.4591.0.4868.1.1.0.0.0.0.76.76.1.1.0....0...1c.1.64.serp..0.1.75.gaBgg1TTsFI
@@ -4887,6 +4895,7 @@ https://www.google.com/search?q=mark+yourself+safe+%22delusions+of+grandeur%22&o
 https://www.google.com/search?q=martyrdom&oq=martyrdom&aqs=chrome..69i57j0l5.2070j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=masala+zone&rlz=1CDGOYI_enUS590US590&oq=masala+zone&aqs=chrome..69i57j0l3.6262j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=mbr+memory+map&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwj7p7mP4Y7XAhXhslQKHT58A8cQ_AUICSgA&biw=1522&bih=656&dpr=1
+https://www.google.com/search?q=median+%22all+else+equal%22&oq=median+%22all+else+equal%22&aqs=chrome..69i57.3327j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=meeting+of+the+minds&oq=meeting+of+the+m&aqs=chrome.0.0j69i57j0l4.2375j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=melatonin+uk+law&oq=melatonin+uk+law&aqs=chrome..69i57.3566j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=memoization+java+map&oq=memoization+java+map&aqs=chrome..69i57j0.2887j0j7&sourceid=chrome&ie=UTF-8
@@ -4989,6 +4998,7 @@ https://www.google.com/search?q=recursive+regex&rlz=1CDGOYI_enUS590US590&oq=recu
 https://www.google.com/search?q=refactor+later&oq=refactor+later&aqs=chrome..69i57.2262j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=reference+logs&oq=reference+logs&aqs=chrome..69i57j0l5.3489j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=refried+bean+diet&rlz=1CDGOYI_enUS590US590&oq=refried+bean+diet&aqs=chrome..69i57j0l3.11204j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=release+branch+vs+development+branch&oq=release+branch+vs+development+branch&aqs=chrome..69i57.6823j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=rent+apartment+earn+equity&rlz=1CDGOYI_enUS590US590&oq=rent+apartment+earn+equity&aqs=chrome..69i57.10800j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#spf=1
 https://www.google.com/search?q=rock+hard+butt&oq=rock+hard+butt&aqs=chrome..69i57.2495j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=rodney+dangerfield+jokes&rlz=1CDGOYI_enUS590US590&oq=rodney+dangerfield+jokes&aqs=chrome..69i57j0l2.17341j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5741,6 +5751,7 @@ https://www.meetup.com/Santa-Clara-Meditation-Meetup/events/240500961/
 https://www.meetup.com/Scala-Bay/events/238419430/
 https://www.meetup.com/Seattle-Shortfilm/events/239118098/
 https://www.meetup.com/seattlestartup/events/238162798/
+https://www.meetup.com/Silicon-Valley-Linux-Technology/events/245532223/
 https://www.meetup.com/southbaydesis/events/240947216/
 https://www.meetup.com/South-Bay-Effective-Altruism/
 https://www.meetup.com/southbayfriends/events/240201005/
@@ -5845,6 +5856,7 @@ https://www.pinterest.com/mazharcivitech/joanna-krupa/
 https://www.pinterest.com/pin/196821446189588901/?lp=true
 https://www.pinterest.com/pin/372109987940942239/
 https://www.pinterest.com/pin/484137028675929401/
+https://www.popsugar.com/tech/Two-Kinds-People-Internet-38172273
 https://www.portablefreeware.com/forums/viewtopic.php?t=4925
 https://www.portfoliovisualizer.com/asset-correlations
 https://www.practo.com/medicine-info/lamez-50-mg-tablet-20774
@@ -6372,6 +6384,7 @@ https://www.watfordfc.com/club/exclusive-nbc-sports-documentary
 https://www.wattpad.com/76371611-victoria-justice-chapter-1-early-life
 https://www.waxmann.com/index.php?eID=download
 https://www.waxmann.com/index.php?eID=download&id_artikel=ART101007&uid=frei
+https://www.webcide.com/negative-public-relations-
 https://www.weforum.org/agenda/2016/01/stop-patronising-young-people-and-start-listening/
 https://www.welldesk.com/
 https://www.wellsfargohistory.com/museums/san-francisco/
@@ -6532,6 +6545,7 @@ https://www.youtube.com/watch?v=gn03sOx1ROM
 https://www.youtube.com/watch?v=gV2ViWT_14E
 https://www.youtube.com/watch?v=GwTgOy83HLs
 https://www.youtube.com/watch?v=HCBsRNY5tLw
+https://www.youtube.com/watch?v=HEfMwri22SM&lc=z22pchiyoozrxjwas04t1aokgvfky3z3so4gom3l4dtlrk0h00410.1512588862358463&feature=em-comments
 https://www.youtube.com/watch?v=HmnIfAuvLLM
 https://www.youtube.com/watch?v=iWME75kIBaU
 https://www.youtube.com/watch?v=IyTQTEkzV5I
@@ -7852,6 +7866,7 @@ http://www.kayfabenews.com/contractual-mix-leads-bra-panties-stipulation-lesnar-
 http://www.kayfabenews.com/divas-positive-role-models-girls-mcmahon-says-straight-face/
 http://www.kayfabenews.com/hogan-tells-brother-something/
 http://www.kayfabenews.com/mcmahon-furious-ppv-didnt-get-suggested-name-great-flaming-testes/
+http://www.kayfabenews.com/mcmahon-furious-ppv-didnt-get-suggested-name-great-flaming-testes/
 http://www.kayfabenews.com/net-neutrality-explained-wrestling-fans/
 http://www.kayfabenews.com/wrestlemania-pre-taped-yesterday-leaked-results/
 http://www.keithschwarz.com/smoothsort/
@@ -7946,6 +7961,7 @@ http://www.marca.com/en/football/spanish-football/2016/04/28/57221e89e5fdead7018
 http://www.marca.com/en/football/spanish-football/2016/09/30/57eed507e5fdeaea628b459d.html
 http://www.marca.com/en/football/spanish-football/2016/11/02/5819b1b9e5fdea500c8b45c8.html
 http://www.marca.com/en/football/spanish-football/2017/02/01/58910623e2704e70768b45ff.html
+http://www.marca.com/en/football/spanish-football/2017/03/06/58bd85d9ca47417f138b462b.html
 http://www.marca.com/en/football/spanish-football/2017/05/11/59139b0446163f720a8b4657.html
 http://www.marca.com/en/football/spanish-football/2017/06/01/59300f24468aeb916f8b458c.html
 http://www.marca.com/en/football/spanish-football/2017/07/09/59613fa922601de26f8b45d3.html
@@ -8355,6 +8371,7 @@ http://www.solofutbol.cl/Imagenes/Albunes%20de%20futbol/Equipos/atletico%20madri
 http://www.solofutbol.cl/Imagenes/Albunes%20de%20futbol/Equipos/atletico%20madrid/atletico%20madrid%202014%202015/
 http://www.solofutbol.cl/Imagenes/Albunes%20de%20futbol/Equipos/atletico%20madrid/atletico%20madrid%202015%202016/
 http://www.sosuave.net/forum/threads/what-does-the-cosmo-playbook-say-about-butt-pinching.32192/
+http://www.sour.co/2008/06/fuctionary-complete-online-dirty-proverb-dictionary/
 http://www.spanish-fiestas.com/atletico-madrid-football-club/
 http://www.sparkpeople.com/ma/Is-Fat-Fre-Refried-Beans-ok-to-eat-when-dieting?/1/1/29174420
 http://www.specialconnections.ku.edu/?q=instruction/mathematics/teacher_tools/concrete_to_representational_to_abstract_instruction
