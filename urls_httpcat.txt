@@ -1089,6 +1089,7 @@ https://aws.amazon.com/blogs/ses/receiving-email-with-amazon-ses/
 https://aws.amazon.com/developers/getting-started/browser/
 https://aws.amazon.com/efs/?p=tile
 https://aws.amazon.com/kinesis/firehose/
+https://aws.amazon.com/products/?nc2=h_ql_p
 https://aws.amazon.com/sqs/pricing/
 https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions
 https://baptiste-wicht.com/posts/2011/11/print-strings-integers-intel-assembly.html
@@ -1434,6 +1435,7 @@ https://dzone.com/articles/why-i-stopped-using-spring
 https://dzone.com/articles/writing-operating-system-has
 https://dzone.com/articles/writing-operating-system-has
 https://dzone.com/refcardz/jetty
+http://searchaws.techtarget.com/feature/Amazon-Web-Services-product-directory
 http://search.cpan.org/~reatmon/Net-HTTPServer-1.1.1/lib/Net/HTTPServer.pm
 http://search.cpan.org/~tels/Graph-Easy-0.64/lib/Graph/Easy/Parser.pm
 http://search.cpan.org/~tels/Graph-Easy-0.64/lib/Graph/Easy/Parser.pm
@@ -4537,7 +4539,11 @@ https://www.google.com/search?q=automate+repetitive+workflows&oq=automate+repeti
 https://www.google.com/search?q=a+whole+nother+grammatically+correct&oq=whole+nother+grammatically&aqs=chrome.3.69i57j0l3.7672j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=a+woman%27s+most+precious+gift+%22is+her+youth%22&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=ivsn&ei=rf-EWI6wFqXZ0gLb56bADA&start=10&sa=N&biw=320&bih=492
 https://www.google.com/search?q=aws+%22unix+philosophy%22&oq=aws+%22unix+philosophy%22&aqs=chrome..69i57.4222j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+containers&oq=aws+containers&aqs=chrome..69i57j0j69i65j69i60j69i39l2.5904j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+docker&oq=aws+docker&aqs=chrome..69i57j0l5.31888j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+glue&oq=aws+glue&aqs=chrome..69i57j0l5.1836j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=aws+microservices&oq=aws+microserv&aqs=chrome.0.0j69i57j0l4.2399j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+pipes&oq=aws+pipes&aqs=chrome..69i57j0l2j69i60j69i65l2.2295j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=aws+shared+dns+server&rlz=1CDGOYI_enUS590US590&oq=aws+shared+dns+server&aqs=chrome..69i57.16315j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=baby+left+on+doorstep&oq=babh+left+on+doo&aqs=chrome.1.69i57j0l5.4046j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=balaji+temple+matrimonial+services&oq=balaji+temple+matri&aqs=chrome.0.0j69i57.3968j0j7&sourceid=chrome&ie=UTF-8
@@ -4750,6 +4756,7 @@ https://www.google.com/search?q=get+paid+to+work+on+open+source&oq=get+payed+to+
 https://www.google.com/search?q=getting+older+and+not+married+terrified&oq=getting+older+and+not+married+terrified&aqs=chrome..69i57.6046j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=gig+economy+programming&rlz=1CDGOYI_enUS590US590&oq=gig+economy+programming&aqs=chrome..69i57.7524j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=gig+economy&rlz=1CDGOYI_enUS590US590&oq=gig+economy&aqs=chrome..69i57j0l3.3624j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#dobs=gig%20economy
+https://www.google.com/search?q=gimmick+branding&oq=gimmick+branding&aqs=chrome..69i57.290j0j9&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=github+going+public&rlz=1CDGOYI_enUS750US750&oq=github+going+public&aqs=chrome..69i57.3606j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=godaddy+affiliate+sales&rlz=1CDGOYI_enUS590US590&oq=godaddy+affiliate+sales&aqs=chrome..69i57.5164j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=google+calendar+spoilers&oq=google+calendar+spoilers&aqs=chrome..69i57j69i64.2765j0j7&sourceid=chrome&ie=UTF-8
@@ -6752,6 +6759,7 @@ http://u88.n24.queensu.ca/exiftool/forum/index.php?topic=3417.0
 http://ubuntuguide.org/wiki/Mail_Server_setup
 http://uk.tempur.com/beds/bed-frames/
 http://uncyclopedia.wikia.com/wiki/Asparagus_Syndrome
+http://uncyclopedia.wikia.com/wiki/HowTo:Be_passive_aggressive
 http://underscorejs.org/#shuffle
 http://understandinggraphics.com/design/10-reasons-to-use-color/
 http://unetbootin.github.io/
@@ -8418,6 +8426,7 @@ http://www.sunsolarisadmin.com/general/how-to-troubleshoot-error-cron-cannot-for
 http://www.svsd.net/cms/lib5/PA01001234/Centricity/Domain/1035/Video%203%20Early%20Packet%20-%202013-14.pdf
 http://www.synonym.com/synonyms/martyrdom
 http://www.taketours.com/salt-lake-city-ut/5-day-yellowstone-national-park-mt-rushmore-grand-teton-tour-from-salt-lake-city-089-3855.html#itinerary
+http://www.talentzoo.com/beneath-the-brand/blog_news.php?articleID=12499
 http://www.tandfonline.com/doi/abs/10.1080/10494820.2015.1121154?src=recsys&journalCode=nile20
 http://www.tandfonline.com/doi/abs/10.1080/15205436.2010.513468?src=recsys&journalCode=hmcs20&
 http://www.tbo.com/events/writer-athlete-give-glimpse-inside-the-ring-20140502/

@@ -21,6 +21,7 @@ https://askubuntu.com/questions/130574/ip-address-change-wont-take-effect
 https://askubuntu.com/questions/131823/cant-make-zsh-the-default-shell
 https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
 https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
+https://aws.amazon.com/products/?nc2=h_ql_p
 https://books.google.com/books?id=yfkvBQAAQBAJ&pg=PA75&lpg=PA75&dq=your+education+doesn%27t+make+you+a+better+person+your+behavior+does&source=bl&ots=-Bz_c5sT2Q&sig=rNkA2T82ujkA8sFQGm7tCE27R7w&hl=en&sa=X&ved=0ahUKEwiQpInb0urXAhUph1QKHZtIDiIQ6AEIUzAK#v=onepage&q=your%20education%20doesn't%20make%20you%20a%20better%20person%20your%20behavior%20does&f=false
 https://charuzu.wordpress.com/2012/06/02/ode-to-joy-rowan-atkinson/
 https://disqus.com/by/sarnobat/
@@ -28,6 +29,7 @@ https://disqus.com/home/discussion/channel-gifs/so_comfy/
 https://docs.chef.io/berkshelf.html
 https://drive.google.com/file/d/1_hwDPRBXgrtyK5lUMOi0uneTcPynVh51/view
 https://drive.google.com/uc?export=download&confirm=TsYV&id=1_hwDPRBXgrtyK5lUMOi0uneTcPynVh51
+http://searchaws.techtarget.com/feature/Amazon-Web-Services-product-directory
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFSMkfxKtnDtKG89V__59Y2rx1-RhAsriiQuNTeWl9mffitP8mNg
 https://en.m.wikipedia.org/wiki/Beagle_(software)
 https://en.m.wikipedia.org/wiki/Chain_loading
@@ -363,6 +365,10 @@ https://www.google.com/search?q=%22if+god+used+twitter%22&rlz=1CDGOYI_enUS750US7
 https://www.google.com/search?q=%22power+back+in+the+hands+of+the+customer%22&oq=%22power+back+in+the+hands+of+the+customer%22&aqs=chrome..69i57.5164j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=%22security+updates%22+pointless&oq=%22security+updates%22+pointless&aqs=chrome..69i57.5695j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=art of passive aggressiveness
+https://www.google.com/search?q=aws+containers&oq=aws+containers&aqs=chrome..69i57j0j69i65j69i60j69i39l2.5904j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+docker&oq=aws+docker&aqs=chrome..69i57j0l5.31888j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+glue&oq=aws+glue&aqs=chrome..69i57j0l5.1836j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=aws+pipes&oq=aws+pipes&aqs=chrome..69i57j0l2j69i60j69i65l2.2295j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=black+friday+absurdity&rlz=1CDGOYI_enUS750US750&oq=black+friday+absurdity&aqs=chrome..69i57.11415j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=bootstrap+%22big+bang%22+boot&rlz=1CDGOYI_enUS750US750&oq=bootstrap+%22big+bang%22+boot&aqs=chrome..69i57.8498j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=buca+di+beppo&oq=bocca+de+beppo&aqs=chrome.1.69i57j0l5.5251j0j7&sourceid=chrome&ie=UTF-8
@@ -376,6 +382,7 @@ https://www.google.com/search?q=existential+threat&oq=existential+threat&aqs=chr
 https://www.google.com/search?q=false+9&rlz=1CDGOYI_enUS750US750&oq=false+9&aqs=chrome..69i57j0l3.9055j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=floppy+and+feminine&oq=floppy+and+feminine&aqs=chrome..69i57.4180j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=furface+wwf&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwi7-KLa6KvXAhVS42MKHfT5CPgQ_AUICSgA&biw=1798&bih=917&dpr=1
+https://www.google.com/search?q=gimmick+branding&oq=gimmick+branding&aqs=chrome..69i57.290j0j9&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=hippie+vs+hipster&rlz=1CDGOYI_enUS750US750&oq=hippie+vs+&aqs=chrome.1.69i57j0l3.5340j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#imgrc=QItzPnklZf4ubM:
 https://www.google.com/search?q=how+to+install+sdl+framework+mac&oq=sdl+framework+mac+&aqs=chrome.3.69i57j0l3.7255j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=if+cats+didn%27t+exist&num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjNx5nepeLXAhUM2WMKHQLxCHAQ_AUICygC&biw=1439&bih=539
@@ -670,6 +677,7 @@ http://tldp.org/HOWTO/KernelAnalysis-HOWTO-4.html
 http://tutorials.jenkov.com/java-io/pipes.html
 http://u88.n24.queensu.ca/exiftool/forum/index.php?topic=2049.0
 http://u88.n24.queensu.ca/exiftool/forum/index.php?topic=3417.0
+http://uncyclopedia.wikia.com/wiki/HowTo:Be_passive_aggressive
 http://unsolvedmysteries.wikia.com/wiki/Martha_Moxley
 http://uproxx.com/technology/google-plus-friendster-social-networks/2/
 http://uproxx.com/tv/20-immortal-quotes-from-bender-of-futurama/
@@ -852,6 +860,7 @@ http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/NoSQL/Commands+at+a+glance
 http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/NoSQL/Documentation%20Index
 http://www.strozzi.it/users/carlo/tw7/templates/en_US/nosql/images/4gl.pdf
 http://www.sunsolarisadmin.com/general/how-to-troubleshoot-error-cron-cannot-fork/
+http://www.talentzoo.com/beneath-the-brand/blog_news.php?articleID=12499
 http://www.techrepublic.com/article/developers-are-calling-it-quits-on-polyglot-programming/
 http://www.tecnicontrol.pt/en/wiki/item.html?id=81-the-various-methods-of-tv-transmission
 http://www.telegraph.co.uk/football/2017/09/21/seven-points-real-madrids-surprise-loss-real-betis-stuns-spain/
