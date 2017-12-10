@@ -1062,6 +1062,7 @@ https://askubuntu.com/questions/269046/bash-delete-from-cursor-till-end-of-line-
 https://askubuntu.com/questions/276911/how-to-rename-partitions
 https://askubuntu.com/questions/276911/how-to-rename-partitions/276928#276928
 https://askubuntu.com/questions/2799/how-to-merge-several-pdf-files
+https://askubuntu.com/questions/33078/what-is-a-virtual-terminal-for
 https://askubuntu.com/questions/34308/where-is-inittab-file
 https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
 https://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04
@@ -1836,6 +1837,7 @@ https://en.wikipedia.org/wiki/Pandoc
 https://en.wikipedia.org/wiki/Parallax_scrolling
 https://en.wikipedia.org/wiki/Parallel_coordinates
 https://en.wikipedia.org/wiki/Paris_FC
+https://en.wikipedia.org/wiki/Paulino_Alc%C3%A1ntara
 https://en.wikipedia.org/wiki/Pay_it_forward
 https://en.wikipedia.org/wiki/Pay_it_forward
 https://en.wikipedia.org/wiki/Pericoronitis
@@ -2275,6 +2277,7 @@ https://httpd.apache.org/docs/2.4/mod/mod_actions.html
 https://httpd.apache.org/docs/current/howto/ssi.html
 https://httpd.apache.org/docs/current/howto/ssi.html
 https://httpd.apache.org/docs/current/mod/mod_include.html
+https://hub.docker.com/_/httpd/
 https://hub.docker.com/r/chef/chef/
 https://hub.docker.com/r/chef/chef/
 https://hub.docker.com/r/manuwelakanade/testgit/builds/bsoxzkpqqa8mzwdrk7wqpqk/
@@ -2283,6 +2286,7 @@ https://i1.wp.com/www.colchonero.com/media/galeria/4/3/3/0/2/n_atletico_de_madri
 http://siberiantimes.com/home/how-get-to-here/trains/
 https://ideas.repec.org/a/ebl/ecbull/eb-06g10022.html
 http://sidebysidecoaching.co.uk/
+https://idioms.thefreedictionary.com/discretion+is+the+better+part+of+valor
 https://idioms.thefreedictionary.com/sitting+duck
 https://ifttt.com/applets/157708p-add-feedly-article-tagged-to-spreadsheet
 https://ifttt.com/applets/99576p-email-to-subscribe-to-rss-in-feedly
@@ -2841,6 +2845,7 @@ https://stackoverflow.com/questions/20310566/jms-durable-subscription
 https://stackoverflow.com/questions/20807148/how-to-call-a-specific-parent-constructor-from-anonymous-inner-class
 https://stackoverflow.com/questions/20987214/recursively-list-all-files-within-a-directory-using-nio-file-directorystream
 https://stackoverflow.com/questions/21092086/get-random-element-from-collection
+https://stackoverflow.com/questions/21498832/in-docker-whats-the-difference-between-a-container-and-an-image
 https://stackoverflow.com/questions/215718/reset-or-revert-a-specific-file-to-a-specific-revision-using-git
 https://stackoverflow.com/questions/21885787/setting-logback-xml-path-programmatically
 https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545
@@ -4527,6 +4532,7 @@ https://www.google.com/search?q=are+some+women+perfect&rlz=1CDGOYI_enUS590US590&
 https://www.google.com/search?q=are+women%27s+butts+soft&rlz=1CDGOYI_enUS590US590&hl=en-US&prmd=sivn&ei=RcsnWYzoJcaZ0gL-vL_4Ag&start=30&sa=N&biw=320&bih=548&dpr=2
 https://www.google.com/search?q=art+of+documentary+editing+merrison&num=40&rlz=1CDGOYI_enUS590US590&hl=en-US&source=lnms&sa=X&ved=0ahUKEwiws6f9nPXSAhUK2WMKHbAVC3EQ_AUIBygA&biw=2148&bih=904&dpr=1
 https://www.google.com/search?q=art+of+documentary+editing+merrison&rlz=1CDGOYI_enUS590US590&oq=art+of+documentary+editing+merrison&aqs=chrome..69i57.17596j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=art of passive aggressiveness
 https://www.google.com/search?q=art of passive aggressiveness
 https://www.google.com/search?q=art+therapy&rlz=1CDGOYI_enUS750US750&oq=art+thera&aqs=chrome.0.0j69i57j0j5.5845j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=aspergers+don%27t+understand+current+affairs+geopolitics&rlz=1CDGOYI_enUS590US590&hl=en-US&biw=320&bih=492&prmd=nvi&ei=RYybWMfwDJC2jwPUjJDoAg&start=10&sa=N
@@ -6532,6 +6538,7 @@ https://www.youtube.com/watch?v=2_nAGXBYrmE
 https://www.youtube.com/watch?v=2RL3OglS3bU
 https://www.youtube.com/watch?v=3pfIhqZy3QA
 https://www.youtube.com/watch?v=44SR0RjFdIo
+https://www.youtube.com/watch?v=6ruubr4XqI8
 https://www.youtube.com/watch?v=81vsRVgusDM&app=desktop
 https://www.youtube.com/watch?v=8LZgzAZ2lpQ
 https://www.youtube.com/watch?v=96w_dwg9CRY
@@ -6543,6 +6550,7 @@ https://www.youtube.com/watch?v=bekZR7pNYug
 https://www.youtube.com/watch?v=BHoGCkLj93M
 https://www.youtube.com/watch?v=Bq6kaBlhwcs
 https://www.youtube.com/watch?v=BZWnP0p1xJ8
+https://www.youtube.com/watch?v=CJ60QSH0uNs
 https://www.youtube.com/watch?v=CmZBKydz_84
 https://www.youtube.com/watch?v=CWsXo_FsbpE
 https://www.youtube.com/watch?v=CXyIZESJj2s
@@ -6551,8 +6559,10 @@ https://www.youtube.com/watch?v=dKpg24A5x2g
 https://www.youtube.com/watch?v=EIEmmr81uYE&app=desktop
 https://www.youtube.com/watch?v=eLmMny_E33k
 https://www.youtube.com/watch?v=eO5du5L02TQ
+https://www.youtube.com/watch?v=eReF0PuQatU
 https://www.youtube.com/watch?v=FMB3O5D1XPY
 https://www.youtube.com/watch?v=FX8S_j_3amc
+https://www.youtube.com/watch?v=G-AVGXEWlRU
 https://www.youtube.com/watch?v=gn03sOx1ROM
 https://www.youtube.com/watch?v=gV2ViWT_14E
 https://www.youtube.com/watch?v=GwTgOy83HLs
@@ -6562,6 +6572,7 @@ https://www.youtube.com/watch?v=HEfMwri22SM&lc=z22pchiyoozrxjwas04t1aokgvfky3z3s
 https://www.youtube.com/watch?v=HmnIfAuvLLM
 https://www.youtube.com/watch?v=iWME75kIBaU
 https://www.youtube.com/watch?v=IyTQTEkzV5I
+https://www.youtube.com/watch?v=jBxPER31zp8
 https://www.youtube.com/watch?v=jqvKjsIxT_8
 https://www.youtube.com/watch?v=_JVGQVHe5EA
 https://www.youtube.com/watch?v=L7Qy0kk7KGM
@@ -6571,6 +6582,7 @@ https://www.youtube.com/watch?v=lnqzblcnIS8
 https://www.youtube.com/watch?v=L_qsKd4hqE8
 https://www.youtube.com/watch?v=m8aBOWOKAQo#
 https://www.youtube.com/watch?v=_meghmS4jlk
+https://www.youtube.com/watch?v=Mgg1RwM-NGo
 https://www.youtube.com/watch?v=mLK0Cb3fn4Q
 https://www.youtube.com/watch?v=Mniq9gR0DOs
 https://www.youtube.com/watch?v=MSIkU415r5k
@@ -6581,6 +6593,8 @@ https://www.youtube.com/watch?v=O_N6TfW5XdA
 https://www.youtube.com/watch?v=otrqMF-PHOw
 https://www.youtube.com/watch?v=P74oHhU5MDk&app=desktop
 https://www.youtube.com/watch?v=pG6fPZfml5A
+https://www.youtube.com/watch?v=pR1QSO2W-0o
+https://www.youtube.com/watch?v=QGzsH3n71MM
 https://www.youtube.com/watch?v=qPYHCwA5l08
 https://www.youtube.com/watch?v=Rba9Z0CcWwQ
 https://www.youtube.com/watch?v=rMVfwASeAMc
@@ -6589,6 +6603,7 @@ https://www.youtube.com/watch?v=rul_8oxQ8NI
 https://www.youtube.com/watch?v=RX8vSK7Kepc
 https://www.youtube.com/watch?v=s6jbqBZ8s6I
 https://www.youtube.com/watch?v=-SCB1t28nDU
+https://www.youtube.com/watch?v=sIcQIuSdYsg
 https://www.youtube.com/watch?v=sih6U5hsGhY
 https://www.youtube.com/watch?v=SKzMShLaB6w
 https://www.youtube.com/watch?v=S-l24VRklBQ&app=desktop
@@ -6598,12 +6613,14 @@ https://www.youtube.com/watch?v=TGyWlKYKoq4
 https://www.youtube.com/watch?v=tJqcLARNi-M
 https://www.youtube.com/watch?v=U8jhakABmx4
 https://www.youtube.com/watch?v=udkOtD38xaU
+https://www.youtube.com/watch?v=vtCVOUiauPI
 https://www.youtube.com/watch?v=Vwsj8R3uCNw
 https://www.youtube.com/watch?v=vXCT3YkSfW4&app=desktop
 https://www.youtube.com/watch?v=WdjuhMWTbp0
 https://www.youtube.com/watch?v=WpYejNvRkVA
 https://www.youtube.com/watch?v=WS5Qu-ZcPFk
 https://www.youtube.com/watch?v=XBSRENamVTc
+https://www.youtube.com/watch?v=xDRVRqT_JBk
 https://www.youtube.com/watch?v=Y0VIRAucFmI
 https://www.youtube.com/watch?v=ykwJGD_BAWo
 https://www.youtube.com/watch?v=ywhd3csUlao
@@ -7224,6 +7241,7 @@ http://www.city-data.com/forum/seattle-area/1971568-why-so-many-unattractive-wom
 http://www.city-data.com/forum/weather/578353-why-southwest-so-warm.html
 http://www.city-data.com/forum/work-employment/1424351-i-keep-getting-fired-every-job-2.html
 http://www.c-jump.com/CIS24/Slides/Booting/Booting.html
+http://www.clickon.co/44671/arsenal-chelsea-bergkamp-zola-overrated/#.J1512W8778P9593P1
 http://www.clinical-psychologist-cardiff.co.uk/
 http://www.clker.com/cliparts/w/4/5/T/Y/m/empty-unix-file.svg
 http://www.cnbc.com/2015/10/22/striking-paydirt-innovative-new-uses-for-old-mines.html
@@ -7433,6 +7451,7 @@ http://www.dictionary.com/browse/associate
 http://www.dictionary.com/browse/balaclava
 http://www.dictionary.com/browse/bigfoot
 http://www.dictionary.com/browse/bombastic
+http://www.dictionary.com/browse/bonanza?r=75&src=ref&ch=dic
 http://www.dictionary.com/browse/curate
 http://www.dictionary.com/browse/didactic
 http://www.dictionary.com/browse/drivel
@@ -7528,6 +7547,7 @@ http://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.
 http://www.escapistmagazine.com/forums/read/18.327339-I-dont-understand-what-people-find-so-attractive-about-women-What-is-it-and-why?page=1
 http://www.escapistmagazine.com/forums/read/18.327339-I-dont-understand-what-people-find-so-attractive-about-women-What-is-it-and-why?page=4
 http://www.espn.com/espnradio/podcast/archive/_/id/10672984
+http://www.espn.com/soccer/name/15/blog/post/2206333/headline
 http://www.espnfc.com/atletico-madrid/story/1511247/greatest-managers-no-5-helenio-herrera
 http://www.espnfc.com/atletico-madrid/story/2992156/atletico-madrid-hail-major-progress-in-new-la-peineta-stadium-project
 http://www.espnfc.com/atletico-madrid/story/3117836/relaxed-diego-simeone-believes-atleti-can-do-the-impossible-in-second-leg
@@ -7775,6 +7795,7 @@ http://www.independent.co.uk/sport/football/international/aragones-turns-racist-
 http://www.independent.co.uk/sport/football/international/holland-international-football-decline-total-football-a7653086.html
 http://www.independent.co.uk/sport/football/news-and-comment/graham-taylor-dead-flourish-watford-aston-villa-legacy-live-longest-england-manager-a7524671.html
 http://www.independent.co.uk/sport/football-overseas-round-up-atletico-madrid-fire-sacchi-1070990.html
+http://www.independent.co.uk/sport/football/premier-league/manchester-united-vs-city-liverpool-everton-premier-league-derby-derbies-snow-postponed-off-a8100346.html
 http://www.independent.co.uk/sport/general/wwe-mma-wrestling/bobby-heenan-dead-dies-death-wwe-legend-throat-cancer-the-brain-tributes-career-a7952336.html
 http://www.independent-software.com/writing-your-own-bootloader-for-a-toy-operating-system-2/
 http://www.independent-software.com/writing-your-own-bootloader-for-a-toy-operating-system-3/
@@ -8456,6 +8477,7 @@ http://www.telegraph.co.uk/football/2017/05/26/koke-breaks-tears-signing-atletic
 http://www.telegraph.co.uk/football/2017/09/21/seven-points-real-madrids-surprise-loss-real-betis-stuns-spain/
 http://www.telegraph.co.uk/football/2017/09/21/seven-points-real-madrids-surprise-loss-real-betis-stuns-spain/
 http://www.telegraph.co.uk/football/2017/09/29/sergio-aguero-involved-car-crash-amsterdam-according-reports/
+http://www.telegraph.co.uk/football/2017/12/08/should-know-merseyside-derby-means-used-hate-liverpool/
 http://www.telegraph.co.uk/lifestyle/wellbeing/7918685/Treating-anxiety-the-Alpha-Stim.html
 http://www.telegraph.co.uk/men/active/11028666/What-do-footballers-do-when-they-retire.html
 http://www.telegraph.co.uk/men/relationships/10955708/Men-become-invisible-at-39-now-they-know-how-women-feel.html

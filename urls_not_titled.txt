@@ -24,6 +24,7 @@ https://apple.stackexchange.com/questions/25844/can-i-open-files-in-textedit-fro
 https://apple.stackexchange.com/questions/42737/how-do-i-restore-a-previous-version-of-my-ssh-keypair-files
 https://askubuntu.com/questions/130574/ip-address-change-wont-take-effect
 https://askubuntu.com/questions/131823/cant-make-zsh-the-default-shell
+https://askubuntu.com/questions/33078/what-is-a-virtual-terminal-for
 https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
 https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
 https://aws.amazon.com/products/?nc2=h_ql_p
@@ -71,6 +72,7 @@ https://en.wikipedia.org/wiki/Keepie_uppie
 https://en.wikipedia.org/wiki/Linux_startup_process
 https://en.wikipedia.org/wiki/Marseille_turn
 https://en.wikipedia.org/wiki/Nutmeg_(football)
+https://en.wikipedia.org/wiki/Paulino_Alc%C3%A1ntara
 https://en.wikipedia.org/wiki/Rabona
 https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
@@ -138,6 +140,8 @@ https://groups.google.com/forum/#!topic/comp.os.minix/yT1dzgaT0KM
 https://groups.google.com/forum/#!topic/minix3/yrnptyZj0Xo
 https://help.github.com/articles/about-readmes/
 https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/
+https://hub.docker.com/_/httpd/
+https://idioms.thefreedictionary.com/discretion+is+the+better+part+of+valor
 https://idioms.thefreedictionary.com/sitting+duck
 https://imgur.com/UEJ8DjR
 https://in.reuters.com/article/soccer-sweden-brazil/pele-and-team-mates-bid-farewell-to-rasunda-stadium-idINDEE87D09520120814
@@ -210,6 +214,7 @@ https://stackoverflow.com/questions/1940106/concatenating-string-with-number-in-
 https://stackoverflow.com/questions/1960895/assigning-system-commands-output-to-variable
 https://stackoverflow.com/questions/197757/printing-pointers-in-c
 https://stackoverflow.com/questions/21092086/get-random-element-from-collection
+https://stackoverflow.com/questions/21498832/in-docker-whats-the-difference-between-a-container-and-an-image
 https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545
 https://stackoverflow.com/questions/22257349/amazon-s3-webdav-access
 https://stackoverflow.com/questions/22604974/python-memory-model-for-this-program
@@ -658,18 +663,29 @@ https://www.youtube.com/results?sp=EgIYAlAU&q=welsh+in+america
 https://www.youtube.com/user/BrightSunGaming/playlists
 https://www.youtube.com/user/HarvardBSchool/videos
 https://www.youtube.com/user/HarvardBusiness/videos
+https://www.youtube.com/watch?v=6ruubr4XqI8
+https://www.youtube.com/watch?v=CJ60QSH0uNs
 https://www.youtube.com/watch?v=CWsXo_FsbpE
 https://www.youtube.com/watch?v=CXyIZESJj2s
 https://www.youtube.com/watch?v=dKpg24A5x2g
 https://www.youtube.com/watch?v=EIEmmr81uYE&app=desktop
+https://www.youtube.com/watch?v=eReF0PuQatU
 https://www.youtube.com/watch?v=FMB3O5D1XPY
+https://www.youtube.com/watch?v=G-AVGXEWlRU
 https://www.youtube.com/watch?v=HEfMwri22SM&lc=z22ludnxuk3nz1kl3acdp432trasek4mpavfbqcwl25w03c010c.1512544941159417
 https://www.youtube.com/watch?v=HEfMwri22SM&lc=z22pchiyoozrxjwas04t1aokgvfky3z3so4gom3l4dtlrk0h00410.1512588862358463&feature=em-comments
+https://www.youtube.com/watch?v=jBxPER31zp8
 https://www.youtube.com/watch?v=_meghmS4jlk
+https://www.youtube.com/watch?v=Mgg1RwM-NGo
+https://www.youtube.com/watch?v=pR1QSO2W-0o
+https://www.youtube.com/watch?v=QGzsH3n71MM
 https://www.youtube.com/watch?v=rMVfwASeAMc
 https://www.youtube.com/watch?v=s6jbqBZ8s6I
 https://www.youtube.com/watch?v=-SCB1t28nDU
+https://www.youtube.com/watch?v=sIcQIuSdYsg
+https://www.youtube.com/watch?v=vtCVOUiauPI
 https://www.youtube.com/watch?v=WpYejNvRkVA
+https://www.youtube.com/watch?v=xDRVRqT_JBk
 https://yakking.branchable.com/posts/data-processing-commands/
 https://yougov.co.uk/news/2016/10/13/prepare-hard-work-natural-talent-women-men/
 http://talkingfussball.com/tag/raphael-honigstein/
@@ -744,6 +760,7 @@ http://www.cafebellinisf.com/locations--hours.html
 http://www.catster.com/cats-101/tabby-cat
 http://www.centrocampista.com/2011/10/a-rayo-of-sunshine-vallecano-have-reasons-to-be-happy/
 http://www.c-jump.com/CIS24/Slides/Booting/Booting.html
+http://www.clickon.co/44671/arsenal-chelsea-bergkamp-zola-overrated/#.J1512W8778P9593P1
 http://www.commandlinefu.com/commands/view/21982/add-rudimentary-logging-levels-according-to-stdoutstderr
 http://www.cosmopolitan.com/sex-love/advice/a5702/things-women-do-in-groups/
 http://www.c-sharpcorner.com/UploadFile/pranayamr/dependency-inversion-principle/
@@ -754,6 +771,7 @@ http://www.dailymail.co.uk/wires/pa/article-4806736/Ruud-Gullit-believes-Antonio
 http://www.dailystar.co.uk/sport/other-sports/653333/WWE-News-Rowdy-Roddy-Piper-Goldberg-Bret-Hart-Chris-Jericho-Hulk-Hogan
 http://www.dictionary.com/browse/balaclava
 http://www.dictionary.com/browse/bombastic
+http://www.dictionary.com/browse/bonanza?r=75&src=ref&ch=dic
 http://www.dictionary.com/browse/gimmick
 http://www.dictionary.com/browse/scrag
 http://www.disgruntledrats.com/?p=620
@@ -767,6 +785,7 @@ http://www.empireofthekop.com/2017/11/08/pep-how-liverpool-are-different-to-almo
 http://www.empireofthekop.com/2017/11/09/klopps-comments-on-rejecting-man-united-will-delight-lfc-fans/
 http://www.empireofthekop.com/2017/11/13/absolute-disgrace-michael-owen-leaves-lfc-fans-furious-after-tv-interview/
 http://www.enlight8.com/8-lessons-from-the-richest-man-in-babylon/
+http://www.espn.com/soccer/name/15/blog/post/2206333/headline
 http://www.etf.com/VOO
 http://www.ethicsdaily.com/you-may-be-smart-but-that-doesnt-make-you-moral-cms-21096
 http://www.fandecheng.com/personal/interests/ewindows/msdos_functional/minix_mbr.htm
@@ -786,6 +805,7 @@ http://www.imdb.com/title/tt0454976/
 http://www.imdb.com/title/tt2593392/
 http://www.independent.co.uk/news/business/news/black-friday-2017-latest-majority-believe-marketing-gimmick-discounts-sales-consumer-goods-shoppers-a8071851.html
 http://www.independent.co.uk/sport/football/international/holland-international-football-decline-total-football-a7653086.html
+http://www.independent.co.uk/sport/football/premier-league/manchester-united-vs-city-liverpool-everton-premier-league-derby-derbies-snow-postponed-off-a8100346.html
 http://www.independent.co.uk/sport/general/wwe-mma-wrestling/bobby-heenan-dead-dies-death-wwe-legend-throat-cancer-the-brain-tributes-career-a7952336.html
 http://www.independent-software.com/writing-your-own-bootloader-for-a-toy-operating-system-2/
 http://www.independent-software.com/writing-your-own-bootloader-for-a-toy-operating-system-3/
@@ -871,6 +891,7 @@ http://www.techrepublic.com/article/developers-are-calling-it-quits-on-polyglot-
 http://www.tecnicontrol.pt/en/wiki/item.html?id=81-the-various-methods-of-tv-transmission
 http://www.telegraph.co.uk/football/2017/09/21/seven-points-real-madrids-surprise-loss-real-betis-stuns-spain/
 http://www.telegraph.co.uk/football/2017/09/29/sergio-aguero-involved-car-crash-amsterdam-according-reports/
+http://www.telegraph.co.uk/football/2017/12/08/should-know-merseyside-derby-means-used-hate-liverpool/
 http://www.telegraph.co.uk/men/thinking-man/why-are-men-less-happy-than-women/
 http://www.telegraph.co.uk/news/2016/09/26/what-is-third-party-ownership-in-football-and-why-is-it-controve/
 http://www.telegraph.co.uk/news/health/news/6702455/Smaller-crisp-packets-under-Government-plans.html
