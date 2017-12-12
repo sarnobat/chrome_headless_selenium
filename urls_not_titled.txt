@@ -4,6 +4,7 @@
 45::http://unix.stackexchange.com/questions/90326/chattr-i-error-on-nfs::1478582539524
 45::http://www.ebay.com/itm/Aqua-3751-Womens-White-Modal-Blend-Off-Shoulder-Crop-Top-Shirt-L-BHFO-/291929419177?hash=item43f8596da9:g:yi8AAOSwImRYF~E8&autorefresh=true::1478582869709
 45::http://www.ebay.com/itm/Fashion-Womens-Ladies-Off-shoulder-Long-Sleeve-Casual-Blouses-Crop-Tops-T-Shirt-/112175230775?hash=item1a1e2a2f37:g:PtgAAOSwXeJYCedk::1478582882988
+http://asciiflow.com/#1-BD8DsOhaoXLctA2Ldfeup4cMRFMV_fn
 http://atleticofans.com/forum/index.php?/topic/1485-forum-member-equivalents-of-atleti-playerscoaches-etc/#entry20593
 http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands
 http://cleartones.net/#organic
@@ -24,12 +25,15 @@ https://answers.yahoo.com/question/index?qid=20111228105456AAKBozL
 https://apple.stackexchange.com/questions/16593/how-do-i-start-texteditor-from-the-command-line/308063#308063
 https://apple.stackexchange.com/questions/25844/can-i-open-files-in-textedit-from-the-terminal-in-mac-os-x
 https://apple.stackexchange.com/questions/42737/how-do-i-restore-a-previous-version-of-my-ssh-keypair-files
+https://apple.stackexchange.com/questions/99888/is-there-any-port-of-start-stop-daemon-for-os-x
 https://askubuntu.com/questions/130574/ip-address-change-wont-take-effect
 https://askubuntu.com/questions/131823/cant-make-zsh-the-default-shell
 https://askubuntu.com/questions/33078/what-is-a-virtual-terminal-for
+https://askubuntu.com/questions/370213/creating-a-very-simple-upstart-script/370738#370738
 https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
 https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
 https://aws.amazon.com/products/?nc2=h_ql_p
+https://blog.amplexor.com/globalcontent/en/localization-strategy-translating-logos-across-cultures
 https://books.google.com/books?id=yfkvBQAAQBAJ&pg=PA75&lpg=PA75&dq=your+education+doesn%27t+make+you+a+better+person+your+behavior+does&source=bl&ots=-Bz_c5sT2Q&sig=rNkA2T82ujkA8sFQGm7tCE27R7w&hl=en&sa=X&ved=0ahUKEwiQpInb0urXAhUph1QKHZtIDiIQ6AEIUzAK#v=onepage&q=your%20education%20doesn't%20make%20you%20a%20better%20person%20your%20behavior%20does&f=false
 https://charuzu.wordpress.com/2012/06/02/ode-to-joy-rowan-atkinson/
 https://chrome.google.com/webstore/detail/spoiler-protection/ecomdfgdakophagbabjbfnpaigdcpmmh?hl=en-US
@@ -60,6 +64,7 @@ https://en.m.wikipedia.org/wiki/Summer_of_Love
 https://en.wikibooks.org/wiki/X86_Assembly/GAS_Syntax
 https://en.wikibooks.org/wiki/X86_Assembly/Interfacing_with_C_stdlib_and_own_libraries#printf_example
 https://en.wikipedia.org/wiki/Cognitive_load
+https://en.wikipedia.org/wiki/Cool_Britannia
 https://en.wikipedia.org/wiki/Culture_of_Wales
 https://en.wikipedia.org/wiki/Cyber_Monday
 https://en.wikipedia.org/wiki/Double_entendre
@@ -195,7 +200,9 @@ https://seekingalpha.com/article/319017-options-trading-on-earnings-straddle-or-
 https://seekingalpha.com/article/4054364-never-trade-stock-options
 https://serverfault.com/questions/135668/ssh-x-howto-get-clipboard
 https://serverfault.com/questions/151109/how-do-i-get-current-unix-time-in-milliseconds-using-bash
+https://serverfault.com/questions/652892/create-zip-based-on-contents-of-a-file-list
 https://share.kaiserpermanente.org/article/kaiser-permanente-adds-nearly-500-mental-health-therapists-in-california-despite-industry-wide-shortage/
+https://shop.nordstrom.com/c/mens-jeans?origin=topnav&cm_sp=Top%20Navigation-_-Men-_-Jeans&top=72&brand=950
 https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
 https://sreeramz.wordpress.com/2012/11/21/hello-world-boot-loader/
 https://stackoverflow.com/questions/10584768/is-there-any-documentation-about-how-minix-3-2-latest-boot
@@ -228,9 +235,12 @@ https://stackoverflow.com/questions/22604974/python-memory-model-for-this-progra
 https://stackoverflow.com/questions/22967925/running-qemu-remotely-via-ssh
 https://stackoverflow.com/questions/2308653/can-i-use-gdb-to-debug-a-running-process
 https://stackoverflow.com/questions/23223718/failed-to-execute-btoa-on-window-the-string-to-be-encoded-contains-characte
+https://stackoverflow.com/questions/23306927/vagrant-destroy-not-working
+https://stackoverflow.com/questions/24440142/removing-list-of-vms-in-vagrant-cache
 https://stackoverflow.com/questions/2558695/javadoc-reuse-for-and-overloaded-methods
 https://stackoverflow.com/questions/2589845/what-are-the-first-operations-that-the-linux-kernel-executes-on-boot
 https://stackoverflow.com/questions/26521024/how-to-write-a-simple-command-line-os
+https://stackoverflow.com/questions/2664785/why-use-python-interactive-mode
 https://stackoverflow.com/questions/2684630/how-can-i-make-a-method-return-an-argument-that-was-passed-to-it
 https://stackoverflow.com/questions/28206841/how-do-i-compile-minix-source-code
 https://stackoverflow.com/questions/309396/java-how-to-test-methods-that-call-system-exit
@@ -319,6 +329,7 @@ https://wikidiff.com/stumbling/bumbling
 https://wiki.netbsd.org/how_netbsd_boots_on_x86/
 https://wiki.ubuntu.com/Tracker
 https://www.adwdiabetes.com/product/18713/agamatrix-jazz-wireless-2-meter-strips-lancets-100ct
+https://www.agavedenim.com/products/old-school-flat-back-slub-thermal-gold
 https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/product-reviews/B07232M876/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&reviewerType=all_reviews&sortBy=recent&filterByStar=critical&pageNumber=1#R2GWOA28I050QM
 https://www.amazon.com/gp/customer-reviews/R30X0SK6L5DTQN/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B002C5CMN4
 https://www.amazon.com/review/RJZUTPSX74S1U/ref=ask_dp_lswr_rp_hza
@@ -330,6 +341,7 @@ https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=pa
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A5%2Ck%3Aevent+sourcing&keywords=event+sourcing&ie=UTF8&qid=1508517816&rnid=1000
 https://www.amazon.com/stores/node/13608909011?_encoding=UTF8&field-lbr_brands_browse-bin=Lamicall&ref_=w_bl_hsx_s_pc_web_13608909011
 https://www.amazon.com/Venkat-Subramaniam/e/B001JOS4R2/ref=dp_byline_cont_book_1
+https://www.balls.ie/football/fernando-torres-footballs-weirdest-redemption-story-332437
 https://www.barrons.com/articles/corning-stock-this-trade-wins-either-way-1391709564
 https://www.bigbustours.com/en/san-francisco/find-a-bus-stop-san-francisco/
 https://www.birdwatchingdaily.com/blog/2014/01/30/the-amazing-muscles-and-bones-that-make-birds-fly/
@@ -338,6 +350,7 @@ https://www.bogleheads.org/forum/viewtopic.php?t=195156
 https://www.bolde.com/act-like-hot-girl-ugly-girl-26-differences-help-figure/
 https://www.boredpanda.com/young-looking-moms-daughters-look-same-age/?utm_source=facebook&utm_medium=cpc&utm_campaign=fbad&utm_term=reach-millennials&utm_content=young-looking-moms-daughters-look-same-age
 https://www.buzzfeed.com/amyodell/bikinis-are-the-worlds-most-feared-item-of-clothing?utm_term=.sbE4VRlwAz#.hnbmALQyZ4
+https://www.cagesideseats.com/wwe/2014/4/20/5634158/kevin-nash-blows-up-on-roddy-piper-on-twitter
 https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part
 https://www.containerstore.com/s/office/desktop-collections/clear-collection/123
 https://www.cultofmac.com/195203/cleartones-organic-the-least-annoying-ringtones-in-the-world/
@@ -345,8 +358,10 @@ https://www.cyberciti.biz/faq/linux-increase-the-maximum-number-of-open-files/
 https://www.cyberciti.biz/tips/howto-linux-increase-pid-limits.html
 https://www.dailydot.com/irl/do-penis-pumps-work/
 https://www.dailystar.co.uk/sport/football/577890/manchester-united-liverpool-old-trafford-anfield-michael-owen-paul-ince-peter-beardsley
+https://www.discourse.org/
 https://www.djm.org.uk/posts/radio-tray-perfect-example-do-one-thing-do-it-well/
 https://www.easyhairstyler.com/home/cat-deeley-cant-be-bothered-with-girly-stuff/
+https://www.ebay.com/itm/CITIZENS-of-HUMANITY-THE-SID-SELVAGE-STRAIGHT-LEG-Size-30-NWT/232265379094?hash=item3614186d16:g:yycAAOSwax5YwWOx
 https://www.emuparadise.me/M.A.M.E._-_Multiple_Arcade_Machine_Emulator_ROMs/Golden_Axe_(set_3,_World)_(bootleg_of_FD1094_317-0120_set)/183473-download
 https://www.emuparadise.me/M.A.M.E._-_Multiple_Arcade_Machine_Emulator_ROMs/Golden_Axe_(set_3,_World)_(FD1094_317-0120)/97405-download
 https://www.encoding.com/
@@ -361,6 +376,8 @@ https://www.facebook.com/photo.php?fbid=202984693579218&set=a.103782686832753.10
 https://www.facebook.com/profile.php?id=100016030651964&hc_ref=ARTIEftxvOf0RlroMEr9lcQLbIqaMm35mAvKHY66_errKPcGZKjr5s7xe7NyqiFL7Kc
 https://www.flickr.com/photos/45984696@N00/3023281511/sizes/o/
 https://www.fool.com/investing/general/2015/07/23/vanguard-500-index-fund-low-cost-but-are-there-bet.aspx
+https://www.forbes.com/sites/bnymellonwealthmanagement/2017/09/18/three-keys-to-sustaining-family-wealth/#6a97bcd68b72
+https://www.forbes.com/sites/davidburkus/2014/05/23/when-to-say-yes-to-the-messy-desk/
 https://www.forbes.com/sites/davidmarotta/2017/10/19/td-ameritrade-eliminated-low-cost-commission-free-exchange-traded-funds/2/#3e0bb5c01f28
 https://www.forbes.com/sites/simonmoore/2017/10/20/how-the-sp-500-became-expensive/#99adeb674216
 https://www.foxsports.com.au/football/premier-league/ben-woodburn-news-goal-video-background-how-liverpool-invested-in-young-academy-graduate/news-story/b6f1b68dac95932e2f33dbccaeebcdc5
@@ -383,9 +400,11 @@ https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabu
 https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstraction&oq=useless+abstraction&gs_l=psy-ab.3..0i22i30k1.500288.504254.0.504512.25.22.1.0.0.0.131.1923.17j4.21.0....0...1.1.64.psy-ab..3.22.1919...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i8i13i30k1j0i13i30k1.0.xv6_XXzvE6E
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
 https://www.google.com/search?num=40&ei=tnokWtLWD5S0jAPKhIPYCQ&q=agamatrix+jazz+wireless+2+walgreens&oq=agamatrix+jazz+wireless+2+walgreens&gs_l=psy-ab.3...15369.16775.0.17087.10.9.0.0.0.0.186.849.0j6.6.0....0...1.1.64.psy-ab..4.5.687...33i22i29i30k1j33i21k1j33i160k1.0.IobcVESHR3I
+https://www.google.com/search?num=40&ei=XF4vWuqKB4iVwASY0IygCw&q=%2Bdistractions+%2Bimpressions+%2Bcomputer&oq=%2Bdistractions+%2Bimpressions+%2Bcomputer&gs_l=psy-ab.3...4133.4133.0.4522.1.1.0.0.0.0.115.115.0j1.1.0....0...1.1.64.psy-ab..0.0.0....0._PoaUeXRFsE
 https://www.google.com/search?num=40&ei=xfItWv3ZA4KPwgS2q4aIDg&q=muscles+vs+breasts+-implant+-chicken+-exercise+gender+war&oq=muscles+vs+breasts+-implant+-chicken+-exercise+gender+war&gs_l=psy-ab.3...37663.39198.0.40536.11.11.0.0.0.0.124.940.6j4.10.0....0...1.1.64.psy-ab..1.0.0....0.B7eNzv8N6aU
 https://www.google.com/search?num=40&ei=YHQoWtmeH8OIjwOr4p_oDA&q=%22new+europe%22+anthem&oq=%22new+europe%22+anthem&gs_l=psy-ab.3...1533.2949.0.3148.9.7.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..9.0.0....0.hQDWDJYhjUs
 https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+investing+become+affordable&oq=when+did+investing+become+affordable&gs_l=psy-ab.3..33i21k1.8901.12987.0.13172.36.30.0.0.0.0.252.3327.6j13j5.24.0....0...1.1.64.psy-ab..12.24.3319...0j35i39k1j0i131k1j0i20i264k1j0i67k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.0zLs2CzJiBE
+https://www.google.com/search?num=40&q=%22before+we+get+started+on+that%22+jonathan+ross&spell=1&sa=X&ved=0ahUKEwi8n4TJ34LYAhXKs48KHZ3rDzMQvwUIJigA&biw=1432&bih=798
 https://www.google.com/search?num=40&q=some+usbc+ports+not+working+mackbook&nfpr=1&sa=X&ved=0ahUKEwjOreyCjPTXAhUClZAKHehwC9QQvgUIJygB&biw=1432&bih=798
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&ei=c7_7Wam8JtGMjwP1jLz4Cw&q=grownups+commercial+2017&oq=grownups+commercial+2017&gs_l=psy-ab.3...1644.3147.0.3443.5.5.0.0.0.0.345.806.2-2j1.3.0....0...1.1.64.psy-ab..2.2.599...0i13i30k1j0i22i30k1j0i8i13i30k1.0.86ufBRnaLZQ
 https://www.google.com/search?q=%22didn%27t+see+your+message%22+liar&source=lnms&sa=X&ved=0ahUKEwj1nd-rtYHYAhVP0GMKHRjcAh0Q_AUICSgA&biw=1323&bih=635&dpr=1
@@ -400,12 +419,17 @@ https://www.google.com/search?q=aws+glue&oq=aws+glue&aqs=chrome..69i57j0l5.1836j
 https://www.google.com/search?q=aws+pipes&oq=aws+pipes&aqs=chrome..69i57j0l2j69i60j69i65l2.2295j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=black+friday+absurdity&rlz=1CDGOYI_enUS750US750&oq=black+friday+absurdity&aqs=chrome..69i57.11415j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=bootstrap+%22big+bang%22+boot&rlz=1CDGOYI_enUS750US750&oq=bootstrap+%22big+bang%22+boot&aqs=chrome..69i57.8498j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=branding+%22change+the+spelling%22&oq=branding+%22change+the+spelling%22&aqs=chrome..69i57.7593j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=buca+di+beppo&oq=bocca+de+beppo&aqs=chrome.1.69i57j0l5.5251j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=can+the+president+be+arrested&rlz=1CDGOYI_enUS750US750&oq=can+the+preside&aqs=chrome.1.69i57j0j5j0.5291j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=can+you+clean+clothes+with+isopropyl+alcohol&oq=can+you+clean+clothes+with+isopropyl+alcohol&aqs=chrome..69i57j0j69i64.10405j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=charisma+black+hole&oq=charisma+black+hole&aqs=chrome..69i57.3522j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=clean+desk+is+a+sign+of+a+sick+mind&oq=clean+desk+is+a+sig&aqs=chrome.0.0j69i57j0l4.3831j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=csvjoin&rlz=1CDGOYI_enUS750US750&oq=csvjoin&aqs=chrome..69i57j69i60j0l3.6661j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=depression+%22easily+discouraged%22&rlz=1CDGOYI_enUS750US750&oq=depression+%22easily+discouraged%22&aqs=chrome..69i57.8512j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=did+kevin+nash+beat+up+roddy+piper&oq=did+kevin+nash+beat+up+roddy+piper&aqs=chrome..69i57.8270j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=do+cats+recognize+their+names&rlz=1CDGOYI_enUS750US750&oq=do+cats+rcognize+&aqs=chrome.1.69i57j0l3.5585j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=do+people+actually+use+the+python+shell&rlz=1CDGOYI_enUS750US750&oq=do+people+actually+use+the+python+shell&aqs=chrome..69i57.13844j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=dutch+boy+haircut&rlz=1CDGOYI_enUS750US750&oq=dutch+boy+ha&aqs=chrome.1.69i57j0l3.8227j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=existential+threat&oq=existential+threat&aqs=chrome..69i57j0l5.3142j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=false+9&rlz=1CDGOYI_enUS750US750&oq=false+9&aqs=chrome..69i57j0l3.9055j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -433,11 +457,14 @@ https://www.google.com/search?q=most+apps+are+garbage&oq=most+apps+are+garbage&a
 https://www.google.com/search?q=neurofeedback+depression&rlz=1CDGOYI_enUS750US750&oq=neurofeedback+depression&aqs=chrome..69i57.10951j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=os+boot+process+visualized&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=visn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjR-cGBtf7WAhUHh1QKHZyLDc8Q_AUIEygC&biw=375&bih=591#imgrc=H2sKInrhz2yhxM:
 https://www.google.com/search?q=os+x+takes+really+long+time+to+boot&oq=os+x+takes+really+long+time+to+boot&aqs=chrome..69i57j0l2.4750j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=peer+recommendation+marketing&oq=peer+recommendation+marketing&aqs=chrome..69i57.4443j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=perl+call+shell+command+inside+regex&oq=perl+call+shell+command+inside+regex&aqs=chrome..69i57.6580j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=players+who+got+red+cards+in+their+last+match&oq=players+who+got+red+cards+in+their+last+match&aqs=chrome..69i57.7896j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=producerist+culture&rlz=1CDGOYI_enUS750US750&oq=producerist+culture&aqs=chrome..69i57.18998j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=quiet+period+cache&oq=quiet+period+cache&aqs=chrome..69i57.2327j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=release+branch+vs+development+branch&oq=release+branch+vs+development+branch&aqs=chrome..69i57.6823j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=ric+flair+referee+spot&oq=ric+flair+referee+spot&aqs=chrome..69i57.3302j1j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=semantic+derogation&oq=semantic+derogation&aqs=chrome..69i57j0l5.3221j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=sexy+when+women+act+like+men&oq=sexy+when+women+act+like+men&aqs=chrome..69i57.5284j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=spring+beans+vs+builder&oq=spring+beans+vs+builder&aqs=chrome..69i57.3887j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=straddle+%22win+either+way%22&oq=straddle+%22win+either+way%22&aqs=chrome..69i57.5815j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -464,6 +491,7 @@ https://www.google.com/search?q=why+earthworms+are+good+for+soil&oq=why+earthwor
 https://www.google.com/search?q=why+groovy+is+a+good+shell+language&rlz=1CDGOYI_enUS750US750&oq=why+groovy+is+a+good+shell+language&aqs=chrome..69i57.5606j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=why+men+don%27t+like+aerobics&oq=why+men+don%27t+like+aerobics&aqs=chrome..69i57.6572j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=why+people+prefer+pinterest+to+facebook&oq=why+people+prefer+pinterest+to+facebook&aqs=chrome..69i57.5407j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=why+wwe+stopped+going+to+afghanistan+for+tribute+to+the+troops&oq=why+wwe+stopped+going+to+afghanistan+for+tribute+to+the+troops&aqs=chrome..69i57.16593j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&biw=375&bih=591&ei=nN7bWduwH8ed0wK3wZPADg&q=bubbliness+a+female+trait&oq=bubbliness+a+female+trait&gs_l=mobile-gws-serp.3..0i71k1l5.5660.5660.0.6088.2.2.0.0.0.0.0.0..0.0....0...1.1.64.mobile-gws-serp..2.0.0....131.83y8CCj1szY
 https://www.google.com/search?rlz=1CDGOYI_enUS750US750&hl=en-US&biw=375&bih=591&tbm=isch&sa=1&ei=6Q_YWdjlFYmwjwOU-KS4AQ&q=data+flow+diagram+of+operating+system+kernel&oq=data+flow+diagram+of+operating+system+kernel&gs_l=mobile-gws-img.3...33943.37319.0.37811.8.8.0.0.0.0.273.1340.0j4j3.7.0....0...1.1.64.mobile-gws-img..1.1.204...30i10k1.207.I9z4HARt8lg
@@ -621,6 +649,7 @@ https://www.tdameritrade.com/retail-en_us/resources/pdf/TDA1000835.pdf
 https://www.theanfieldwrap.com/2015/06/liverpool-roy-evans-a-complete-chapter-from-men-in-white-suits/
 https://www.theatlantic.com/business/archive/2013/11/cheerleader-effect-why-people-are-more-beautiful-in-groups/281119/
 https://www.theguardian.com/football/2001/mar/26/newsstory.sport13
+https://www.theguardian.com/football/2009/may/18/liverpool-jamie-carragher-jose-reina
 https://www.theguardian.com/football/2009/may/18/seven-sins-football-wrath-part-one
 https://www.theguardian.com/football/2016/mar/16/footballers-sent-off-in-the-final-match-of-their-careers
 https://www.theguardian.com/football/2017/dec/06/football-most-unlikely-half-and-half-scarves-the-knowledge
@@ -694,6 +723,7 @@ https://www.youtube.com/results?sp=EgIYAlAU&q=welsh+in+america
 https://www.youtube.com/user/BrightSunGaming/playlists
 https://www.youtube.com/user/HarvardBSchool/videos
 https://www.youtube.com/user/HarvardBusiness/videos
+https://www.youtube.com/user/KayfabeCommentaries
 https://www.youtube.com/watch?v=6ruubr4XqI8
 https://www.youtube.com/watch?v=CJ60QSH0uNs
 https://www.youtube.com/watch?v=CWsXo_FsbpE
@@ -807,6 +837,7 @@ http://www.dictionary.com/browse/bombastic
 http://www.dictionary.com/browse/bonanza?r=75&src=ref&ch=dic
 http://www.dictionary.com/browse/gimmick
 http://www.dictionary.com/browse/scrag
+http://www.dictionary.com/browse/seared?s=t
 http://www.disgruntledrats.com/?p=620
 http://www.eastbaytimes.com/2011/05/12/indian-american-population-is-fastest-growing-minority-group/
 http://www.egotastic.com/2017/10/sarah-hyland-alluring-selfie-explosion-on-instagram
@@ -911,6 +942,8 @@ http://www.skyscrapercity.com/showthread.php?t=264295
 http://www.skysports.com/football/news/11096/8598807/brits-abroad-ray-hudson
 http://www.skysports.com/football/news/11800/11121162/patrice-evra-sacked-by-marseille-and-banned-by-uefa-for-kung-fu-kick-on-supporter
 http://www.smosh.com/smosh-pit/photos/people-who-dont-know-difference-between-cologne-andcolon
+http://www.sofeminine.co.uk/baby-first-year/the-beautiful-moment-a-father-breastfeeds-his-baby-n284776.html
+http://www.sofeminine.co.uk/hair/review-kenra-platimum-professional-blow-dry-spray-s2383101.html
 http://www.softgirlpics.com/nicole-sparks-naked-outdoors/
 http://www.softgirlpics.com/teen-kasia-naked-girl-in-her-school-uniform/
 http://www.sour.co/2008/06/fuctionary-complete-online-dirty-proverb-dictionary/
@@ -929,6 +962,7 @@ http://www.telegraph.co.uk/football/2017/12/08/should-know-merseyside-derby-mean
 http://www.telegraph.co.uk/men/thinking-man/why-are-men-less-happy-than-women/
 http://www.telegraph.co.uk/news/2016/09/26/what-is-third-party-ownership-in-football-and-why-is-it-controve/
 http://www.telegraph.co.uk/news/health/news/6702455/Smaller-crisp-packets-under-Government-plans.html
+http://www.the42.ie/carlos-valderrama-columbia-afro-828143-Mar2013/?amp=1
 http://www.thebrunettediaries.com/tbd-shows-you-how-to-cleverly-fake-a-bigger-butt/
 http://www.thefiscaltimes.com/Articles/2014/09/18/Men-Lose-Their-Electronics-More-Women-Do
 http://www.thegeekstuff.com/2012/03/lsbinit-script
@@ -971,6 +1005,8 @@ http://www.worldoffemale.com/top-10-greatest-misheard-lyrics/
 http://www.wowebook.pw/book/practical-vim/
 http://www.wowebook.pw/book/restful-java-jax-rs-2-0-2nd-edition/
 http://www.wrestlezone.com/news/225897-bret-hart-airs-out-hogan-hbk-more-in-controversial-interview
+http://www.wrestlingforum.com/general-wwe/1517009-tribute-troops-dont-go-overseas-anymore.html
+http://www.wrestlingforum.com/general-wwe/1858473-no-trolling-why-does-wwe-still-do-tribute-troops-6.html
 http://www.yourtango.com/experts/sean-jameson/dirty-things-say-guy
 http://www.yourtango.com/experts/sean-jameson/sexy-things-say-your-boyfriend
 http://www.zerovm.org/
