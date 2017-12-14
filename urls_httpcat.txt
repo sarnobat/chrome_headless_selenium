@@ -2225,6 +2225,7 @@ https://github.com/TeslaGov/joan/blob/master/joan-arc-core/src/main/java/com/tes
 https://github.com/theunraveler/taskwarrior-web
 https://github.com/theunraveler/taskwarrior-web
 https://github.com/tmrts/boilr
+https://github.com/tokland/youtube-upload
 https://github.com/tommymessbauer/pipeline
 https://github.com/tools4j/unix4j
 https://github.com/topics/abstraction?l=php
@@ -3554,6 +3555,7 @@ https://twitter.com/hashtag/cowpalaceroyale
 https://twitter.com/hashtag/demolishedstadiums?f=tweets
 https://twitter.com/hashtag/loststadiums
 https://twitter.com/hashtag/noframeworks?f=tweets&vertical=default
+https://twitter.com/hashtag/onlyneedone
 https://twitter.com/hashtag/pointlessabstraction
 https://twitter.com/hashtag/purchasefunnel
 https://twitter.com/hashtag/riazor?f=images&vertical=default&lang=en
@@ -3861,6 +3863,7 @@ https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=po
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=systems+theory+engineering&rh=i%3Aaps%2Ck%3Asystems+theory+engineering
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=comebacks+insults&rh=n%3A283155%2Ck%3Acomebacks+insults
 https://www.amazon.com/s/ref=sr_nr_i_24?rh=k%3Aband+network%2Ci%3Astripbooks&keywords=band+network&ie=UTF8&qid=1485480456
+https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3Alearned+behaviors&keywords=learned+behaviors&ie=UTF8&qid=1513207681&rnid=2941120011
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3Anetwork+effect&keywords=network+effect&ie=UTF8&qid=1485480452&rnid=2941120011
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A5%2Ck%3Aevent+sourcing&keywords=event+sourcing&ie=UTF8&qid=1508517816&rnid=1000
 https://www.amazon.com/s/ref=sr_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Ck%3Agoogle+maps&keywords=google+maps&ie=UTF8&qid=1481438530&rnid=2941120011
@@ -4513,12 +4516,14 @@ https://www.google.com/search?q=%22a+woman+who+doesn%27t+smile+is%22&rlz=1CDGOYI
 https://www.google.com/search?q=%22believe+in+abundance%22&oq=%22believe+in+abundance%22&aqs=chrome..69i57j0l2.4446j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22catch+the+upswing%22+dollar+cost+averaging&rlz=1CDGOYI_enUS590US590&oq=%22catch+the+upswing%22+dollar+cost+averaging&aqs=chrome..69i57.24260j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=%22code+in+their+head%22&oq=%22code+in+their+head%22&aqs=chrome..69i57.5146j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=%22culture+of+intimidation%22+india&oq=%22culture+of+intimidation%22+india&aqs=chrome..69i57.8576j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22didn%27t+see+your+message%22+liar&source=lnms&sa=X&ved=0ahUKEwj1nd-rtYHYAhVP0GMKHRjcAh0Q_AUICSgA&biw=1323&bih=635&dpr=1
 https://www.google.com/search?q=%22everything+causes+cancer%22&rlz=1CDGOYI_enUS750US750&oq=%22everything+causes+cancer%22&aqs=chrome..69i57j0l3.3859j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=%22fool%27s+market%22+meaning&rlz=1CDGOYI_enUS750US750&hl=en-US&prmd=vin&ei=hUVTWenoB8KU0wLz3IJ4&start=40&sa=N&biw=375&bih=647
 https://www.google.com/search?q=%22hard+to+read%22+spring&rlz=1CDGOYI_enUS750US750&oq=%22hard+to+read%22+spring&aqs=chrome..69i57j0l3.3646j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=%22high+horse%22+diet&oq=%22high+horse%22+diet&aqs=chrome..69i57j0l5.7103j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22humping+on+your+stereo%22&oq=%22humping+on+your+stereo%22&aqs=chrome..69i57.5701j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=%22I%27m+a+fan+of+good+music%22&oq=%22I%27m+a+fan+of+good+music%22&aqs=chrome..69i57.4806j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22if+god+used+twitter%22&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjdjpbq-4fXAhVEi1QKHb9iD8UQ_AUICSgA&biw=1456&bih=721&dpr=2
 https://www.google.com/search?q=%22install+ease+components%22&oq=%22install+ease+components%22&aqs=chrome..69i57.3552j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22leads+to+piracy%22&rlz=1CDGOYI_enUS590US590&oq=%22leads+to+piracy%22&aqs=chrome..69i57j0l3.14024j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -6424,6 +6429,7 @@ https://www.urbandictionary.com/define.php?term=Grandma%20Logic
 https://www.urbandictionary.com/define.php?term=hagger
 https://www.urbandictionary.com/define.php?term=hipster
 https://www.urbandictionary.com/define.php?term=impressionable
+https://www.urbandictionary.com/define.php?term=innuendo
 https://www.urbandictionary.com/define.php?term=neanderthal
 https://www.urbandictionary.com/define.php?term=Shimmy
 https://www.urbandictionary.com/define.php?term=significunt%20other
@@ -6531,6 +6537,7 @@ https://www.youtube.com/channel/UCGov3v6D4LdhVFbTd-aBG7g/videos
 https://www.youtube.com/channel/UCq6_0hFCpIZ5hMDdV-86HHQ/search?query=prime+92&spfreload=1
 https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg/videos
 https://www.youtube.com/channel/UCu4f-27AR_eYvrAsGZ5-m_w
+https://www.youtube.com/intl/en-GB/yt/about/copyright/fair-use/
 https://www.youtube.com/playlist?list=PL2A40AD14E474E949
 https://www.youtube.com/playlist?list=PLA9B6F7200FFB3C5F
 https://www.youtube.com/playlist?list=PLaLJgtLqf4W9EO7qR-KHngwizawADyUoq
@@ -6680,6 +6687,7 @@ https://www.youtube.com/watch?v=pR1QSO2W-0o
 https://www.youtube.com/watch?v=QGzsH3n71MM
 https://www.youtube.com/watch?v=qPYHCwA5l08
 https://www.youtube.com/watch?v=Rba9Z0CcWwQ
+https://www.youtube.com/watch?v=ripuq9NxQBE
 https://www.youtube.com/watch?v=rMVfwASeAMc
 https://www.youtube.com/watch?v=RP5_tucQCyM
 https://www.youtube.com/watch?v=rul_8oxQ8NI
@@ -7723,6 +7731,7 @@ http://www.foxsports.com/buzzer/wrestlemania-part-1
 http://www.foxsports.com/soccer/story/juanfran-writes-letter-to-fans-in-wake-of-champions-league-final-penalty-miss-053016
 http://www.fraser.org/About-Fraser/Locations
 http://www.fuhsd.org/boundarymap
+http://www.fujitsu.com/global/support/products/computing/peripheral/scanners/scansnap/software/ix500m-installer.html
 http://www.fullmatchesandshows.com/2017/01/19/soccer-superstars-batistuta/
 http://www.fullmatchesandshows.com/2017/01/20/soccer-superstars-del-piero/
 http://www.fullmatchesandshows.com/2017/01/20/soccer-superstars-roberto-baggio/
@@ -8759,6 +8768,7 @@ http://www.urbandictionary.com/define.php?term=pub%20logic&defid=3176476
 http://www.urbandictionary.com/define.php?term=quora
 http://www.urbandictionary.com/define.php?term=reddit
 http://www.urbandictionary.com/define.php?term=resting%20bitch%20face
+http://www.urbandictionary.com/define.php?term=riding
 http://www.urbandictionary.com/define.php?term=roll%20tide
 http://www.urbandictionary.com/define.php?term=scrubber
 http://www.urbandictionary.com/define.php?term=Selfie

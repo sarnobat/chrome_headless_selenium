@@ -141,6 +141,7 @@ https://github.com/rockstarcode/MarkDB
 https://github.com/Stichting-MINIX-Research-Foundation/minix
 https://github.com/Stichting-MINIX-Research-Foundation/minix/blob/master/bin/ps/ps.c
 https://github.com/TeslaGov/joan/blob/master/joan-arc-core/src/main/java/com/teslagov/joan/core/http/HttpPostBuilder.java
+https://github.com/tokland/youtube-upload
 https://github.com/topics/abstraction?l=php
 https://github.com/torvalds/linux/blob/master/arch/x86/boot/header.S
 https://github.com/ZungBang/undbx
@@ -298,6 +299,7 @@ https://twitter.com/comedywire/status/917492337214976005
 https://twitter.com/emalcsa/status/739019318344716288
 https://twitter.com/hashtag/2kindsofpeople?lang=en
 https://twitter.com/hashtag/breastforbusiness?lang=en
+https://twitter.com/hashtag/onlyneedone
 https://twitter.com/hashtag/pointlessabstraction
 https://twitter.com/hashtag/riazor?f=images&vertical=default&lang=en
 https://twitter.com/hashtag/SafetSu%C5%A1i%C4%87?src=hash
@@ -346,6 +348,7 @@ https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=dandruff+comb
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=hunter+gatherer+in+books
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=paper+roll+dispenser
+https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3Alearned+behaviors&keywords=learned+behaviors&ie=UTF8&qid=1513207681&rnid=2941120011
 https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A5%2Ck%3Aevent+sourcing&keywords=event+sourcing&ie=UTF8&qid=1508517816&rnid=1000
 https://www.amazon.com/stores/node/13608909011?_encoding=UTF8&field-lbr_brands_browse-bin=Lamicall&ref_=w_bl_hsx_s_pc_web_13608909011
 https://www.amazon.com/Venkat-Subramaniam/e/B001JOS4R2/ref=dp_byline_cont_book_1
@@ -417,8 +420,10 @@ https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+invest
 https://www.google.com/search?num=40&q=%22before+we+get+started+on+that%22+jonathan+ross&spell=1&sa=X&ved=0ahUKEwi8n4TJ34LYAhXKs48KHZ3rDzMQvwUIJigA&biw=1432&bih=798
 https://www.google.com/search?num=40&q=some+usbc+ports+not+working+mackbook&nfpr=1&sa=X&ved=0ahUKEwjOreyCjPTXAhUClZAKHehwC9QQvgUIJygB&biw=1432&bih=798
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&ei=c7_7Wam8JtGMjwP1jLz4Cw&q=grownups+commercial+2017&oq=grownups+commercial+2017&gs_l=psy-ab.3...1644.3147.0.3443.5.5.0.0.0.0.345.806.2-2j1.3.0....0...1.1.64.psy-ab..2.2.599...0i13i30k1j0i22i30k1j0i8i13i30k1.0.86ufBRnaLZQ
+https://www.google.com/search?q=%22culture+of+intimidation%22+india&oq=%22culture+of+intimidation%22+india&aqs=chrome..69i57.8576j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22didn%27t+see+your+message%22+liar&source=lnms&sa=X&ved=0ahUKEwj1nd-rtYHYAhVP0GMKHRjcAh0Q_AUICSgA&biw=1323&bih=635&dpr=1
 https://www.google.com/search?q=%22high+horse%22+diet&oq=%22high+horse%22+diet&aqs=chrome..69i57j0l5.7103j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=%22I%27m+a+fan+of+good+music%22&oq=%22I%27m+a+fan+of+good+music%22&aqs=chrome..69i57.4806j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22if+god+used+twitter%22&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjdjpbq-4fXAhVEi1QKHb9iD8UQ_AUICSgA&biw=1456&bih=721&dpr=2
 https://www.google.com/search?q=%22power+back+in+the+hands+of+the+customer%22&oq=%22power+back+in+the+hands+of+the+customer%22&aqs=chrome..69i57.5164j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=%22security+updates%22+pointless&oq=%22security+updates%22+pointless&aqs=chrome..69i57.5695j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -697,6 +702,7 @@ https://www.urbandictionary.com/define.php?term=Grandma%20Logic
 https://www.urbandictionary.com/define.php?term=hagger
 https://www.urbandictionary.com/define.php?term=hipster
 https://www.urbandictionary.com/define.php?term=impressionable
+https://www.urbandictionary.com/define.php?term=innuendo
 https://www.urbandictionary.com/define.php?term=neanderthal
 https://www.urbandictionary.com/define.php?term=Shimmy
 https://www.urbandictionary.com/define.php?term=significunt%20other
@@ -725,6 +731,7 @@ https://www.yelp.com/biz/pok%C3%A9works-mountain-view-3
 https://www.youthkiawaaz.com/2011/08/blame-it-on-the-ever-growing-generation-gap/
 https://www.youthkiawaaz.com/2015/11/loving-your-parents/
 https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg/videos
+https://www.youtube.com/intl/en-GB/yt/about/copyright/fair-use/
 https://www.youtube.com/results?search_query=999+lifesavers&page=&utm_source=opensearch
 https://www.youtube.com/results?search_query=bootloader+explained
 https://www.youtube.com/results?search_query=boston+fire+1872+documentary&sp=EgIYAlAU
@@ -758,6 +765,7 @@ https://www.youtube.com/watch?v=_meghmS4jlk
 https://www.youtube.com/watch?v=Mgg1RwM-NGo
 https://www.youtube.com/watch?v=pR1QSO2W-0o
 https://www.youtube.com/watch?v=QGzsH3n71MM
+https://www.youtube.com/watch?v=ripuq9NxQBE
 https://www.youtube.com/watch?v=rMVfwASeAMc
 https://www.youtube.com/watch?v=s6jbqBZ8s6I
 https://www.youtube.com/watch?v=-SCB1t28nDU
@@ -873,6 +881,7 @@ http://www.ethicsdaily.com/you-may-be-smart-but-that-doesnt-make-you-moral-cms-2
 http://www.fandecheng.com/personal/interests/ewindows/msdos_functional/minix_mbr.htm
 http://www.fmylife.com/img/7a98b4424e5a638e625048345012d8e0.jpeg/original/
 http://www.football365.com/news/exclusive-james-richardson-to-leave-guardian-football-weekly
+http://www.fujitsu.com/global/support/products/computing/peripheral/scanners/scansnap/software/ix500m-installer.html
 http://www.functionaljava.org/
 http://www.goal.com/en-sg/news/3883/features/2013/10/26/4354447/from-madrid-with-love-part-1-an-insight-into-spanish?ICID=AR
 http://www.goal.com/en-sg/news/3883/features/2013/11/02/4354470/from-madrid-with-love-part-2-catalunya-basque-and-the
@@ -1009,6 +1018,7 @@ http://www.urbandictionary.com/define.php?term=Mansplaining
 http://www.urbandictionary.com/define.php?term=pizza
 http://www.urbandictionary.com/define.php?term=quora
 http://www.urbandictionary.com/define.php?term=reddit
+http://www.urbandictionary.com/define.php?term=riding
 http://www.urbandictionary.com/define.php?term=scrubber
 http://www.urbandictionary.com/define.php?term=slapdick
 http://www.urbandictionary.com/define.php?term=spunk
