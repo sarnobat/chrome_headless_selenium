@@ -38,6 +38,7 @@ https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts
 https://askubuntu.com/questions/747905/edit-crontab-with-an-editor-other-than-the-default
 https://aws.amazon.com/products/?nc2=h_ql_p
 https://blog.amplexor.com/globalcontent/en/localization-strategy-translating-logos-across-cultures
+https://blogs.cfainstitute.org/investor/2011/11/28/daniel-kahneman-financial-advisers-arent-immune-from-the-illusion-of-skill/
 https://books.google.com/books?id=yfkvBQAAQBAJ&pg=PA75&lpg=PA75&dq=your+education+doesn%27t+make+you+a+better+person+your+behavior+does&source=bl&ots=-Bz_c5sT2Q&sig=rNkA2T82ujkA8sFQGm7tCE27R7w&hl=en&sa=X&ved=0ahUKEwiQpInb0urXAhUph1QKHZtIDiIQ6AEIUzAK#v=onepage&q=your%20education%20doesn't%20make%20you%20a%20better%20person%20your%20behavior%20does&f=false
 https://charuzu.wordpress.com/2012/06/02/ode-to-joy-rowan-atkinson/
 https://chrome.google.com/webstore/detail/spoiler-protection/ecomdfgdakophagbabjbfnpaigdcpmmh?hl=en-US
@@ -169,6 +170,7 @@ https://imgur.com/UEJ8DjR
 https://in.reuters.com/article/soccer-sweden-brazil/pele-and-team-mates-bid-farewell-to-rasunda-stadium-idINDEE87D09520120814
 https://investorjunkie.com/12474/commission-free-etfs/
 https://investor.vanguard.com/etf/fees
+https://ios.gadgethacks.com/how-to/put-music-your-iphone-without-using-itunes-0147391/
 http://sites.harvard.edu/~lib113/reference/unix/co-unix1.html
 https://jaketrent.com/post/convert-database-to-markdown/
 https://jsevy.com/linux/ARM_Linux_boot_sequence.html
@@ -228,6 +230,7 @@ https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-
 https://stackoverflow.com/questions/124671/picking-a-random-element-from-a-set
 https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device
 https://stackoverflow.com/questions/15597666/awk-to-print-field-2-first-then-field-1
+https://stackoverflow.com/questions/16042823/git-checkout-prev
 https://stackoverflow.com/questions/1632113/what-is-the-difference-between-sed-and-awk
 https://stackoverflow.com/questions/16751274/is-awk-a-programming-language-or-just-a-tool
 https://stackoverflow.com/questions/1731357/multi-language-command-line-source-code-formatter
@@ -269,6 +272,7 @@ https://stackoverflow.com/questions/4032209/is-md5-still-good-enough-to-uniquely
 https://stackoverflow.com/questions/42626068/how-do-i-list-all-remote-refs
 https://stackoverflow.com/questions/42748169/debian-cannot-fork-memory-issue
 https://stackoverflow.com/questions/43851456/how-to-comment-on-jenkins-build-failed-results
+https://stackoverflow.com/questions/43890/crop-mp3-to-first-30-seconds
 https://stackoverflow.com/questions/45227380/convert-unix-epoch-time-to-date-in-google-sheets
 https://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java
 https://stackoverflow.com/questions/5399873/object-oriented-design-for-an-investment-stock-and-options-portfolio-in-python
@@ -372,6 +376,7 @@ https://www.bogleheads.org/forum/viewtopic.php?t=101369
 https://www.bogleheads.org/forum/viewtopic.php?t=195156
 https://www.bolde.com/act-like-hot-girl-ugly-girl-26-differences-help-figure/
 https://www.boredpanda.com/young-looking-moms-daughters-look-same-age/?utm_source=facebook&utm_medium=cpc&utm_campaign=fbad&utm_term=reach-millennials&utm_content=young-looking-moms-daughters-look-same-age
+https://www.businessinsider.com.au/being-an-early-adopter-is-almost-impossible-and-can-spell-death-for-your-business-2015-6
 https://www.buzzfeed.com/amyodell/bikinis-are-the-worlds-most-feared-item-of-clothing?utm_term=.sbE4VRlwAz#.hnbmALQyZ4
 https://www.cagesideseats.com/wwe/2014/4/20/5634158/kevin-nash-blows-up-on-roddy-piper-on-twitter
 https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part
@@ -414,6 +419,7 @@ https://www.google.com/search?num=40&biw=1432&bih=798&ei=TCgnWv7xFMHxvgSCio3YDw&
 https://www.google.com/search?num=40&ei=178MWvChE8fpvgTjzpCgDg&q=unix+data+entry+tool&oq=unix+data+entry+tool&gs_l=psy-ab.3..33i22i29i30k1l9.12880.14337.0.14568.6.6.0.0.0.0.99.540.6.6.0....0...1.1.64.psy-ab..0.6.538...0i8i30k1j33i160k1.0._AfMOAyBNTE
 https://www.google.com/search?num=40&ei=3mICWv-PF8GZ8wWU-L3YAw&q=markdown+file+database+-cms+-blog&oq=markdown+file+database+-cms+-blog&gs_l=psy-ab.3...31832.33168.0.33319.6.6.0.0.0.0.189.447.2j2.4.0....0...1.1.64.psy-ab..2.0.0....0.22NDCJFlTyk
 https://www.google.com/search?num=40&ei=atQMWtDUBYa88QXnx4boDA&q=java+port+watchdog&oq=java+port+watchdog&gs_l=psy-ab.3...4212.7171.0.7299.9.9.0.0.0.0.117.800.4j4.8.0....0...1.1.64.psy-ab..1.6.596...0j0i7i30k1j0i7i10i30k1j0i67k1j0i8i7i30k1.0.HMWeUig4YUk
+https://www.google.com/search?num=40&ei=AVI0WvT8EY7qjwPt7Zr4CA&q=door+to+door+sales+should+be+illegal+%22for+the+economy%22&oq=door+to+door+sales+should+be+illegal+%22for+the+economy%22&gs_l=psy-ab.3...5915.12316.0.12579.18.18.0.0.0.0.111.1612.16j2.18.0....0...1c.1.64.psy-ab..0.12.1100...0i22i30k1j33i21k1j33i160k1j33i22i29i30k1.0.h9U-AErjvYQ
 https://www.google.com/search?num=40&ei=C64UWsXtNcrT0gKm3oeYBw&q=%22unit+of+abstraction%22&oq=%22unit+of+abstraction%22&gs_l=psy-ab.3..0i7i30k1j0i30k1j0i8i30k1l2.4361.4977.0.5192.2.2.0.0.0.0.103.202.1j1.2.0....0...1.1.64.psy-ab..0.2.200...0i22i30k1.0.Xb-QwyCxm-U
 https://www.google.com/search?num=40&ei=d5H3WcCpOYySjwPw9I3oBw&q=CONFIG_DEBUGSYM+minix&oq=CONFIG_DEBUGSYM+minix&gs_l=psy-ab.3...3547.4441.0.4616.6.6.0.0.0.0.266.686.2j2j1.5.0....0...1.1.64.psy-ab..1.1.99...0i22i30k1.0.Gju5zrLC010
 https://www.google.com/search?num=40&ei=dHIPWpyfIsqjwASHxZjACg&q=%22input+form%22+cli&oq=%22input+form%22+cli&gs_l=psy-ab.3..0i10i30k1j0i13i5i30k1l2j0i8i30k1l6j0i8i10i30k1.6806.7318.0.7541.2.2.0.0.0.0.287.410.0j1j1.2.0....0...1.1.64.psy-ab..0.2.406....0.Z2QPeN1AeQQ
@@ -436,6 +442,7 @@ https://www.google.com/search?num=40&q=some+usbc+ports+not+working+mackbook&nfpr
 https://www.google.com/search?num=40&rlz=1CDGOYI_enUS750US750&hl=en-US&ei=c7_7Wam8JtGMjwP1jLz4Cw&q=grownups+commercial+2017&oq=grownups+commercial+2017&gs_l=psy-ab.3...1644.3147.0.3443.5.5.0.0.0.0.345.806.2-2j1.3.0....0...1.1.64.psy-ab..2.2.599...0i13i30k1j0i22i30k1j0i8i13i30k1.0.86ufBRnaLZQ
 https://www.google.com/search?q=%22culture+of+intimidation%22+india&oq=%22culture+of+intimidation%22+india&aqs=chrome..69i57.8576j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22didn%27t+see+your+message%22+liar&source=lnms&sa=X&ved=0ahUKEwj1nd-rtYHYAhVP0GMKHRjcAh0Q_AUICSgA&biw=1323&bih=635&dpr=1
+https://www.google.com/search?q=%22early+adopter%22+%22survivorship+bias%22&oq=%22early+adopter%22+%22survivorship+bias%22&aqs=chrome..69i57.6212j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22high+horse%22+diet&oq=%22high+horse%22+diet&aqs=chrome..69i57j0l5.7103j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22I%27m+a+fan+of+good+music%22&oq=%22I%27m+a+fan+of+good+music%22&aqs=chrome..69i57.4806j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22if+god+used+twitter%22&rlz=1CDGOYI_enUS750US750&hl=en-US&source=lnms&sa=X&ved=0ahUKEwjdjpbq-4fXAhVEi1QKHb9iD8UQ_AUICSgA&biw=1456&bih=721&dpr=2
@@ -493,6 +500,7 @@ https://www.google.com/search?q=os+x+takes+really+long+time+to+boot&oq=os+x+take
 https://www.google.com/search?q=peer+recommendation+marketing&oq=peer+recommendation+marketing&aqs=chrome..69i57.4443j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=perl+call+shell+command+inside+regex&oq=perl+call+shell+command+inside+regex&aqs=chrome..69i57.6580j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=players+who+got+red+cards+in+their+last+match&oq=players+who+got+red+cards+in+their+last+match&aqs=chrome..69i57.7896j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=posteritree&oq=posteritree&aqs=chrome..69i57.2063j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=producerist+culture&rlz=1CDGOYI_enUS750US750&oq=producerist+culture&aqs=chrome..69i57.18998j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=quiet+period+cache&oq=quiet+period+cache&aqs=chrome..69i57.2327j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=release+branch+vs+development+branch&oq=release+branch+vs+development+branch&aqs=chrome..69i57.6823j0j7&sourceid=chrome&ie=UTF-8
@@ -647,6 +655,7 @@ https://www.redandwhitekop.com/forum/index.php?action=dlattach;topic=315184.0;at
 https://www.redandwhitekop.com/forum/index.php?action=dlattach;topic=315184.0;attach=270090;image
 https://www.redandwhitekop.com/forum/index.php?topic=69087.0
 https://www.reddit.com/r/AskReddit/comments/2efxy2/why_do_cats_seem_to_love_clean_bed_sheetslaundry/
+https://www.reddit.com/r/Bitcoin/comments/6xfb9q/yes_you_are_still_an_early_adopter/
 https://www.reddit.com/r/explainlikeimfive/comments/2nktlj/eli5_why_humans_are_attracted_to_butts_and_why_we/
 https://www.reddit.com/r/footballdocumentaries/
 https://www.reddit.com/r/footballdocumentaries/comments/3tmi1y/request_the_last_yugoslav_football_team_english/
@@ -668,6 +677,7 @@ https://www.reddit.com/r/soccer/comments/34y1mv/what_are_some_good_football_docu
 https://www.reddit.com/r/soccer/comments/3ao5lh/best_soccer_documentariesmovies/
 https://www.reddit.com/r/soccer/comments/cpf6w/are_there_any_good_soccer_movies/
 https://www.reddit.com/r/soccerstreams/
+https://www.reddit.com/r/SquaredCircle/comments/1oj9hs/does_shawn_michaels_realize_shizzle_does_not/
 https://www.reddit.com/r/SquaredCircle/comments/48v26d/why_do_uk_crowds_yell_one_fall/
 https://www.reddit.com/r/SquaredCircle/comments/4d794l/ultimate_warriors_thoughts_on_a_cancer_sufferer/
 https://www.reddit.com/r/TheSimpsons/comments/3kmehw/is_khlav_kalash_a_real_food/
