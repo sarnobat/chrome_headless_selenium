@@ -2704,6 +2704,7 @@ https://semitwist.com/articles/article/view/why-i-hate-python-or-any-dynamic-lan
 https://serverfault.com/questions/135507/linux-how-to-use-a-file-as-input-and-output-at-the-same-time
 https://serverfault.com/questions/135668/ssh-x-howto-get-clipboard
 https://serverfault.com/questions/151109/how-do-i-get-current-unix-time-in-milliseconds-using-bash
+https://serverfault.com/questions/196843/logrotate-rotating-non-log-files
 https://serverfault.com/questions/24523/meaning-of-directories-on-unix-and-unix-like-systems
 https://serverfault.com/questions/314810/how-to-create-dns-catch-all-entry-wildcard-in-windows-2008-r2
 https://serverfault.com/questions/363670/rsync-avzhp-follows-hardlinks-instead-of-copying-them-as-hardlinks
@@ -3042,6 +3043,7 @@ https://stackoverflow.com/questions/4950725/how-do-i-get-git-to-show-me-which-br
 https://stackoverflow.com/questions/5007530/how-do-i-scroll-to-an-element-using-javascript
 https://stackoverflow.com/questions/5007530/how-do-i-scroll-to-an-element-using-javascript
 https://stackoverflow.com/questions/5007530/how-do-i-scroll-to-an-element-using-javascript
+https://stackoverflow.com/questions/5054128/repeating-characters-in-vim-insert-mode
 https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables
 https://stackoverflow.com/questions/5189914/setting-system-property
 https://stackoverflow.com/questions/520650/make-an-existing-git-branch-track-a-remote-branch
@@ -3073,6 +3075,7 @@ https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more
 https://stackoverflow.com/questions/7190050/how-do-i-compile-the-asm-generated-by-gcc
 https://stackoverflow.com/questions/7226538/how-to-use-pipe-symbol-through-exec-in-java
 https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline
+https://stackoverflow.com/questions/73319/duplicate-a-whole-line-in-vim
 https://stackoverflow.com/questions/7335278/use-spring-integration-or-not-on-a-pure-java-distributed-system-that-is-connect
 https://stackoverflow.com/questions/782178/how-do-i-convert-a-string-to-an-inputstream-in-java
 https://stackoverflow.com/questions/7844310/spring-jms-receive-topic-messages
@@ -3116,6 +3119,7 @@ https://studylib.net/doc/17865166/andgt%3Bandgt%3B-todd-mytkowicz---okay.--thank
 https://stv.tv/sport/football/clubs/celtic/283862-atletico-v-celtic-1974-why-theres-history/
 https://superuser.com/questions/1003788/reboot-linux-via-netcat
 https://superuser.com/questions/1197868/arrow-keys-dont-work-when-using-mosh-remote-shell
+https://superuser.com/questions/1277805/do-index-searching-cli-tools-exist
 https://superuser.com/questions/135171/listing-lines-from-just-one-file-in-diff
 https://superuser.com/questions/14762/execute-applescript-without-open-the-editor
 https://superuser.com/questions/18498/last-parameter-of-last-command-in-bash-in-vi-mode
@@ -4297,6 +4301,7 @@ https://www.google.com/search?num=40&ei=d5H3WcCpOYySjwPw9I3oBw&q=CONFIG_DEBUGSYM
 https://www.google.com/search?num=40&ei=dHIPWpyfIsqjwASHxZjACg&q=%22input+form%22+cli&oq=%22input+form%22+cli&gs_l=psy-ab.3..0i10i30k1j0i13i5i30k1l2j0i8i30k1l6j0i8i10i30k1.6806.7318.0.7541.2.2.0.0.0.0.287.410.0j1j1.2.0....0...1.1.64.psy-ab..0.2.406....0.Z2QPeN1AeQQ
 https://www.google.com/search?num=40&ei=do4tWtmVLszMjwPOs6PgCw&q=impressionable+vs+stubborn&oq=impressionable+vs+stubborn&gs_l=psy-ab.3...24163.25224.0.26210.8.8.0.0.0.0.135.579.1j4.5.0....0...1.1.64.psy-ab..3.3.321...33i160k1.0.9l4uQ9aV7xM
 https://www.google.com/search?num=40&ei=fYEoWrGBLonGjwPLkZrgDA&q=%22negative+PR+campaign%22&oq=%22negative+PR+campaign%22&gs_l=psy-ab.3..0i22i30k1.4793.6568.0.6863.3.3.0.0.0.0.83.241.3.3.0....0...1.1.64.psy-ab..0.3.240...0.0.3dfxKqeyLAk
+https://www.google.com/search?num=40&ei=JZg1WsnOAcesjwPdqb7YCg&q=short+sleeve+order+school+summer&oq=short+sleeve+order+school+summer&gs_l=psy-ab.3..33i21k1j33i160k1l2.35419.41547.0.41635.14.14.0.0.0.0.125.1354.6j7.13.0....0...1c.1.64.psy-ab..1.12.1248...0j0i22i30k1j33i22i29i30k1.0.FtSQyY3MoeQ
 https://www.google.com/search?num=40&ei=kqYhWuWCGsSA8wXz_Qc&q=vernacular+branding+-mexico&oq=vernacular+branding+-mexico&gs_l=psy-ab.3...38887.40230.0.40471.8.8.0.0.0.0.95.654.8.8.0....0...1.1.64.psy-ab..0.2.180...0i22i30k1.0.KZyo9ZM6Ydc
 https://www.google.com/search?num=40&ei=loEtWuXyFM6IjwPc7YY4&q=straddling+%22has+to+go+up%22+%22one+of+them%22&oq=straddling+%22has+to+go+up%22+%22one+of+them%22&gs_l=psy-ab.3...876824.877476.0.877846.7.6.0.0.0.0.196.446.0j3.3.0....0...1.1.64.psy-ab..5.0.0....0.48G8wbSQf4g
 https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabulary&oq=branding+vocabulary&gs_l=psy-ab.3..0j0i7i30k1l2j0i5i30k1j0i8i30k1j0i5i30k1.34783.34934.0.35165.3.3.0.0.0.0.157.369.0j3.3.0....0...1.1.64.psy-ab..2.1.156....0.-zb3vJbLATM
@@ -4306,6 +4311,7 @@ https://www.google.com/search?num=40&ei=tnokWtLWD5S0jAPKhIPYCQ&q=agamatrix+jazz+
 https://www.google.com/search?num=40&ei=X9MyWuLlJomijwOZpa2YCQ&q=langley+virginia+cia&oq=langley+virginia+cia&gs_l=psy-ab.3..0l6j0i22i30k1l4.1609.5112.0.5402.14.9.5.0.0.0.159.959.3j5.8.0....0...1c.1.64.psy-ab..1.13.972...0i20i263k1j0i22i10i30k1j33i21k1j33i160k1.0.dYXR-Li1IfQ
 https://www.google.com/search?num=40&ei=XF4vWuqKB4iVwASY0IygCw&q=%2Bdistractions+%2Bimpressions+%2Bcomputer&oq=%2Bdistractions+%2Bimpressions+%2Bcomputer&gs_l=psy-ab.3...4133.4133.0.4522.1.1.0.0.0.0.115.115.0j1.1.0....0...1.1.64.psy-ab..0.0.0....0._PoaUeXRFsE
 https://www.google.com/search?num=40&ei=xfItWv3ZA4KPwgS2q4aIDg&q=muscles+vs+breasts+-implant+-chicken+-exercise+gender+war&oq=muscles+vs+breasts+-implant+-chicken+-exercise+gender+war&gs_l=psy-ab.3...37663.39198.0.40536.11.11.0.0.0.0.124.940.6j4.10.0....0...1.1.64.psy-ab..1.0.0....0.B7eNzv8N6aU
+https://www.google.com/search?num=40&ei=XYY1WvKSMJjojwOO1KLYBA&q=does+housework+include+paperwork&oq=does+housework+include+paperwork&gs_l=psy-ab.3...10106.13828.0.14034.22.22.0.0.0.0.143.2004.3j15.18.0....0...1c.1.64.psy-ab..5.16.1791...0j0i7i30k1j0i67k1j0i22i30k1j33i22i29i30k1j33i21k1j33i160k1.0.VfmYQE6woNg
 https://www.google.com/search?num=40&ei=YHQoWtmeH8OIjwOr4p_oDA&q=%22new+europe%22+anthem&oq=%22new+europe%22+anthem&gs_l=psy-ab.3...1533.2949.0.3148.9.7.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..9.0.0....0.hQDWDJYhjUs
 https://www.google.com/search?num=40&ei=yY0LWveNOYnSjAOQ1KHACA&q=when+did+investing+become+affordable&oq=when+did+investing+become+affordable&gs_l=psy-ab.3..33i21k1.8901.12987.0.13172.36.30.0.0.0.0.252.3327.6j13j5.24.0....0...1.1.64.psy-ab..12.24.3319...0j35i39k1j0i131k1j0i20i264k1j0i67k1j0i22i30k1j0i22i10i30k1j33i22i29i30k1.0.0zLs2CzJiBE
 https://www.google.com/search?num=40&ei=ZAYzWq7-LsrT0ATe7pjIBQ&q=scoundrel+balderdash+alas+buggery&oq=scoundrel+balderdash+alas+buggery&gs_l=psy-ab.3...1201.3080.0.7107.8.8.0.0.0.0.97.720.8.8.0....0...1c.1.64.psy-ab..0.5.440...33i21k1j33i160k1.0.b_iNyxwWjyo
@@ -5295,6 +5301,7 @@ https://www.google.com/search?q=why+do+cats+like+climbing+into+vans&rlz=1CDGOYI_
 https://www.google.com/search?q=why+does+american+tv+look+different&rlz=1CDGOYI_enUS590US590&oq=why+american+tv+&aqs=chrome.1.69i57j0l3.19725j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=why+does+my+comcast+internet+constantly+freeze&oq=why+does+my+comcast+internet+constantly+freeze&aqs=chrome..69i57.9476j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=why+does+pareto+distribution+occur+in+nature&rlz=1CDGOYI_enUS590US590&oq=why+does+pareto+distribution+occur+in+nature&aqs=chrome..69i57.15316j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=why+do+hair+surgeons+look+ugly&oq=why+do+hair+surgeons+look+ugly&aqs=chrome..69i57j35i39l2j0l3.8440j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=why+do+humans+seek+approval&oq=why+do+humans+seek+approva&aqs=chrome.0.0j69i57.4212j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=why+do+i+crave+salt&oq=why+do+I+crave&aqs=chrome.1.69i57j0l5.3143j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=why+do+men+in+black+jackets+look+sexy&rlz=1CDGOYI_enUS750US750&oq=why+do+men+in+black+jackets+look+sexy&aqs=chrome..69i57.6774j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -6451,6 +6458,7 @@ https://www.ubuntu.com/download/desktop/try-ubuntu-before-you-install
 https://www.uclaextension.edu/search/publicCourseSearchDetails.do?method=load&courseId=133082
 https://www.ulavacharuusa.com/
 https://www.universe.com/events/all-pro-wrestling-cowpalaceroyale-tickets-0RT2DM
+https://www.unix.com/shell-programming-and-scripting/62646-how-cut-first-3-characters-each-line-file.html
 https://www.urbandictionary.com/define.php?term=bikini
 https://www.urbandictionary.com/define.php?term=biscuit%20bottom
 https://www.urbandictionary.com/define.php?term=cans
