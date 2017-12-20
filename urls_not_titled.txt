@@ -94,6 +94,7 @@ https://en.wikipedia.org/wiki/Google_Data_Liberation_Front
 https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina
 https://en.wikipedia.org/wiki/Hampi
 https://en.wikipedia.org/wiki/High_rising_terminal
+https://en.wikipedia.org/wiki/House_show
 https://en.wikipedia.org/wiki/Initial_ramdisk
 https://en.wikipedia.org/wiki/Kamchatka_Oblast
 https://en.wikipedia.org/wiki/Kamchatka_Peninsula
@@ -111,6 +112,7 @@ https://en.wikipedia.org/wiki/Rentokil_Initial
 https://en.wikipedia.org/wiki/Reset_vector
 https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 https://en.wikipedia.org/wiki/Rock_music_in_Ireland
+https://en.wikipedia.org/wiki/Shotgun_wedding
 https://en.wikipedia.org/wiki/Simple_Sloppy_Semantic_Database
 https://en.wikipedia.org/wiki/Specification_by_example
 https://en.wikipedia.org/wiki/Strozzi_NoSQL
@@ -265,6 +267,7 @@ https://stackoverflow.com/questions/1885557/simplest-code-for-array-intersection
 https://stackoverflow.com/questions/1917844/how-to-cast-listobject-to-listmyclass
 https://stackoverflow.com/questions/1940106/concatenating-string-with-number-in-ruby
 https://stackoverflow.com/questions/1960895/assigning-system-commands-output-to-variable
+https://stackoverflow.com/questions/19755793/list-bash-bind-x-bindings/47878915#47878915
 https://stackoverflow.com/questions/197757/printing-pointers-in-c
 https://stackoverflow.com/questions/21092086/get-random-element-from-collection
 https://stackoverflow.com/questions/21498832/in-docker-whats-the-difference-between-a-container-and-an-image
@@ -328,10 +331,12 @@ https://thesefootballtimes.co/2016/05/19/when-real-madrid-castilla-reached-the-c
 https://thesefootballtimes.co/2017/01/08/diego-godin-and-the-story-of-footballs-ultimate-survivor/
 https://thesefootballtimes.co/2017/06/14/how-a-star-studded-argentina-lifted-the-under-20-world-cup-in-1997/
 https://thesefootballtimes.co/2017/08/24/the-magic-of-bosnia-and-psg-legend-safet-susic/
+https://thesefootballtimes.co/2017/10/30/deconstructing-the-american-game-and-the-problems-so-many-thought-never-existed/
 https://thesefootballtimes.co/author/emctear/
 https://thoughtcatalog.com/nikolao-montaya/2014/08/8-reasons-masculine-men-are-better-lovers-than-nice-guys/
 https://tiredfeminist.com/2011/03/08/tmf-boys-do-stuff-girls-are-pretty/
 https://tom2tec.wordpress.com/tag/m3u/
+https://triradiate.wordpress.com/2017/12/19/reminder-from-tdameritrade-were-boneheads-in-case-you-forgot/
 http://strongorange.org/the-politeness-disorder/
 https://tv.xfinity.com/listings
 https://twitter.com/ChaoticGloom/status/925034159600435202
@@ -349,6 +354,7 @@ https://twitter.com/hashtag/survivorseries1993
 https://twitter.com/hashtag/uselessabstraction
 https://twitter.com/id_aa_carmack/status/835164026984243201?lang=en
 https://twitter.com/jrhwriting/status/423986633419923456
+https://twitter.com/LauraYarris/status/903639485182705665
 https://twitter.com/Louvriex/status/743370288855920640
 https://twitter.com/oddsbible/status/715189595655131137
 https://twitter.com/OldFootball11
@@ -402,8 +408,10 @@ https://www.bogleheads.org/forum/viewtopic.php?t=101369
 https://www.bogleheads.org/forum/viewtopic.php?t=195156
 https://www.bolde.com/act-like-hot-girl-ugly-girl-26-differences-help-figure/
 https://www.boredpanda.com/young-looking-moms-daughters-look-same-age/?utm_source=facebook&utm_medium=cpc&utm_campaign=fbad&utm_term=reach-millennials&utm_content=young-looking-moms-daughters-look-same-age
+https://www.brainyquote.com/quotes/paul_graham_183928
 https://www.businessinsider.com.au/being-an-early-adopter-is-almost-impossible-and-can-spell-death-for-your-business-2015-6
 https://www.buzzfeed.com/amyodell/bikinis-are-the-worlds-most-feared-item-of-clothing?utm_term=.sbE4VRlwAz#.hnbmALQyZ4
+https://www.cagesideseats.com/2016/11/2/13500840/rough-night-for-curt-hawkings-i-mean-hawkins
 https://www.cagesideseats.com/wwe/2014/4/20/5634158/kevin-nash-blows-up-on-roddy-piper-on-twitter
 https://www.chaplinsworld.com/visiter-musee-chaplin/comment-aller-au-musee
 https://www.codeproject.com/Articles/664165/Writing-a-boot-loader-in-Assembly-and-C-Part
@@ -432,6 +440,7 @@ https://www.facebook.com/photo.php?fbid=202984693579218&set=a.103782686832753.10
 https://www.facebook.com/profile.php?id=100016030651964&hc_ref=ARTIEftxvOf0RlroMEr9lcQLbIqaMm35mAvKHY66_errKPcGZKjr5s7xe7NyqiFL7Kc
 https://www.flickr.com/photos/45984696@N00/3023281511/sizes/o/
 https://www.fool.com/investing/general/2015/07/23/vanguard-500-index-fund-low-cost-but-are-there-bet.aspx
+https://www.forbes.com/sites/adrianalopez/2013/08/07/passion-before-profit-following-your-passion-is-the-essential-entrepreneurial-trait/#3e986dc54517
 https://www.forbes.com/sites/bnymellonwealthmanagement/2017/09/18/three-keys-to-sustaining-family-wealth/#6a97bcd68b72
 https://www.forbes.com/sites/davidburkus/2014/05/23/when-to-say-yes-to-the-messy-desk/
 https://www.forbes.com/sites/davidmarotta/2017/10/19/td-ameritrade-eliminated-low-cost-commission-free-exchange-traded-funds/2/#3e0bb5c01f28
@@ -452,6 +461,7 @@ https://www.google.com/search?num=40&ei=C64UWsXtNcrT0gKm3oeYBw&q=%22unit+of+abst
 https://www.google.com/search?num=40&ei=d5H3WcCpOYySjwPw9I3oBw&q=CONFIG_DEBUGSYM+minix&oq=CONFIG_DEBUGSYM+minix&gs_l=psy-ab.3...3547.4441.0.4616.6.6.0.0.0.0.266.686.2j2j1.5.0....0...1.1.64.psy-ab..1.1.99...0i22i30k1.0.Gju5zrLC010
 https://www.google.com/search?num=40&ei=dHIPWpyfIsqjwASHxZjACg&q=%22input+form%22+cli&oq=%22input+form%22+cli&gs_l=psy-ab.3..0i10i30k1j0i13i5i30k1l2j0i8i30k1l6j0i8i10i30k1.6806.7318.0.7541.2.2.0.0.0.0.287.410.0j1j1.2.0....0...1.1.64.psy-ab..0.2.406....0.Z2QPeN1AeQQ
 https://www.google.com/search?num=40&ei=do4tWtmVLszMjwPOs6PgCw&q=impressionable+vs+stubborn&oq=impressionable+vs+stubborn&gs_l=psy-ab.3...24163.25224.0.26210.8.8.0.0.0.0.135.579.1j4.5.0....0...1.1.64.psy-ab..3.3.321...33i160k1.0.9l4uQ9aV7xM
+https://www.google.com/search?num=40&ei=e145WqbUJYiI0wKG4qfwDg&q=indie+darling+meaning&oq=indie+darling+meaning&gs_l=psy-ab.3..0.12285.13319.0.13415.8.7.0.1.1.0.178.953.2j5.7.0....0...1c.1.64.psy-ab..1.7.788...0i22i30k1.0.3kSL-FeIC2o
 https://www.google.com/search?num=40&ei=fYEoWrGBLonGjwPLkZrgDA&q=%22negative+PR+campaign%22&oq=%22negative+PR+campaign%22&gs_l=psy-ab.3..0i22i30k1.4793.6568.0.6863.3.3.0.0.0.0.83.241.3.3.0....0...1.1.64.psy-ab..0.3.240...0.0.3dfxKqeyLAk
 https://www.google.com/search?num=40&ei=JZg1WsnOAcesjwPdqb7YCg&q=short+sleeve+order+school+summer&oq=short+sleeve+order+school+summer&gs_l=psy-ab.3..33i21k1j33i160k1l2.35419.41547.0.41635.14.14.0.0.0.0.125.1354.6j7.13.0....0...1c.1.64.psy-ab..1.12.1248...0j0i22i30k1j33i22i29i30k1.0.FtSQyY3MoeQ
 https://www.google.com/search?num=40&ei=kqYhWuWCGsSA8wXz_Qc&q=vernacular+branding+-mexico&oq=vernacular+branding+-mexico&gs_l=psy-ab.3...38887.40230.0.40471.8.8.0.0.0.0.95.654.8.8.0....0...1.1.64.psy-ab..0.2.180...0i22i30k1.0.KZyo9ZM6Ydc
@@ -613,6 +623,7 @@ https://www.ibm.com/developerworks/library/l-linuxboot/
 https://www.ibm.com/developerworks/rational/library/mar06/eeles/index.html
 https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.halz002/syslogd_start_stop.htm
 https://www.idiva.com/news-relationships/17-things-every-girl-who-went-to-a-co-ed-school-will-relate-to/15100669
+https://www.inc.com/ryan-caldbeck/why-true-leaders-put-passion-before-profit.html
 https://www.infoq.com/news/2008/02/realitydrivendevelopment
 https://www.instagram.com/justgirlyblog/?hl=en
 https://www.instagram.com/p/BcQM15uhwLE/
@@ -645,8 +656,10 @@ https://www.meetup.com/gdg-silicon-valley/events/241539676/
 https://www.meetup.com/Silicon-Valley-Linux-Technology/events/245532223/
 https://www.meetup.com/South-Bay-Effective-Altruism/
 https://www.meetup.com/SVPerl/events/241389493/?comment_table_id=254999975&comment_table_name=reply
+https://www.merriam-webster.com/dictionary/autocratic
 https://www.merriam-webster.com/dictionary/delegacy
 https://www.merriam-webster.com/dictionary/ploy
+https://www.merriam-webster.com/dictionary/plutocracy
 https://www.merriam-webster.com/dictionary/shark
 https://www.ncbi.nlm.nih.gov/m/pubmed/15666052/
 https://www.ncbi.nlm.nih.gov/pubmed/26403842
@@ -750,6 +763,7 @@ https://www.slideshare.net/LeanKit/time-theft-how-hidden-and-unplanned-work-comm
 https://www.sportskeeda.com/slideshow/wwe-10-superstars-favorite-football-clubs?imgid=36816
 https://www.stlyrics.com/lyrics/theedgeofseventeen/thedickheadsong.htm
 https://www.tdameritrade.com/retail-en_us/resources/pdf/TDA1000835.pdf
+https://www.td.org/magazines/td-magazine/the-next-generation-puts-passion-before-profit
 https://www.theanfieldwrap.com/2015/06/liverpool-roy-evans-a-complete-chapter-from-men-in-white-suits/
 https://www.theatlantic.com/business/archive/2013/11/cheerleader-effect-why-people-are-more-beautiful-in-groups/281119/
 https://www.theguardian.com/football/2001/mar/26/newsstory.sport13
@@ -926,6 +940,7 @@ http://www.bbc.com/sport/football/41977749
 http://www.bbc.co.uk/blogs/oliverbrett/2011/05/film_review_fire_in_babylon.html
 http://www.ben-morris.com/most-architecture-diagrams-are-useless/
 http://www.bigapplecurry.com/2013/05/06/karnataka-style-chutney-pudi/
+http://www.bizpacreview.com/2015/09/01/george-stephanopoulos-wife-flashes-kimmel-audience-her-breasts-i-was-watching-miley-and-246381
 http://www.blogtalkradio.com/colchonerochat
 http://www.blogtalkradio.com/colchonerochat/2017/09/21/colchonero-chat-72-atltico-beat-athletic-and-costas-return
 http://www.bootchart.org/
@@ -942,6 +957,7 @@ http://www.centrocampista.com/2011/10/a-rayo-of-sunshine-vallecano-have-reasons-
 http://www.c-jump.com/CIS24/Slides/Booting/Booting.html
 http://www.clickon.co/44671/arsenal-chelsea-bergkamp-zola-overrated/#.J1512W8778P9593P1
 http://www.commandlinefu.com/commands/view/21982/add-rudimentary-logging-levels-according-to-stdoutstderr
+http://www.commandlinefu.com/commands/view/4631/insert-the-last-argument-of-the-previous-command
 http://www.complex.com/style/2013/05/40-style-myths-explained/levis-wwii
 http://www.cosmopolitan.com/sex-love/advice/a5702/things-women-do-in-groups/
 http://www.cosmopolitan.com/style-beauty/beauty/a9616932/your-perfect-lipstick-shade-is-apparently-the-same-color-as-your-nipples/
@@ -980,6 +996,7 @@ http://www.functionaljava.org/
 http://www.goal.com/en/news/722/la-liga/2016/02/06/20070552/torres-scores-100th-goal-for-atletico-madrid
 http://www.goal.com/en-sg/news/3883/features/2013/10/26/4354447/from-madrid-with-love-part-1-an-insight-into-spanish?ICID=AR
 http://www.goal.com/en-sg/news/3883/features/2013/11/02/4354470/from-madrid-with-love-part-2-catalunya-basque-and-the
+http://www.goolyrics.com/i/W63WyYRvjSp2/glutamato-yeye-soy-socio-del-atleti
 http://www.goweirdfacts.com/girls-should-smileboys-shouldnt.html
 http://www.hbs.edu/faculty/Pages/item.aspx?num=30203
 http://www.hbs.edu/faculty/Pages/item.aspx?num=40598
@@ -1116,6 +1133,7 @@ http://www.urbandictionary.com/define.php?term=gangbang
 http://www.urbandictionary.com/define.php?term=grammar
 http://www.urbandictionary.com/define.php?term=ham%20and%20egger
 http://www.urbandictionary.com/define.php?term=imposter+syndrome
+http://www.urbandictionary.com/define.php?term=indie+darling
 http://www.urbandictionary.com/define.php?term=lettuce
 http://www.urbandictionary.com/define.php?term=Mansplaining
 http://www.urbandictionary.com/define.php?term=pizza
