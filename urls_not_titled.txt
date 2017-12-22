@@ -546,6 +546,7 @@ https://www.google.com/search?q=does+whatsapp+support+hashtags&oq=does+whatsapp+
 https://www.google.com/search?q=do+people+actually+use+the+python+shell&rlz=1CDGOYI_enUS750US750&oq=do+people+actually+use+the+python+shell&aqs=chrome..69i57.13844j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=dutch+boy+haircut&rlz=1CDGOYI_enUS750US750&oq=dutch+boy+ha&aqs=chrome.1.69i57j0l3.8227j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=dvr+recordings+finishing+too+early&oq=dvr+recordings+finishing+too+early&aqs=chrome..69i57.6406j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=electroneum&oq=electroneum&aqs=chrome..69i57j0l5.2638j0j4&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=existential+threat&oq=existential+threat&aqs=chrome..69i57j0l5.3142j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=false+9&rlz=1CDGOYI_enUS750US750&oq=false+9&aqs=chrome..69i57j0l3.9055j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=floppy+and+feminine&oq=floppy+and+feminine&aqs=chrome..69i57.4180j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
@@ -676,6 +677,7 @@ https://www.justforhearts.org/2013/10/healthy-rice-chapati/
 https://www.kayfabenews.com/penultimate-warrior-longer-second-best/
 https://www.kayfabenews.com/ultimate-warrior-satire-deemed-soon/
 https://www.kernel.org/doc/Documentation/arm/README
+https://www.lapizzeria.ro/theres-not-one-single-minded-one-dimensional-idea-masculinity-said-carlo-cavallone-executive-creative/
 https://www.legalconsumer.com/obamacare/topic.php?TopicID=53&ST=CA
 https://www.lifewire.com/google-maps-arrives-for-apple-watch-156667
 https://www.lifewire.com/is-bayonetta-2-sexist-and-should-you-care-2498689
@@ -713,6 +715,7 @@ https://www.phpied.com/javascript-shell-scripting/
 https://www.phrases.org.uk/meanings/139400.html
 https://www.piliapp.com/actual-size/inch-ruler/
 https://www.pinderful.net/uploads/pins/2015/07/big/aab4b0b81e321c9315054eb64b0b033d.jpeg
+https://www.pinterest.com/explore/rotten-e-cards/?lp=true
 https://www.pinterest.com/lolitamakeup/my-work/?lp=true
 https://www.pinterest.com/pin/167899892339906610/
 https://www.popsugar.com/tech/Two-Kinds-People-Internet-38172273
@@ -802,6 +805,7 @@ https://www.sleepwatchapp.com/charging-apple-watch-for-sleep/
 https://www.slideshare.net/ChristianHujer/vertical-vs-horizontal-software-architecture-ruby-conf-india-2016-59817161?from_action=save
 https://www.slideshare.net/krsreenatha/linux-booting-process-linux-system-administration
 https://www.slideshare.net/LeanKit/time-theft-how-hidden-and-unplanned-work-commit-the-perfect-crime
+https://www.someecards.com/weekend-cards/lets-regret-going-out-tonight
 https://www.sportskeeda.com/slideshow/wwe-10-superstars-favorite-football-clubs?imgid=36816
 https://www.stlyrics.com/lyrics/theedgeofseventeen/thedickheadsong.htm
 https://www.tdameritrade.com/retail-en_us/resources/pdf/TDA1000835.pdf
@@ -834,8 +838,11 @@ https://www.thoughtco.com/spell-checker-poem-by-mark-eckman-1692348
 https://www.timetrade.com/app/lpsjcp/workflows/lpsjcp001/schedule/confirm?appointmentId=VD41H639&wfsid=b07a7e17-baba97f6-b07a7e16-baba97f6-00000002-9gvncsf7s8tamjef8ikflomc53iu2ndc
 https://www.ulavacharuusa.com/
 https://www.unix.com/shell-programming-and-scripting/62646-how-cut-first-3-characters-each-line-file.html
+https://www.urbandictionary.com/author.php?author=make%20up%20your%20own%20definitions%20you%20witless%20bitch
+https://www.urbandictionary.com/author.php?author=make+up+your+own+definitions+you+witless+bitch
 https://www.urbandictionary.com/define.php?term=bikini
 https://www.urbandictionary.com/define.php?term=biscuit%20bottom
+https://www.urbandictionary.com/define.php?term=Britney+Lopez
 https://www.urbandictionary.com/define.php?term=cans
 https://www.urbandictionary.com/define.php?term=charisma%20vacuum
 https://www.urbandictionary.com/define.php?term=cleavage
@@ -848,6 +855,7 @@ https://www.urbandictionary.com/define.php?term=hipster
 https://www.urbandictionary.com/define.php?term=impressionable
 https://www.urbandictionary.com/define.php?term=innuendo
 https://www.urbandictionary.com/define.php?term=neanderthal
+https://www.urbandictionary.com/define.php?term=Noob
 https://www.urbandictionary.com/define.php?term=Shimmy
 https://www.urbandictionary.com/define.php?term=significunt%20other
 https://www.urbandictionary.com/define.php?term=slit
