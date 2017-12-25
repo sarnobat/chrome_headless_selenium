@@ -162,6 +162,7 @@ http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/
 http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/
 http://blog.drsolly.com/2015/01/i-love-rsync.html
 http://blog.emojipedia.org/who-owns-emoji/?utm_campaign=Emoji%2BWrap&utm_medium=web&utm_source=Emoji_Wrap_10
+http://blog.erratasec.com/2016/02/hackers-arent-smart-people-are-stupid.html
 http://blog.extramaster.net/2013/01/views-on-stackoverflow.html
 http://blog.getpostman.com/2016/02/03/curl-and-postman-work-wonderfully-together/#comment-13156
 http://blog.habrador.com/2013/10/how-to-add-stock-charts-to-your-website.html
@@ -1026,6 +1027,7 @@ https://api.jquery.com/empty/
 https://apisandbox.openbankproject.com/obp/v2.1.0//banks/hsbc-test/accounts/public
 https://app.box.com/representation/file_version_153856219326/video_480.mp4?shared_name=ndlpouwhflkri12ii9nek7t2r2pnb32s
 https://appealtoauthority.wordpress.com/2009/08/06/the-great-bus-battle-greyhound-vs-megabus/
+https://app.getnada.com/inbox/
 https://app.hiive.co.uk/courses/documentary-research/7942/#/
 https://apple.stackexchange.com/questions/139904/see-call-history-from-a-computer/139907#139907
 https://apple.stackexchange.com/questions/157260/notifications-on-dual-monitors-how-can-i-specify-which-monitor
@@ -3677,6 +3679,8 @@ https://twitter.com/search?q=%23Diegoisms%20tortoise&src=typd
 https://twitter.com/search?q=DungeonRadio&src=typd
 https://twitter.com/SFMTAPhoto/status/864601434259697665
 https://twitter.com/SmithHart1/status/870687280695988226?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fpopculture.com%2Fwwe%2F2017%2F06%2F06%2Fsmith-hart-posts-emotional-message-after-entering-hospice%2F
+https://twitter.com/sportmarketing1?lang=en&lang=en
+https://twitter.com/sportmarketing1?lang=en&lang=en
 https://twitter.com/sp_vintage/status/406056231187386368?lang=en
 https://twitter.com/TerraceImages/status/794274458932543490
 https://twitter.com/vieri_bobo/status/834433531543687169
@@ -3815,6 +3819,7 @@ https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine-fa
 https://weather.com/weather/monthly/l/USSD0283:1:US
 https://webapp.tesloop.com/trips/ChIJy3-dNFW3woARvj_iLjXXmnU/ChIJN8Kl8i782oARdUavho9GuS4/1497078000000
 https://webcache.googleusercontent.com/search?q=cache:QyZhmV3o8AMJ:https://sourceforge.net/p/bluez/mailman/message/18798806/+&cd=6&hl=en&ct=clnk&gl=us
+https://web.csulb.edu/~odinthor/socal8.html
 https://web.iusd.org/career/pages/documents/AccommodationandComplianceSeries-EmployeeswithAspergerSyndromebyMelanieWhetzel.pdf
 https://web.njit.edu/~wl256/download/cs610/Introduction-to-algorithm-3rdEdition.pdf
 https://webpass.net/metros
@@ -4051,6 +4056,7 @@ https://www.celebslike.me/
 https://www.cemetech.net/forum/viewtopic.php?t=2957
 https://www.cg.tuwien.ac.at/research/publications/2007/buerger-2007-star/buerger-2007-star-Paper.pdf
 https://www.chaplinsworld.com/visiter-musee-chaplin/comment-aller-au-musee
+https://www.charliechaplin.com/en/articles/212-Chaplin-at-Keystone-The-Tramp-is-Born?category=filming
 https://www.chromium.org/chromium-os/poking-around-your-chrome-os-device#TOC-Making-changes-to-the-filesystem
 https://www.citizensbank.com/assets/docs/pdf/Perspective_Consolidation%20_in%20_The%20Convenience%20_and_Retail%20Fuel%20_Sector_Strategies_For_Capturing%20_Value.pdf?WT.ac=Slider-1/2/Download%20Document
 https://www.clinical-partners.co.uk/locations/cardiff-private-clinic-psychiatry-psychology-therapy
@@ -4373,6 +4379,7 @@ https://www.google.com/search?num=40&ei=Jt86WsLpNMnevgTv34Eo&q=nibblecopy+2+amig
 https://www.google.com/search?num=40&ei=JZg1WsnOAcesjwPdqb7YCg&q=short+sleeve+order+school+summer&oq=short+sleeve+order+school+summer&gs_l=psy-ab.3..33i21k1j33i160k1l2.35419.41547.0.41635.14.14.0.0.0.0.125.1354.6j7.13.0....0...1c.1.64.psy-ab..1.12.1248...0j0i22i30k1j33i22i29i30k1.0.FtSQyY3MoeQ
 https://www.google.com/search?num=40&ei=kqYhWuWCGsSA8wXz_Qc&q=vernacular+branding+-mexico&oq=vernacular+branding+-mexico&gs_l=psy-ab.3...38887.40230.0.40471.8.8.0.0.0.0.95.654.8.8.0....0...1.1.64.psy-ab..0.2.180...0i22i30k1.0.KZyo9ZM6Ydc
 https://www.google.com/search?num=40&ei=loEtWuXyFM6IjwPc7YY4&q=straddling+%22has+to+go+up%22+%22one+of+them%22&oq=straddling+%22has+to+go+up%22+%22one+of+them%22&gs_l=psy-ab.3...876824.877476.0.877846.7.6.0.0.0.0.196.446.0j3.3.0....0...1.1.64.psy-ab..5.0.0....0.48G8wbSQf4g
+https://www.google.com/search?num=40&ei=NoJAWtLiGeyP0wKwk7_ADw&q=men+wearing+black+attractive+because+they+look+like+cops&oq=men+wearing+black+attractive+because+they+look+like+cops&gs_l=psy-ab.3...2366.5009.0.10891.13.12.1.0.0.0.121.1105.10j2.12.0....0...1c.1.64.psy-ab..2.0.0....0.PCzZ9UAi0_k
 https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabulary&oq=branding+vocabulary&gs_l=psy-ab.3..0j0i7i30k1l2j0i5i30k1j0i8i30k1j0i5i30k1.34783.34934.0.35165.3.3.0.0.0.0.157.369.0j3.3.0....0...1.1.64.psy-ab..2.1.156....0.-zb3vJbLATM
 https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstraction&oq=useless+abstraction&gs_l=psy-ab.3..0i22i30k1.500288.504254.0.504512.25.22.1.0.0.0.131.1923.17j4.21.0....0...1.1.64.psy-ab..3.22.1919...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i8i13i30k1j0i13i30k1.0.xv6_XXzvE6E
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
@@ -4820,6 +4827,7 @@ https://www.google.com/search?q=crying+indian&oq=crying+indian&aqs=chrome..69i57
 https://www.google.com/search?q=cscope+batch+mode&rlz=1CDGOYI_enUS590US590&oq=cscopr+batch&aqs=chrome.1.69i57j0.4281j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=csvjoin&rlz=1CDGOYI_enUS750US750&oq=csvjoin&aqs=chrome..69i57j69i60j0l3.6661j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=cubs+beavers+scouts&rlz=1CDGOYI_enUS590US590&oq=cubs+beave&aqs=chrome.2.69i57j0l3.10533j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=cultural+moment&oq=cultural+moment&aqs=chrome..69i57j0l5.3346j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=culture+of+respect+vs+culture+of+intimidation&oq=culture+of+respect+vs+culture+of+intimidation&aqs=chrome..69i57.6807j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=curved+monitor+bad+idea&rlz=1CDGOYI_enUS590US590&oq=curved+monitor+bad+idea&aqs=chrome..69i57.10607j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=d3.js+force+speed&oq=d3.js+force+speed&aqs=chrome..69i57.5691j0j7&sourceid=chrome&ie=UTF-8
@@ -4946,6 +4954,7 @@ https://www.google.com/search?q=google+calendar+spoilers&oq=google+calendar+spoi
 https://www.google.com/search?q=google+cloud+vm&rlz=1CDGOYI_enUS590US590&oq=google+cloud+vm&aqs=chrome..69i57j0l3.8436j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=google+drive+javascript+api&rlz=1CDGOYI_enUS590US590&oq=goggle+drove+javascr&aqs=chrome.1.69i57j0l3.14131j0j9&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=grease+john+travolta+hair&rlz=1CDGOYI_enUS750US750&oq=greaser+john+travolta&aqs=chrome.3.69i57j0l3.9062j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=great+northern+hotel+los+angeles+old+photo&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjhq4_ouZLYAhVM82MKHXJ_Aq8Q_AUICigB&biw=1139&bih=574#imgrc=1ORBePAfLBFIkM:
 https://www.google.com/search?q=groovy+vs+python&rlz=1CDGOYI_enUS590US590&oq=groovy+vs+python&aqs=chrome..69i57j0l3.4704j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=guilty+about+enjoying+life&oq=guilty+about+enjoying+life&aqs=chrome..69i57.2905j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=guy+roux+dario+gradi&rlz=1CDGOYI_enUS590US590&oq=guy+roux+dario+gradi&aqs=chrome..69i57.17263j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5021,6 +5030,7 @@ https://www.google.com/search?q=is+east+palo+alto+a+good+investment&rlz=1CDGOYI_
 https://www.google.com/search?q=is+eating+too+much+chicken+bad+for+you&oq=is+eating+too+much+chicke&aqs=chrome.0.0j69i57j0l4.3232j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+franchising+a+raw+deal&oq=is+franchising+a+raw+deal&aqs=chrome..69i57j69i64.3974j0j9&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+gambling+good+for+the+economy&oq=is+gambling+good+for+the+eco&aqs=chrome.0.0j69i57j0l3j69i64.3560j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=is+going+to+the+restroom+at+school+a+crime&oq=is+going+to+the+restroom+at+school+a+crime&aqs=chrome..69i57j69i64.6310j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=is+gold+liquid+in+a+bear+market&oq=is+gold+liquid+in+a+bear+market&aqs=chrome..69i57j69i64.5619j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+html+a+protocol&oq=is+html+a+protocol&aqs=chrome..69i57j0l2j69i64.5901j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=is+intellij+scriptable&oq=is+intellij+scriptable&aqs=chrome..69i57j69i64.5376j0j7&sourceid=chrome&ie=UTF-8
@@ -5077,6 +5087,7 @@ https://www.google.com/search?q=line+envy&oq=line+envy&aqs=chrome..69i57j0l5.186
 https://www.google.com/search?q=linux+get+motherboard+form+factor&oq=linux+get+motherboard+form+factor&aqs=chrome..69i57j69i64.6461j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=long+form+storytelling+journalism&oq=longform+journalism+storytelling&aqs=chrome.1.69i57j0.8219j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=longform+visual+journalism&oq=longform+visual+journalism&aqs=chrome..69i57.4399j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=los+angeles+athletic+club+hotel&oq=los+angeles+athletic+club+hotel&aqs=chrome..69i57j0l5.4013j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=low+budget+lawyer&oq=low+budget+lawyer&aqs=chrome..69i57j0l2.4904j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=make+adsense+ads+smaller&num=40&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-n932sLnSAhVCyWMKHXElBocQ_AUICSgC&biw=1188&bih=706#imgrc=NHIXpE_y5ZWIsM:
 https://www.google.com/search?q=male+vs+female+cheeks+smoothness&rlz=1CDGOYI_enUS590US590&oq=male+vs+female+cheeks+smoothness&aqs=chrome..69i57.18812j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
@@ -5254,6 +5265,7 @@ https://www.google.com/search?q=ssh+browser&rlz=1CDGOYI_enUS590US590&oq=ssh+brow
 https://www.google.com/search?q=stackoverflow+family+feud&rlz=1CDGOYI_enUS750US750&oq=stackoverflow+family+feud&aqs=chrome..69i57j0l3.6191j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=standard+and+poors+podcast&rlz=1CDGOYI_enUS590US590&oq=standard+and+poors+podcast&aqs=chrome..69i57.4291j0j8&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=standing+desks+fad&rlz=1CDGOYI_enUS750US750&oq=standing+desks+fad&aqs=chrome..69i57.7023j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=stan+laurel+charlie+chaplin+roommates&oq=stan+laurel+charlie+chaplin+roommates&aqs=chrome..69i57.8014j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=start+your+own+business+using+aws&oq=start+your+own+business+using+aws&aqs=chrome..69i57.5182j0j4&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=static+linking+uber+jar&rlz=1CDGOYI_enUS750US750&oq=static+linking+uber+jar&aqs=chrome..69i57j69i65l3j69i60j0.8002j0j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 https://www.google.com/search?q=statue+of+limitations&espv=2&nfpr=1&biw=1288&bih=723&source=lnms&sa=X&ved=0ahUKEwj66cPSm8PRAhXpwFQKHcImB4EQ_AUIBygA&dpr=1
@@ -6087,6 +6099,7 @@ https://www.pinterest.com/pin/167899892339906610/
 https://www.pinterest.com/pin/196821446189588901/?lp=true
 https://www.pinterest.com/pin/372109987940942239/
 https://www.pinterest.com/pin/484137028675929401/
+https://www.policeone.com/police-products/apparel/uniforms/articles/99417-The-psychological-influence-of-the-police-uniform/
 https://www.popsugar.com/tech/Two-Kinds-People-Internet-38172273
 https://www.portablefreeware.com/forums/viewtopic.php?t=4925
 https://www.portfoliovisualizer.com/asset-correlations
@@ -6114,6 +6127,7 @@ https://www.psychologytoday.com/blog/out-the-darkness/201402/why-men-dont-shoppi
 https://www.psychologytoday.com/blog/sax-sex/201711/who-is-distracted-girl-wearing-skintight-leggings
 https://www.psychologytoday.com/blog/slightly-blighty/201508/why-high-heels-make-women-more-attractive
 https://www.psychologytoday.com/blog/spectrum-solutions/201006/what-everybody-ought-know-about-aspergers-and-marriage
+https://www.psychologytoday.com/blog/stress-and-sex/201101/masturbation-not-just-monkey-business
 https://www.psychologytoday.com/blog/the-human-beast/201104/why-men-love-mammaries
 https://www.psychologytoday.com/blog/the-human-beast/201305/sexual-wiring-womens-breasts
 https://www.psychologytoday.com/blog/the-human-beast/201305/sexual-wiring-womens-breasts
@@ -6292,6 +6306,7 @@ https://www.reddit.com/r/apple/comments/3unr88/anyone_else_dumbfounded_by_the_re
 https://www.reddit.com/r/apple/comments/5fvbz4/new_macbook_pro_is_it_just_me_do_the_keys_get/
 https://www.reddit.com/r/AppleWatch/comments/3wliqs/can_you_ping_apple_watch_from_iphone/
 https://www.reddit.com/r/AppleWatch/comments/61ql8w/accurate_solar_face/
+https://www.reddit.com/r/Archaeology/comments/3di65w/anyone_know_any_good_documentaries_on/
 https://www.reddit.com/r/AskMen/comments/1w5bn1/in_general_why_do_women_enjoy_dancing_much_more/
 https://www.reddit.com/r/AskReddit/comments/2efxy2/why_do_cats_seem_to_love_clean_bed_sheetslaundry/
 https://www.reddit.com/r/AskReddit/comments/2efxy2/why_do_cats_seem_to_love_clean_bed_sheetslaundry/
@@ -6596,6 +6611,7 @@ https://www.urbandictionary.com/define.php?term=Shimmy
 https://www.urbandictionary.com/define.php?term=significunt%20other
 https://www.urbandictionary.com/define.php?term=slit
 https://www.urbandictionary.com/define.php?term=Socially%20tone%20deaf
+https://www.urbandictionary.com/define.php?term=tattle
 https://www.urbandictionary.com/define.php?term=Uptalk
 https://www.urbandictionary.com/define.php?term=valley+girl
 https://www.urbandictionary.com/define.php?term=valley+girl
@@ -6691,6 +6707,7 @@ https://www.yelp.com/search?find_desc=learning+disorder&find_loc=San+Jose,+CA
 https://www.yelp.com/search?find_desc=mortgage+loan+broker&find_loc=94061
 https://www.yelp.com/search?find_desc=property+management&find_loc=94061
 https://www.yelp.com/topic/seattle-do-our-cats-know-that-we-find-them-cute
+https://www.yourtango.com/201177611/why-are-women-attracted-men-uniform
 https://www.yourtravelmates.com/
 https://www.youthkiawaaz.com/2011/08/blame-it-on-the-ever-growing-generation-gap/
 https://www.youthkiawaaz.com/2011/08/blame-it-on-the-ever-growing-generation-gap/
@@ -6706,6 +6723,7 @@ https://www.youtube.com/playlist?list=PL2A40AD14E474E949
 https://www.youtube.com/playlist?list=PLA9B6F7200FFB3C5F
 https://www.youtube.com/playlist?list=PLaLJgtLqf4W9EO7qR-KHngwizawADyUoq
 https://www.youtube.com/playlist?list=PLalRD3m56RvKgDQ19V6xXAjNZXRfNfGrV
+https://www.youtube.com/playlist?list=PLEA4EPN5z2FltDRmSVfyx4-i8GyunKuvW
 https://www.youtube.com/playlist?list=PLPG-HjhZmZfN6t7pn0KkhEC6mQOlP1ZKo
 https://www.youtube.com/playlist?list=PLqIVmFaHA8BrHUL0KUSO6ngqbh32rWlx2
 https://www.youtube.com/playlist?list=PLRT3FtDunTzJEUIh1V96X6oDtWP4R4yph
@@ -7265,6 +7283,9 @@ http://www.americanmediatraining.com/courses/fcp_course.asp?city=San%20Francisco
 http://www.amiright.com/misheard/stories/bryanadams.shtml
 http://www.amirite.com/471639-if-subjects-were-colors-math-would-definitely-be-red-amirite
 http://www.amny.com/secrets-of-new-york/secrets-of-madison-square-garden-1.7743972
+http://www.amolsaxena.com/
+http://www.amolsaxena.com/about-dr-saxena.html
+http://www.amolsaxena.com/pdf/sound-wave.pdf
 http://www.andalucia.com/history/people/jesusgil.htm
 http://www.anfieldhq.com/podcasts/
 http://www.anglopacific.co.uk/international_relocation.htm
@@ -7618,6 +7639,7 @@ http://www.commandlinefu.com/commands/view/4631/insert-the-last-argument-of-the-
 http://www.communitycare.co.uk/2009/10/09/people-with-autism-the-struggle-to-gain-benefits-and-find-work/
 http://www.complex.com/pop-culture/2013/02/15-girly-drinks-that-a-confident-man-should-order/
 http://www.complex.com/style/2013/05/40-style-myths-explained/levis-wwii
+http://www.complex.com/style/2015/08/study-shows-wearing-black-makes-people-appear-smarter-sexier
 http://www.concurrentaffair.org/2012/11/08/java-executors-continuations-and-small-step-semantics/
 http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
 http://www.corsahomesolutions.com/do-i-earn-equity-with-a-rent-to-own-agreement/
@@ -8030,6 +8052,7 @@ http://www.ign.com/boards/threads/in-what-year-did-the-simpsosns-change-the-anim
 http://www.ignitumtoday.com/2012/11/06/modesty-a-sign-of-respect-for-men-and-women/
 http://www.imaginaryplanet.net/weblogs/idiotprogrammer/wp-content/uploads/2014/04/732am-petite-girl-with-twisty-arms-285x300.jpeg
 http://www.imdb.com/title/tt0383010/
+http://www.imdb.com/title/tt0389860/
 http://www.imdb.com/title/tt0454976/
 http://www.imdb.com/title/tt0480249/
 http://www.imdb.com/title/tt0529504/
