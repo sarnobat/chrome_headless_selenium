@@ -9744,3 +9744,33 @@ https://em.wattpad.com/cbb76383cfd6b63e3ee93df33da8c3fd8eabe0ff/687474703a2f2f6d
 #
 # Compiler replay data is saved as:
 # /home/sarnobat/github/chrome_headless/titles/replay_pid29863.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 22282240 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid9980.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 131072 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid13657.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 44826624 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid14611.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 22282240 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid29296.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 44826624 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid30032.log
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 44826624 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/sarnobat/github/chrome_headless/titles/hs_err_pid6059.log

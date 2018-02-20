@@ -206,6 +206,7 @@ http://booksite.elsevier.com/samplechapters/9780240812410/01~Front_Matter.pdf
 http://books.lihui.org/cs/Writing%20Apache%20Modules%20with%20Perl%20and%20C.pdf
 http://boost.2283326.n4.nabble.com/regex-Static-linking-woes-with-gcc-4-0x-on-Fedora-Core-td2557979.html
 http://bootski.net/books/OReilly%204%20GB%20Collection/O'Reilly%20-%20Mac%20OS%20X%20Hacks%202003.pdf
+http://boredzo.org/blog/archives/2009-04-03/dont-pass-objects-as-context-pointers
 http://boxtoboxfootball.uk/extraordinary-rise-villarreal-cf/
 http://bradycap.com/conscious-capitalism-thriving-not-just-surviving/
 http://brandfailures.blogspot.com/2007/05/rebranding-failures-bt-cellnet-to-o2.html
@@ -1165,6 +1166,7 @@ https://blogs.wsj.com/moneybeat/2017/11/06/its-all-about-lack-of-supply-as-globa
 https://blogs.wsj.com/venturecapital/2009/03/23/the-return-of-equity-for-rent/
 https://blog.varonis.com/introduction-to-oauth/
 https://blog.wealthfront.com/commission-free-etfs-arent-seem/
+https://blog.wealthfront.com/commission-free-etfs-arent-seem/
 https://bonytobombshell.com/bombshell-aesthetics-building-attractive-female-body-imaginable/
 https://books.google.com/books/about/Newsreel.html?id=DB8XAQAAMAAJ
 https://books.google.com/books?id=0B-vxqjM8RoC&pg=PA136&lpg=PA136&dq=fad+pendulum&source=bl&ots=0Skc4miI1s&sig=KFecjOBTtfXlQQgVo6qrPFyltYY&hl=en&sa=X&ved=0ahUKEwjk8LephsXQAhWHLmMKHfogCmUQ6AEIajAT#v=onepage&q=fad%20pendulum&f=false
@@ -2069,6 +2071,7 @@ https://finance.yahoo.com/news/5-etfs-behind-vanguard-apos-143202864.html;_ylc=X
 https://finance.yahoo.com/news/fired-google-engineer-tech-company-152827307.html
 https://finance.yahoo.com/news/state-street-intensifies-etf-fee-155703569.html
 https://finance.yahoo.com/news/state-street-intensifies-etf-fee-155703569.html
+https://finance.yahoo.com/quote/%5EGSPC/chart?p=%5EGSPC#eyJpbnRlcnZhbCI6Im1vbnRoIiwicGVyaW9kaWNpdHkiOjEyLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjEuNDU2NDk0MzI1MzQ2Nzg0NCwidm9sdW1lVW5kZXJsYXkiOnRydWUsImFkaiI6dHJ1ZSwiY3Jvc3NoYWlyIjp0cnVlLCJjaGFydFR5cGUiOiJsaW5lIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwic3R1ZGllcyI6eyJ2b2wgdW5kciI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiJ2b2wgdW5kciIsImRpc3BsYXkiOiJ2b2wgdW5kciJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNGRjMzM0EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsiaGVpZ2h0UGVyY2VudGFnZSI6MC4yNSwid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0In19LCLigIxtYeKAjCAoNTAsQyxtYSwwLG4pIjp7InR5cGUiOiJtYSIsImlucHV0cyI6eyJQZXJpb2QiOjUwLCJGaWVsZCI6IkNsb3NlIiwiVHlwZSI6InNpbXBsZSIsIk9mZnNldCI6MCwiVW5kZXJsYXkiOmZhbHNlLCJpZCI6IuKAjG1h4oCMICg1MCxDLG1hLDAsbikiLCJkaXNwbGF5Ijoi4oCMbWHigIwgKDUwLEMsbWEsMCxuKSJ9LCJvdXRwdXRzIjp7Ik1BIjoiI2FkNmVmZiJ9LCJwYW5lbCI6ImNoYXJ0IiwicGFyYW1ldGVycyI6eyJjaGFydE5hbWUiOiJjaGFydCJ9fX0sInBhbmVscyI6eyJjaGFydCI6eyJwZXJjZW50IjoxLCJkaXNwbGF5IjoiXkdTUEMiLCJjaGFydE5hbWUiOiJjaGFydCIsInRvcCI6MH19LCJzZXRTcGFuIjpudWxsLCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwiY3VzdG9tUmFuZ2UiOm51bGwsInN5bWJvbHMiOlt7InN5bWJvbCI6Il5HU1BDIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6Il5HU1BDIn0sInBlcmlvZGljaXR5IjoxMiwiaW50ZXJ2YWwiOiJtb250aCIsInRpbWVVbml0IjpudWxsLCJzZXRTcGFuIjpudWxsfV19
 https://finance.yahoo.com/quote/WWE/holders?p=WWE
 https://findmydoppelganger.net/
 https://firepad.io/#1
@@ -2635,6 +2638,7 @@ https://pandoc.org/README.pdf
 https://pantomimereader.wordpress.com/2013/01/04/politeness-has-become-so-rare-that-people-mistake-it-for-flirtation/
 https://parade.com/23970/francinerusso/the-science-of-siblings/
 http://sparkjava.com/
+https://pastebin.com/raw/na8zmS2B
 https://pbs.twimg.com/media/DIEl_-3XoAAX7o2?format=jpg
 https://pbs.twimg.com/profile_images/378800000640160895/5f45cfd06306e7b57c88a584b7b39d6d_400x400.jpeg
 https://pdfs.semanticscholar.org/bccc/7575549e64b1026da3044dbea2f3874d9385.pdf
@@ -2981,6 +2985,7 @@ https://stackoverflow.com/questions/26521024/how-to-write-a-simple-command-line-
 https://stackoverflow.com/questions/26595620/how-to-install-ruby-2-1-4-on-ubuntu-14-04
 https://stackoverflow.com/questions/26638862/how-to-list-missing-dependencies-of-maven-project
 https://stackoverflow.com/questions/2664785/why-use-python-interactive-mode
+https://stackoverflow.com/questions/2681759/is-there-anyway-to-exclude-artifacts-inherited-from-a-parent-pom/47933295#47933295
 https://stackoverflow.com/questions/2684630/how-can-i-make-a-method-return-an-argument-that-was-passed-to-it
 https://stackoverflow.com/questions/268680/how-can-i-monitor-the-active-thread-count-of-a-process-jvm-on-linux
 https://stackoverflow.com/questions/27068596/how-to-include-files-outside-of-dockers-build-context
@@ -3121,12 +3126,14 @@ https://stackoverflow.com/questions/6245570/how-to-get-the-current-branch-name-i
 https://stackoverflow.com/questions/626533/how-can-i-ssh-directly-to-a-particular-directory
 https://stackoverflow.com/questions/6469437/what-is-the-difference-between-caching-and-memoization
 https://stackoverflow.com/questions/6603015/check-whether-a-string-matches-a-regex
+https://stackoverflow.com/questions/6622750/is-it-good-practice-to-pass-references-of-objects-to-methods-in-java/47931345#47931345
 https://stackoverflow.com/questions/6704197/why-use-a-groovy-shell-script-over-bash-when-memory-footprint-is-important
 https://stackoverflow.com/questions/6710555/how-to-use-qemu-to-run-a-non-gui-os-on-the-terminal
 https://stackoverflow.com/questions/6799470/can-a-pointer-to-a-string-be-used-in-a-printf
 https://stackoverflow.com/questions/684015/how-can-i-get-the-resolution-width-and-height-for-a-video-file-from-a-linux-co
 https://stackoverflow.com/questions/6857885/how-to-create-a-synchronized-version-of-google-guavas-treemultimap
 https://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash
+https://stackoverflow.com/questions/7064402/is-it-possible-to-find-logback-log-files-programmatically
 https://stackoverflow.com/questions/7151180/use-html-tidy-to-just-indent-html-code
 https://stackoverflow.com/questions/7180550/why-isnt-static-linking-used-more
 https://stackoverflow.com/questions/7190050/how-do-i-compile-the-asm-generated-by-gcc
@@ -4372,6 +4379,7 @@ https://www.google.com/search?num=40
 https://www.google.com/search?num=40
 https://www.google.com/search?num=40
 https://www.google.com/search?num=40
+https://www.google.com/search?num=40
 https://www.google.com/search?num=40&biw=1131&bih=930&q=+event+sourcing+nondeterminism&oq=+event+sourcing+nondeterminism&gs_l=serp.3...20251.22196.0.22509.2.2.0.0.0.0.60.113.2.2.0....0...1.1.64.serp..0.0.0.aTh0XMBTu_k
 https://www.google.com/search?num=40&biw=1288&bih=679&q=muang+thong+thani+in+bangkok+planned+city+empty+buildings&oq=muang+thong+thani+in+bangkok+planned+city+empty+buildings&gs_l=serp.3...946.946.0.1155.1.1.0.0.0.0.160.160.0j1.1.0....0...1.1.64.serp..0.0.0.jLyy5Kjqg1k
 https://www.google.com/search?num=40&biw=1409&bih=677&q=why+do+some+people+have+attached+earlobes&oq=why+do+some+people+have+attached+earlobes&gs_l=psy-ab.3...10172.11130.0.11396.3.3.0.0.0.0.113.285.2j1.3.0....0...1.1.64.psy-ab..0.1.89...35i39k1.0.mEoT9i6Zt5c
@@ -4396,6 +4404,7 @@ https://www.google.com/search?num=40&ei=QaYhWtCdI-Th0gKdvbCIDQ&q=branding+vocabu
 https://www.google.com/search?num=40&ei=qdUUWu6kD8eyjwOKrISwCw&q=useless+abstraction&oq=useless+abstraction&gs_l=psy-ab.3..0i22i30k1.500288.504254.0.504512.25.22.1.0.0.0.131.1923.17j4.21.0....0...1.1.64.psy-ab..3.22.1919...0j35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263k1j0i8i13i30k1j0i13i30k1.0.xv6_XXzvE6E
 https://www.google.com/search?num=40&ei=rsHzWfPrNeeA0wLt_aSYCg&q=%22unix+philosophy%22+m3u+-%22playlist+creator%22&oq=%22unix+philosophy%22+m3u+-%22playlist+creator%22&gs_l=psy-ab.3...654367.659125.0.659293.20.20.0.0.0.0.147.1677.14j6.20.0....0...1.1.64.psy-ab..4.3.293...33i160k1.0.KQ2Go9L1QTU
 https://www.google.com/search?num=40&ei=T0s7WuPrI82IjwPx_6mICg&q=why+don%27t+americans+say+supper&oq=why+don%27t+americans+say+supper&gs_l=psy-ab.3...6057.6057.0.6309.1.1.0.0.0.0.97.97.1.1.0....0...1c.1.64.psy-ab..0.0.0....0.wdPbB_irZYA
+https://www.google.com/search?num=40&ei=_tJCWvv0HcTLvgTRia_ADQ&q=%22ripe+market%22++%2Bbusiness&oq=%22ripe+market%22++%2Bbusiness&gs_l=psy-ab.3...17020.17548.0.17764.2.2.0.0.0.0.64.127.2.2.0....0...1c.1.64.psy-ab..0.0.0....0.G4-MZaGdO7g
 https://www.google.com/search?num=40&ei=TL5AWrblJc2ajwOnj4aYCQ&q=continuing+simpsons+after+cast+turnover&oq=continuing+simpsons+after+cast+turnover&gs_l=psy-ab.3..33i21k1j33i160k1.5344.25249.0.25349.31.29.1.0.0.0.234.2867.8j15j1.24.0....0...1c.1.64.psy-ab..8.12.1262....0.UTjFW8S-sDg
 https://www.google.com/search?num=40&ei=tnokWtLWD5S0jAPKhIPYCQ&q=agamatrix+jazz+wireless+2+walgreens&oq=agamatrix+jazz+wireless+2+walgreens&gs_l=psy-ab.3...15369.16775.0.17087.10.9.0.0.0.0.186.849.0j6.6.0....0...1.1.64.psy-ab..4.5.687...33i22i29i30k1j33i21k1j33i160k1.0.IobcVESHR3I
 https://www.google.com/search?num=40&ei=X9MyWuLlJomijwOZpa2YCQ&q=langley+virginia+cia&oq=langley+virginia+cia&gs_l=psy-ab.3..0l6j0i22i30k1l4.1609.5112.0.5402.14.9.5.0.0.0.159.959.3j5.8.0....0...1c.1.64.psy-ab..1.13.972...0i20i263k1j0i22i10i30k1j33i21k1j33i160k1.0.dYXR-Li1IfQ
@@ -4655,6 +4664,7 @@ https://www.google.com/search?q=%22need+something+to+feel+inferior%22&oq=%22need
 https://www.google.com/search?q=%22pain+is+finite%22&oq=%22pain+is+finite%22&aqs=chrome..69i57.6384j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22power+back+in+the+hands+of+the+customer%22&oq=%22power+back+in+the+hands+of+the+customer%22&aqs=chrome..69i57.5164j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=%22respect+your+elders%22+%22they%27ve+been+through%22&oq=%22respect+your+elders%22+%22they%27ve+been+through%22&aqs=chrome..69i57.11338j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+https://www.google.com/search?q=%22ripe+for+expansion%22&oq=%22ripe+for+expansion%22&aqs=chrome..69i57j0l2.3484j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22round+up%22+scrum+estimate&oq=%22round+up%22+scrum+estimate&aqs=chrome..69i57.7081j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=%22security+updates%22+pointless&oq=%22security+updates%22+pointless&aqs=chrome..69i57.5695j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 https://www.google.com/search?q=%22sexy+harassment%22&oq=%22sexy+harassment%22&aqs=chrome..69i57.2843j0j7&sourceid=chrome&ie=UTF-8
@@ -6128,6 +6138,7 @@ https://www.psychologies.co.uk/love/why-we-secretly-love-to-hate.html
 https://www.psychologytoday.com/basics/low-sexual-desire/sexual-desire-in-women
 https://www.psychologytoday.com/blog/ambigamy/201307/whats-us-and-butts
 https://www.psychologytoday.com/blog/ambigamy/201307/whats-us-and-butts
+https://www.psychologytoday.com/blog/cutting-edge-leadership/201404/5-secret-powers-eye-contact
 https://www.psychologytoday.com/blog/do-the-right-thing/201211/the-absurdity-black-friday
 https://www.psychologytoday.com/blog/fulfillment-any-age/201206/unfriended-five-ways-manage-online-rejection
 https://www.psychologytoday.com/blog/homo-consumericus/200902/why-are-high-heels-so-enticing
@@ -6157,6 +6168,7 @@ https://www.quimbee.com/cases/ventura-v-titan-sports-inc
 https://www.quora.com/
 https://www.quora.com/Anxiety-Why-do-I-always-purposely-need-something-to-worry-about-and-how-can-I-prevent-this
 https://www.quora.com/Are-functional-programming-languages-higher-level-languages-than-imperative-programming-languages
+https://www.quora.com/Can-a-second-admin-remove-first-admin-rights-in-WhatsApp
 https://www.quora.com/Can-cats-tell-that-human-babies-are-infants
 https://www.quora.com/Can-I-ask-my-therapist-for-a-hug
 https://www.quora.com/Chromebooks-What-Linux-programs-can-and-cannot-run-under-crouton-on-ChromeOS
@@ -6467,6 +6479,7 @@ https://www.sleepwatchapp.com/charging-apple-watch-for-sleep/
 https://www.slideshare.net/ChristianHujer/vertical-vs-horizontal-software-architecture-ruby-conf-india-2016-59817161?from_action=save
 https://www.slideshare.net/krsreenatha/linux-booting-process-linux-system-administration
 https://www.slideshare.net/LeanKit/time-theft-how-hidden-and-unplanned-work-commit-the-perfect-crime
+https://www.slideshare.net/tk257/tracking-moving-averages-on-yahoo-finance-april-27th-2009
 https://www.socketloop.com/blogs/guide-to-identify-the-types-of-software-developers
 https://www.socketloop.com/blogs/how-to-spot-fake-software-developers
 https://www.socketloop.com/blogs/visualizing-fundamental-investing
@@ -6734,6 +6747,7 @@ https://www.youthkiawaaz.com/2011/08/blame-it-on-the-ever-growing-generation-gap
 https://www.youthkiawaaz.com/2015/11/loving-your-parents/
 https://www.youtube.com/channel/UC7fX0t6PTtUz2yC60DcJdDw/videos
 https://www.youtube.com/channel/UCewJNd5DShokVCh4_2uWPXA/videos
+https://www.youtube.com/channel/UCFUWcce_D9zTeRx6L0rasvw
 https://www.youtube.com/channel/UCGov3v6D4LdhVFbTd-aBG7g/videos
 https://www.youtube.com/channel/UCq6_0hFCpIZ5hMDdV-86HHQ/search?query=prime+92&spfreload=1
 https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg/videos
@@ -7760,6 +7774,7 @@ http://www.dictionary.com/browse/balaclava
 http://www.dictionary.com/browse/bigfoot
 http://www.dictionary.com/browse/bombastic
 http://www.dictionary.com/browse/bonanza?r=75&src=ref&ch=dic
+http://www.dictionary.com/browse/contralto
 http://www.dictionary.com/browse/curate
 http://www.dictionary.com/browse/didactic
 http://www.dictionary.com/browse/drivel
@@ -8082,6 +8097,7 @@ http://www.imdb.com/title/tt2072045/reviews
 http://www.imdb.com/title/tt2337576/
 http://www.imdb.com/title/tt2380331/
 http://www.imdb.com/title/tt2593392/
+http://www.imdb.com/title/tt3080030/
 http://www.imdb.com/title/tt3470600/
 http://www.imdb.com/title/tt4424318/
 http://www.imdb.com/title/tt4898282/
@@ -8561,6 +8577,7 @@ http://www.projectinspired.com/10-things-bullies-dont-want-you-to-know/
 http://www.proshares.com/media/documents/nine_questions_every_etf_investor_should_ask_before_investing.pdf
 http://www.provail.org/
 http://www.provail.org/specialisterne
+http://www.prowrestlingtees.com/not-a-rib.html
 http://www.psychforums.com/asperger-syndrome/topic113518.html
 http://www.pwc.com/us/en/technology-forecast/2015/remapping-database-landscape/features/assets/pwc-append-only-immutable-data-stores-rise.pdf
 http://www.pwinsider.com/article/84566/tito-santana-talks-about-jesse-ventura-calling-him-chico-talking-contract-with-wwf-and-more.html?p=1
@@ -9119,6 +9136,7 @@ http://www.xtratime.org/forum/266-atletico-madrid/
 http://www.xvideos.com/video23557170/poonam_pandey_playing_rock_paper_scissor_got_high
 http://www.ybrikman.com/writing/2012/02/19/got-slow-download-but-fast-upload/
 http://www.ycombinator.com/companies/
+http://www.yegor256.com/2015/10/27/outsourcing-doesnt-work.html
 http://www.yegor256.com/2016/04/12/java-annotations-are-evil.html
 http://www.yegor256.com/2016/04/12/java-annotations-are-evil.html
 http://www.yolinux.com/TUTORIALS/BashShellCgi.html
