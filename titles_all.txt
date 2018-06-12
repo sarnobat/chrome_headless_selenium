@@ -11791,3 +11791,8 @@ http://blog.florian-hopf.de/2012/12/looking-at-plaintext-lucene-index.html ::  <
 http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands ::  Why Vernacular Advertising Should Be Trending with Brands | Insticator Blog
 http://blognoscor.blogspot.com/2010/11/8-reasons-mcdonalds-isnt-as-bad-as-you.html ::  blognoscor: 8 Reasons McDonald's Isn't as Bad as You Think
 http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage ::  Damn Cool Algorithms: Log structured storage - Nick's Blog
+http://blogs.brainysoftware.com/ ::  Tutorials and What's HOT:
+http://boredzo.org/blog/archives/2009-04-03/dont-pass-objects-as-context-pointers ::  Idle Time » Blog Archive » Don’t pass objects as context pointers
+http://catsandcatteries.co.uk/my-cat-wont-stop-meowing-after-me-being-away/ ::  My cat won’t stop meowing after me being away? | Cats and Catteries
+http://cdn.newsapi.com.au/image/v1/345b0bf3f8681ac2bf011b929d3cf0fb ::  345b0bf3f8681ac2bf011b929d3cf0fb (650×1000)
+http://celebrityinsider.org/wp-content/uploads/2018/04/John-Cena-and-Nikki-Bella-hollywoodlife.com_.jpeg ::  John-Cena-and-Nikki-Bella-hollywoodlife.com_.jpeg (1000×750)
