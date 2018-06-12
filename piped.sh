@@ -9,6 +9,8 @@ cd ~/github/chrome_headless/
 sh update_indexes.sh
 
 cat urls_not_titled.txt | uniq | tail -2 | tee urls_attempted.txt \
-	| DISPLAY=:99 groovy title.groovy ~/github/chrome_headless/chromedriver_linux64 \
+	| xargs -n 1 google-chrome --headless --dump-dom --disable-gpu \
+        | grep '<title' | perl -pe 's{.*<title>\s*(.*)\s*</title>.*}{$1}g' \
 	| tee titles_new.txt \
 	| tee -a titles_all.txt
+#	| DISPLAY=:99 groovy title.groovy ~/github/chrome_headless/chromedriver_linux64 \
