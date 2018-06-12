@@ -11766,3 +11766,28 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 	if( "" != mobileStatsQueryString ) {
 		newhttps://zapier.com/engineering/apikey-oauth-jwt/ ::  API Keys vs OAuth Tokens vs JSON Web Tokens - The Zapier Engineering Blog | Zapier
 https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/amp/ ::  Ten Things I Wish I’d Known About bash – zwischenzugs
+http://3.bp.blogspot.com/-yET4k2zc5k0/TkB55bXP0qI/AAAAAAAACFE/J0n2L3oLJzU/s400/Mario%2BZagallo.jpeg ::  Mario+Zagallo.jpeg (206×244)
+http://8by8mag.com/el-loco/ ::  El Loco: The Obsessive Genius of Marcelo Bielsa - Eight by Eight
+http://99u.com/articles/39885/stop-apologizing-for-wanting-worklife-balance ::  Stop Apologizing for Wanting Work/Life Balance - 99U Adobe-full-color Adobe-white Adobe-black logo-white Adobe-full Adobe Behance arrow-down arrow-right close-tablet-03 close-tablet-05 facebook instagram linkedin logo rss search share twitter
+http://abc7news.com/footage-of-san-francisco-after-1906-quake-shown-in-fremont/3346821/ ::  Rare footage of San Francisco after 1906 earthquake unearthed, shown in Fremont theater | abc7news.com
+http://agilious.com/what-is-pretotyping/ ::  Page not found – Agilious
+http://apdevblog.com/comments-in-code/ ::  Don’t comment your code! - aron / philipp development blog
+http://archive.oreilly.com/pub/post/crossplatform_file_access_what.html ::  O’Reilly Media - Technology and business training, knowledge, and insight, delivered by experts and innovators Search Open menu Close menu Search Twitter Facebook LinkedIn YouTube Newsletters
+http://asciiflow.com/#1-BD8DsOhaoXLctA2Ldfeup4cMRFMV_fn ::  ASCIIFlow Infinity
+http://assets.lfcimages.com/uploads/0911__2860__amanda05.jpeg ::  0911__2860__amanda05.jpeg (517×400)
+http://atleticofans.com/forum/index.php?/topic/1217-unpopular-players/page-2 ::  Just a moment...
+http://atleticofans.com/forum/index.php?/topic/1419-site-neglect/page-3 ::  Just a moment...
+http://atleticofans.com/forum/index.php?/topic/1477-youtube-video-embedding/?p=20528 ::  Just a moment...
+http://atleticofans.com/forum/index.php?/topic/1485-forum-member-equivalents-of-atleti-playerscoaches-etc/#entry20593 ::  Just a moment...
+http://az866755.vo.msecnd.net/product/1498388228199-product.jpeg ::  1498388228199-product.jpeg (500×500)
+http://baggout.com/blog/2016/05/31/7-reasons-girls-laugh-loudest-best/ :: 
+http://beza1e1.tuxen.de/leaky_abstractions.html ::  Forget about Leaky Abstractions
+http://birthfaith.org/nutrition/4-tips-for-improving-life-on-an-ssri ::  4 Tips for Improving Life on an SSRI | Birth Faith
+http://bleacherreport.com/articles/1033787-world-football-20-most-awkward-soccer-players-in-the-world ::  World Football: 20 Most Awkward Soccer Players in the World | Bleacher Report | Latest News, Videos and Highlights Bleacher Report Logo Turner Logo
+http://bleacherreport.com/articles/1556101-wwe-wrestlemania-29-ranking-every-outdoor-mania-in-events-storied-history ::  WWE WrestleMania 29: Ranking Every Outdoor 'Mania in Event's Storied History | Bleacher Report | Latest News, Videos and Highlights Down Arrow Icon Bleacher Report Logo Turner Logo
+http://bleacherreport.com/articles/2373711-mauricio-pochettinos-tottenham-blueprint-and-his-debt-to-marcelo-bielsa?m=0 ::  Mauricio Pochettino's Tottenham Blueprint And His Debt To Marcelo Bielsa | Bleacher Report | Latest News, Videos and Highlights Bleacher Report Logo Turner Logo
+http://blog.erratasec.com/2016/02/hackers-arent-smart-people-are-stupid.html ::  Errata Security: Hackers aren't smart -- people are stupid
+http://blog.florian-hopf.de/2012/12/looking-at-plaintext-lucene-index.html ::  <title>
+http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands ::  Why Vernacular Advertising Should Be Trending with Brands | Insticator Blog
+http://blognoscor.blogspot.com/2010/11/8-reasons-mcdonalds-isnt-as-bad-as-you.html ::  blognoscor: 8 Reasons McDonald's Isn't as Bad as You Think
+http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage ::  Damn Cool Algorithms: Log structured storage - Nick's Blog

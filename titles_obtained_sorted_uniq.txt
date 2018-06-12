@@ -364,7 +364,7 @@
 		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
 		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-		new
+		newhttps://zapier.com/engineering/apikey-oauth-jwt/
 		var disqus_config = function () {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		var html_class = document.getElementsByTagName( 'html' )[0].className.replace( 'no-js', '' );
@@ -1633,6 +1633,7 @@ http://3.bp.blogspot.com/-GNIcjFRshvM/UlBj4OoRJNI/AAAAAAAAoF0/mbxp4RmtfPw/s1600/
 http://3.bp.blogspot.com/-Yu5Z8rwjBoA/UGgzkfA4mWI/AAAAAAAAHOc/OnZyUAorJfo/s1600/Serebro.jpeg
 http://3.bp.blogspot.com/-lllnYERG6Wc/U2vLQd8VE-I/AAAAAAAAAOY/lE0T9sDYSyE/s1600/Priyanka-Chopra-wardrobe-malfunction.JPG
 http://3.bp.blogspot.com/-tcxvVXFlAQM/UHWo3NGZu9I/AAAAAAAAAYo/N7B00nnUb7o/s1600/a+child.jpeg
+http://3.bp.blogspot.com/-yET4k2zc5k0/TkB55bXP0qI/AAAAAAAACFE/J0n2L3oLJzU/s400/Mario%2BZagallo.jpeg
 http://3.bp.blogspot.com/_Ci9HbVh3IKE/RqEYUb2a6-I/AAAAAAAACqw/FvuEMsVVFww/s400/vieri+atletico.bmp
 http://3.droppdf.com/files/8lVym/java-ee-7-essentials.pdf
 http://37.media.tumblr.com/1a89f118fc2b8e9bebb3fe4cfb94c4a3/tumblr_n162taFqKF1t6njhko1_400.gif
@@ -1649,11 +1650,15 @@ http://68.media.tumblr.com/70c4e395d484270d60b20c5c906910a9/tumblr_o5v2wmpB7B1v7
 http://68.media.tumblr.com/avatar_23b37b4cae0a_128.png
 http://736777.mm.bing.net/th?q=usa+desi+nude&mkt=en-US&adlt=off
 http://800notes.com/Phone.aspx/1-202-991-4524#p1259625608372428061
+http://8by8mag.com/el-loco/
+http://99u.com/articles/39885/stop-apologizing-for-wanting-worklife-balance
+http://abc7news.com/footage-of-san-francisco-after-1906-quake-shown-in-fremont/3346821/
 http://abcnews.go.com/Sports/China/story?id=5589206
 http://about.cats-paradise.net/4-reasons-why-men-should-love-cats/2
 http://adultbreastfeeding.org/forum/topic/induce-lactation/
 http://adventurehummer.rezgo.com/complete/TmxBeVRESkpNVVU0U0RkQk5sTTVSZz09fE5sQXlUREpKTVVVNFNEZEJObE01Umc9PQ/print
 http://aejmcmagazine.arizona.edu/Journal/Summer2014/LassilaMerisalo.pdf
+http://agilious.com/what-is-pretotyping/
 http://alandove.com/static/2007/09/the-joy-of-text/
 http://allnurses.com/general-nursing-student/what-determines-the-214609.html
 http://alternativeto.net/software/diffen/
@@ -1662,6 +1667,7 @@ http://alternativeto.net/software/taskwarrior/
 http://amazingribs.com/recipes/pizza_and_flatbreads_on_the_grill/different_pizza_styles.html
 http://aminoapps.com/page/wrestling/3087811/5-embarrassing-wrestling-champions
 http://andrzejonsoftware.blogspot.com/2014/12/ill-refactor-this-later.html
+http://apdevblog.com/comments-in-code/
 http://api.ning.com/files/w-k4IC*v9Qk5ES9lqFtWS7PHO2v1fdokg6aioKm4Ot7TUC3H7koCx0Rw7q4kqTAS6xsb38G-jc*3r*HWpIIv0P36IQPzbYfW/FutureofDatabase.jpeg
 http://api.thumbr.it/whitenoise-400x200.png?background=f8faebff&noise=6c702d&density=17&opacity=15
 http://apple.stackexchange.com/questions/208205/file-open-dialog-is-missing-sidebar-items#
@@ -1676,6 +1682,7 @@ http://archive.is/qvjCd#selection-481.105-481.344
 http://archive.oreilly.com/bsd/2001/09/13/Big_Scary_Daemons.html
 http://archive.oreilly.com/pub/a/oreilly/perl/news/importance_0498.html
 http://archive.oreilly.com/pub/h/855
+http://archive.oreilly.com/pub/post/crossplatform_file_access_what.html
 http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
 http://arsenalist.com/2007/09/12/logging-abstraction-is-utterly-pointless/
 http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/2/
@@ -1684,6 +1691,7 @@ http://articles.chicagotribune.com/1990-01-14/entertainment/9001040221_1_ullman-
 http://articles.latimes.com/2001/nov/11/news/mn-2734
 http://articlesdirectoryme.info/listfnum-female-butt-shapes.html
 http://as.com/videos/2017/05/28/en/1495987054_187373.html?autoplay=1
+http://asciiflow.com/#1-BD8DsOhaoXLctA2Ldfeup4cMRFMV_fn
 http://ask.metafilter.com/191655/How-do-I-stop-wanting-gorgeous-woman-who-arent-my-wife
 http://ask.metafilter.com/206493/Should-we-bring-a-lawyer-to-my-wifes-visa-interview
 http://ask.metafilter.com/255909/Single-nearly-35-feeling-profoundly-alone-and-terrified
@@ -1727,6 +1735,7 @@ http://asperger-employment.org/assistance-for-individual/
 http://asperger-employment.org/assistance-for-individual/#ca
 http://aspergerworks.org/frequently-asked-questions/
 http://aspiritech.org/
+http://assets.lfcimages.com/uploads/0911__2860__amanda05.jpeg
 http://assoc.tumblr.com/post/84115533294/microservices-and-unix-philosophy
 http://astrorice.com/romanticization-of-depression/
 http://astyle.sourceforge.net/astyle.html
@@ -1734,9 +1743,13 @@ http://atlantic-cable.com/CableCos/Porthcurno/
 http://atlantic-cable.com/Cables/1870Falmouth-Malta/index.htm
 http://atleticofans.com/forum/index.php?/topic/1012-share-the-story-of-your-atl%C3%A9tico-encounter/
 http://atleticofans.com/forum/index.php?/topic/1211-inspirationalinfamous-quotes-by-or-about-atletico/?hl=quotes
+http://atleticofans.com/forum/index.php?/topic/1217-unpopular-players/page-2
 http://atleticofans.com/forum/index.php?/topic/1301-javier-aguirre/
 http://atleticofans.com/forum/index.php?/topic/1306-interview-with-talksport-admins/#entry17918
+http://atleticofans.com/forum/index.php?/topic/1419-site-neglect/page-3
 http://atleticofans.com/forum/index.php?/topic/1438-is-this-real-how-simeone-motivated-atletico%E2%80%99s-second-half-comeback-against-girona/
+http://atleticofans.com/forum/index.php?/topic/1477-youtube-video-embedding/?p=20528
+http://atleticofans.com/forum/index.php?/topic/1485-forum-member-equivalents-of-atleti-playerscoaches-etc/#entry20593
 http://atleticofans.com/forum/index.php?/topic/531-forum-database-backup/?p=18194
 http://atleticofans.com/forum/index.php?/topic/56-could-i-request-to-be-made-a-moderator/
 http://atleticofans.com/forum/index.php?/topic/87-fan-survey/
@@ -1745,19 +1758,23 @@ http://aut.researchgateway.ac.nz/bitstream/handle/10292/6964/HerjantoH.pdf?seque
 http://autismjobclub.ca/calendar.html
 http://autismwest.org.au/contact/
 http://aviation.stackexchange.com/questions/35288/what-are-the-legal-issues-for-an-uber-or-lyft-type-model-for-ride-share-on-gener
+http://az866755.vo.msecnd.net/product/1498388228199-product.jpeg
 http://backreference.org/2010/04/17/csv-parsing-with-awk/
 http://backwest.com/do-software-engineers-rule-the-world/
+http://baggout.com/blog/2016/05/31/7-reasons-girls-laugh-loudest-best/
 http://bagusnews.link/vince-mcmahon-pro-wrestlings-master-of-storytelling.html
 http://base-uk.org/information-jobseekers
 http://beautypageants.indiatimes.com/thumb/21979867.cms?width=350&height=350
 http://becomingselfmade.com/2016/05/10/how-immigrant-values-make-you-rich-entrepreneur/
 http://bellevuewestridge.com/
 http://betterbuttchallenge.com/what-is-hip-dip-and-why-having-this-feature-doesnt-mean-youre-a-freak/
+http://beza1e1.tuxen.de/leaky_abstractions.html
 http://bgr.com/2016/05/27/smartphone-modules-lg-g5-vs-motomods-vs-project-ara/
 http://bigdata-madesimple.com/can-big-data-be-racist/
 http://bigdata-madesimple.com/statistics-denial-myth-4-rebranding-predictive-modeling/
 http://billsportsmaps.com/?category_name=football-stadia&paged=2
 http://biology.stackexchange.com/questions/53955/why-do-women-mature-physically-earlier-than-men
+http://birthfaith.org/nutrition/4-tips-for-improving-life-on-an-ssri
 http://bishoplawfirm.org/2009/12/30-year-fixed-rate-overrated/
 http://bitcast-a.v1.sjc1.bitgravity.com/pumpaudio/5.1/mp3_v6/810000/812157_Glory.mp3?e=1483493207&h=41417B4E75F193AEF1AA40939D8EF486
 http://bj2design.com/content-management-systems-that-dont-use-a-database/
@@ -1767,7 +1784,10 @@ http://bl.ocks.org/eesur/be2abfb3155a38be4de4
 http://bl.ocks.org/mbostock/2949937
 http://bl.ocks.org/mbostock/4063550
 http://bl.ocks.org/sathomas/11550728
+http://bleacherreport.com/articles/1033787-world-football-20-most-awkward-soccer-players-in-the-world
 http://bleacherreport.com/articles/112908-the-inherent-sexism-behind-female-athletes-wardrobes
+http://bleacherreport.com/articles/1556101-wwe-wrestlemania-29-ranking-every-outdoor-mania-in-events-storied-history
+http://bleacherreport.com/articles/2373711-mauricio-pochettinos-tottenham-blueprint-and-his-debt-to-marcelo-bielsa?m=0
 http://bleacherreport.com/articles/260277-football-folklore-the-duty-of-the-football-writer
 http://bleacherreport.com/articles/2673752-remembering-antoine-griezmanns-breakthrough-to-the-big-time-at-real-sociedad
 http://bleacherreport.com/articles/2680722-20-heartwarming-sports-moments-from-2016
@@ -1784,12 +1804,16 @@ http://blog.arungupta.me/microservices-monoliths-noops/
 http://blog.codeclimate.com/blog/2012/11/28/your-objects-the-unix-way/
 http://blog.drsolly.com/2015/01/i-love-rsync.html
 http://blog.emojipedia.org/who-owns-emoji/?utm_campaign=Emoji%2BWrap&utm_medium=web&utm_source=Emoji_Wrap_10
+http://blog.erratasec.com/2016/02/hackers-arent-smart-people-are-stupid.html
 http://blog.extramaster.net/2013/01/views-on-stackoverflow.html
+http://blog.florian-hopf.de/2012/12/looking-at-plaintext-lucene-index.html
 http://blog.getpostman.com/2016/02/03/curl-and-postman-work-wonderfully-together/#comment-13156
 http://blog.habrador.com/2013/10/how-to-add-stock-charts-to-your-website.html
+http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands
 http://blog.jonathanoliver.com/cqrs-event-sourcing-and-immutable-data/
 http://blog.markshead.com/34/emailing-a-webpage-from-the-command-line/
 http://blog.meetedgar.com/branding-101-dont-waste-time-trying-to-be-better-than-your-competition/
+http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage
 http://blog.peerform.com/top-ten-most-socialist-countries-in-the-world/
 http://blog.penelopetrunk.com/2017/02/19/the-secret-weapon-for-helping-people-with-aspergers-succeed-as-adults/
 http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
@@ -1808,6 +1832,7 @@ http://blog.topeleven.com/helenio-herrera-catenaccio-the-art-of-defending/
 http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 http://blog.triplebyte.com/does-it-make-sense-for-programmers-to-move-to-the-bay-area
 http://blog.voxar.net/post/48474575/stream-video-from-commandline-with-vlc
+http://blognoscor.blogspot.com/2010/11/8-reasons-mcdonalds-isnt-as-bad-as-you.html
 http://blogs.bath.ac.uk/careers/2015/02/19/job-hunting-tips-for-students-and-graduates-with-aspergers/
 http://blogs.economictimes.indiatimes.com/moneyhappyreturns/currency-markets-are-risky/
 http://blogs.wsj.com/economics/2016/06/16/the-u-s-economy-is-in-great-shape-compared-to-its-peers/
@@ -9248,6 +9273,7 @@ https://ycharts.com/store/professional_tour/section/charting
 https://zachholman.com/posts/glue-languages/
 https://zedshaw.com/archive/indirection-is-not-abstraction/
 https://zeroturnaround.com/rebellabs/watch-out-for-these-10-common-pitfalls-of-experienced-java-developers-architects/
+https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/amp/
 if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 if (document.readyState === 'complete') { 
 img.emoji {

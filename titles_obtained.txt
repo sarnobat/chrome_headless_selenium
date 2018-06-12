@@ -11764,4 +11764,30 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
 	if( "" != mobileStatsQueryString ) {
-		new
+		newhttps://zapier.com/engineering/apikey-oauth-jwt/
+https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/amp/
+http://3.bp.blogspot.com/-yET4k2zc5k0/TkB55bXP0qI/AAAAAAAACFE/J0n2L3oLJzU/s400/Mario%2BZagallo.jpeg
+http://8by8mag.com/el-loco/
+http://99u.com/articles/39885/stop-apologizing-for-wanting-worklife-balance
+http://abc7news.com/footage-of-san-francisco-after-1906-quake-shown-in-fremont/3346821/
+http://agilious.com/what-is-pretotyping/
+http://apdevblog.com/comments-in-code/
+http://archive.oreilly.com/pub/post/crossplatform_file_access_what.html
+http://asciiflow.com/#1-BD8DsOhaoXLctA2Ldfeup4cMRFMV_fn
+http://assets.lfcimages.com/uploads/0911__2860__amanda05.jpeg
+http://atleticofans.com/forum/index.php?/topic/1217-unpopular-players/page-2
+http://atleticofans.com/forum/index.php?/topic/1419-site-neglect/page-3
+http://atleticofans.com/forum/index.php?/topic/1477-youtube-video-embedding/?p=20528
+http://atleticofans.com/forum/index.php?/topic/1485-forum-member-equivalents-of-atleti-playerscoaches-etc/#entry20593
+http://az866755.vo.msecnd.net/product/1498388228199-product.jpeg
+http://baggout.com/blog/2016/05/31/7-reasons-girls-laugh-loudest-best/
+http://beza1e1.tuxen.de/leaky_abstractions.html
+http://birthfaith.org/nutrition/4-tips-for-improving-life-on-an-ssri
+http://bleacherreport.com/articles/1033787-world-football-20-most-awkward-soccer-players-in-the-world
+http://bleacherreport.com/articles/1556101-wwe-wrestlemania-29-ranking-every-outdoor-mania-in-events-storied-history
+http://bleacherreport.com/articles/2373711-mauricio-pochettinos-tottenham-blueprint-and-his-debt-to-marcelo-bielsa?m=0
+http://blog.erratasec.com/2016/02/hackers-arent-smart-people-are-stupid.html
+http://blog.florian-hopf.de/2012/12/looking-at-plaintext-lucene-index.html
+http://blog.insticator.com/why-vernacular-advertising-should-be-trending-with-brands
+http://blognoscor.blogspot.com/2010/11/8-reasons-mcdonalds-isnt-as-bad-as-you.html
+http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage
