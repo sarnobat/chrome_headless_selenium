@@ -190,6 +190,7 @@ article.post .post-meta, .meta-comment-count {
   background-color: #fff!important;
 				background-color: transparent !important;
 	background: none !important;
+Binary
 .blog .container-wrap, .single-post .container-wrap {
 body a {
 body a:hover {
@@ -519,6 +520,7 @@ February 25, 2015 at 9:57 am</a> </div>
 February 28, 2015 at 11:13 am</a> </div>
 February 28, 2015 at 1:38 am</a> </div>
                             <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"></feColorMatrix>
+file
                         </filter>
                         <filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0.11" y="0.59" width="15.22" height="18.69">
                         <filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0.36" y="0.36" width="15.55" height="26.64">
@@ -1353,7 +1355,11 @@ http://forums.welltrainedmind.com/topic/447606-chopping-binding-off-of-a-book/
 http://forums.wrestlezone.com/showthread.php?t=270575
 http://forums.xfinity.com/t5/Email-Web-Browsing/Using-SMTP-mail-server-and-SMTP-relay/td-p/2053255
 http://forums.xfinity.com/t5/X1/Recordings-starting-early-Cutting-time-off-the-end/m-p/2158364#M19237
+http://fuhsd.ca.schoolloop.com/file/1216320361750/1224957816940/5493256635158070971.pdf
 http://fuhsd.ca.schoolloop.com/file/1216320361750/1224957816940/6536848814315837274.pdf
+http://fuhsd.ca.schoolloop.com/file/1216320361750/1224957816940/742199066367241229.pdf
+http://fuhsd.ca.schoolloop.com/file/1216320361750/1224957816940/7744590340490002506.pdf
+http://fuhsd.ca.schoolloop.com/file/1216320361750/1224957816940/8260427472560785772.pdf
 http://fulltext.study/preview/pdf/2716552.pdf
 http://fusion.net/story/166315/technologists-artists/
 http://fusion.net/story/58247/sorry-darlene-not-everyone-should-learn-to-invest/
@@ -1371,6 +1377,7 @@ http://getrssfeed.com/
 http://gettingstartedwithchef.com/first-steps-with-chef.html
 http://gettingthescore.com/index.php/the-spotting-session-definition/
 http://ghanasoccernet.com/revealed-why-theo-hernandez-determined-to-quit-atletico-madrid-1492480824
+http://girlwithpearlearring.com/step-by-step-secrets-of-the-feminine-walk/
 http://gizmodo.com/5423233/why-i-hate-ereaders-and-doubt-theyll-ever-hit-the-mainstream
 http://gizmodo.com/nobody-wants-a-modular-smartphone-1786099302
 http://gizmodo.com/standing-desks-are-mostly-bullshit-1736571972
@@ -1391,6 +1398,7 @@ http://graphs.grevian.org/example
 http://greyenlightenment.com/real-estate-palo-alto-vs-everywhere-else/
 http://grist.org/article/disposable-everything-really-everything/
 http://gritorojiblanco.blogspot.com/
+http://hahas.co.uk/ronaldo/
 http://harmful.cat-v.org/software/dynamic-linking/
 http://headjs.com/
 http://healthcareinformations.com/2016/04/16/diabetes-breakthrought-will-bankrupt-diabetes-industry/#
@@ -1411,6 +1419,10 @@ http://httpd.apache.org/docs/2.4/mod/
 http://humanorigins.si.edu/evidence/human-family-tree
 http://humoropedia.com/best-comebacks-n-funny-insults/
 http://hwinterview.com/index.php/2016/10/08/power-on-computer/
+http://i1.adis.ws/i/hmk/121841_ALT01?h=500&w=598&sm=CM
+http://i1.adis.ws/i/hmk/121841_ALT02?h=1000&w=1196
+http://i1.adis.ws/i/hmk/121841_ALT03?h=500&w=598&sm=CM
+http://i1.adis.ws/i/hmk/121841_ALT04?h=500&w=598&sm=CM
 http://i2.mirror.co.uk/incoming/article1361606.ece/ALTERNATES/s615/Jessica%20Alba%20tries%20to%20shield%20her%20daughter%20Haven%20from%20the%20rain%20as%20she%20steps%20out%20in%20New%20York%20City,%20New%20York
 http://i3.mirror.co.uk/incoming/article737454.ece/ALTERNATES/s615b/The%201997%20Brit%20Awards:%20The%20Spice%20Girls%20%20-%20Victoria%20Beckham,%20Emma%20Bunton,%20Melanie%20Chisholm,%20Geri%20Haliwell%20and%20Melanie%20Brown
 http://i3.mirror.co.uk/incoming/article805219.ece/ALTERNATES/s615b/Wayne%20Rooney%20as%20a%20ten%20year%20old%20and%20pictured%20in%202012
@@ -8570,6 +8582,7 @@ img.emoji {
 			<img width="572" height="429" src="https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=572%2C429&amp;quality=100&amp;strip" class="attachment-legacy size-legacy wp-post-image" alt="" srcset="https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png 572w, https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=150,113&amp;quality=100&amp;strip 150w, https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=300,225&amp;quality=100&amp;strip 300w" sizes="(max-width: 572px) 100vw, 572px" data-attachment-id="39895" data-permalink="https://99u.adobe.com/articles/39885/stop-apologizing-for-wanting-worklife-balance/designyourlife572x429" data-orig-file="https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=%2C&amp;quality=100&amp;strip" data-orig-size="572,429" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DesignYourLife572x429" data-image-description="" data-medium-file="https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=300%2C300&amp;quality=100&amp;strip" data-large-file="https://adobe99u.files.wordpress.com/2015/02/designyourlife572x429.png?resize=1024%2C1024&amp;quality=100&amp;strip">								<div class="image-tag">
 img.wp-smiley,
 		//initialize and attach hovercards to all gravatars
+input)
 						<input type="email" id="email" name="email">
 							<input type="hidden" name="allowfullscreen" value="">
 							<input type="hidden" name="class" value="">
@@ -8773,6 +8786,7 @@ jQuery(function($) {
                             <mask id="mask-4" fill="white">
                     <mask maskUnits="userSpaceOnUse" x="0.11" y="0.59" width="15.22" height="18.69" id="mask-4">
                     <mask maskUnits="userSpaceOnUse" x="0.36" y="0.36" width="15.55" height="26.64" id="mask-2">
+matches
 /*mboxHighlight+ (1of2) v1 ==> Response Plugin*/
 @media only screen and (max-width:1000px) {
 	<meta charset="UTF-8">
@@ -9179,6 +9193,7 @@ src="https://www.facebook.com/tr?id=1109416652423187&ev=PageView&noscript=1"
     .st4{mask:url(#mask-2);fill:#231F1F;}
     .st5{filter:url(#Adobe_OpacityMaskFilter_1_);}
     .st6{mask:url(#mask-4);fill:#231F1F;}
+(standard
 						"static.chartbeat.com/js/chartbeat.js");
 _stq.push([ 'clickTrackerInit', '91974897', '39885' ]);
 _stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdaOHxRaTRrNSVfTU5QbUt8NmIlYlFSQm9NZ0xMNUxBPzZXPU9nbGR0UUZwfDV1fEhVUls0dEhPVF89QXU2Zi13U1BnZGMsYy96R01rTWYlNXBFPzBBNzU/NlpnJi1XSkNYMG1OaHpfVTF6QkphJUktRHErVS5XNW9HXT9xNnFHZyxMc3FbXy1nfmpGdi4yUzNEMk1BSnhNcnk9OD1mMVFEfmtGa0RxVT11LXNx'}]);
