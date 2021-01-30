@@ -1,5 +1,5 @@
 cd ~/github/chrome_headless/2_native/
-cat  ~/sarnobat.git/yurl_queue_httpcat.txt  | grep http  | perl -pe 's{[0-9]+::[0-9]+::http}{http}g' | sort | grep -i -v '\.jpg' | grep -i -v '\.gif' | grep -i -v '\.png' | tee ~/github/chrome_headless/tmp/urls_httpcat.txt >/dev/null
+cat  ~/sarnobat.git/db/yurl_queue_httpcat.txt  | grep http  | perl -pe 's{[0-9]+::[0-9]+::http}{http}g' | sort | grep -i -v '\.jpg' | grep -i -v '\.gif' | grep -i -v '\.png' | tee ~/github/chrome_headless/tmp/urls_httpcat.txt >/dev/null
 cat ~/sarnobat.git/db/yurl_flatfile_db/titles_all.txt  | perl -pe 's{ :: .*}{}g' | tee ~/github/chrome_headless/tmp/titles_obtained.txt   >/dev/null
 
 
