@@ -58,20 +58,20 @@ public class Headless {
 					String source = driver.getPageSource();
 					System.out.println(source);
 				} catch(Exception e) {
-					System.out.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
+					System.err.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
 				} finally {
-					System.out.println("Headless.getGeneratedHtml() - Finally 1: ");
+					System.err.println("Headless.getGeneratedHtml() - Finally 1: ");
 					//driver.quit();
 				}
 				
 			}
 		} catch(Exception e) {
-			System.out.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
+			System.err.println("Headless.getGeneratedHtml() - Exception 2: " + e + ". ");
 		} finally {
-			System.out.println("Headless.getGeneratedHtml() - Finally 2: ");
+			System.err.println("Headless.getGeneratedHtml() - Finally 2: ");
 			driver.quit();
 		}
-		System.out.println("Headless.getGeneratedHtml() - Returning: ");
+		System.err.println("Headless.getGeneratedHtml() - Returning: ");
 		return ret;
 	}
 
