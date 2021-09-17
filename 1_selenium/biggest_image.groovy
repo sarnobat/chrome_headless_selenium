@@ -27,54 +27,66 @@ import com.google.common.collect.Ordering;
  */
 public class BiggestImage {
 
-	//private static final String CHROMEDRIVER_PATH = "/sarnobat.garagebandbroken/trash/chromedriver";
 
-	 private static final String CHROMEDRIVER_PATH = "/media/sarnobat/homes/sarnobat/github/chrome_headless/1_selenium/chromedriver_linux64";
-//"/home/sarnobat/github/chrome_headless/chromedriver_linux64";
-//	 "/home/sarnobat/github/yurl/chromedriver";
+	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
+		//getImagesAscendingSize(args[0]);
+		String url = "";
+		String base = "";
+		StringBuffer sb = new StringBuffer();
+		BufferedReader br = null;
+        try {
+            br = new BufferedReader(new InputStreamReader(System.in));
+            String line;
+            while ((line = br.readLine()) != null) {
+                // log message
+                System.err.println("[DEBUG] current line is: " + line);
+                
+                sb.append(line);
+                
+                // program output
+                //System.out.println(line);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+
+		getImagesAscendingSize(sb.toString());        
+// 		List<String> out = getAllTags("/", sb.getString());
+// 		Multimap<Integer, String> imageSizes = getImageSizes(out);
+// 		sortByKey(imageSizes, url);
+// 		if (ret.size() < 1) {
+// 			throw new RuntimeException("2 We're going to get a nullpointerexception later: "
+// 					+ url);
+// 		}
+	}
 
 	/**
 	 * Ascending like du
 	 */
-	private static List<String> getImagesAscendingSize(String url1) throws MalformedURLException,
+	private static List<String> getImagesAscendingSize(String source) throws MalformedURLException,
 			IOException {
-		String url = url1.startsWith("http") ? url1 : "http://" + url1;
-		String base = getBaseUrl(url);
-		// Don't use the chrome binaries that you browse the web with.
-		System.setProperty("webdriver.chrome.driver", BiggestImage.CHROMEDRIVER_PATH);
-		System.setProperty("webdriver.chrome.logfile", "/dev/null");
-		System.setProperty("webdriver.chrome.args", "disable-logging");
-		System.setProperty("webdriver.chrome.silentOutput", "true");
-
-
-		// HtmlUnitDriver and FirefoxDriver didn't work. Thankfully
-		// ChromeDriver does
-		WebDriver driver = new ChromeDriver();
-		List<String> ret = ImmutableList.of();
-		try {
-			driver.get(url);
-			// TODO: shame there isn't an input stream, then we wouldn't
-			// have to store the whole page in memory
-			try {
-				// We need to let the dynamic content load.
-				Thread.sleep(5000L);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-			String source = driver.getPageSource();
-System.err.println(source);
+String base = "";
+String url = "";
+			List<String> ret = ImmutableList.of();
+//System.err.println(source);
 			List<String> out = getAllTags(base + "/", source);
+			System.err.println(out);
 			Multimap<Integer, String> imageSizes = getImageSizes(out);
 			ret = sortByKey(imageSizes, url);
 			if (ret.size() < 1) {
-				throw new RuntimeException("2 We're going to get a nullpointerexception later: "
-						+ url);
+				throw new RuntimeException("2 We're going to get a nullpointerexception later: ");
 			}
-		} finally {
-			driver.quit();
-		}
+
 		if (ret.size() < 1) {
-			throw new RuntimeException("1 We're going to get a nullpointerexception later: " + url);
+			throw new RuntimeException("1 We're going to get a nullpointerexception later: " );
 		}
 		return ret;
 	}
@@ -169,8 +181,4 @@ System.err.println(source);
 			return absUrl;
 		}
 	};
-
-	public static void main(String[] args) throws URISyntaxException, JSONException, IOException {
-		getImagesAscendingSize(args[0]);
-	}
 }
