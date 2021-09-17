@@ -29,8 +29,8 @@ public class BiggestImage {
 
 	//private static final String CHROMEDRIVER_PATH = "/sarnobat.garagebandbroken/trash/chromedriver";
 
-	 private static final String CHROMEDRIVER_PATH =
-"/home/sarnobat/github/chrome_headless/chromedriver_linux64";
+	 private static final String CHROMEDRIVER_PATH = "/media/sarnobat/homes/sarnobat/github/chrome_headless/1_selenium/chromedriver_linux64";
+//"/home/sarnobat/github/chrome_headless/chromedriver_linux64";
 //	 "/home/sarnobat/github/yurl/chromedriver";
 
 	/**
@@ -62,6 +62,7 @@ public class BiggestImage {
 				e.printStackTrace();
 			}
 			String source = driver.getPageSource();
+System.err.println(source);
 			List<String> out = getAllTags(base + "/", source);
 			Multimap<Integer, String> imageSizes = getImageSizes(out);
 			ret = sortByKey(imageSizes, url);
