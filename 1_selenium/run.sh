@@ -3,6 +3,7 @@
 ## nuc
 ########
 # This works over SSH on nuc (but not barebones) with no -X. 99 corresponds to port 6099.
+sudo apt install -y xvfb
 Xvfb :99 -ac
 echo 'www.bbc.co.uk' 	| DISPLAY=:99 groovy headless.groovy ~/github/chrome_headless/chromedriver_linux64 | tee out.html
 

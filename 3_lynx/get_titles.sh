@@ -7,6 +7,9 @@
 #     
 #
 #-----------------------------------------------------------------------------
+
+which lynx || sudo apt install lynx
+
 cd ~/github/chrome_headless/3_lynx/
 
 sh update_indexes.sh
