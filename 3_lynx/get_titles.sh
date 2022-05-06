@@ -8,7 +8,7 @@
 #
 #-----------------------------------------------------------------------------
 
-which lynx || sudo apt install lynx
+which lynx || sudo apt install -y lynx
 
 cd ~/github/chrome_headless/3_lynx/
 
