@@ -9,15 +9,38 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import pyautogui
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-driver.get("https://www.google.com")
-print(driver.title)
+chrome_options = webdriver.chrome.options.Options()
+# prefs = {"download.default_directory": "/tmp/" , # pass the variable
+#                    "download.prompt_for_download": True,
+#                    "directory_upgrade": True,
+#                    "safebrowsing.enabled": True }
+# chrome_options.add_experimental_option('prefs', prefs)
 
-time.sleep(3)
-pyautogui.hotkey('command', 's')
-time.sleep(10)
-pyautogui.typewrite('/tmp/out.html')
+
+
+
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
+driver.get("https://www.google.com")
+
+
+time.sleep(1)
+# pyautogui.hotkey('command', 's')
+pyautogui.keyDown('command')
+pyautogui.press('s')
+pyautogui.keyUp('command')
+time.sleep(1)
+# pyautogui.typewrite('helloworld')
+pyautogui.typewrite('/')
+# pyautogui.press('enter')
+print(driver.title)
+pyautogui.typewrite('/tmp/')
+pyautogui.hotkey('enter')
+# s/pyautogui.press('/')
+# pyautogui.typewrite('/tmp/')
+# pyautogui.hotkey('enter')
+# pyautogui.typewrite('/tmp/out.html')
 # pyautogui.hotkey('enter')
 # 
 # 
 # driver.close()
+time.sleep(20)
