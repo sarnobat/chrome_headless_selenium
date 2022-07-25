@@ -1,6 +1,7 @@
 # pip3 install selenium
 # pip3 install webdriver-manager
-# /Volumes/numerous/usr/local/homebrew/lib/python3.9/site-packages
+
+import sys
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -9,38 +10,28 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import pyautogui
 
+url = None
+if sys.argv[1:]:
+	url=sys.argv[1]
+if url == None:
+	url="http://www.google.com"
+
 chrome_options = webdriver.chrome.options.Options()
-# prefs = {"download.default_directory": "/tmp/" , # pass the variable
-#                    "download.prompt_for_download": True,
-#                    "directory_upgrade": True,
-#                    "safebrowsing.enabled": True }
-# chrome_options.add_experimental_option('prefs', prefs)
-
-
-
-
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
-driver.get("https://www.google.com")
-
-
+driver.get(url)
 time.sleep(1)
-# pyautogui.hotkey('command', 's')
+
 pyautogui.keyDown('command')
 pyautogui.press('s')
 pyautogui.keyUp('command')
 time.sleep(1)
-# pyautogui.typewrite('helloworld')
+
 pyautogui.typewrite('/')
-# pyautogui.press('enter')
-print(driver.title)
+# print(driver.title)
+time.sleep(1)
 pyautogui.typewrite('/tmp/')
+time.sleep(1)
 pyautogui.hotkey('enter')
-# s/pyautogui.press('/')
-# pyautogui.typewrite('/tmp/')
-# pyautogui.hotkey('enter')
-# pyautogui.typewrite('/tmp/out.html')
-# pyautogui.hotkey('enter')
-# 
-# 
-# driver.close()
-time.sleep(20)
+time.sleep(1)
+pyautogui.hotkey('enter')
+time.sleep(60)
