@@ -28,18 +28,5 @@ elems = driver.find_elements("xpath", '//a[@href]')
 for elem in elems:
     print(elem.get_attribute("href"))
 
-
-# pyautogui.keyDown('command')
-# pyautogui.press('s')
-# pyautogui.keyUp('command')
-# time.sleep(1)
-# 
-# pyautogui.typewrite('/')
-# # print(driver.title)
-# time.sleep(1)
-# pyautogui.typewrite('/tmp/')
-# time.sleep(1)
-# pyautogui.hotkey('enter')
-# time.sleep(1)
-# pyautogui.hotkey('enter')
-time.sleep(60)
+print "TODO: get subsequent pages"
+time.sleep(15)
