@@ -20,9 +20,13 @@ def printLinksInCurrentPage(url):
 		print(elem.get_attribute("href"))
 
 	print("----------------------------------------- ")
-	elems = driver.find_elements("xpath", '//*[@id="yui-gen3"]/span[5]/a')
-# 	time.sleep(15)
-	printLinksInCurrentPage(elems[0].get_attribute("href"))
+	
+	elems = driver.find_elements("xpath", '//*/a[@rel="next"]')
+	for elem in elems:
+		print(elem.get_attribute("href"))
+		printLinksInCurrentPage(elem.get_attribute("href"))
+# 	print(elems[0].get_attribute("href"))
+	time.sleep(5)
 
 
 url = None
@@ -39,4 +43,4 @@ printLinksInCurrentPage(url)
 # print("TODO: get subsequent pages")
 # time.sleep(15)
 
-time.sleep(15)
+# time.sleep(15)
