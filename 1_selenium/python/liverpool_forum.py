@@ -18,15 +18,19 @@ if url == None:
 
 chrome_options = webdriver.chrome.options.Options()
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=chrome_options)
-driver.get(url)
-time.sleep(4)
 
+# print("TODO: get subsequent pages")
+# time.sleep(15)
+def printLinksInCurrentPage(url):
+	driver.get(url)
+	time.sleep(4)
 
+	printLinksInCurrentPage(url)
+	elems = driver.find_elements("xpath", '//a[@href]')
+	for elem in elems:
+		print(elem.get_attribute("href"))
 
+	print("----------------------------------------- ")
+	elems = driver.find_elements("xpath", '//*[@id="yui-gen3"]/span[5]/a')
 
-elems = driver.find_elements("xpath", '//a[@href]')
-for elem in elems:
-    print(elem.get_attribute("href"))
-
-print "TODO: get subsequent pages"
-time.sleep(15)
+	printLinksInCurrentPage(elems[0].get_attribute("href"))
