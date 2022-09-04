@@ -13,3 +13,4 @@ print(sys.argv[1])
 driver.get(str(sys.argv[1]))
 print(driver.title)
 driver.close()
+
