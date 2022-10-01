@@ -33,7 +33,8 @@ def printLinksInCurrentPage(url):
 
 url = None
 if sys.argv[1:]:
-	url=sys.argv[1]
+	#url=sys.argv[1]
+	password=sys.argv[1]
 if url == None:
 	url="https://www.facebook.com/"
 
@@ -50,7 +51,12 @@ time.sleep(3)
 # bet_fa.send_keys("0.00000005")
 # driver.find_elements("xpath", '//input[@id="email"]')[0]
 
-ActionChains(driver).send_keys_to_element(driver.find_elements("xpath", '//input[@id="email"]')[0], "abc").perform()
+ActionChains(driver).send_keys_to_element(driver.find_elements("xpath", '//input[@id="email"]')[0], "ss533@cornell.edu").perform()
+ActionChains(driver).send_keys_to_element(driver.find_elements("xpath", '//input[@id="pass"]')[0], "aize2FEN!").perform()
+driver.find_elements("xpath", '//button[@type="submit"]')[0].click()
+time.sleep(30)
+driver.get("https://www.facebook.com/megha.panchamukhi.7/photos_by")
+time.sleep(3)
 
 # print(driver.find_elements("xpath", '//input[@id="email"]')[0])
 # .sendKeys("your value")
