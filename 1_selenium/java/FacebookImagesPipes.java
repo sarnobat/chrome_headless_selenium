@@ -15,13 +15,14 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class FacebookImagesPiped {
+public class FacebookImagesPipes {
 
   private static final long WAIT_PERIOD_LONG = 6000L;
 
   public static void main(String[] args) throws URISyntaxException,
       JSONException, IOException, InterruptedException {
-    System.err.println("[DEBUG] Headless.main() - args = " + args.length);
+    System.err
+        .println("[DEBUG] Headless.main() - args = " + args.length);
 
     if (args.length == 0) {
       System.err.println(
@@ -33,6 +34,13 @@ public class FacebookImagesPiped {
     ChromeOptions co = new ChromeOptions();
     co.addArguments("--disable-notifications");
     WebDriver driver = new ChromeDriver(co);
+    Runtime.getRuntime().addShutdownHook(new Thread() {
+      public void run() {
+        System.out.println("Shutdown Hook is running");
+        driver .close();
+      }
+    });
+
     {
       String baseUrl2 = "https://www.facebook.com";
 
@@ -67,13 +75,14 @@ public class FacebookImagesPiped {
       //// Each album url must be given separately. Anything else is not worth the
       //// loss of control
       ////
-      List<String> subList ;
+      List<String> subList;
       if (args.length > 1) {
         subList = Arrays.asList(args).subList(2, args.length);
-        
-      }else {
+
+      } else {
         subList = new ArrayList<>();
-        subList.add("https://www.facebook.com/sindhu.gombi/photos_by");
+        subList
+            .add("https://www.facebook.com/sindhu.gombi/photos_by");
       }
       for (String facebookAlbumUrl : subList) {
 //          "https://www.facebook.com/varsha.rohidekar.9/photos_by"
@@ -81,8 +90,8 @@ public class FacebookImagesPiped {
 //          "https://www.facebook.com/sindhu.gombi/photos_of"
 //          "https://www.facebook.com/media/set/?set=a.103236316503075&type=3"
 //          "https://www.facebook.com/media/set/?set=a.103236316503075&type=3"
-          // "https://www.facebook.com/media/set/?set=a.418968131596557&type=3"
-          // "https://www.facebook.com/media/set/?set=a.103900176436689&type=3"
+        // "https://www.facebook.com/media/set/?set=a.418968131596557&type=3"
+        // "https://www.facebook.com/media/set/?set=a.103900176436689&type=3"
 //          "https://www.facebook.com/media/set/?set=a.220906377933744&type=3",
 //          "https://www.facebook.com/media/set/?set=a.289379861086395&type=3",
 //          "https://www.facebook.com/media/set/?set=a.153583031332746&type=3",
@@ -114,6 +123,5 @@ public class FacebookImagesPiped {
       }
       driver.close();
     }
-
   }
 }
