@@ -22,6 +22,9 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+/**
+ * Monolith. The only thing I can get to work, but selecting the right links is messy.
+ */
 public class FacebookImages {
 
   private static final long WAIT_PERIOD = 4000L;
@@ -39,17 +42,18 @@ public class FacebookImages {
 
       // launch Fire fox and direct it to the Base URL
       driver.get(baseUrl2);
+      login: {
+        new Actions(driver).sendKeys(driver
+            .findElements(By.xpath("//input[@id=\"email\"]")).get(0),
+            "ss533@cornell.edu").perform();
+        new Actions(driver).sendKeys(driver
+            .findElements(By.xpath("//input[@id=\"pass\"]")).get(0),
+            args[0]).perform();
+        driver.findElements(By.xpath("//button[@type=\"submit\"]"))
+            .get(0).click();
 
-      new Actions(driver).sendKeys(driver
-          .findElements(By.xpath("//input[@id=\"email\"]")).get(0),
-          "ss533@cornell.edu").perform();
-      new Actions(driver).sendKeys(driver
-          .findElements(By.xpath("//input[@id=\"pass\"]")).get(0),
-          args[0]).perform();
-      driver.findElements(By.xpath("//button[@type=\"submit\"]"))
-          .get(0).click();
-
-      Thread.sleep(WAIT_PERIOD_LONG);
+        Thread.sleep(WAIT_PERIOD_LONG);
+      }
 //      String baseUrl = "https://www.facebook.com/megha.panchamukhi.7/photos_by";
 //      String baseUrl = "https://www.facebook.com/poornima.kulkarni.357/photos_of";
 //      String baseUrl = "https://www.facebook.com/profile.php?id=100002218014948&sk=photos_of";
@@ -76,8 +80,8 @@ public class FacebookImages {
           "https://www.facebook.com/sindhu.gombi/photos_of"
 //          "https://www.facebook.com/media/set/?set=a.103236316503075&type=3"
 //          "https://www.facebook.com/media/set/?set=a.103236316503075&type=3"
-          //"https://www.facebook.com/media/set/?set=a.418968131596557&type=3"
-          //"https://www.facebook.com/media/set/?set=a.103900176436689&type=3"
+          // "https://www.facebook.com/media/set/?set=a.418968131596557&type=3"
+          // "https://www.facebook.com/media/set/?set=a.103900176436689&type=3"
 //          "https://www.facebook.com/media/set/?set=a.220906377933744&type=3",
 //          "https://www.facebook.com/media/set/?set=a.289379861086395&type=3",
 //          "https://www.facebook.com/media/set/?set=a.153583031332746&type=3",
@@ -88,40 +92,44 @@ public class FacebookImages {
 //          "https://www.facebook.com/media/set/?set=a.278720775485637&type=3",
 //          "https://www.facebook.com/media/set/?set=a.275431262481255&type=3",
 //          "https://www.facebook.com/media/set/?set=a.100979533259763&type=3"
-          }) {
-        System.out.println("FacebookImages.main() - next album: " + facebookAlbumUrl);
-        
+      }) {
+        System.out.println("FacebookImages.main() - next album: "
+            + facebookAlbumUrl);
+
         ++i;
         driver.get(facebookAlbumUrl);
         Thread.sleep(WAIT_PERIOD_LONG);
         {
-          List<WebElement> aHrefElements = driver.findElements(
-              By.xpath("//a[contains(@href,'photo.php')]"));
+          clickFirstElement: {
+            List<WebElement> aHrefElements = driver.findElements(
+                By.xpath("//a[contains(@href,'photo.php')]"));
 
-          if (aHrefElements.size() < 1) {
-            aHrefElements = driver.findElements(
-                By.xpath("//a[contains(@href,'/photo/')]"));
-          }
-          for (WebElement elem : aHrefElements) {
-            System.out.println(
-                "[DEBUG] Headless.main() all photos in album: "
-                    + elem.getAttribute("href"));
-          }
-          // Exclude the profile photo link (I wish there was a more robust way to do
-          // this)
-          Stream<WebElement> stream;
-          if (facebookAlbumUrl.contains("set=")) {
-            String facebookAlbumSetId = facebookAlbumUrl
-                .replaceAll(".*set=", "").replaceAll("&.*", "");
-            stream = aHrefElements.stream()
-                .filter(a -> !a.getAttribute("href").contains("__tn__"))
-              .filter(a -> a.getAttribute("href").contains(facebookAlbumSetId))
-                ;
-          } else {
-            stream = aHrefElements.stream()
-                .filter(a -> !a.getAttribute("href").contains("__tn__"));
-          }
-          stream.collect(Collectors.toList()).get(0).click();
+            if (aHrefElements.size() < 1) {
+              aHrefElements = driver.findElements(
+                  By.xpath("//a[contains(@href,'/photo/')]"));
+            }
+            for (WebElement elem : aHrefElements) {
+              System.out.println(
+                  "[DEBUG] Headless.main() all photos in album: "
+                      + elem.getAttribute("href"));
+            }
+            // Exclude the profile photo link (I wish there was a more robust way to do
+            // this)
+            Stream<WebElement> stream;
+            if (facebookAlbumUrl.contains("set=")) {
+              String facebookAlbumSetId = facebookAlbumUrl
+                  .replaceAll(".*set=", "").replaceAll("&.*", "");
+              stream = aHrefElements.stream()
+                  .filter(
+                      a -> !a.getAttribute("href").contains("__tn__"))
+                  .filter(a -> a.getAttribute("href")
+                      .contains(facebookAlbumSetId));
+            } else {
+              stream = aHrefElements.stream().filter(
+                  a -> !a.getAttribute("href").contains("__tn__"));
+            }
+            stream.collect(Collectors.toList()).get(0).click();
+          } // end clickFirstElement
           Thread.sleep(WAIT_PERIOD_LONG);
         }
         boolean nextPhotoExists = true;
@@ -165,11 +173,13 @@ public class FacebookImages {
                   .findElements(By.xpath("//a[@download]"));
               if (elems2.size() > 0) {
                 WebElement webElement = elems2.get(0);
-                System.out.println("FacebookImages.main() this throws an exception: " + webElement);
+                System.out.println(
+                    "FacebookImages.main() this throws an exception: "
+                        + webElement);
                 webElement.click();
-                System.out.println("FacebookImages.main() this did not throw an exception");
-                String hrefFullSize = webElement
-                    .getAttribute("href");
+                System.out.println(
+                    "FacebookImages.main() this did not throw an exception");
+                String hrefFullSize = webElement.getAttribute("href");
                 System.out.println("[DEBUG] Headless.main() " + i
                     + ") full size saved to " + hrefFullSize);
                 Thread.sleep(WAIT_PERIOD);
@@ -214,4 +224,3 @@ public class FacebookImages {
 
   }
 }
-

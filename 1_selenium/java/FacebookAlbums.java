@@ -19,7 +19,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * Use lambdas instead of Unix pipes if possible, it's easier to cold tweak
  */
-@Deprecated // Parallelism makes the driver reference stale elements.
+@Deprecated // Parallelism makes the driver reference stale elements. Having standalone
+            // windows requires separate logins. This could raise security issues for
+            // Facebook.
 public class FacebookAlbums {
 
   private static final long WAIT_PERIOD_LONG = 6000L;
