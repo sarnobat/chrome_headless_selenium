@@ -17,6 +17,7 @@ import java.util.stream.Stream;
 
 import org.json.JSONException;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -79,14 +80,17 @@ public class FacebookImages {
       //// Each album url must be given separately. Anything else is not worth the
       //// loss of control
       ////
-      
-      // TODO: Read from stdin instead. And print the input line on each output line so that each line is self contained
+
+      // TODO: Read from stdin instead. And print the input line on each output line
+      // so that each line is self contained
       List<String> subList;
       if (args.length > 1) {
         subList = Arrays.asList(args).subList(2, args.length);
       } else {
         subList = new ArrayList<>();
-        subList.add("https://www.facebook.com/sindhu.gombi/photos");
+//        subList.add("https://www.facebook.com/sindhu.gombi/photos");
+        subList.add(
+            "https://www.facebook.com/jayaprakash.prakash.9828/photos");
       }
 
       // Unfortunately because Facebook downloading doesn't (easily) reveal the URL
@@ -108,15 +112,20 @@ public class FacebookImages {
       }).distinct().map(e -> {
         return e.getAttribute("href");
       }).filter(u -> {
-        return u.contains("/photos");
+        return u.contains("/photos") && ! u.contains("/photos/");
       }).distinct().collect(Collectors.toList());
-      
+
       Collections.shuffle(albumLinks);
       System.err.println("FacebookImages.main() 2");
       List<String> albumLinks2 = new LinkedList<>();
       for (String a : albumLinks) {
         if (a.contains("photos_albums")) {
           driver.get(a);
+          Thread.sleep(1000L);
+          ((JavascriptExecutor) driver)
+              .executeScript("window.scrollBy(0,850)", "");
+          Thread.sleep(1000L);
+
 //          https://www.facebook.com/media/set/?set=a.220906377933744&type=3
           List<WebElement> aHrefElements = driver.findElements(
               By.xpath("//a[contains(@href,'media/set')]"));
@@ -128,7 +137,7 @@ public class FacebookImages {
           albumLinks2.add(a);
         }
       }
-      System.err.println("FacebookImages.main() 3");
+      System.err.println("FacebookImages.main() albumLinks2 = " + albumLinks2.size());
       {
 //      ).collect(Collectors.toList());;
 //        
@@ -165,12 +174,18 @@ public class FacebookImages {
 //      }
 
       ) {
-        System.err.println("FacebookImages.main() - next album: "
-            + facebookAlbumUrl);
-
         ++i;
+        System.err
+            .printf("FacebookImages.main() - loading next album: %d) %s\n",
+               i , facebookAlbumUrl);
+        if (!facebookAlbumUrl.equals(
+            "https://www.facebook.com/242465722460059/photos/t.100000524116747/424850230888273/?type=3")) {
+//          continue;
+        }
         driver.get(facebookAlbumUrl);
+        System.err.println("FacebookImages.main() waiting");
         Thread.sleep(WAIT_PERIOD_LONG);
+        System.err.println("FacebookImages.main() finished waiting");
         {
           clickFirstElement: {
             List<WebElement> aHrefElements = driver.findElements(
@@ -185,6 +200,9 @@ public class FacebookImages {
                   "[DEBUG] Headless.main() all photos in album: "
                       + elem.getAttribute("href"));
             }
+            System.err.println(
+                "FacebookImages.main() Found photo elements: "
+                    + aHrefElements.size());
             // Exclude the profile photo link (I wish there was a more robust way to do
             // this)
             Stream<WebElement> stream;
@@ -197,10 +215,17 @@ public class FacebookImages {
                   .filter(a -> a.getAttribute("href")
                       .contains(facebookAlbumSetId));
             } else {
+              System.err
+                  .println("FacebookImages.main() not a set url: "
+                      + facebookAlbumUrl);
               stream = aHrefElements.stream().filter(
                   a -> !a.getAttribute("href").contains("__tn__"));
             }
-            stream.collect(Collectors.toList()).get(0).click();
+            List<WebElement> collect = stream
+                .collect(Collectors.toList());
+            System.err.println(
+                "FacebookImages.main() collect = " + collect.size());
+            collect.get(0).click();
           } // end clickFirstElement
           Thread.sleep(WAIT_PERIOD_LONG);
         }
