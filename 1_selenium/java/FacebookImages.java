@@ -90,7 +90,10 @@ public class FacebookImages {
         subList = new ArrayList<>();
 //        subList.add("https://www.facebook.com/sindhu.gombi/photos");
         subList.add(
-            "https://www.facebook.com/jayaprakash.prakash.9828/photos");
+            "https://www.facebook.com/veena.jayaprakash.94/photos"
+//            "https://www.facebook.com/veena.jayaprakash.77"
+//            "https://www.facebook.com/jayaprakash.prakash.9828/photos"
+            );
       }
 
       if (subList.size() == 1) {
@@ -131,7 +134,6 @@ public class FacebookImages {
                 .executeScript("window.scrollBy(0,850)", "");
             Thread.sleep(1000L);
 
-//          https://www.facebook.com/media/set/?set=a.220906377933744&type=3
             List<WebElement> aHrefElements = driver.findElements(
                 By.xpath("//a[contains(@href,'media/set')]"));
             for (WebElement elem : aHrefElements) {
@@ -184,10 +186,6 @@ public class FacebookImages {
           System.err.printf(
               "FacebookImages.main() - loading next album: %d) %s\n",
               i, albumUrl);
-          if (!albumUrl.equals(
-              "https://www.facebook.com/242465722460059/photos/t.100000524116747/424850230888273/?type=3")) {
-//          continue;
-          }
           driver.get(albumUrl);
           System.err.println("FacebookImages.main() waiting");
           Thread.sleep(WAIT_PERIOD_LONG);
@@ -247,7 +245,7 @@ public class FacebookImages {
             } else {
               visitedUrls.add(theaterPageUrl);
             }
-            System.out.printf("%70s %70s  %s\n", profileURL, albumUrl,
+            System.out.printf("%-70s %70s  %s\n", profileURL, albumUrl,
                 theaterPageUrl);
             if (false) {
               saveImageToDisk: {
