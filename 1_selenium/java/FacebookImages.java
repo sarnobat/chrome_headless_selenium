@@ -235,14 +235,14 @@ public class FacebookImages {
           Thread.sleep(WAIT_PERIOD);
           String currentUrl = driver.getCurrentUrl();
           if (visitedUrls.contains(currentUrl)) {
-            System.out.println(
+            System.err.println(
                 "[INFO] Headless.main() Made full cycle through images");
             break;
           } else {
             visitedUrls.add(currentUrl);
           }
           System.out.printf(
-              "FacebookImages.main() theater url of image: %70s  %s\n",
+              "%70s  %s\n",
               facebookAlbumUrl, currentUrl);
           if (false) {
             saveImageToDisk: {
