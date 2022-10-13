@@ -1,0 +1,308 @@
+[DEBUG] Headless.main() - args = [Ljava.lang.String;@2d6a9952
+[DEBUG] Resolution chrome=106 in cache (valid until 16:26:36 13/10/2022 PDT)
+[DEBUG] Resolution chrome106=106.0.5249.61 in cache (valid until 18:05:51 13/10/2022 PDT)
+[INFO] Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[DEBUG] Driver chromedriver 106.0.5249.61 found in cache
+[INFO] Exporting webdriver.chrome.driver as /Users/sarnobat/.cache/selenium/chromedriver/mac64/106.0.5249.61/chromedriver
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 34243
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[DEBUG] FacebookImages.main() 2
+[DEBUG] FacebookImages.main() albumLinks2 = 10
+[DEBUG] FacebookImages.main() https://www.facebook.com/vallabh.vasudevan.5/photos_of
+https://www.facebook.com/vallabh.vasudevan.5/photos
+https://www.facebook.com/vallabh.vasudevan.5/photos_by
+https://www.facebook.com/media/set/?set=a.1387335161508487&type=3
+https://www.facebook.com/media/set/?set=a.1776945635880769&type=3
+https://www.facebook.com/media/set/?set=a.1723868007855199&type=3
+https://www.facebook.com/media/set/?set=a.1387340131507990&type=3
+https://www.facebook.com/media/set/?set=a.404122679778840&type=3
+https://www.facebook.com/media/set/?set=a.1494315967477072&type=3
+https://www.facebook.com/media/set/?set=a.1400446976863972&type=3
+[DEBUG] FacebookImages.main() - loading next album: 1) https://www.facebook.com/vallabh.vasudevan.5/photos_by
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=2829668300608492&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=2013599802215350&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1982502411991756&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1946379395604058&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1850365938538738&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1849901035251895&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1848989275343071&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1839829982925667&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1832490140326318&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1776951565880176&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1776943995880933&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1723867877855212&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1659551650953502&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1517574295151239&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1494316070810395&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1494316030810399&set=pb.100006960492234.-2207520000..&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 16
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vallabh.vasudevan.5/photos_by
+[DEBUG] FacebookImages.main() collect = 16
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo.php?fbid=2829668300608492&set=pb.100006960492234.-2207520000..&type=3
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=2013599802215350&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1982502411991756&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1946379395604058&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1850365938538738&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1849901035251895&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1848989275343071&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1839829982925667&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1832490140326318&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1776951565880176&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1776943995880933&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1723867877855212&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo?fbid=1659551650953502&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1517574295151239&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1494316070810395&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1494316030810399&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1493927807515888&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1479764062265596&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1400447723530564&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1400446990197304&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1393293214246015&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1392333841008619&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1392325121009491&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo/?fbid=1387340118174658&set=pb.100006960492234.-2207520000..
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_by  https://www.facebook.com/photo?fbid=2829668300608492&set=pb.100006960492234.-2207520000..
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 2) https://www.facebook.com/media/set/?set=a.1776945635880769&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2013599802215350&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1982502411991756&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1850365938538738&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1849901035251895&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1848989275343071&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1839829982925667&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1832490140326318&set=a.1776945635880769
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1776943995880933&set=a.1776945635880769
+[DEBUG] FacebookImages.main() Found photo elements: 10
+[DEBUG] FacebookImages.main() collect = 8
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=2013599802215350&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1982502411991756&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1850365938538738&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1849901035251895&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1848989275343071&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1839829982925667&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1832490140326318&set=a.1776945635880769
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1776945635880769&type=3  https://www.facebook.com/photo/?fbid=1776943995880933&set=a.1776945635880769
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 3) https://www.facebook.com/vallabh.vasudevan.5/photos
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=525797685065&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1142080272642598&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=829829283885754&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=758570761011607&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=132131640705199&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1728451217467386&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1093000837512688&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=363944027318303&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=565664163635602&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=479010485604012&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1659551650953502&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=759891487473251&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=504531939705038&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=399150653589996&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=397753540396374&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=436626779828586&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=771575982866703&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1387340118174658&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1393293214246015&set=t.100006960492234&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 19
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vallabh.vasudevan.5/photos
+[DEBUG] FacebookImages.main() collect = 19
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo.php?fbid=525797685065&set=t.100006960492234&type=3
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=1142080272642598&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=829829283885754&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=758570761011607&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=132131640705199&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=1728451217467386&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=1093000837512688&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=363944027318303&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=565664163635602&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=479010485604012&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo?fbid=1659551650953502&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=759891487473251&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=504531939705038&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=399150653589996&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=397753540396374&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=436626779828586&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=771575982866703&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=1387340118174658&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo/?fbid=1393293214246015&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                       https://www.facebook.com/vallabh.vasudevan.5/photos  https://www.facebook.com/photo?fbid=525797685065&set=t.100006960492234
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 4) https://www.facebook.com/media/set/?set=a.1494315967477072&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1494316030810399&set=a.1494315967477072
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1494316070810395&set=a.1494315967477072
+[DEBUG] FacebookImages.main() Found photo elements: 4
+[DEBUG] FacebookImages.main() collect = 2
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1494315967477072&type=3  https://www.facebook.com/photo/?fbid=1494316030810399&set=a.1494315967477072
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1494315967477072&type=3  https://www.facebook.com/photo/?fbid=1494316070810395&set=a.1494315967477072
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 5) https://www.facebook.com/media/set/?set=a.1387335161508487&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1946379395604058&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1776951565880176&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1517574295151239&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1493927807515888&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1393293214246015&set=a.1387335161508487
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1392325121009491&set=a.1387335161508487
+[DEBUG] FacebookImages.main() Found photo elements: 9
+[DEBUG] FacebookImages.main() collect = 7
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1946379395604058&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1776951565880176&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1517574295151239&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1493927807515888&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1393293214246015&set=a.1387335161508487
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387335161508487&type=3  https://www.facebook.com/photo/?fbid=1392325121009491&set=a.1387335161508487
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 6) https://www.facebook.com/media/set/?set=a.1400446976863972&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1400447723530564&set=a.1400446976863972
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1400446990197304&set=a.1400446976863972
+[DEBUG] FacebookImages.main() Found photo elements: 4
+[DEBUG] FacebookImages.main() collect = 2
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1400446976863972&type=3  https://www.facebook.com/photo/?fbid=1400447723530564&set=a.1400446976863972
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1400446976863972&type=3  https://www.facebook.com/photo/?fbid=1400446990197304&set=a.1400446976863972
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 7) https://www.facebook.com/media/set/?set=a.1723868007855199&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1723867877855212&set=a.1723868007855199
+[DEBUG] FacebookImages.main() Found photo elements: 3
+[DEBUG] FacebookImages.main() collect = 1
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1723868007855199&type=3  https://www.facebook.com/photo/?fbid=1723867877855212&set=a.1723868007855199
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 8) https://www.facebook.com/media/set/?set=a.1387340131507990&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=2829668300608492&set=a.1387335161508487&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1479764062265596&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1392333841008619&set=a.1387340131507990
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1387340118174658&set=a.1387340131507990
+[DEBUG] FacebookImages.main() Found photo elements: 6
+[DEBUG] FacebookImages.main() collect = 5
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387340131507990&type=3  https://www.facebook.com/photo/?fbid=1659551650953502&set=a.1387340131507990
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387340131507990&type=3  https://www.facebook.com/photo/?fbid=1479764062265596&set=a.1387340131507990
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387340131507990&type=3  https://www.facebook.com/photo/?fbid=1392333841008619&set=a.1387340131507990
+https://www.facebook.com/vallabh.vasudevan.5/photos                         https://www.facebook.com/media/set/?set=a.1387340131507990&type=3  https://www.facebook.com/photo/?fbid=1387340118174658&set=a.1387340131507990
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 9) https://www.facebook.com/vallabh.vasudevan.5/photos_of
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=525797685065&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1142080272642598&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=829829283885754&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=758570761011607&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=132131640705199&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1728451217467386&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1093000837512688&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=363944027318303&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=565664163635602&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=479010485604012&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1659551650953502&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=759891487473251&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=504531939705038&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=399150653589996&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=397753540396374&set=t.100006960492234&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=436626779828586&set=t.100006960492234&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 16
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vallabh.vasudevan.5/photos_of
+[DEBUG] FacebookImages.main() collect = 16
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo.php?fbid=525797685065&set=t.100006960492234&type=3
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=1142080272642598&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=829829283885754&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=758570761011607&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=132131640705199&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=1728451217467386&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=1093000837512688&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=363944027318303&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=565664163635602&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=479010485604012&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo?fbid=1659551650953502&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=759891487473251&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=504531939705038&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=399150653589996&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=397753540396374&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=436626779828586&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=771575982866703&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=1387340118174658&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo/?fbid=1393293214246015&set=t.100006960492234
+https://www.facebook.com/vallabh.vasudevan.5/photos                                    https://www.facebook.com/vallabh.vasudevan.5/photos_of  https://www.facebook.com/photo?fbid=525797685065&set=t.100006960492234
+[INFO] Headless.main() Made full cycle through images
+[DEBUG] FacebookImages.main() - loading next album: 10) https://www.facebook.com/media/set/?set=a.404122679778840&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=998114877046281&set=a.266707653520344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1354716114719487&set=a.266711450186631&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404117296446045&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404117346446040&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404117439779364&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404117603112681&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404118743112567&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404119069779201&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404119919779116&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120239779084&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120296445745&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120336445741&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120426445732&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120463112395&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120573112384&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120749779033&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120826445692&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404120946445680&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404121359778972&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404121419778966&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404121976445577&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=404122149778893&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=405764042948037&set=a.404122679778840
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=405764076281367&set=a.404122679778840
+[DEBUG] FacebookImages.main() Found photo elements: 24
+[DEBUG] FacebookImages.main() collect = 22
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404117296446045&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404117346446040&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404117439779364&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404117603112681&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404118743112567&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404119069779201&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404119919779116&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120239779084&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120296445745&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120336445741&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120426445732&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120463112395&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120573112384&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120749779033&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120826445692&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404120946445680&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404121359778972&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404121419778966&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404121976445577&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=404122149778893&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=405764042948037&set=a.404122679778840
+https://www.facebook.com/vallabh.vasudevan.5/photos                          https://www.facebook.com/media/set/?set=a.404122679778840&type=3  https://www.facebook.com/photo/?fbid=405764076281367&set=a.404122679778840
+[INFO] Headless.main() Made full cycle through images
+
