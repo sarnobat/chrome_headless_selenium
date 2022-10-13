@@ -90,16 +90,29 @@ public class FacebookImages {
         subList = new ArrayList<>();
 //        subList.add("https://www.facebook.com/sindhu.gombi/photos");
         subList.add(
-            "https://www.facebook.com/veena.jayaprakash.94/photos"
-//            "https://www.facebook.com/veena.jayaprakash.77"
+            // madhavi
+            // vijay
+//            "https://www.facebook.com/anuradha.rohidekar/photos"
+//            "https://www.facebook.com/veena.jayaprakash.94/photos"
+//            "https://www.facebook.com/veena.jayaprakash.77/photos"
+//            "https://www.facebook.com/ajay.rohidekar/photos_albums"
+//            "https://www.facebook.com/soudamini.gombi/photos",
+//            "https://www.facebook.com/jayaprakashha/photos_by"
+            "https://www.facebook.com/gururaj.rohidekar"
 //            "https://www.facebook.com/jayaprakash.prakash.9828/photos"
             );
       }
 
       if (subList.size() == 1) {
         
-        String profileURL = subList.get(0);
+        String profileURL = subList.get(0).replaceFirst("(/photos)?$", "/photos");
 
+        if (!profileURL.endsWith("photos")) {
+          System.err.println("[ERROR] FacebookImages.main() not all albums will get downloaded. ");
+          System.exit(-1);
+          driver.close();
+        }
+        
         // Unfortunately because Facebook downloading doesn't (easily) reveal the URL
         // and because it's not replayable context-free (you can't use wget because you
         // don't have the session cookie), our lambda will end with a void action rather
@@ -124,7 +137,7 @@ public class FacebookImages {
         }).distinct().collect(Collectors.toList());
 
         Collections.shuffle(albumLinks);
-        System.err.println("FacebookImages.main() 2");
+        System.err.println("[DEBUG] FacebookImages.main() 2");
         List<String> albumLinks2 = new LinkedList<>();
         for (String a : albumLinks) {
           if (a.contains("photos_albums")) {
@@ -144,14 +157,14 @@ public class FacebookImages {
             albumLinks2.add(a);
           }
         }
-        System.err.println("FacebookImages.main() albumLinks2 = "
+        System.err.println("[DEBUG] FacebookImages.main() albumLinks2 = "
             + albumLinks2.size());
         {
 //      ).collect(Collectors.toList());;
 //        
 
           if (true) {
-            System.err.println("FacebookImages.main() "
+            System.err.println("[DEBUG] FacebookImages.main() "
                 + Joiner.on("\n").join(albumLinks2));
 //          driver.close();
 //          System.exit(-1);
@@ -184,13 +197,13 @@ public class FacebookImages {
         ) {
           ++i;
           System.err.printf(
-              "FacebookImages.main() - loading next album: %d) %s\n",
+              "[DEBUG] FacebookImages.main() - loading next album: %d) %s\n",
               i, albumUrl);
           driver.get(albumUrl);
-          System.err.println("FacebookImages.main() waiting");
+          System.err.println("[DEBUG] FacebookImages.main() waiting");
           Thread.sleep(WAIT_PERIOD_LONG);
           System.err
-              .println("FacebookImages.main() finished waiting");
+              .println("[DEBUG] FacebookImages.main() finished waiting");
           {
             clickFirstElement: {
               List<WebElement> aHrefElements = driver.findElements(
@@ -206,7 +219,7 @@ public class FacebookImages {
                         + elem.getAttribute("href"));
               }
               System.err.println(
-                  "FacebookImages.main() Found photo elements: "
+                  "[DEBUG] FacebookImages.main() Found photo elements: "
                       + aHrefElements.size());
               // Exclude the profile photo link (I wish there was a more robust way to do
               // this)
@@ -220,14 +233,14 @@ public class FacebookImages {
                         .contains(facebookAlbumSetId));
               } else {
                 System.err
-                    .println("FacebookImages.main() not a set url: "
+                    .println("[DEBUG] FacebookImages.main() not a set url: "
                         + albumUrl);
                 stream = aHrefElements.stream().filter(
                     a -> !a.getAttribute("href").contains("__tn__"));
               }
               List<WebElement> collect = stream
                   .collect(Collectors.toList());
-              System.err.println("FacebookImages.main() collect = "
+              System.err.println("[DEBUG] FacebookImages.main() collect = "
                   + collect.size());
               collect.get(0).click();
             } // end clickFirstElement
@@ -334,9 +347,9 @@ public class FacebookImages {
           }
         }
       }
-      {
+      if (false) {
         System.err.println(
-            "Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY) ");
+            "[DEBUG] Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY) ");
       }
       // get the actual value of the title
       driver.close();
