@@ -1,0 +1,66 @@
+[DEBUG] Headless.main() - args = [Ljava.lang.String;@2d6a9952
+[DEBUG] Removing resolution chrome=106 from cache (expired on Wed Oct 12 19:05:51 PDT 2022)
+[DEBUG] Detecting chrome version using online commands.properties
+[DEBUG] Running command on the shell: [/Applications/Google Chrome.app/Contents/MacOS/Google Chrome, --version]
+[DEBUG] Result: Google Chrome 106.0.5249.103
+[DEBUG] Resolution chrome106=106.0.5249.61 in cache (valid until 18:05:51 13/10/2022 PDT)
+[INFO] Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[DEBUG] Storing resolution chrome=106 in cache (valid until 22:43:58 12/10/2022 PDT)
+[DEBUG] Driver chromedriver 106.0.5249.61 found in cache
+[INFO] Exporting webdriver.chrome.driver as /Users/sarnobat/.cache/selenium/chromedriver/mac64/106.0.5249.61/chromedriver
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 39038
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[DEBUG] FacebookImages.main() 2
+[DEBUG] FacebookImages.main() albumLinks2 = 1
+[DEBUG] FacebookImages.main() https://www.facebook.com/gururaj.rohidekar/photos
+[DEBUG] FacebookImages.main() - loading next album: 1) https://www.facebook.com/gururaj.rohidekar/photos
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=2509114255848317&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10216757731034611&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=2220862274673518&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1927880230638392&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1418820388211048&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1395289917230762&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1157723940987362&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1137548406338249&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1085098018249955&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1087255958032322&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=981504488542345&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=553735891357091&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=553734634690550&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10151556787312629&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=294642330560148&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=806197306975&set=t.100002437845944&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=119197041506729&set=t.100002437845944&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 17
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/gururaj.rohidekar/photos
+[DEBUG] FacebookImages.main() collect = 17
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo.php?fbid=2509114255848317&set=t.100002437845944&type=3
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=10216757731034611&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=2220862274673518&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1927880230638392&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1418820388211048&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1395289917230762&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1157723940987362&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1137548406338249&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=1085098018249955&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo?fbid=1087255958032322&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=981504488542345&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=553735891357091&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=553734634690550&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=10151556787312629&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=242466119126686&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=386580584743924&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=424850230888273&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=294642330560148&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=301436626562968&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=806197306975&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=271873672852597&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=267356129971018&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=119197041506729&set=t.100002437845944
+https://www.facebook.com/gururaj.rohidekar/photos                                           https://www.facebook.com/gururaj.rohidekar/photos  https://www.facebook.com/photo/?fbid=2509114255848317&set=t.100002437845944
+[INFO] Headless.main() Made full cycle through images
+
