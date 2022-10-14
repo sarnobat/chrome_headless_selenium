@@ -15,6 +15,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+@Deprecated // Use FacebookImages.java
 public class FacebookImagesPipes {
 
   private static final long WAIT_PERIOD_LONG = 6000L;
