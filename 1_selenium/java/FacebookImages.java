@@ -28,6 +28,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import com.google.common.base.Joiner;
 
+import dev.failsafe.internal.util.Lists;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
@@ -120,8 +121,10 @@ public class FacebookImages {
         + ") full size saved to " + hrefFullSize);
     Thread.sleep(WAIT_PERIOD);
   }
+
   private static final long WAIT_PERIOD = 4000L;
   private static final long WAIT_PERIOD_LONG = 6000L;
+  private static final int SCROLL_DOWN = 850;
 
   public static void main(String[] args) throws URISyntaxException,
       JSONException, IOException, InterruptedException {
@@ -208,48 +211,56 @@ public class FacebookImages {
 
       if (subList.size() == 1) {
 
-        String profileURL = subList.get(0).replaceFirst("(/photos)?$",
-            "/photos");
+        String string = subList.get(0);
+        System.err.println(
+            "[DEBUG] FacebookImages.main() root URL: " + string);
+//        String profileURL = string.replaceFirst("(/photos)?$", "/photos");
+        String profileURL = string.replaceAll("\\z", "/photos");
 
         if (!profileURL.endsWith("/photos")) {
           System.err.println(
-              "[ERROR] FacebookImages.main() not all albums will get downloaded.");
+              "[ERROR] FacebookImages.main() not all albums will get downloaded. "
+                  + profileURL);
           System.exit(-1);
           driver.close();
         }
+        System.err
+            .println("[DEBUG] FacebookImages.main() profileURL = "
+                + profileURL);
 
         // Unfortunately because Facebook downloading doesn't (easily) reveal the URL
         // and because it's not replayable context-free (you can't use wget because you
         // don't have the session cookie), our lambda will end with a void action rather
         // than a returned collection of values.
-        List<String> albumLinks = subList.stream().flatMap(t -> {
-          String facebookAlbumUrl = t;
-          driver.get(facebookAlbumUrl);
-          try {
-            Thread.sleep(5000L);
-            return driver.findElements(By.xpath("//a[@href]"))
-                .stream();
-          } catch (InterruptedException e1) {
-            e1.printStackTrace();
-            driver.close();
-            System.exit(-1);
-            return null;
-          }
-        }).distinct().map(e -> {
+        List<String> albumLinks = List.of(profileURL).stream()
+            .flatMap(t -> {
+              String facebookAlbumUrl = t;
+              driver.get(facebookAlbumUrl);
+              try {
+                Thread.sleep(5000L);
+                return driver.findElements(By.xpath("//a[@href]"))
+                    .stream();
+              } catch (InterruptedException e1) {
+                e1.printStackTrace();
+                driver.close();
+                System.exit(-1);
+                return null;
+              }
+            }).distinct().map(e -> {
 //          System.err.println("[DEBUG] FacebookImages.main(): all hrefs: " + e.getAttribute("href"));
-          return e.getAttribute("href");
-        }).filter(u -> {
-          if (u.contains("sk=photo")) {
-            return true;
-          }
-          return u.contains("/photos") && !u.contains("/photos/");
-        }).distinct().collect(Collectors.toList());
+              return e.getAttribute("href");
+            }).filter(u -> {
+              if (u.contains("sk=photo")) {
+                return true;
+              }
+              return u.contains("/photos") && !u.contains("/photos/");
+            }).distinct().collect(Collectors.toList());
 
         if (albumLinks.size() < 2) {
           System.err.println(
               "[ERROR] FacebookImages.main() not all albums will get downloaded. Strange, this should have been fixed.");
-          System.exit(-1);
           driver.close();
+          System.exit(-1);
         }
         Collections.shuffle(albumLinks);
         System.err.println("[DEBUG] FacebookImages.main() 2");
@@ -258,8 +269,8 @@ public class FacebookImages {
           if (a.contains("photos_albums")) {
             driver.get(a);
             Thread.sleep(1000L);
-            ((JavascriptExecutor) driver)
-                .executeScript("window.scrollBy(0,850)", "");
+            ((JavascriptExecutor) driver).executeScript(
+                "window.scrollBy(0," + SCROLL_DOWN + ")", "");
             Thread.sleep(1000L);
 
             List<WebElement> aHrefElements = driver.findElements(
@@ -294,7 +305,7 @@ public class FacebookImages {
         ) {
           ++i;
           System.err.printf(
-              "[DEBUG] FacebookImages.main() - loading next album: %d) %s\n",
+              "[INFO] FacebookImages.main() - loading next album: %d) %s\n",
               i, albumUrl);
           driver.get(albumUrl);
           System.err.println("[DEBUG] FacebookImages.main() waiting");
@@ -345,7 +356,7 @@ public class FacebookImages {
             Thread.sleep(WAIT_PERIOD_LONG);
           }
           boolean nextPhotoExists = true;
-          
+
           Set<String> visitedUrls = new HashSet<>();
           while (nextPhotoExists) {
             Thread.sleep(WAIT_PERIOD);
