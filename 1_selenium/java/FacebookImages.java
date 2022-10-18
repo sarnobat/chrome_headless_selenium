@@ -122,6 +122,27 @@ public class FacebookImages {
     Thread.sleep(WAIT_PERIOD);
   }
 
+  private static boolean extracted(String anAlbumUrl,
+      String theaterPageUrl) {
+    boolean proceed = true;
+    if (theaterPageUrl.contains("set=")) {
+      String facebookAlbumSetId = anAlbumUrl.replaceAll(".*set=", "")
+          .replaceAll("&.*", "");
+      String currentImageSetId = extracted(theaterPageUrl);
+      if (currentImageSetId.equals(facebookAlbumSetId)) {
+        proceed = true;
+      } else {
+        // this page is not part of the current album, I can't find a clean way to
+        // exclude it.
+        proceed = false;
+        System.out.printf(
+            "FacebookImages.main() %s is not part of set %s \n",
+            currentImageSetId, facebookAlbumSetId);
+      }
+    }
+    return proceed;
+  }
+
   private static final long WAIT_PERIOD = 4000L;
   private static final long WAIT_PERIOD_LONG = 6000L;
   private static final int SCROLL_DOWN = 850;
@@ -132,20 +153,20 @@ public class FacebookImages {
     WebDriverManager.chromedriver().setup();
     ChromeOptions co = new ChromeOptions();
     co.addArguments("--disable-notifications");
-    WebDriver driver = new ChromeDriver(co);
+    WebDriver theDriver = new ChromeDriver(co);
     {
       String baseUrl2 = "https://www.facebook.com";
 
       // launch Fire fox and direct it to the Base URL
-      driver.get(baseUrl2);
+      theDriver.get(baseUrl2);
       login: {
-        new Actions(driver).sendKeys(driver
+        new Actions(theDriver).sendKeys(theDriver
             .findElements(By.xpath("//input[@id=\"email\"]")).get(0),
             "ss533@cornell.edu").perform();
-        new Actions(driver).sendKeys(driver
+        new Actions(theDriver).sendKeys(theDriver
             .findElements(By.xpath("//input[@id=\"pass\"]")).get(0),
             args[0]).perform();
-        driver.findElements(By.xpath("//button[@type=\"submit\"]"))
+        theDriver.findElements(By.xpath("//button[@type=\"submit\"]"))
             .get(0).click();
 
         Thread.sleep(WAIT_PERIOD_LONG);
@@ -190,9 +211,13 @@ public class FacebookImages {
 //            "https://www.facebook.com/vallabh.vasudevan.5/photos"
 //            "https://www.facebook.com/kiran.rohidekar/photos"
 //            "https://www.facebook.com/prasanna.kulkarni.7798/photos"
-            "https://www.facebook.com/nikhil.rohidekar"
+//            "https://www.facebook.com/nikhil.rohidekar"
+//            "https://www.facebook.com/gururaj.rohidekar"
 //            "https://www.facebook.com/rashmi.nidhi.1"
 //            "https://www.facebook.com/jeevan.bharadwaj.3"
+//            "https://www.facebook.com/krishnamurthy.rohidekar"
+//            "https://www.facebook.com/tejashree.simha"
+            "https://www.facebook.com/poorvi.rohidekar"
 //            "https://www.facebook.com/anuradha.rohidekar/photos"
 //            "https://www.facebook.com/veena.jayaprakash.94/photos"
 //            "https://www.facebook.com/veena.jayaprakash.77/photos"
@@ -211,140 +236,151 @@ public class FacebookImages {
 
       if (subList.size() == 1) {
 
-        String string = subList.get(0);
+        String iProfileUrl = subList.get(0);
+        if (iProfileUrl.contains("photos")) {
+          System.err.println(
+              "[ERROR] FacebookImages.main() This will cause strange silent errors (i.e. missing photos). Use the base profile url."
+                  + iProfileUrl);
+          System.exit(-1);
+          theDriver.close();
+          return;
+        }
         System.err.println(
-            "[DEBUG] FacebookImages.main() root URL: " + string);
+            "[DEBUG] FacebookImages.main() root URL: " + iProfileUrl);
 //        String profileURL = string.replaceFirst("(/photos)?$", "/photos");
-        String profileURL = string.replaceAll("\\z", "/photos");
+        String iProfilePhotosURL = iProfileUrl.replaceAll("\\z",
+            "/photos");
 
-        if (!profileURL.endsWith("/photos")) {
+        if (!iProfilePhotosURL.endsWith("/photos")) {
           System.err.println(
               "[ERROR] FacebookImages.main() not all albums will get downloaded. "
-                  + profileURL);
+                  + iProfilePhotosURL);
           System.exit(-1);
-          driver.close();
+          theDriver.close();
+          return;
         }
         System.err
             .println("[DEBUG] FacebookImages.main() profileURL = "
-                + profileURL);
+                + iProfilePhotosURL);
 
         // Unfortunately because Facebook downloading doesn't (easily) reveal the URL
         // and because it's not replayable context-free (you can't use wget because you
         // don't have the session cookie), our lambda will end with a void action rather
         // than a returned collection of values.
-        List<String> albumLinks = List.of(profileURL).stream()
-            .flatMap(t -> {
-              String facebookAlbumUrl = t;
-              driver.get(facebookAlbumUrl);
+        List<String> allAlbumLinks = List.of(iProfilePhotosURL)
+            .stream().flatMap(aUrl -> {
+              String facebookAlbumUrl = aUrl;
+              theDriver.get(facebookAlbumUrl);
               try {
                 Thread.sleep(5000L);
-                return driver.findElements(By.xpath("//a[@href]"))
+                return theDriver.findElements(By.xpath("//a[@href]"))
                     .stream();
               } catch (InterruptedException e1) {
                 e1.printStackTrace();
-                driver.close();
+                theDriver.close();
                 System.exit(-1);
                 return null;
               }
-            }).distinct().map(e -> {
+            }).distinct().map(anElem -> {
 //          System.err.println("[DEBUG] FacebookImages.main(): all hrefs: " + e.getAttribute("href"));
-              return e.getAttribute("href");
-            }).filter(u -> {
-              if (u.contains("sk=photo")) {
+              return anElem.getAttribute("href");
+            }).filter(anHrefUrl -> {
+              if (anHrefUrl.contains("sk=photo")) {
                 return true;
               }
-              return u.contains("/photos") && !u.contains("/photos/");
+              return anHrefUrl.contains("/photos")
+                  && !anHrefUrl.contains("/photos/");
             }).distinct().collect(Collectors.toList());
 
-        if (albumLinks.size() < 2) {
+        if (allAlbumLinks.size() < 2) {
           System.err.println(
               "[ERROR] FacebookImages.main() not all albums will get downloaded. Strange, this should have been fixed.");
-          driver.close();
+          theDriver.close();
           System.exit(-1);
         }
-        Collections.shuffle(albumLinks);
+        Collections.shuffle(allAlbumLinks);
         System.err.println("[DEBUG] FacebookImages.main() 2");
-        List<String> albumLinks2 = new LinkedList<>();
-        for (String a : albumLinks) {
-          if (a.contains("photos_albums")) {
-            driver.get(a);
+        List<String> allAlbumUrls = new LinkedList<>();
+        for (String anAlbumUrl : allAlbumLinks) {
+          if (anAlbumUrl.contains("photos_albums")) {
+            theDriver.get(anAlbumUrl);
             Thread.sleep(1000L);
-            ((JavascriptExecutor) driver).executeScript(
+            ((JavascriptExecutor) theDriver).executeScript(
                 "window.scrollBy(0," + SCROLL_DOWN + ")", "");
             Thread.sleep(1000L);
 
-            List<WebElement> aHrefElements = driver.findElements(
+            List<WebElement> aHrefElements = theDriver.findElements(
                 By.xpath("//a[contains(@href,'media/set')]"));
-            for (WebElement elem : aHrefElements) {
-              albumLinks2.add(elem.getAttribute("href"));
+            for (WebElement anHrefElem : aHrefElements) {
+              allAlbumUrls.add(anHrefElem.getAttribute("href"));
             }
           } else {
 //          return Stream.of(u).collect(Collectors.toList());
-            albumLinks2.add(a);
+            allAlbumUrls.add(anAlbumUrl);
           }
         }
         System.err
             .println("[DEBUG] FacebookImages.main() albumLinks2 = "
-                + albumLinks2.size());
-        {
-//      ).collect(Collectors.toList());;
-//        
-
-          if (true) {
-            System.err.println("[DEBUG] FacebookImages.main() "
-                + Joiner.on("\n").join(albumLinks2));
-//          driver.close();
-//          System.exit(-1);
-          }
-//        albumLinks.stream()
-        }
-        int i = 0;
-        Collections.shuffle(albumLinks2);
-        for (String albumUrl : albumLinks2
-
-        ) {
-          ++i;
+                + allAlbumUrls.size());
+        System.err.println("[DEBUG] FacebookImages.main() "
+            + Joiner.on("\n").join(allAlbumUrls));
+        int anAlbumNumber = 0;
+        Collections.shuffle(allAlbumUrls);
+        for (String anAlbumUrl : allAlbumUrls.stream()
+            .sorted((item1, item2) -> {
+              if (item1.endsWith("photos")) {
+                return -1;
+              }
+              if (item1.endsWith("photos_by")) {
+                return -1;
+              }
+              return 0;
+            }).collect(Collectors.toList())) {
+          ++anAlbumNumber;
           System.err.printf(
               "[INFO] FacebookImages.main() - loading next album: %d) %s\n",
-              i, albumUrl);
-          driver.get(albumUrl);
+              anAlbumNumber, anAlbumUrl);
+          theDriver.get(anAlbumUrl);
           System.err.println("[DEBUG] FacebookImages.main() waiting");
           Thread.sleep(WAIT_PERIOD_LONG);
           System.err.println(
               "[DEBUG] FacebookImages.main() finished waiting");
           {
             clickFirstElement: {
-              List<WebElement> aHrefElements = driver.findElements(
-                  By.xpath("//a[contains(@href,'photo.php')]"));
+              List<WebElement> allAnchorElements = theDriver
+                  .findElements(
+                      By.xpath("//a[contains(@href,'photo.php')]"));
 
-              if (aHrefElements.size() < 1) {
-                aHrefElements = driver.findElements(
+              if (allAnchorElements.size() < 1) {
+                allAnchorElements = theDriver.findElements(
                     By.xpath("//a[contains(@href,'/photo/')]"));
               }
-              for (WebElement elem : aHrefElements) {
+              for (WebElement elem : allAnchorElements) {
                 System.err.println(
                     "[DEBUG] Headless.main() all photos in album: "
                         + elem.getAttribute("href"));
               }
               System.err.println(
                   "[DEBUG] FacebookImages.main() Found photo elements: "
-                      + aHrefElements.size());
+                      + allAnchorElements.size());
               // Exclude the profile photo link (I wish there was a more robust way to do
               // this)
               Stream<WebElement> stream;
-              if (albumUrl.contains("set=")) {
-                String facebookAlbumSetId = albumUrl
+              if (anAlbumUrl.contains("set=")) {
+                String theFacebookAlbumSetId = anAlbumUrl
                     .replaceAll(".*set=", "").replaceAll("&.*", "");
-                stream = aHrefElements.stream().filter(
-                    a -> !a.getAttribute("href").contains("__tn__"))
+                stream = allAnchorElements.stream()
+                    .filter(anAnchorElement -> !anAnchorElement
+                        .getAttribute("href").contains("__tn__"))
                     .filter(a -> a.getAttribute("href")
-                        .contains(facebookAlbumSetId));
+                        .contains(theFacebookAlbumSetId));
               } else {
                 System.err.println(
                     "[DEBUG] FacebookImages.main() not a set url: "
-                        + albumUrl);
-                stream = aHrefElements.stream().filter(
-                    a -> !a.getAttribute("href").contains("__tn__"));
+                        + anAlbumUrl);
+                stream = allAnchorElements.stream()
+                    .filter(anAnchorElement -> !anAnchorElement
+                        .getAttribute("href").contains("__tn__"));
               }
               List<WebElement> collect = stream
                   .collect(Collectors.toList());
@@ -360,7 +396,7 @@ public class FacebookImages {
           Set<String> visitedUrls = new HashSet<>();
           while (nextPhotoExists) {
             Thread.sleep(WAIT_PERIOD);
-            String theaterPageUrl = driver.getCurrentUrl();
+            String theaterPageUrl = theDriver.getCurrentUrl();
             if (visitedUrls.contains(theaterPageUrl)) {
               System.err.println(
                   "[INFO] Headless.main() Made full cycle through images");
@@ -368,47 +404,36 @@ public class FacebookImages {
             } else {
               visitedUrls.add(theaterPageUrl);
             }
-            System.out.printf("%-70s %70s  %s\n", profileURL,
-                albumUrl, theaterPageUrl);
+            System.out.printf("%-70s %70s  %s\n", iProfilePhotosURL,
+                anAlbumUrl, theaterPageUrl);
             if (false) {
               saveImageToDisk: {
 
-                boolean proceed = true;
-                if (theaterPageUrl.contains("set=")) {
-                  String facebookAlbumSetId = albumUrl
-                      .replaceAll(".*set=", "").replaceAll("&.*", "");
-                  String currentImageSetId = extracted(
-                      theaterPageUrl);
-                  if (currentImageSetId.equals(facebookAlbumSetId)) {
-                    proceed = true;
-                  } else {
-                    // this page is not part of the current album, I can't find a clean way to
-                    // exclude it.
-                    proceed = false;
-                    System.out.printf(
-                        "FacebookImages.main() %s is not part of set %s \n",
-                        currentImageSetId, facebookAlbumSetId);
-                  }
-                }
+                boolean proceed = extracted(anAlbumUrl,
+                    theaterPageUrl);
+                boolean doBreak = false;
                 if (proceed) {
                   if (visitedUrls.contains(theaterPageUrl)) {
                     System.out.println(
                         "[INFO] Headless.main() Made full cycle through images");
-                    break;
+                    doBreak = true;
                   } else {
                     visitedUrls.add(theaterPageUrl);
                   }
-                  try {
-                    extracted2(driver, i);
-                  } catch (Exception e) {
-                    e.printStackTrace();
+                  if (doBreak) {
+                    break;
+                  } else {
+                    try {
+                      extracted2(theDriver, anAlbumNumber);
+                    } catch (Exception e) {
+                      e.printStackTrace();
+                    }
                   }
                 } else {
                 }
-
-              }
+              } // end saveImageToDisk
             }
-            driver.findElements(By.xpath("//body")).get(0)
+            theDriver.findElements(By.xpath("//body")).get(0)
                 .sendKeys(Keys.RIGHT);
           }
         }
@@ -418,8 +443,7 @@ public class FacebookImages {
             "[DEBUG] Headless.getGeneratedHtml() - Starting Chrome (Xvfb needs to be running on the same port as DISPLAY) ");
       }
       // get the actual value of the title
-      driver.close();
+      theDriver.close();
     }
   }
-
 }
