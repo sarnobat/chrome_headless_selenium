@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import com.google.common.base.Charsets;
 import com.google.common.collect.ImmutableList;
 
+@Deprecated // Use FacebookImages.java
 public class Headless {
 
 	//	private static final String CHROMEDRIVER_PATH = "/Users/ssarnobat/github/chrome_headless/chromedriver";

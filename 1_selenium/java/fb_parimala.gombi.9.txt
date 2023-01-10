@@ -1,0 +1,60 @@
+[DEBUG] Headless.main() - args = [Ljava.lang.String;@2d6a9952
+[DEBUG] Resolution chrome=106 in cache (valid until 18:50:03 19/10/2022 PDT)
+[DEBUG] Resolution chrome106=106.0.5249.61 in cache (valid until 21:33:53 19/10/2022 PDT)
+[INFO] Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[DEBUG] Driver chromedriver 106.0.5249.61 found in cache
+[INFO] Exporting webdriver.chrome.driver as /Users/sarnobat/.cache/selenium/chromedriver/mac64/106.0.5249.61/chromedriver
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 21548
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[DEBUG] FacebookImages.main() root URL: https://www.facebook.com/parimala.gombi.9
+[DEBUG] FacebookImages.main() profileURL = https://www.facebook.com/parimala.gombi.9/photos
+[DEBUG] FacebookImages.main() 2
+[DEBUG] FacebookImages.main() albumLinks2 = 4
+[DEBUG] FacebookImages.main() https://www.facebook.com/parimala.gombi.9/photos_by
+https://www.facebook.com/parimala.gombi.9/photos_of
+https://www.facebook.com/media/set/?set=a.1582399522021378&type=3
+https://www.facebook.com/parimala.gombi.9/photos
+[INFO] FacebookImages.main() - loading next album: 1) https://www.facebook.com/parimala.gombi.9/photos_by
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1582399508688046&set=pb.100007540360152.-2207520000.&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 1
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/parimala.gombi.9/photos_by
+[DEBUG] FacebookImages.main() collect = 1
+https://www.facebook.com/parimala.gombi.9/photos                                          https://www.facebook.com/parimala.gombi.9/photos_by  https://www.facebook.com/photo.php?fbid=1582399508688046&set=pb.100007540360152.-2207520000.&type=3
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 2) https://www.facebook.com/parimala.gombi.9/photos
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1302991156471387&set=t.100007540360152&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10152132527027629&set=t.100007540360152&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 2
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/parimala.gombi.9/photos
+[DEBUG] FacebookImages.main() collect = 2
+https://www.facebook.com/parimala.gombi.9/photos                                             https://www.facebook.com/parimala.gombi.9/photos  https://www.facebook.com/photo.php?fbid=1302991156471387&set=t.100007540360152&type=3
+https://www.facebook.com/parimala.gombi.9/photos                                             https://www.facebook.com/parimala.gombi.9/photos  https://www.facebook.com/photo/?fbid=10152132527027629&set=t.100007540360152
+https://www.facebook.com/parimala.gombi.9/photos                                             https://www.facebook.com/parimala.gombi.9/photos  https://www.facebook.com/photo?fbid=1302991156471387&set=t.100007540360152
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 3) https://www.facebook.com/media/set/?set=a.1582399522021378&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1582399508688046&set=a.1582399522021378&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1582399508688046&set=a.1582399522021378
+[DEBUG] FacebookImages.main() Found photo elements: 2
+[DEBUG] FacebookImages.main() collect = 1
+https://www.facebook.com/parimala.gombi.9/photos                            https://www.facebook.com/media/set/?set=a.1582399522021378&type=3  https://www.facebook.com/photo/?fbid=1582399508688046&set=a.1582399522021378
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 4) https://www.facebook.com/parimala.gombi.9/photos_of
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1302991156471387&set=t.100007540360152&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10152132527027629&set=t.100007540360152&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 2
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/parimala.gombi.9/photos_of
+[DEBUG] FacebookImages.main() collect = 2
+https://www.facebook.com/parimala.gombi.9/photos                                          https://www.facebook.com/parimala.gombi.9/photos_of  https://www.facebook.com/photo.php?fbid=1302991156471387&set=t.100007540360152&type=3
+https://www.facebook.com/parimala.gombi.9/photos                                          https://www.facebook.com/parimala.gombi.9/photos_of  https://www.facebook.com/photo/?fbid=10152132527027629&set=t.100007540360152
+https://www.facebook.com/parimala.gombi.9/photos                                          https://www.facebook.com/parimala.gombi.9/photos_of  https://www.facebook.com/photo?fbid=1302991156471387&set=t.100007540360152
+[INFO] Headless.main() Made full cycle through images

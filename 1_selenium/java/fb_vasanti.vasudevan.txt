@@ -1,0 +1,478 @@
+[DEBUG] Headless.main() - args = [Ljava.lang.String;@2d6a9952
+[DEBUG] Resolution chrome=106 in cache (valid until 22:33:53 18/10/2022 PDT)
+[DEBUG] Resolution chrome106=106.0.5249.61 in cache (valid until 21:33:53 19/10/2022 PDT)
+[INFO] Using chromedriver 106.0.5249.61 (resolved driver for Chrome 106)
+[DEBUG] Driver chromedriver 106.0.5249.61 found in cache
+[INFO] Exporting webdriver.chrome.driver as /Users/sarnobat/.cache/selenium/chromedriver/mac64/106.0.5249.61/chromedriver
+Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 22143
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[DEBUG] FacebookImages.main() root URL: https://www.facebook.com/vasanti.vasudevan
+[DEBUG] FacebookImages.main() profileURL = https://www.facebook.com/vasanti.vasudevan/photos
+[DEBUG] FacebookImages.main() 2
+[DEBUG] FacebookImages.main() albumLinks2 = 9
+[DEBUG] FacebookImages.main() https://www.facebook.com/media/set/?set=a.159193834097529&type=3
+https://www.facebook.com/media/set/?set=a.1214632061888377&type=3
+https://www.facebook.com/media/set/?set=a.789232954510576&type=3
+https://www.facebook.com/media/set/?set=a.226188580731387&type=3
+https://www.facebook.com/media/set/?set=a.201900876493491&type=3
+https://www.facebook.com/media/set/?set=a.124345687582344&type=3
+https://www.facebook.com/vasanti.vasudevan/photos_by
+https://www.facebook.com/vasanti.vasudevan/photos
+https://www.facebook.com/vasanti.vasudevan/photos_of
+[INFO] FacebookImages.main() - loading next album: 1) https://www.facebook.com/vasanti.vasudevan/photos
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537764136748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537764071748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537763791748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214626978555552&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214625185222398&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214624995222417&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=789228204511051&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=553734988023848&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527494600647887&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527277454002935&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527272714003409&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=532745330096959&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=449589045056369&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=294643670560014&set=t.100000207411549&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 14
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vasanti.vasudevan/photos
+[DEBUG] FacebookImages.main() collect = 14
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo.php?fbid=10156537764136748&set=t.100000207411549&type=3
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=10156537764071748&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=10156537763791748&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=1214626978555552&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=1214625185222398&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=1214624995222417&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=789228204511051&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=553734988023848&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=527494600647887&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=527277454002935&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=527272714003409&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=532745330096959&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=449589045056369&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=290830424318941&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=301436626562968&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=294643670560014&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=294642973893417&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=226189444064634&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=294643953893319&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=271873672852597&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=267356129971018&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=226188860731359&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=201901256493453&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=458917320854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=458917380854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=458917420854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=126641310693510&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                           https://www.facebook.com/vasanti.vasudevan/photos  https://www.facebook.com/photo/?fbid=10156537764136748&set=t.100000207411549
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 2) https://www.facebook.com/vasanti.vasudevan/photos_by
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=3384253698258177&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189694064609&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189644064614&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189570731288&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189497397962&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189444064634&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189397397972&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189337397978&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189244064654&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189147397997&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189094064669&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226189017398010&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226188954064683&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226188907398021&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226188860731359&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=226188800731365&set=pb.100000207411549.-2207520000.&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 16
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vasanti.vasudevan/photos_by
+[DEBUG] FacebookImages.main() collect = 16
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo.php?fbid=3384253698258177&set=pb.100000207411549.-2207520000.&type=3
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189694064609&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189644064614&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189570731288&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189497397962&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189444064634&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189397397972&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189337397978&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189244064654&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189147397997&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189094064669&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226189017398010&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188954064683&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188907398021&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188860731359&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188800731365&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188720731373&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188670731378&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=226188600731385&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901256493453&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901229826789&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901189826793&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901169826795&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901126493466&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901093160136&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901066493472&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901036493475&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201901009826811&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201900969826815&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201900923160153&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=201900889826823&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=192126470804265&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124356164247963&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124356147581298&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124356137581299&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124352820914964&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124352814248298&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124352807581632&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124352804248299&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124352787581634&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=124348654248714&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo/?fbid=113648418652071&set=pb.100000207411549.-2207520000.
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_by  https://www.facebook.com/photo?fbid=3384253698258177&set=pb.100000207411549.-2207520000.
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 3) https://www.facebook.com/vasanti.vasudevan/photos_of
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537764136748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537764071748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=10156537763791748&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214626978555552&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214625185222398&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=1214624995222417&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=789228204511051&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=553734988023848&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527494600647887&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527277454002935&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=527272714003409&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=532745330096959&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=449589045056369&set=t.100000207411549&type=3
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo.php?fbid=294643670560014&set=t.100000207411549&type=3
+[DEBUG] FacebookImages.main() Found photo elements: 14
+[DEBUG] FacebookImages.main() not a set url: https://www.facebook.com/vasanti.vasudevan/photos_of
+[DEBUG] FacebookImages.main() collect = 14
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo.php?fbid=10156537764136748&set=t.100000207411549&type=3
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=10156537764071748&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=10156537763791748&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=1214626978555552&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=1214625185222398&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=1214624995222417&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=789228204511051&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=553734988023848&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=527494600647887&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=527277454002935&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=527272714003409&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=532745330096959&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=449589045056369&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=290830424318941&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=301436626562968&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=294643670560014&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=294642973893417&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=226189444064634&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=294643953893319&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=271873672852597&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=267356129971018&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=226188860731359&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=201901256493453&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=458917320854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=458917380854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=458917420854&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=126641310693510&set=t.100000207411549
+https://www.facebook.com/vasanti.vasudevan/photos                                        https://www.facebook.com/vasanti.vasudevan/photos_of  https://www.facebook.com/photo/?fbid=10156537764136748&set=t.100000207411549
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 4) https://www.facebook.com/media/set/?set=a.1214632061888377&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=5599310880087118&set=a.367935423224716
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=5765874406764097&set=a.175971012421159&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214624258555824&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214624398555810&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214624581889125&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214624875222429&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214624995222417&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214625185222398&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214625268555723&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214625931888990&set=a.1214632061888377
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=1214626978555552&set=a.1214632061888377
+[DEBUG] FacebookImages.main() Found photo elements: 11
+[DEBUG] FacebookImages.main() collect = 9
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214624258555824&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214624398555810&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214624581889125&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214624875222429&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214624995222417&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214625185222398&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214625268555723&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214625931888990&set=a.1214632061888377
+https://www.facebook.com/vasanti.vasudevan/photos                           https://www.facebook.com/media/set/?set=a.1214632061888377&type=3  https://www.facebook.com/photo/?fbid=1214626978555552&set=a.1214632061888377
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 5) https://www.facebook.com/media/set/?set=a.159193834097529&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=192126470804265&set=a.159193834097529
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=113648418652071&set=a.159193834097529
+[DEBUG] FacebookImages.main() Found photo elements: 4
+[DEBUG] FacebookImages.main() collect = 3
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.159193834097529&type=3  https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.159193834097529&type=3  https://www.facebook.com/photo/?fbid=192126470804265&set=a.159193834097529
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.159193834097529&type=3  https://www.facebook.com/photo/?fbid=113648418652071&set=a.159193834097529
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 6) https://www.facebook.com/media/set/?set=a.201900876493491&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201900889826823&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201900923160153&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201900969826815&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901009826811&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901036493475&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901066493472&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901093160136&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901126493466&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901169826795&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901189826793&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901229826789&set=a.201900876493491
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=201901256493453&set=a.201900876493491
+[DEBUG] FacebookImages.main() Found photo elements: 13
+[DEBUG] FacebookImages.main() collect = 12
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201900889826823&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201900923160153&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201900969826815&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901009826811&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901036493475&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901066493472&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901093160136&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901126493466&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901169826795&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901189826793&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901229826789&set=a.201900876493491
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.201900876493491&type=3  https://www.facebook.com/photo/?fbid=201901256493453&set=a.201900876493491
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 7) https://www.facebook.com/media/set/?set=a.226188580731387&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188600731385&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188670731378&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188720731373&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188800731365&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188860731359&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188907398021&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226188954064683&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189017398010&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189094064669&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189147397997&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189244064654&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189337397978&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189397397972&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189444064634&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189497397962&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189570731288&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189644064614&set=a.226188580731387
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=226189694064609&set=a.226188580731387
+[DEBUG] FacebookImages.main() Found photo elements: 19
+[DEBUG] FacebookImages.main() collect = 18
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188600731385&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188670731378&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188720731373&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188800731365&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188860731359&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188907398021&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226188954064683&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189017398010&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189094064669&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189147397997&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189244064654&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189337397978&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189397397972&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189444064634&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189497397962&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189570731288&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189644064614&set=a.226188580731387
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.226188580731387&type=3  https://www.facebook.com/photo/?fbid=226189694064609&set=a.226188580731387
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 8) https://www.facebook.com/media/set/?set=a.789232954510576&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=615701355197071&set=a.353900361377173
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=823074277793110&set=a.109448642489014&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789227244511147&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789227254511146&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228141177724&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228157844389&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228161177722&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228204511051&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228244511047&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228254511046&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228271177711&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228287844376&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228311177707&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228331177705&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228354511036&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228377844367&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228404511031&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228417844363&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228444511027&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228457844359&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228474511024&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228484511023&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228514511020&set=a.789232954510576
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=789228547844350&set=a.789232954510576
+[DEBUG] FacebookImages.main() Found photo elements: 24
+[DEBUG] FacebookImages.main() collect = 22
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789227244511147&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789227254511146&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228141177724&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228157844389&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228161177722&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228204511051&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228244511047&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228254511046&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228271177711&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228287844376&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228311177707&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228331177705&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228354511036&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228377844367&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228404511031&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228417844363&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228444511027&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228457844359&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228474511024&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228484511023&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228514511020&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228547844350&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228597844345&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228651177673&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228724510999&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228741177664&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228771177661&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228807844324&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228831177655&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228911177647&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228944510977&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228951177643&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228964510975&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789228987844306&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229007844304&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229021177636&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229034510968&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229061177632&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229087844296&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229101177628&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229117844293&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229144510957&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229177844287&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229187844286&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229224510949&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229247844280&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229261177612&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229277844277&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229291177609&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229297844275&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229317844273&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229331177605&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229357844269&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229377844267&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229391177599&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229404510931&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229417844263&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229434510928&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229461177592&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229487844256&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229517844253&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229531177585&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229557844249&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229581177580&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229597844245&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229611177577&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229651177573&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229664510905&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229691177569&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229714510900&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229741177564&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229761177562&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229774510894&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229814510890&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229844510887&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229847844220&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229867844218&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229904510881&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229927844212&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229934510878&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789229974510874&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230011177537&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230037844201&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230067844198&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230087844196&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230114510860&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230151177523&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230174510854&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230191177519&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230207844184&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230237844181&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230274510844&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230287844176&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230297844175&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230341177504&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230381177500&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230397844165&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230427844162&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230451177493&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230464510825&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230487844156&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230514510820&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230531177485&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230561177482&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230594510812&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230601177478&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230674510804&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230814510790&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230864510785&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230871177451&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230927844112&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230951177443&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789230987844106&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231001177438&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231024510769&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231041177434&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231057844099&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231074510764&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231114510760&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231127844092&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231154510756&set=a.789232954510576
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.789232954510576&type=3  https://www.facebook.com/photo/?fbid=789231167844088&set=a.789232954510576
+[INFO] Headless.main() Made full cycle through images
+[INFO] FacebookImages.main() - loading next album: 9) https://www.facebook.com/media/set/?set=a.124345687582344&type=3
+[DEBUG] FacebookImages.main() waiting
+[DEBUG] FacebookImages.main() finished waiting
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=3384253698258177&set=a.159193834097529&__tn__=%3C
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124348654248714&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124352787581634&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124352804248299&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124352807581632&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124352814248298&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124352820914964&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124356137581299&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124356147581298&set=a.124345687582344
+[DEBUG] Headless.main() all photos in album: https://www.facebook.com/photo/?fbid=124356164247963&set=a.124345687582344
+[DEBUG] FacebookImages.main() Found photo elements: 10
+[DEBUG] FacebookImages.main() collect = 9
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124348654248714&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124352787581634&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124352804248299&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124352807581632&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124352814248298&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124352820914964&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124356137581299&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124356147581298&set=a.124345687582344
+https://www.facebook.com/vasanti.vasudevan/photos                            https://www.facebook.com/media/set/?set=a.124345687582344&type=3  https://www.facebook.com/photo/?fbid=124356164247963&set=a.124345687582344
+[INFO] Headless.main() Made full cycle through images
+
