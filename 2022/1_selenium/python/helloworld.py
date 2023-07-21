@@ -7,10 +7,13 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import sys
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-print(sys.argv[1])
+# https://chromedriver.storage.googleapis.com/100.0.4896.20/chromedriver_mac64.zip
+# /Volumes/trash/trash/chromedriver.mac64.intel.100.0.4896.20
+# driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+driver = webdriver.Chrome(executable_path=r"/Volumes/trash/trash/chromedriver.mac64.intel.100.0.4896.20")
+print(sys.argv[1] or "https://www.google.com/")
 # driver.get("https://www.google.com")
-driver.get(str(sys.argv[1]))
+driver.get(str(sys.argv[1]) or "https://www.google.com/")
 print(driver.title)
 driver.close()
 
