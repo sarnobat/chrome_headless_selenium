@@ -1,0 +1,79 @@
+# pip3 install selenium
+# pip3 install webdriver-manager
+# /Volumes/numerous/usr/local/homebrew/lib/python3.9/site-packages
+
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.support.ui import WebDriverWait
+
+from selenium.webdriver.support import expected_conditions as EC
+
+
+import sys
+import time
+
+
+try:
+
+	url = 'https://paypal.eightfold.ai/careers?query=Java&location=San%20Jose&pid=274894578339' if len(sys.argv) < 2 else sys.argv[1]
+
+# 	url = {True: sys.argv[1], False: 'https://paypal.eightfold.ai/careers?query=Java&location=San%20Jose&pid=274894578339'} [len(sys.argv) > 1]
+	# url = sys.argc > 0 ? sys.argv[1] : 'https://paypal.eightfold.ai/careers?query=Java&location=San%20Jose&pid=274894578339'
+
+	driver = webdriver.Chrome(executable_path=r"/Volumes/trash/trash/chromedriver.mac64.intel.114.0.5735.90")
+	print(url)
+
+	driver.get(url)
+	print(driver.title)
+
+	tagName = "div" if len(sys.argv) < 3 else str(sys.argv[2])
+	attrName = "role" if len(sys.argv) < 4 else str(sys.argv[3])
+	attrValue = "button" if len(sys.argv) < 5 else str(sys.argv[4])
+
+	time.sleep(1)
+
+
+	href_urls = []
+	for link in driver.find_elements_by_tag_name(tagName):
+		if (not link.get_attribute('role') == 'button'):
+			continue;
+# 		href = link.get_attribute(attrName)
+# 		if href != None:
+			# click the card
+# 		a.move_to_element(link).perform()
+# 		WebDriverWait(driver, 2).until(EC.element_to_be_clickable(link)).send_keys("text")
+# 		driver.execute_script("document.getElementsBy.debug('hi');", link)
+		driver.execute_script("arguments[0].click()", link)
+# 		out = driver.execute_script("return arguments[0]", link)
+		out = driver.execute_script("return window.location.href")
+		print(str(out))
+# 		out = driver.execute_script("return document.getElementsByTagName('meta')", link)
+# 		out = driver.execute_script('return document.querySelector("head > meta:nth-child(13)").getAttribute("content")')
+# 		print(str(out))
+# 		driver.execute_script('document.querySelector("#pcs-body-container > div:nth-child(2) > div.search-results-main-container > div > div.inline-block.position-cards-container.fixed > div > div:nth-child(9)").click()', link)
+# 		a.move_to_element(link).click()
+# 		a.perform()
+# 		print(str(link))
+# 		print(str(link.get_attribute('innerHTML')))
+# 		link.click()
+
+# 		print("1")
+		time.sleep(1)
+# 		print("2")
+# 		url = driver.find_elements(By.XPATH, '/html/head/meta[@name="og:url"]')[0].get_attribute('content')
+# 		print("3: " + url)
+# 		
+# 		href_urls.append('{message: <32}'.format(message="") + "\t" + out)
+			# get meta where org="og:url"  "content" value
+
+	xs = [x for x in href_urls if x is not None]
+
+	for element in sorted(xs):
+		print(element)
+
+finally:        
+	driver.close()
