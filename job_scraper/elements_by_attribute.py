@@ -38,36 +38,21 @@ try:
 
 
 	href_urls = []
+
 	for link in driver.find_elements_by_tag_name(tagName):
+
 		if (not link.get_attribute('role') == 'button'):
 			continue;
-# 		href = link.get_attribute(attrName)
-# 		if href != None:
-			# click the card
-# 		a.move_to_element(link).perform()
-# 		WebDriverWait(driver, 2).until(EC.element_to_be_clickable(link)).send_keys("text")
-# 		driver.execute_script("document.getElementsBy.debug('hi');", link)
+
+		
 		driver.execute_script("arguments[0].click()", link)
-# 		out = driver.execute_script("return arguments[0]", link)
+
+
 		out = driver.execute_script("return window.location.href")
 		print(str(out))
-# 		out = driver.execute_script("return document.getElementsByTagName('meta')", link)
-# 		out = driver.execute_script('return document.querySelector("head > meta:nth-child(13)").getAttribute("content")')
-# 		print(str(out))
-# 		driver.execute_script('document.querySelector("#pcs-body-container > div:nth-child(2) > div.search-results-main-container > div > div.inline-block.position-cards-container.fixed > div > div:nth-child(9)").click()', link)
-# 		a.move_to_element(link).click()
-# 		a.perform()
-# 		print(str(link))
-# 		print(str(link.get_attribute('innerHTML')))
-# 		link.click()
 
-# 		print("1")
 		time.sleep(1)
-# 		print("2")
-# 		url = driver.find_elements(By.XPATH, '/html/head/meta[@name="og:url"]')[0].get_attribute('content')
-# 		print("3: " + url)
-# 		
-# 		href_urls.append('{message: <32}'.format(message="") + "\t" + out)
+		href_urls.append('{message: <32}'.format(message="") + "\t" + link.get_attribute('innerHTML'))
 			# get meta where org="og:url"  "content" value
 
 	xs = [x for x in href_urls if x is not None]
