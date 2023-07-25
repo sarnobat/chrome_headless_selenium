@@ -19,16 +19,19 @@ print(driver.title)
 
 time.sleep(10)
 
-href_urls = []
-for link in driver.find_elements_by_tag_name("a"):
-	href = link.get_attribute("href")
-	if href != None:
-		href_urls.append(href)
+try:
+	href_urls = []
+	for link in driver.find_elements_by_tag_name("a"):
+		href = link.get_attribute("href")
+		if href != None:
+			href_urls.append(href)
 
-xs = [x for x in href_urls if x is not None]
-# for element in href_urls if element is not None:
-for element in sorted(xs):
-	print(element)
-        
-driver.close()
+	xs = [x for x in href_urls if x is not None]
+	# for element in href_urls if element is not None:
+	for element in sorted(xs):
+		print(element)
+		
+# 	driver.close()
 
+finally:
+	driver.close()
