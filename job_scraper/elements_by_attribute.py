@@ -49,10 +49,21 @@ try:
 
 
 		out = driver.execute_script("return window.location.href")
-		print(str(out))
+# 		print(str(out))
+# 		out2 = driver.execute_script("return arguments[0]", link)
+# 		print(link.find_elements_by_xpath('.//div/*')[0].get_attribute('innerHTML'))
+# 		print(link.find_elements_by_css_selector("*"))
+		t = link.find_elements_by_class_name("position-title")
+		t2 = ""
+		if (t is not None and len(t) > 0):
+			t2 = t[0].get_attribute('innerHTML')
+			print('{message: <26}'.format(message=t2) + "\t" + out)
+# 		print(link.find_elements_by_tag_name("div"))
+
+		
 
 		time.sleep(1)
-		href_urls.append('{message: <32}'.format(message="") + "\t" + link.get_attribute('innerHTML'))
+		href_urls.append('{message: <32}'.format(message=out) + "\t" + t2)
 			# get meta where org="og:url"  "content" value
 
 	xs = [x for x in href_urls if x is not None]
