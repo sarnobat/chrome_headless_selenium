@@ -19,21 +19,22 @@ print(driver.title)
 
 time.sleep(10)
 
-href_urls = []
-for link in driver.find_elements_by_tag_name("a"):
-	href = link.get_attribute("href")
-	if href != None:
-		# TODO: find child element with class job-tile__title
-		children = link.find_elements(By.CLASS_NAME, 'job-tile__title')
-		desc = "unknown"
-		for child in children:
-			desc = child.get_attribute('innerHTML')
-		href_urls.append('{message: <32}'.format(message=desc) + "\t" + href)
+try:
+	href_urls = []
+	for link in driver.find_elements_by_tag_name("a"):
+		href = link.get_attribute("href")
+		if href != None:
+			# TODO: find child element with class job-tile__title
+			children = link.find_elements(By.CLASS_NAME, 'job-tile__title')
+			desc = "unknown"
+			for child in children:
+				desc = child.get_attribute('innerHTML')
+			href_urls.append('{message: <32}'.format(message=desc) + "\t" + href)
 
-xs = [x for x in href_urls if x is not None]
+	xs = [x for x in href_urls if x is not None]
 
-for element in sorted(xs):
-	print(element)
-        
-driver.close()
+	for element in sorted(xs):
+		print(element)
 
+finally:        
+	driver.close()
