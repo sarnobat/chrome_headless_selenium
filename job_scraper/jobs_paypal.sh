@@ -28,5 +28,5 @@ Quick Start
 EOF
 
 cat <<EOF | batcat --plain --paging=never --language sh --theme TwoDark
-sh /tmp/jobs_paypal_urls.sh | xargs -n 1 -d'\n' sh /tmp/jobs_paypal_details.sh
+sh /tmp/jobs_paypal_urls.sh | xargs -n 1 -d'\n' sh /tmp/jobs_paypal_details.sh | tee tmp/jobs_paypal.`date -I`.txt
 EOF
