@@ -10,7 +10,7 @@
 cat <<EOF | batcat --plain --paging=never --language sh --theme TwoDark
 get job urls
 ------------
-python3 /Volumes/git/github/chrome_headless/urls.py "${@:-https://jobs.netflix.com/search?q=java}" | tee /tmp/urls.txt
+python3 /Volumes/git/github/chrome_headless_selenium/job_scraper/urls.py "${@:-https://jobs.netflix.com/search?q=java}" | tee /tmp/urls.txt
 
 get job titles (from urls)
 -------------------------
