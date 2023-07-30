@@ -40,28 +40,36 @@ try:
 	attrValue = "button" if len(sys.argv) < 5 else str(sys.argv[4])
 
 	time.sleep(3)
-# 	driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+	driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 
+	for x in range(4):
+		l = driver.find_elements_by_class_name("show-more-positions")[0];
+		time.sleep(3)
+		driver.execute_script("arguments[0].click();", l);
+		time.sleep(3)
+		driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+		time.sleep(3)
 
 	time.sleep(3)
 
 
-	for link in driver.find_elements_by_tag_name(tagName):
+	for link in driver.find_elements_by_class_name('position-card'):
 
-		print("[debug] 0 ", file=sys.stderr)
+# 		print("[debug] 0 link = " + link.get_attribute('outerHTML'), file=sys.stderr)
+		print("[debug] 0 link = " + link.tag_name, file=sys.stderr)
 
 		time.sleep(3)
 		if (not link.get_attribute('role') == 'button'):
-			print("[debug] 0.05", file=sys.stderr)
-			driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-			time.sleep(3)
-			print("[debug] 0.1", file=sys.stderr)
+# 			print("[debug] 0.05 role = " + link.get_attribute('role'), file=sys.stderr)
+# 			driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+# 			time.sleep(3)
+# 			print("[debug] 0.1", file=sys.stderr)
 			l = driver.find_elements_by_class_name("show-more-positions")[0];
-			print("[debug] 0.2", file=sys.stderr)
-# 			l.click();
-			print("[debug] 0.3", file=sys.stderr)
+# 			print("[debug] 0.2", file=sys.stderr)
+# # 			l.click();
+# 			print("[debug] 0.3", file=sys.stderr)
 			driver.execute_script("arguments[0].click();", l);
-			print("[debug] 0.4", file=sys.stderr)
+# 			print("[debug] 0.4", file=sys.stderr)
 			continue;
 		print("[debug] 0.5", file=sys.stderr)
 
@@ -85,8 +93,8 @@ try:
 			if (t is not None and len(t) > 0):
 				print("[debug] 4", file=sys.stderr)
 				t2 = t[0].get_attribute('innerHTML')
-				# TODO: print to stderr once loop doesn't crash
-				print( "[debug] 4.5 " + '{message: <26}'.format(message=t2).strip() + "\t" + url, file=sys.stderr)
+				print( '{message: <26}'.format(message=t2).strip() + "\t" + url)
+				print( "[debug] 4.5 " + '{message: <48}'.format(message=t2).strip() + "\t" + url, file=sys.stderr)
 	# 		print(link.find_elements_by_tag_name("div"))
 			print("[debug] 5", file=sys.stderr)
 		
