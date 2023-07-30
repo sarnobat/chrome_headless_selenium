@@ -42,7 +42,7 @@ try:
 	time.sleep(3)
 	driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 
-	for x in range(4):
+	for x in range(6):
 		l = driver.find_elements_by_class_name("show-more-positions")[0];
 		time.sleep(3)
 		driver.execute_script("arguments[0].click();", l);
@@ -93,7 +93,7 @@ try:
 			if (t is not None and len(t) > 0):
 				print("[debug] 4", file=sys.stderr)
 				t2 = t[0].get_attribute('innerHTML')
-				print( '{message: <26}'.format(message=t2).strip() + "\t" + url)
+				print( '{message: <48}'.format(message=t2.strip()) + "\t" + url)
 				print( "[debug] 4.5 " + '{message: <48}'.format(message=t2).strip() + "\t" + url, file=sys.stderr)
 	# 		print(link.find_elements_by_tag_name("div"))
 			print("[debug] 5", file=sys.stderr)
