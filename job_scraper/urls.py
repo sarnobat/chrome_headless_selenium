@@ -12,7 +12,8 @@ import time
 # /Volumes/trash/trash/chromedriver.mac64.intel.114.0.5735.90
 # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver = webdriver.Chrome(executable_path=r"/Volumes/trash/trash/chromedriver.mac64.intel.114.0.5735.90")
-print(sys.argv[1] or "https://www.google.com/")
+driver.set_window_size(400, 400)
+# print(sys.argv[1] or "https://www.google.com/")
 # driver.get("https://www.google.com")
 driver.get(str(sys.argv[1]) or "https://www.google.com/")
 print(driver.title)
