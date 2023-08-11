@@ -12,15 +12,16 @@ import time
 # /Volumes/trash/trash/chromedriver.mac64.intel.114.0.5735.90
 # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver = webdriver.Chrome(executable_path=r"/Volumes/trash/trash/chromedriver.mac64.intel.114.0.5735.90")
-driver.set_window_size(400, 400)
+driver.set_window_size(1200, 600)
 # print(sys.argv[1] or "https://www.google.com/")
 # driver.get("https://www.google.com")
-driver.get(str(sys.argv[1]) or "https://www.google.com/")
-print(driver.title)
 
-time.sleep(10)
 
 try:
+	url = sys.argv[1] if len(sys.argv) > 1 else "https://www.google.com/"
+	driver.get(url)
+	time.sleep(10)
+	print(driver.title)
 	href_urls = []
 	for link in driver.find_elements_by_tag_name("a"):
 		href = link.get_attribute("href")
