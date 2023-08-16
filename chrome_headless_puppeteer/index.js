@@ -1,10 +1,17 @@
 // First:
 // npm i --save puppeteer
 
+// node index.js 'ws://127.0.0.1:9222/devtools/browser/a144b173-96bf-4bb4-8c0a-9e25c1992943'
+
 const puppeteer = require('puppeteer');
 
 (async() => {
-	const wsChromeEndpointurl = 'ws://127.0.0.1:9222/devtools/browser/c81a5645-4c9a-4a60-bf40-525569ecf062';
+	// server url comes from server output line:
+	//
+	// 		DevTools listening on ws://127.0.0.1:9222/devtools/browser/a144b173-96bf-4bb4-8c0a-9e25c1992943
+	//
+	const wsChromeEndpointurl = process.argv[2];
+	
 	const browser = await puppeteer.connect({
 		browserWSEndpoint: wsChromeEndpointurl,
 	});
