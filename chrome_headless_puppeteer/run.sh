@@ -12,18 +12,15 @@ set -o errexit
 test $# -gt 0 && echo "args given" || echo "no args"
 # TODO: string comparison check (both ways)
 
-cat <<EOF | batcat --plain --paging=never --language sh --theme TwoDark
+cat <<'EOF' | batcat --plain --paging=never --language sh --theme TwoDark
 Thanks to:
 https://medium.com/@jaredpotter1/connecting-puppeteer-to-existing-chrome-window-8a10828149e0
 
 Server
 ------
-/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --no-first-run --no-default-browser-check --user-data-dir=/tmp/chrome2/ 2>&1 | tee /tmp/out.log
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222 --no-first-run --no-default-browser-check --user-data-dir=/tmp/chrome2/ 2>&1 | tee /tmp/chrome_headless.err.log
 
 Client
 ------
-node index.js `cat /tmp/out.log | awk '/DevTools listening/{print \$4}'`
+node index.js `cat /tmp/chrome_headless.err.log | awk '/DevTools listening/{print $4}'`
 EOF
-
-
-
