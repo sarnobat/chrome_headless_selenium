@@ -6,5 +6,9 @@
 
 But I can't get chrome to install on Linux from the command line (over ssh). Try doing at home.
 
+## Links
+
+* https://developer.chrome.com/blog/headless-chrome/
+
 # chrome_headless
 
