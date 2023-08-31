@@ -23,4 +23,6 @@ Server
 Client
 ------
 cd /Volumes/git/github/chrome_headless_selenium/chrome_headless_puppeteer && node index.js `cat /tmp/chrome_headless.err.log | awk '/DevTools listening/{print $4}'`
+
+Conclusion: this is still a separate browser to my main one with my bookmarks. It's too closed an environment even though you can click manually. Greasemonkey, while cumbersome, is interoperable.
 EOF
