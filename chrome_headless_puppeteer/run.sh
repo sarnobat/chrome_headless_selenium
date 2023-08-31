@@ -22,5 +22,5 @@ Server
 
 Client
 ------
-node index.js `cat /tmp/chrome_headless.err.log | awk '/DevTools listening/{print $4}'`
+cd /Volumes/git/github/chrome_headless_selenium/chrome_headless_puppeteer && node index.js `cat /tmp/chrome_headless.err.log | awk '/DevTools listening/{print $4}'`
 EOF
