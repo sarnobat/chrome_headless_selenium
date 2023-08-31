@@ -20,8 +20,13 @@ const puppeteer = require('puppeteer');
 
 	const pages = await browser.pages();
 	for (var i = 0; i < pages.length; i++) {
-
+		var page = pages[i];
 		console.log(pages[i].url())
+		const [hrefElement] = await page.$x('//*[@id="core-engineering-cb"]');
+		console.log(hrefElement)
+		// works but then crashes
+		hrefElement.evaluate(b => b.click());
+		
 	}
 
 })();
