@@ -24,10 +24,7 @@ const puppeteer = require('puppeteer');
 		console.log(pages[i].url())
 		if (page.url().match(/.*netflix.*/)) {
 			const [hrefElement] = await page.$x('//*[@id="core-engineering-cb"]');
-// 			await page.click('xpath/' + '/*[@id="core-engineering-cb"]')
-
 			console.log(hrefElement)
-			// works but then crashes
 			hrefElement.evaluate(b => b.click());
 		}
 		
