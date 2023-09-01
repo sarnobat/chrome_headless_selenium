@@ -48,6 +48,8 @@ public class BiggestImage {
             }
         } catch (IOException e) {
             e.printStackTrace();
+		System.err.println("[DEBUG] failed");
+	    System.exit(-1);
         } finally {
             if (br != null) {
                 try {
@@ -56,6 +58,7 @@ public class BiggestImage {
                     e.printStackTrace();
                 }
             }
+	
         }
 
 		getImagesAscendingSize(sb.toString());        
@@ -76,7 +79,7 @@ public class BiggestImage {
 String base = "";
 String url = "";
 			List<String> ret = ImmutableList.of();
-//System.err.println(source);
+System.err.println("[DEBUG] " + source);
 			List<String> out = getAllTags(base + "/", source);
 			System.err.println(out);
 			Multimap<Integer, String> imageSizes = getImageSizes(out);
