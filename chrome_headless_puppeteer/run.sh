@@ -60,5 +60,7 @@ Interactive
 		(await page.$x('//a[@class="job-listing__link"]'))[0].click()
 
 
-
+Conclusion
+==========
+A bit too much extra setup. Greasemonkey is more lightweight.
 EOF
