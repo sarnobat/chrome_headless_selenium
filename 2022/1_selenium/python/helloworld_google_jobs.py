@@ -6,38 +6,33 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
+# intitle: 
+# allintitle: 
+intext:
+allintext:
+# url = 'https://www.google.com/search?udm=8&q=java%5C%20jobs%5C%20new%5C%20jersey%5C%20Full%5C%20time%5C%20Full%5C%20time'
+url = 'https://www.google.com/search?q=Java+jobs+new+york+full+time+salary+in+the+last+3+days&udm=8'
+
 options = Options()
 options.binary_location = "/Volumes/apps/Apps/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager(driver_version="137.0.7151.55").install()), options=options)
-
 driver.set_window_position(1000, 50)
-
-# url = 'https://www.google.com/search?udm=8&q=java%5C%20jobs%5C%20new%5C%20jersey%5C%20Full%5C%20time%5C%20Full%5C%20time'
-url = 'https://www.google.com/search?q=Java+jobs+new+york+full+time+salary&udm=8'
-
 driver.get(url)
 
 time.sleep(35)
 
-print(driver.title)
+# print(driver.title)
 
-# Scroll to bottom 5 times
 for i in range(8):
+
     print(f"\n--- Scroll {i + 1} ---")
-    
-    # Scroll to bottom
+
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    
-    # Wait for new content to load (adjust if site loads slower)
+
     time.sleep(2)
-    
-    # Print visible text
+
     print(driver.find_element("tag name", "body").text)
-
-
-# print(driver.find_element("tag name", "body").text)
-
 
 driver.quit()
 
