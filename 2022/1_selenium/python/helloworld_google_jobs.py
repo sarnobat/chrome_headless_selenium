@@ -8,8 +8,8 @@ import time
 
 # intitle: 
 # allintitle: 
-intext:
-allintext:
+# intext:
+# allintext:
 # url = 'https://www.google.com/search?udm=8&q=java%5C%20jobs%5C%20new%5C%20jersey%5C%20Full%5C%20time%5C%20Full%5C%20time'
 url = 'https://www.google.com/search?q=Java+jobs+new+york+full+time+salary+in+the+last+3+days&udm=8'
 
