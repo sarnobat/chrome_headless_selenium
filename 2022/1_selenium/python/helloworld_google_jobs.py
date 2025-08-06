@@ -20,7 +20,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager(driver_version="13
 driver.set_window_position(1000, 50)
 driver.get(url)
 
-time.sleep(35)
+time.sleep(70)
 
 # print(driver.title)
 
