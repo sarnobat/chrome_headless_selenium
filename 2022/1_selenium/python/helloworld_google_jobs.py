@@ -16,7 +16,8 @@ url = 'https://www.google.com/search?q=Java+jobs+new+york+full+time+salary+in+th
 options = Options()
 options.binary_location = "/Volumes/apps/Apps/Google Chrome.app/Contents/MacOS/Google Chrome"
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager(driver_version="137.0.7151.55").install()), options=options)
+# 137.0.7151.55
+driver = webdriver.Chrome(service=Service(ChromeDriverManager(driver_version="139.0.7258.127").install()), options=options)
 driver.set_window_position(1000, 50)
 driver.get(url)
 
