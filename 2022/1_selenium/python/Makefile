@@ -22,7 +22,7 @@ format:
 	touch /tmp/jobs.tsv
 	mv --backup=numbered /tmp/jobs.tsv /tmp/jobs.tsv.`date -u +%Y-%m-%d__%H:%M`
 # 	cat /tmp/jobs_formatted.out | sh format.sh | grep -e ': '  | perl -pe 's{title}{\ntitle}g' | rec2csv | tee /tmp/out.csv | csvsql --query "select distinct time,title,company,location from stdin" | csvformat -T  > /tmp/jobs.tsv
-	cat /tmp/jobs.out | sh format.sh | grep -e ': '  | perl -pe 's{title}{\ntitle}g' | tee  /tmp/jobs_formatted.rec.out | rec2csv | tee /tmp/out.csv | csvsql --query "select distinct title,location,company from stdin order by company" | csvformat -T | tee /tmp/jobs.tsv  | ts | tee -a /tmp/jobs.tsv.acc
+	cat /tmp/jobs.out | sh format.sh | grep -e ': '  | perl -pe 's{title}{\ntitle}g' | tee  /tmp/jobs_formatted.rec.out | rec2csv | tee /tmp/out.csv | csvsql --query "select distinct title,location,company from stdin order by company" | grep -v -e LTIMindtree | csvformat -T | tee /tmp/jobs.tsv  | ts | tee -a /tmp/jobs.tsv.acc
 	open 'https://docs.google.com/spreadsheets/d/1vthaeVl8N8jnufDJE8uOlMGaRhurRxDuoKqazx_8_9g/edit?gid=1488891222#gid=1488891222'
 	bbedit /tmp/jobs.tsv
 # 	bbedit /tmp/out.html
